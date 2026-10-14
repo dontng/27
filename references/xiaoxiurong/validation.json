@@ -1,0 +1,80 @@
+[
+  {
+    "original": "27肖秀荣-背诵手册【上册】.pdf",
+    "original_sha256": "82bad2c79c9560d5b4351834d30b9de652d8690fd5e29b24d2617799498ac73b",
+    "original_bytes": 209968268,
+    "compressed_bytes": 86968445,
+    "compressed_sha256": "d13e7a4d0820cc18c7f184f10e5634c394fa2dad647b93af6023314637cb7efe",
+    "pages": 238,
+    "ocr_pages": 238,
+    "ocr_nonempty_pages": 238,
+    "jpeg_quality": 95,
+    "chroma_subsampling": 0,
+    "dimensions_preserved": true,
+    "all_pages_rendered": true,
+    "original_text_and_bookmarks_preserved": true,
+    "independent_full_render_verified": true,
+    "split_render_identical": true,
+    "ocr_markdown_bytes": 429748,
+    "published_parts": [
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页001-060.pdf",
+        "bytes": 22298378,
+        "sha256": "2263062d90eb5c38a7f84fa52a549aed96e8c8f7056791dbcd8099b124d8f486"
+      },
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页061-120.pdf",
+        "bytes": 21905953,
+        "sha256": "be0892f9db6080798fafb002795ce1f3fb699d9dea0d8620b2848c3cf6278391"
+      },
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页121-180.pdf",
+        "bytes": 22140611,
+        "sha256": "ecf4a9c70a35239d5541495994863d6cd4dd1ce654766e5fbf3c79d30a6d8c1e"
+      },
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页181-238.pdf",
+        "bytes": 20625986,
+        "sha256": "b0b8b4a704549bdf272ae463fe82c5929231dcae788fdde2808c55e22f1e2f8e"
+      }
+    ]
+  },
+  {
+    "original": "27肖秀荣-背诵手册【下册】.pdf",
+    "original_sha256": "4df53b5904e2d7f2452039ae34a423675f6d40746d3112cb1e3f17299c4df821",
+    "original_bytes": 122692405,
+    "compressed_bytes": 57764619,
+    "compressed_sha256": "4b14ec4828481d8bf0ab2a35040de9681f33782fa18caec9f711c87e033a23cd",
+    "pages": 168,
+    "ocr_pages": 168,
+    "ocr_nonempty_pages": 167,
+    "jpeg_quality": 95,
+    "chroma_subsampling": 0,
+    "dimensions_preserved": true,
+    "all_pages_rendered": true,
+    "visually_verified_blank_pages": [
+      167
+    ],
+    "original_text_and_bookmarks_preserved": true,
+    "independent_full_render_verified": true,
+    "split_render_identical": true,
+    "ocr_markdown_bytes": 344675,
+    "published_parts": [
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页001-060.pdf",
+        "bytes": 19943239,
+        "sha256": "8af425c7320c6a588574a6569d0d613b6ccd45ccffa0bee12cdc2ed6c9af72a4"
+      },
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页061-120.pdf",
+        "bytes": 21833873,
+        "sha256": "b5a879b541caed279e9dad830576444cde9b2f027ecd9f400f4e7907a7b417b6"
+      },
+      {
+        "file": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页121-168.pdf",
+        "bytes": 15987983,
+        "sha256": "4702670d03fa3d0fe7c2db074484cc546ce372406e32a7b9a1c7306e63f05837"
+      }
+    ]
+  }
+]

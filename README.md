@@ -26,6 +26,7 @@
 - [全科知识地图](src/README.md)：六科的颗粒度划分、哪些已展开、哪些只定了切法。
 - [跨学科答题方法](src/answer-method.md)：为什么写了很多字还可能不给分，设问类型怎么对应原理。
 - [马原](src/mayuan/README.md)：目前唯一展开的学科，马哲→政经→科社。
+- [肖秀荣背诵手册](references/xiaoxiurong/README.md)：供 AI 搜索和引用的逐页 OCR 文本，以及核对原文用的压缩 PDF。
 
 ## 现实约束
 

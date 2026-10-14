@@ -1,0 +1,8 @@
+# Original scans remain local; publish AI-readable derivatives instead.
+/27肖秀荣-背诵手册【上册】.pdf
+/27肖秀荣-背诵手册【下册】.pdf
+# Optional PDF parts for browser upload; avoid duplicating full PDFs in Git.
+/upload-parts/
+
+# Full compressed copies remain local; publish smaller PDF parts.
+/references/xiaoxiurong/*.pdf
