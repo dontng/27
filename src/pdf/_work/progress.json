@@ -15,7 +15,17 @@
     12,
     13,
     14,
-    15
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
   ],
   "batches": [
     {
@@ -25,7 +35,15 @@
       ],
       "commit": "cb44c4f784ae36a1992e091e3c40953b935cb25b",
       "verified_remote": true
+    },
+    {
+      "orders": [
+        6,
+        15
+      ],
+      "commit": "1270052fb98a637e4a7cd1cca79f9032ed362598",
+      "verified_remote": true
     }
   ],
-  "completed_in_this_tree": 15
+  "completed_in_this_tree": 25
 }
