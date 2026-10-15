@@ -1,0 +1,229 @@
+{
+  "source": {
+    "path": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页181-238.pdf",
+    "sha256": "b0b8b4a704549bdf272ae463fe82c5929231dcae788fdde2808c55e22f1e2f8e",
+    "pdf_page_range": [
+      181,
+      238
+    ]
+  },
+  "topics": [
+    {
+      "number": "专题一",
+      "title": "思想道德和法律（德治和法治）的相互关系",
+      "book_start": 195,
+      "pdf_start": 201,
+      "order": 1,
+      "pdf_end": 201,
+      "book_end": 195,
+      "starts_on_shared_page": false,
+      "path": "05-思想道德与法治/专题01-思想道德和法律（德治和法治）的相互关系.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题二",
+      "title": "人生观",
+      "book_start": 196,
+      "pdf_start": 202,
+      "order": 2,
+      "pdf_end": 204,
+      "book_end": 198,
+      "starts_on_shared_page": false,
+      "path": "05-思想道德与法治/专题02-人生观.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题三",
+      "title": "理想信念",
+      "book_start": 198,
+      "pdf_start": 204,
+      "order": 3,
+      "pdf_end": 207,
+      "book_end": 201,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题03-理想信念.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题四",
+      "title": "中国精神",
+      "book_start": 201,
+      "pdf_start": 207,
+      "order": 4,
+      "pdf_end": 209,
+      "book_end": 203,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题04-中国精神.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题五",
+      "title": "爱国主义",
+      "book_start": 203,
+      "pdf_start": 209,
+      "order": 5,
+      "pdf_end": 211,
+      "book_end": 205,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题05-爱国主义.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题六",
+      "title": "社会主义核心价值观",
+      "book_start": 205,
+      "pdf_start": 211,
+      "order": 6,
+      "pdf_end": 214,
+      "book_end": 208,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题06-社会主义核心价值观.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题七",
+      "title": "道德观",
+      "book_start": 209,
+      "pdf_start": 215,
+      "order": 7,
+      "pdf_end": 216,
+      "book_end": 210,
+      "starts_on_shared_page": false,
+      "path": "05-思想道德与法治/专题07-道德观.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题八",
+      "title": "社会主义道德",
+      "book_start": 211,
+      "pdf_start": 217,
+      "order": 8,
+      "pdf_end": 218,
+      "book_end": 212,
+      "starts_on_shared_page": false,
+      "path": "05-思想道德与法治/专题08-社会主义道德.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题九",
+      "title": "中华传统美德与中国革命道德",
+      "book_start": 212,
+      "pdf_start": 218,
+      "order": 9,
+      "pdf_end": 220,
+      "book_end": 214,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题09-中华传统美德与中国革命道德.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十",
+      "title": "公民道德建设",
+      "book_start": 214,
+      "pdf_start": 220,
+      "order": 10,
+      "pdf_end": 222,
+      "book_end": 216,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题10-公民道德建设.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十一",
+      "title": "锤炼个人品德",
+      "book_start": 216,
+      "pdf_start": 222,
+      "order": 11,
+      "pdf_end": 224,
+      "book_end": 218,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题11-锤炼个人品德.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十二",
+      "title": "社会主义法律",
+      "book_start": 218,
+      "pdf_start": 224,
+      "order": 12,
+      "pdf_end": 226,
+      "book_end": 220,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题12-社会主义法律.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十三",
+      "title": "坚持全面依法治国",
+      "book_start": 220,
+      "pdf_start": 226,
+      "order": 13,
+      "pdf_end": 227,
+      "book_end": 221,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题13-坚持全面依法治国.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十四",
+      "title": "全面依法治国的唯一正确道路——坚持走中国特色社会主义法治道路",
+      "book_start": 221,
+      "pdf_start": 227,
+      "order": 14,
+      "pdf_end": 229,
+      "book_end": 223,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题14-全面依法治国的唯一正确道路——坚持走中国特色社会主义法治道路.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十五",
+      "title": "全面依法治国的宏伟目标——建设法治中国",
+      "book_start": 223,
+      "pdf_start": 229,
+      "order": 15,
+      "pdf_end": 230,
+      "book_end": 224,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题15-全面依法治国的宏伟目标——建设法治中国.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十六",
+      "title": "维护宪法权威",
+      "book_start": 224,
+      "pdf_start": 230,
+      "order": 16,
+      "pdf_end": 231,
+      "book_end": 225,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题16-维护宪法权威.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十七",
+      "title": "培养社会主义法治思维",
+      "book_start": 226,
+      "pdf_start": 232,
+      "order": 17,
+      "pdf_end": 233,
+      "book_end": 227,
+      "starts_on_shared_page": false,
+      "path": "05-思想道德与法治/专题17-培养社会主义法治思维.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    },
+    {
+      "number": "专题十八",
+      "title": "法律权利与法律义务",
+      "book_start": 227,
+      "pdf_start": 233,
+      "order": 18,
+      "pdf_end": 236,
+      "book_end": 230,
+      "starts_on_shared_page": true,
+      "path": "05-思想道德与法治/专题18-法律权利与法律义务.pdf",
+      "boundary_review": "visually_checked_original_full_page"
+    }
+  ],
+  "excluded_lower_volume": "用户明确指出仓库下册是错误半成品；本任务不使用、不删除、不替换。第六部分待正确资料上传后再定位。"
+}
