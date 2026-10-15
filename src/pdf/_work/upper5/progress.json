@@ -1,5 +1,5 @@
 {
-  "published": 12,
+  "published": 18,
   "total": 18,
   "batches": [
     {
@@ -8,6 +8,14 @@
         6
       ],
       "commit": "e4769d989cdf2c108e464892ffb1567b08030602",
+      "verified_remote": true
+    },
+    {
+      "topics": [
+        7,
+        12
+      ],
+      "commit": "a5a31f9edf02f9ef019f3d2c089125f6b068bb16",
       "verified_remote": true
     }
   ],
