@@ -1,0 +1,73 @@
+{
+  "published": 70,
+  "verified_pdf_count": 70,
+  "all_git_blob_shas_match": true,
+  "batches": [
+    {
+      "orders": [
+        1,
+        5
+      ],
+      "commit": "cb44c4f784ae36a1992e091e3c40953b935cb25b",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        6,
+        15
+      ],
+      "commit": "1270052fb98a637e4a7cd1cca79f9032ed362598",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        16,
+        25
+      ],
+      "commit": "ca3353ece881b580dc7322b44df323cd99a4e919",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        26,
+        35
+      ],
+      "commit": "65909c3f0f9a2aba262bf9c218570b3c2f6642ee",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        36,
+        45
+      ],
+      "commit": "b856b49bcb94ea5eb63b63f923fc9c57c0f4d984",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        46,
+        55
+      ],
+      "commit": "80af1b59ebf0cdc554797888383346462605fec8",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        56,
+        65
+      ],
+      "commit": "8a90d5c2e804374c26616f3db84bf391b477f7cf",
+      "verified_remote": true
+    },
+    {
+      "orders": [
+        66,
+        70
+      ],
+      "commit": "9e4a6e862f615b87a5eb15fc6d69266610aea557",
+      "verified_remote": true
+    }
+  ],
+  "verified_at_utc": "2026-10-15T12:33:05Z",
+  "checked_main_commit": "9e4a6e862f615b87a5eb15fc6d69266610aea557"
+}
