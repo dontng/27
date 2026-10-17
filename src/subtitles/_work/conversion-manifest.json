@@ -1,0 +1,71 @@
+{
+  "source_format": "docx",
+  "editing": "人工按原稿顺序轻编辑；删除寒暄、励志、翻页圈画指令和同义重复，修正明确转写损伤；保留讲解、例子和选项辨析；不新增习题。",
+  "completed_days": [
+    1,
+    2,
+    3
+  ],
+  "sources": [
+    {
+      "day": 1,
+      "input": "bank/1-《背诵手册》带背-Day1「公众号：猴子考研」免费分享.docx",
+      "sha256": "821c3b3c4fc9ac646fcebde340cf53c31cee8be6bdf1306f81e938369e46dac9",
+      "git_blob_sha": "85a6002213f7f4d9b4c3ef5ef4409e7c2081d01c",
+      "bytes": 22489,
+      "output": "Day01-讲稿.md",
+      "output_sha256": "0872f08a919ca31721818f3a47492542cf0ba758492dff2d0244daae462a86a4",
+      "output_characters": 4213
+    },
+    {
+      "day": 2,
+      "input": "bank/2-《背诵手册》带背-Day2「公众号：猴子考研」免费分享.docx",
+      "sha256": "d7ef6e1a0541a30c2ed86603f91450740027c97922282707a5e8a7c249ebde08",
+      "git_blob_sha": "f7e07d203aadd5c64037b32015b7975796eb39a2",
+      "bytes": 20921,
+      "output": "Day02-讲稿.md",
+      "output_sha256": "e65cefd73984e1a98c2815f59d96dce44db78cc69d38111634da8b0fdb456be7",
+      "output_characters": 4046
+    },
+    {
+      "day": 3,
+      "input": "bank/3-《背诵手册》带背-Day3（10月12日）「公众号：猴子考研」免费分享.docx",
+      "sha256": "fc10b3844d061bc2c22d4c20e34a74b343275cc945b7ae2666ef9e0a368a89ba",
+      "git_blob_sha": "a1a497b81bfb9b3cfca493837181c7000de87bd0",
+      "bytes": 22969,
+      "output": "Day03-讲稿.md",
+      "output_sha256": "2bda055df2db41aaf599a46586483a67312f4851cb54959cbabf5841af0fbefb",
+      "output_characters": 5125
+    },
+    {
+      "day": 4,
+      "input": "bank/4-《背诵手册》带背-Day4（10月13日）「公众号：猴子考研」免费分享.docx",
+      "sha256": "d60bdfe2c402c7c4add1db5cba76b434742c6b9a71a1bcec4eb7bf7bad7b8f5b",
+      "git_blob_sha": "86d1fb287bed213d4713e16a4312b747e023a022",
+      "bytes": 21596,
+      "output": null,
+      "output_sha256": null,
+      "output_characters": null
+    },
+    {
+      "day": 5,
+      "input": "bank/5-《背诵手册》带背-Day5（10月14日）「公众号：猴子考研」免费分享.docx",
+      "sha256": "da15f656def800219fd67a4f3e50c9bc869ba660b32a1d74beb113e93b4012b9",
+      "git_blob_sha": "2843cd6569e8cd772c1f7987665d15788f718d69",
+      "bytes": 21584,
+      "output": null,
+      "output_sha256": null,
+      "output_characters": null
+    },
+    {
+      "day": 6,
+      "input": "bank/6-《背诵手册》带背-Day6（10月15日）「公众号：猴子考研」免费分享.docx",
+      "sha256": "ccf9962a29c78c286e8a8e554fffdab0fbc96361f3412eefda8c426cc8f4ab61",
+      "git_blob_sha": "271d514ceed0827fb0d09c9fa037dd4779f3fda0",
+      "bytes": 23139,
+      "output": null,
+      "output_sha256": null,
+      "output_characters": null
+    }
+  ]
+}
