@@ -1,10 +1,13 @@
 {
   "source_format": "docx",
-  "editing": "人工按原稿顺序轻编辑；删除寒暄、励志、翻页圈画指令和同义重复，修正明确转写损伤；保留讲解、例子和选项辨析；不新增习题。",
+  "editing": "人工按原稿顺序轻编辑；删除寒暄、励志、翻页圈画指令和同义重复，修正明确转写损伤；保留讲解、例子和选项辨析；文末辅助理解与自检为整理补充，不冒充原课习题。",
   "completed_days": [
     1,
     2,
-    3
+    3,
+    4,
+    5,
+    6
   ],
   "sources": [
     {
@@ -14,8 +17,8 @@
       "git_blob_sha": "85a6002213f7f4d9b4c3ef5ef4409e7c2081d01c",
       "bytes": 22489,
       "output": "Day01-讲稿.md",
-      "output_sha256": "0872f08a919ca31721818f3a47492542cf0ba758492dff2d0244daae462a86a4",
-      "output_characters": 4213
+      "output_sha256": "c4c98666ef597224cc1d90c5eef82e833875f18a938145e6d5df9600f124a9b5",
+      "output_characters": 4770
     },
     {
       "day": 2,
@@ -24,8 +27,8 @@
       "git_blob_sha": "f7e07d203aadd5c64037b32015b7975796eb39a2",
       "bytes": 20921,
       "output": "Day02-讲稿.md",
-      "output_sha256": "e65cefd73984e1a98c2815f59d96dce44db78cc69d38111634da8b0fdb456be7",
-      "output_characters": 4046
+      "output_sha256": "0aa0460691c26ceda379e7e80f8a1fa304b42aec116b5cda6f991da95e192db1",
+      "output_characters": 4640
     },
     {
       "day": 3,
@@ -34,8 +37,8 @@
       "git_blob_sha": "a1a497b81bfb9b3cfca493837181c7000de87bd0",
       "bytes": 22969,
       "output": "Day03-讲稿.md",
-      "output_sha256": "2bda055df2db41aaf599a46586483a67312f4851cb54959cbabf5841af0fbefb",
-      "output_characters": 5125
+      "output_sha256": "a32b4b76476b0a30aa25814febd8dae88e4cb5d746e006348dfd7de05d421b04",
+      "output_characters": 5818
     },
     {
       "day": 4,
@@ -43,9 +46,9 @@
       "sha256": "d60bdfe2c402c7c4add1db5cba76b434742c6b9a71a1bcec4eb7bf7bad7b8f5b",
       "git_blob_sha": "86d1fb287bed213d4713e16a4312b747e023a022",
       "bytes": 21596,
-      "output": null,
-      "output_sha256": null,
-      "output_characters": null
+      "output": "Day04-讲稿.md",
+      "output_sha256": "422476d5ac37e8793386cba3c7f9846aa55eea7807bc6b58d6138b312e00ac47",
+      "output_characters": 5292
     },
     {
       "day": 5,
@@ -53,9 +56,9 @@
       "sha256": "da15f656def800219fd67a4f3e50c9bc869ba660b32a1d74beb113e93b4012b9",
       "git_blob_sha": "2843cd6569e8cd772c1f7987665d15788f718d69",
       "bytes": 21584,
-      "output": null,
-      "output_sha256": null,
-      "output_characters": null
+      "output": "Day05-讲稿.md",
+      "output_sha256": "5baf41c87629a834c994f00bff3a768bfa4279ec8d1edab33291d916d7cdacba",
+      "output_characters": 5254
     },
     {
       "day": 6,
@@ -63,9 +66,9 @@
       "sha256": "ccf9962a29c78c286e8a8e554fffdab0fbc96361f3412eefda8c426cc8f4ab61",
       "git_blob_sha": "271d514ceed0827fb0d09c9fa037dd4779f3fda0",
       "bytes": 23139,
-      "output": null,
-      "output_sha256": null,
-      "output_characters": null
+      "output": "Day06-讲稿.md",
+      "output_sha256": "bd2c02abbd67d26b78c41a7f383cce2482c6158ff273240dbfb066f6ed0061f3",
+      "output_characters": 6681
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "outputs": [
+    {
+      "path": "src/subtitles/Day01-讲稿.md",
+      "characters": 4770,
+      "sha256": "c4c98666ef597224cc1d90c5eef82e833875f18a938145e6d5df9600f124a9b5"
+    },
+    {
+      "path": "src/subtitles/Day02-讲稿.md",
+      "characters": 4640,
+      "sha256": "0aa0460691c26ceda379e7e80f8a1fa304b42aec116b5cda6f991da95e192db1"
+    },
+    {
+      "path": "src/subtitles/Day03-讲稿.md",
+      "characters": 5818,
+      "sha256": "a32b4b76476b0a30aa25814febd8dae88e4cb5d746e006348dfd7de05d421b04"
+    },
+    {
+      "path": "src/subtitles/Day04-讲稿.md",
+      "characters": 5292,
+      "sha256": "422476d5ac37e8793386cba3c7f9846aa55eea7807bc6b58d6138b312e00ac47"
+    },
+    {
+      "path": "src/subtitles/Day05-讲稿.md",
+      "characters": 5254,
+      "sha256": "5baf41c87629a834c994f00bff3a768bfa4279ec8d1edab33291d916d7cdacba"
+    },
+    {
+      "path": "src/subtitles/Day06-讲稿.md",
+      "characters": 6681,
+      "sha256": "bd2c02abbd67d26b78c41a7f383cce2482c6158ff273240dbfb066f6ed0061f3"
+    },
+    {
+      "path": "src/subtitles/README.md",
+      "characters": 1300,
+      "sha256": "7654ab02b12b3e9334fee2fe6772ad4ad7d4901645425f35ea491daad40b395a"
+    }
+  ],
+  "markdown_tables": 0,
+  "source_docx": 6,
+  "scope": "本次生成文件；不修改仓库其他目录的历史链接。",
+  "relative_links_checked": 44,
+  "broken_links": 0,
+  "remote_source_blobs_verified": 6,
+  "old_srt_remaining_after_first_batch": 0
+}
