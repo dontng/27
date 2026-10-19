@@ -1,0 +1,217 @@
+{
+  "series": "2027肖秀荣《背诵手册》带背课程",
+  "owner": "肖秀荣教授",
+  "collection_id": 9292051,
+  "collection_url": "https://space.bilibili.com/3546382501677960/channel/collectiondetail?sid=9292051",
+  "capture_method": "browser_screenshot",
+  "quality_note": "1080P播放源；截图宽度1363像素；不是1920×1080原尺寸抽帧",
+  "explain_status": "尚未确定，不生成内容",
+  "monitoring": {
+    "status": "not_created_yet",
+    "requested_duration": "约30天每日更新",
+    "notify_only": "新增归档、补缺、执行失败"
+  },
+  "videos": [
+    {
+      "day": 1,
+      "bvid": "BV17xpv6QEFA",
+      "url": "https://www.bilibili.com/video/BV17xpv6QEFA/",
+      "date": "2026-10-10",
+      "duration_seconds": 1955,
+      "topic": "太阳黑子与望远镜",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {
+        "material": 1943.817,
+        "answer": 1950.236
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day01-material.jpg",
+          "width": 1363,
+          "height": 767,
+          "sha256": "e086e87acbfe734b1d50c23da7b11844a890ab431ba4df34a172f0780a072324",
+          "timestamp_seconds": 1943.817
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day01-answer.jpg",
+          "width": 1363,
+          "height": 752,
+          "sha256": "a2298c1d9ab54f25d74be2d34ce57a90db6b64c8e86b2b46339d99fac0e7c8d9",
+          "timestamp_seconds": 1950.236
+        }
+      ],
+      "status": "archived"
+    },
+    {
+      "day": 2,
+      "bvid": "BV1F4pj6uEQp",
+      "url": "https://www.bilibili.com/video/BV1F4pj6uEQp/",
+      "date": "2026-10-11",
+      "duration_seconds": 1653,
+      "topic": "票根经济",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {
+        "material": 1630.911,
+        "answer": 1648.692
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day02-material.jpg",
+          "width": 1363,
+          "height": 766,
+          "sha256": "2398e1075d2bea902d3feb9274f1f22f84c2fd66537f2b2f7876dc2f05fbeaa3",
+          "timestamp_seconds": 1630.911
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day02-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "e9dc40b88263ee69736b4b4565d4d2ef9372b89130357464b7dc66e8ef6af395",
+          "timestamp_seconds": 1648.692
+        }
+      ],
+      "status": "archived"
+    },
+    {
+      "day": 3,
+      "bvid": "BV1aGpR6AERK",
+      "url": "https://www.bilibili.com/video/BV1aGpR6AERK/",
+      "date": "2026-10-12",
+      "duration_seconds": 2067,
+      "topic": "宽容失败与创新",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {
+        "material": 2045.495,
+        "answer": 2063.549
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day03-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "d3242634dfee7a56cf6cb55f9218bea0213638f0d50c2595875b71836d0df334",
+          "timestamp_seconds": 2045.495
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day03-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "261d8d98a3c9547e228f9be132cd8feefd4ca034ee790b818b97dfdd0b39a1e9",
+          "timestamp_seconds": 2063.549
+        }
+      ],
+      "status": "archived"
+    },
+    {
+      "day": 4,
+      "bvid": "BV1vnWA6fEbb",
+      "url": "https://www.bilibili.com/video/BV1vnWA6fEbb/",
+      "date": "2026-10-13",
+      "duration_seconds": 1795,
+      "topic": "待核对",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {},
+      "images": [],
+      "status": "pending"
+    },
+    {
+      "day": 5,
+      "bvid": "BV1EWp26XEmb",
+      "url": "https://www.bilibili.com/video/BV1EWp26XEmb/",
+      "date": "2026-10-14",
+      "duration_seconds": 1887,
+      "topic": "待核对",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {},
+      "images": [],
+      "status": "pending"
+    },
+    {
+      "day": 6,
+      "bvid": "BV1rDJy61EM5",
+      "url": "https://www.bilibili.com/video/BV1rDJy61EM5/",
+      "date": "2026-10-15",
+      "duration_seconds": 2102,
+      "topic": "待核对",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {},
+      "images": [],
+      "status": "pending"
+    },
+    {
+      "day": 7,
+      "bvid": "BV1EhJX6aETJ",
+      "url": "https://www.bilibili.com/video/BV1EhJX6aETJ/",
+      "date": "2026-10-16",
+      "duration_seconds": 1745,
+      "topic": "待核对",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {},
+      "images": [],
+      "status": "pending"
+    },
+    {
+      "day": 8,
+      "bvid": "BV1wLJq64EA2",
+      "url": "https://www.bilibili.com/video/BV1wLJq64EA2/",
+      "date": "2026-10-17",
+      "duration_seconds": 2932,
+      "topic": "待核对",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {},
+      "images": [],
+      "status": "pending"
+    },
+    {
+      "day": 9,
+      "bvid": "BV1yunn6JExr",
+      "url": "https://www.bilibili.com/video/BV1yunn6JExr/",
+      "date": "2026-10-19",
+      "duration_seconds": 1939,
+      "topic": "待核对",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "timestamps": {},
+      "images": [],
+      "status": "pending"
+    }
+  ],
+  "checked_at": "2026-10-20T02:07:55+08:00",
+  "archived_days": [
+    1,
+    2,
+    3
+  ]
+}
