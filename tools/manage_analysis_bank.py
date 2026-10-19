@@ -45,7 +45,7 @@ def main():
     if source.get('monitoring', {}).get('status') == 'blocked_by_task_limit':
         lines += ['## 自动检查状态', '', '尚未启用。创建任务时系统返回 `too_many_active_automations`，现有任务数已达 5/5。拟每天北京时间 19:10—23:10 每小时检查一次，至 2026-11-19；需用户指定腾出哪个旧任务的名额后再创建，不能视为已经在后台执行。', '']
     elif source.get('monitoring', {}).get('status') == 'enabled':
-        lines += ['## 自动检查状态', '', '已创建并启用：每天北京时间 19:10、20:10、21:10、22:10、23:10 检查，持续至 2026-11-19。有新增视频则截图、核对、归档并提交；只在新增归档、补缺或执行失败时通知。定时检查不保证在视频发布瞬间完成，也不能把计划已启用当成未来每次运行都已成功。', '']
+        lines += ['## 自动检查状态', '', '已创建并启用：' + source['monitoring']['display_schedule'] + '。有新增视频则截图、核对、归档并提交；只在新增归档、补缺或执行失败时通知。核对 Day01—Day09 的公开发布时间，九期均为北京时间 19:00:00，官方简介也注明每晚 7 点同步更新，因此按真实更新点执行。逐期发布时间保存在 sources.json。定时检查不保证在视频发布瞬间完成，也不能把计划已启用当成未来每次运行都已成功。', '']
     (BASE / 'README.md').write_text('\n'.join(lines))
     for page in BASE.rglob('*.md'):
         for target in re.findall(r'!?\[[^\]]*\]\(([^)]+)\)', page.read_text()):
