@@ -10,8 +10,11 @@
 - [Day04 · 市场需求与传统产业转型](bank/day04.md) · [原视频](https://www.bilibili.com/video/BV1vnWA6fEbb/)
 - [Day05 · 森林价值与因地制宜绿化](bank/day05.md) · [原视频](https://www.bilibili.com/video/BV1EWp26XEmb/)
 - [Day06 · 以藕塑骨与科技创新](bank/day06.md) · [原视频](https://www.bilibili.com/video/BV1rDJy61EM5/)
+- [Day07 · 科幻与社会现实](bank/day07.md) · [原视频](https://www.bilibili.com/video/BV1EhJX6aETJ/)
+- [Day08 · 航天科技服务生产生活](bank/day08.md) · [原视频](https://www.bilibili.com/video/BV1wLJq64EA2/)
+- [Day09 · 厚的读薄、薄的读厚](bank/day09.md) · [原视频](https://www.bilibili.com/video/BV1yunn6JExr/)
 
-已归档 6/9 期；待补 Day7、8、9。
+已归档 9/9 期；当前清单全部完成。
 
 ## 目录约定
 
@@ -31,3 +34,7 @@
 6. 不修改字幕原件、历史讲稿或未成型的 `explain/`。自动检查配置另记录在 `sources.json` 的 `monitoring` 字段；任务是否已启用以自动化工具返回为准。
 
 [来源、时间点、图片校验与进度](sources.json)
+
+## 自动检查状态
+
+尚未启用。创建任务时系统返回 `too_many_active_automations`，现有任务数已达 5/5。拟每天北京时间 19:10—23:10 每小时检查一次，至 2026-11-19；需用户指定腾出哪个旧任务的名额后再创建，不能视为已经在后台执行。

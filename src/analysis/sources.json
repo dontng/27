@@ -65,7 +65,7 @@
         1080
       ],
       "timestamps": {
-        "material": 1630.911,
+        "material": 1630.719,
         "answer": 1648.692
       },
       "images": [
@@ -73,9 +73,9 @@
           "kind": "material",
           "path": "bank/images/day02-material.jpg",
           "width": 1363,
-          "height": 766,
-          "sha256": "2398e1075d2bea902d3feb9274f1f22f84c2fd66537f2b2f7876dc2f05fbeaa3",
-          "timestamp_seconds": 1630.911
+          "height": 734,
+          "sha256": "0a8f1d369d81ff7f0b1ed3252ebfa1c51d005a1eff91be8caa70943ef0b9618f",
+          "timestamp_seconds": 1630.719
         },
         {
           "kind": "answer",
@@ -234,14 +234,34 @@
       "url": "https://www.bilibili.com/video/BV1EhJX6aETJ/",
       "date": "2026-10-16",
       "duration_seconds": 1745,
-      "topic": "待核对",
+      "topic": "科幻与社会现实",
       "source_resolution": [
         1920,
         1080
       ],
-      "timestamps": {},
-      "images": [],
-      "status": "pending"
+      "timestamps": {
+        "material": 1729.1,
+        "answer": 1739.738
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day07-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "9f0985a4e6fbbcac8704e2bd8a90f546597df5248d46215871f7f83124e2f28f",
+          "timestamp_seconds": 1729.1
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day07-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "4853587beffd85d4e63687ed4444ddc87340a0cdba485fb0cecb3e23e9f29d0f",
+          "timestamp_seconds": 1739.738
+        }
+      ],
+      "status": "archived"
     },
     {
       "day": 8,
@@ -249,14 +269,34 @@
       "url": "https://www.bilibili.com/video/BV1wLJq64EA2/",
       "date": "2026-10-17",
       "duration_seconds": 2932,
-      "topic": "待核对",
+      "topic": "航天科技服务生产生活",
       "source_resolution": [
         1920,
         1080
       ],
-      "timestamps": {},
-      "images": [],
-      "status": "pending"
+      "timestamps": {
+        "material": 2910.527,
+        "answer": 2928.643
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day08-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "e73efbef8fb4a2b90c0f44c6a7fc3d10a4e8dcca14384d16f1db9bbd6f72adac",
+          "timestamp_seconds": 2910.527
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day08-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "07cf7ca5e9012f5d3d4f65470aed7943b2a017a2d35fd1e5e4dc212944071563",
+          "timestamp_seconds": 2928.643
+        }
+      ],
+      "status": "archived"
     },
     {
       "day": 9,
@@ -264,23 +304,46 @@
       "url": "https://www.bilibili.com/video/BV1yunn6JExr/",
       "date": "2026-10-19",
       "duration_seconds": 1939,
-      "topic": "待核对",
+      "topic": "厚的读薄、薄的读厚",
       "source_resolution": [
         1920,
         1080
       ],
-      "timestamps": {},
-      "images": [],
-      "status": "pending"
+      "timestamps": {
+        "material": 1918.205,
+        "answer": 1934.791
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day09-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "bbd2eeb5097e973c5e205eef15030c3a2d12a69761bb67522060e6f9b462c68b",
+          "timestamp_seconds": 1918.205
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day09-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "24e028d2b9934d06173a199c72f0b59bd4008e5c11cfaa821da6d56b35ab88e4",
+          "timestamp_seconds": 1934.791
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-20T02:11:18+08:00",
+  "checked_at": "2026-10-20T02:16:40+08:00",
   "archived_days": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7,
+    8,
+    9
   ]
 }
