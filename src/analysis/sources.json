@@ -7,9 +7,15 @@
   "quality_note": "1080P播放源；截图宽度1363像素；不是1920×1080原尺寸抽帧",
   "explain_status": "尚未确定，不生成内容",
   "monitoring": {
-    "status": "not_created_yet",
+    "status": "blocked_by_task_limit",
+    "error_code": "too_many_active_automations",
+    "current_count": 5,
+    "plan_limit": 5,
     "requested_duration": "约30天每日更新",
-    "notify_only": "新增归档、补缺、执行失败"
+    "planned_timezone": "Asia/Shanghai",
+    "planned_schedule": "每天19:10、20:10、21:10、22:10、23:10检查至2026-11-19",
+    "notify_only": "新增归档、补缺、执行失败",
+    "created": false
   },
   "videos": [
     {
@@ -123,14 +129,34 @@
       "url": "https://www.bilibili.com/video/BV1vnWA6fEbb/",
       "date": "2026-10-13",
       "duration_seconds": 1795,
-      "topic": "待核对",
+      "topic": "市场需求与传统产业转型",
       "source_resolution": [
         1920,
         1080
       ],
-      "timestamps": {},
-      "images": [],
-      "status": "pending"
+      "timestamps": {
+        "material": 1774.415,
+        "answer": 1791.01
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day04-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "5af56cfdfa00d4434cf946d728b87224a607d6fd4d566ba87d37f990683c1fd4",
+          "timestamp_seconds": 1774.415
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day04-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "3adf4c55249c66aa335c40987fdf48db578b92c5c9815d6be4b806193d9857a4",
+          "timestamp_seconds": 1791.01
+        }
+      ],
+      "status": "archived"
     },
     {
       "day": 5,
@@ -138,14 +164,34 @@
       "url": "https://www.bilibili.com/video/BV1EWp26XEmb/",
       "date": "2026-10-14",
       "duration_seconds": 1887,
-      "topic": "待核对",
+      "topic": "森林价值与因地制宜绿化",
       "source_resolution": [
         1920,
         1080
       ],
-      "timestamps": {},
-      "images": [],
-      "status": "pending"
+      "timestamps": {
+        "material": 1865.9,
+        "answer": 1883.465
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day05-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "3468d2b52478ac490bdc017f37e399a62f588ef1e696212d03fb022962feada7",
+          "timestamp_seconds": 1865.9
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day05-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "391464a2844a7608eb81ef33282a9e0e3728b17a1dbbc386a7951379145ac56b",
+          "timestamp_seconds": 1883.465
+        }
+      ],
+      "status": "archived"
     },
     {
       "day": 6,
@@ -153,14 +199,34 @@
       "url": "https://www.bilibili.com/video/BV1rDJy61EM5/",
       "date": "2026-10-15",
       "duration_seconds": 2102,
-      "topic": "待核对",
+      "topic": "以藕塑骨与科技创新",
       "source_resolution": [
         1920,
         1080
       ],
-      "timestamps": {},
-      "images": [],
-      "status": "pending"
+      "timestamps": {
+        "material": 2081.309,
+        "answer": 2097.955
+      },
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day06-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "7ac8d3896e43128c9c5fb557e0aa63ff34ec728e25478e9973f81eebcdc06af3",
+          "timestamp_seconds": 2081.309
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day06-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "59738e3f5ddc30e9808e3aa67e2bdfbc7b1ac61979cc8454e511a52b6c4323af",
+          "timestamp_seconds": 2097.955
+        }
+      ],
+      "status": "archived"
     },
     {
       "day": 7,
@@ -208,10 +274,13 @@
       "status": "pending"
     }
   ],
-  "checked_at": "2026-10-20T02:07:55+08:00",
+  "checked_at": "2026-10-20T02:11:18+08:00",
   "archived_days": [
     1,
     2,
-    3
+    3,
+    4,
+    5,
+    6
   ]
 }

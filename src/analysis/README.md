@@ -7,8 +7,11 @@
 - [Day01 · 太阳黑子与望远镜](bank/day01.md) · [原视频](https://www.bilibili.com/video/BV17xpv6QEFA/)
 - [Day02 · 票根经济](bank/day02.md) · [原视频](https://www.bilibili.com/video/BV1F4pj6uEQp/)
 - [Day03 · 宽容失败与创新](bank/day03.md) · [原视频](https://www.bilibili.com/video/BV1aGpR6AERK/)
+- [Day04 · 市场需求与传统产业转型](bank/day04.md) · [原视频](https://www.bilibili.com/video/BV1vnWA6fEbb/)
+- [Day05 · 森林价值与因地制宜绿化](bank/day05.md) · [原视频](https://www.bilibili.com/video/BV1EWp26XEmb/)
+- [Day06 · 以藕塑骨与科技创新](bank/day06.md) · [原视频](https://www.bilibili.com/video/BV1rDJy61EM5/)
 
-已归档 3/9 期；待补 Day4、5、6、7、8、9。
+已归档 6/9 期；待补 Day7、8、9。
 
 ## 目录约定
 
