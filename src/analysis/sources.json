@@ -366,9 +366,49 @@
       "status": "archived",
       "published_at": "2026-10-19T19:00:00+08:00",
       "pubdate": 1792407600
+    },
+    {
+      "day": 10,
+      "bvid": "BV17mnc6QEe4",
+      "url": "https://www.bilibili.com/video/BV17mnc6QEe4/",
+      "date": "2026-10-20",
+      "duration_seconds": 1757,
+      "topic": "供需协同与产品创新",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-20T19:00:00+08:00",
+      "pubdate": 1792494000,
+      "timestamps": {
+        "material": 1735.718411,
+        "answer": 1751.459191
+      },
+      "capture_method": "browser_screenshot",
+      "max_quality_verified": "1080P 高清（其余可选720P、480P、360P）",
+      "visual_check": "Day10材料与答案各一页，正文完整、无弹幕遮挡；片尾前置提示页不入库",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day10-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "ef0346b5d366859f930cce9456fcd7124cdd9bc4845f9b6a50a38357425b7fd4",
+          "timestamp_seconds": 1735.718411
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day10-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "b47cb4ef49aa7edd1184efd93de758424c69799e4a48d3e9a35658a9e5770485",
+          "timestamp_seconds": 1751.459191
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-20T02:30:34+08:00",
+  "checked_at": "2026-10-20T19:17:57+08:00",
   "archived_days": [
     1,
     2,
@@ -378,6 +418,14 @@
     6,
     7,
     8,
-    9
-  ]
+    9,
+    10
+  ],
+  "latest_collection_check": {
+    "checked_at": "2026-10-20T19:17:56+08:00",
+    "episode_count": 10,
+    "latest_day": 10,
+    "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
+    "complete": false
+  }
 }

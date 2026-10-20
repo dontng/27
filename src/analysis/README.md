@@ -13,8 +13,9 @@
 - [Day07 · 科幻与社会现实](bank/day07.md) · [原视频](https://www.bilibili.com/video/BV1EhJX6aETJ/)
 - [Day08 · 航天科技服务生产生活](bank/day08.md) · [原视频](https://www.bilibili.com/video/BV1wLJq64EA2/)
 - [Day09 · 厚的读薄、薄的读厚](bank/day09.md) · [原视频](https://www.bilibili.com/video/BV1yunn6JExr/)
+- [Day10 · 供需协同与产品创新](bank/day10.md) · [原视频](https://www.bilibili.com/video/BV17mnc6QEe4/)
 
-已归档 9/9 期；当前清单全部完成。
+已归档 10/10 期；当前清单全部完成。
 
 ## 目录约定
 
