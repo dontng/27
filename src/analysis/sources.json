@@ -406,9 +406,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 11,
+      "bvid": "BV12znz6rEzN",
+      "url": "https://www.bilibili.com/video/BV12znz6rEzN/",
+      "date": "2026-10-21",
+      "duration_seconds": 2395,
+      "topic": "京津冀协同发展",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-21T19:00:00+08:00",
+      "pubdate": 1792580400,
+      "timestamps": {
+        "material": 2381.967556,
+        "answer": 2392.745284
+      },
+      "capture_method": "browser_screenshot",
+      "max_quality_verified": "1080P 高清",
+      "visual_check": "Day11材料与答案各一页，正文完整、无弹幕遮挡；片尾前置提示页不入库。官方答案页括注仍出现‘网友许愿’‘供给升级’等与本期材料不一致的表述，按视频原样归档，未自行修改",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day11-material.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "604bcff2f0fe896625e0da01d0d698e3156c3d95f35a1e4f721566178518b859",
+          "timestamp_seconds": 2381.967556
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day11-answer.jpg",
+          "width": 1363,
+          "height": 734,
+          "sha256": "0a2c806e5dab30502b805923fb182c185ed713b6606172494fdc3e428dd15eb0",
+          "timestamp_seconds": 2392.745284
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-20T19:17:57+08:00",
+  "checked_at": "2026-10-21T19:33:02+08:00",
   "archived_days": [
     1,
     2,
@@ -419,12 +459,13 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-20T19:17:56+08:00",
-    "episode_count": 10,
-    "latest_day": 10,
+    "checked_at": "2026-10-21T19:20:59+08:00",
+    "episode_count": 11,
+    "latest_day": 11,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
