@@ -3,8 +3,8 @@
   "owner": "肖秀荣教授",
   "collection_id": 9292051,
   "collection_url": "https://space.bilibili.com/3546382501677960/channel/collectiondetail?sid=9292051",
-  "capture_method": "browser_screenshot",
-  "quality_note": "1080P播放源；截图宽度1363像素；不是1920×1080原尺寸抽帧",
+  "capture_method": "mixed",
+  "quality_note": "Day01—Day11为1080P播放源的浏览器截图（宽1363像素）；Day12起优先使用1920×1080原始播放流抽帧，各期以自身记录为准",
   "explain_status": "尚未确定，不生成内容",
   "monitoring": {
     "status": "enabled",
@@ -446,9 +446,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 12,
+      "bvid": "BV1Hpnm6xEv6",
+      "url": "https://www.bilibili.com/video/BV1Hpnm6xEv6/",
+      "date": "2026-10-22",
+      "duration_seconds": 2549,
+      "topic": "竹子成长与量变质变",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-22T19:00:00+08:00",
+      "pubdate": 1792666800,
+      "timestamps": {
+        "material": 2532.0,
+        "answer": 2542.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day12材料与答案各一页，逐秒检查片尾换页；两页正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day12-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "7297a4e68a5c3c1921d523ba51872116c57b07446d5be72f979733279b825770",
+          "timestamp_seconds": 2532.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day12-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "079eeea25424e3cc19c19d49063081a4ed833ce7d0c561073683c3b75f8295cc",
+          "timestamp_seconds": 2542.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-21T19:33:02+08:00",
+  "checked_at": "2026-10-22T19:49:39+08:00",
   "archived_days": [
     1,
     2,
@@ -460,12 +500,13 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-21T19:20:59+08:00",
-    "episode_count": 11,
-    "latest_day": 11,
+    "checked_at": "2026-10-22T19:27:28+08:00",
+    "episode_count": 12,
+    "latest_day": 12,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
