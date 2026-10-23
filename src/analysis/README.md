@@ -16,8 +16,9 @@
 - [Day10 · 供需协同与产品创新](bank/day10.md) · [原视频](https://www.bilibili.com/video/BV17mnc6QEe4/)
 - [Day11 · 京津冀协同发展](bank/day11.md) · [原视频](https://www.bilibili.com/video/BV12znz6rEzN/)
 - [Day12 · 竹子成长与量变质变](bank/day12.md) · [原视频](https://www.bilibili.com/video/BV1Hpnm6xEv6/)
+- [Day13 · 文房四宝与文化传承创新](bank/day13.md) · [原视频](https://www.bilibili.com/video/BV1Pxnb6rEVe/)
 
-已归档 12/12 期；当前清单全部完成。
+已归档 13/13 期；当前清单全部完成。
 
 ## 目录约定
 

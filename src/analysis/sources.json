@@ -486,9 +486,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 13,
+      "bvid": "BV1Pxnb6rEVe",
+      "url": "https://www.bilibili.com/video/BV1Pxnb6rEVe/",
+      "date": "2026-10-23",
+      "duration_seconds": 1698,
+      "topic": "文房四宝与文化传承创新",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-23T19:00:00+08:00",
+      "pubdate": 1792753200,
+      "timestamps": {
+        "material": 1680.0,
+        "answer": 1692.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day13材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day13-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "39f8c0e217fbdcefafed0411a4f082443389956be08004456f520eb29b21ca35",
+          "timestamp_seconds": 1680.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day13-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "93f8b9e7161a5cca2059009ad756dd3b920fd2539a71c0310992d568898312f3",
+          "timestamp_seconds": 1692.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-22T19:49:39+08:00",
+  "checked_at": "2026-10-23T19:16:31+08:00",
   "archived_days": [
     1,
     2,
@@ -501,12 +541,13 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-22T19:27:28+08:00",
-    "episode_count": 12,
-    "latest_day": 12,
+    "checked_at": "2026-10-23T19:13:00+08:00",
+    "episode_count": 13,
+    "latest_day": 13,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
