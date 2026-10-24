@@ -526,9 +526,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 14,
+      "bvid": "BV1UCHK6XEiq",
+      "url": "https://www.bilibili.com/video/BV1UCHK6XEiq/",
+      "date": "2026-10-24",
+      "duration_seconds": 2602,
+      "topic": "乡土植物与生态修复",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-24T19:00:00+08:00",
+      "pubdate": 1792839600,
+      "timestamps": {
+        "material": 2585.0,
+        "answer": 2597.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day14材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day14-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5cc7238fd2faa5f6169e83ebfa282f5f8f0c45d06ee8af40355a5c1e27622425",
+          "timestamp_seconds": 2585.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day14-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "d2111baf88fcacecff000285923ff4f62c5398bad0b697c37a18d7e89406ce61",
+          "timestamp_seconds": 2597.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-23T19:16:31+08:00",
+  "checked_at": "2026-10-24T19:15:04+08:00",
   "archived_days": [
     1,
     2,
@@ -542,12 +582,13 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-23T19:13:00+08:00",
-    "episode_count": 13,
-    "latest_day": 13,
+    "checked_at": "2026-10-24T19:13:00+08:00",
+    "episode_count": 14,
+    "latest_day": 14,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
