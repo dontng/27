@@ -566,9 +566,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 15,
+      "bvid": "BV1kind6mEm5",
+      "url": "https://www.bilibili.com/video/BV1kind6mEm5/",
+      "date": "2026-10-26",
+      "duration_seconds": 2429,
+      "topic": "秸秆综合利用与辩证法",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-26T19:00:00+08:00",
+      "pubdate": 1793012400,
+      "timestamps": {
+        "material": 2412.0,
+        "answer": 2423.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day15材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day15-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a9efaa9438cfaa5de7a4c5570ca07989fedef65f1d3be850102f7c54e4ac5e29",
+          "timestamp_seconds": 2412.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day15-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5568f90fc5e10f0140c418f75528de7cb029299300b1cca95f1ebce9a300df74",
+          "timestamp_seconds": 2423.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-24T19:15:04+08:00",
+  "checked_at": "2026-10-27T18:50:22+08:00",
   "archived_days": [
     1,
     2,
@@ -583,12 +623,13 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-24T19:13:00+08:00",
-    "episode_count": 14,
-    "latest_day": 14,
+    "checked_at": "2026-10-27T18:50:04+08:00",
+    "episode_count": 15,
+    "latest_day": 15,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
