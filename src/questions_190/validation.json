@@ -1,0 +1,1637 @@
+{
+  "generator_version": "1.0",
+  "source_sha256": {
+    "references/xiaoxiurong/27肖秀荣-背诵手册【下册】.md": "961cbbd0aaae5af3c2f52a7eaadfd2cfb810d26e8de839d62c471822a91d48cd",
+    "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页001-060.pdf": "8af425c7320c6a588574a6569d0d613b6ccd45ccffa0bee12cdc2ed6c9af72a4",
+    "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页061-120.pdf": "b5a879b541caed279e9dad830576444cde9b2f027ecd9f400f4e7907a7b417b6"
+  },
+  "processing_inputs_sha256": {
+    "tools/answer-table-ocr.txt": "6ce4f8d8113c6ce86bfd18c996aca032960289012ba69c3464e5359e2fad0472",
+    "tools/answers.json": "5d01ce53321fa40611df57a5062504c9ea137071eb88f5ca2a0919a5253997ea",
+    "tools/build.py": "6cf1aaea06e8afb659bab1fdc3d4d38f3e25df805788fe51e508bc7a6d3ad876",
+    "tools/corrections.json": "b0aeecd5c55b5c51d0b0248dff0c6926bd0e1ff9f4d1fddfd084cd3ec046ed22"
+  },
+  "counts": {
+    "single": 46,
+    "multiple": 147,
+    "total": 193,
+    "options": 772,
+    "answers": 193
+  },
+  "question_pdf_pages": [
+    18,
+    63
+  ],
+  "answer_pdf_pages": [
+    63,
+    64
+  ],
+  "visual_review": "答案表第63、64页已逐项核对；题目按原顺序结构核对，OCR疑难处回看对应扫描页。不等同于逐字校对全部正文或逐题验证知识结论。",
+  "independent_answer_ocr_comparison": {
+    "single": {
+      "matched": 43,
+      "ocr_unreadable_checked_on_scan": [
+        1,
+        23,
+        39
+      ]
+    },
+    "multiple": {
+      "matched": 147,
+      "ocr_unreadable_checked_on_scan": []
+    }
+  },
+  "corrected_question_count": 96,
+  "questions": [
+    {
+      "key": "S1",
+      "pdf_pages": [
+        18
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S2",
+      "pdf_pages": [
+        18
+      ],
+      "answer": "B",
+      "subject": "新思想"
+    },
+    {
+      "key": "S3",
+      "pdf_pages": [
+        18
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S4",
+      "pdf_pages": [
+        18
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S5",
+      "pdf_pages": [
+        18
+      ],
+      "answer": "B",
+      "subject": "新思想"
+    },
+    {
+      "key": "S6",
+      "pdf_pages": [
+        18,
+        19
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S7",
+      "pdf_pages": [
+        19
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S8",
+      "pdf_pages": [
+        19
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S9",
+      "pdf_pages": [
+        19
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S10",
+      "pdf_pages": [
+        19
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S11",
+      "pdf_pages": [
+        19,
+        20
+      ],
+      "answer": "C",
+      "subject": "新思想"
+    },
+    {
+      "key": "S12",
+      "pdf_pages": [
+        20
+      ],
+      "answer": "B",
+      "subject": "新思想"
+    },
+    {
+      "key": "S13",
+      "pdf_pages": [
+        20
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S14",
+      "pdf_pages": [
+        20
+      ],
+      "answer": "D",
+      "subject": "法治"
+    },
+    {
+      "key": "S15",
+      "pdf_pages": [
+        20
+      ],
+      "answer": "A",
+      "subject": "法治"
+    },
+    {
+      "key": "S16",
+      "pdf_pages": [
+        20,
+        21
+      ],
+      "answer": "C",
+      "subject": "新思想"
+    },
+    {
+      "key": "S17",
+      "pdf_pages": [
+        21
+      ],
+      "answer": "A",
+      "subject": "法治"
+    },
+    {
+      "key": "S18",
+      "pdf_pages": [
+        21
+      ],
+      "answer": "A",
+      "subject": "法治"
+    },
+    {
+      "key": "S19",
+      "pdf_pages": [
+        21
+      ],
+      "answer": "B",
+      "subject": "法治"
+    },
+    {
+      "key": "S20",
+      "pdf_pages": [
+        21,
+        22
+      ],
+      "answer": "C",
+      "subject": "法治"
+    },
+    {
+      "key": "S21",
+      "pdf_pages": [
+        22
+      ],
+      "answer": "D",
+      "subject": "法治"
+    },
+    {
+      "key": "S22",
+      "pdf_pages": [
+        22
+      ],
+      "answer": "A",
+      "subject": "法治"
+    },
+    {
+      "key": "S23",
+      "pdf_pages": [
+        22
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S24",
+      "pdf_pages": [
+        22
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S25",
+      "pdf_pages": [
+        22,
+        23
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S26",
+      "pdf_pages": [
+        23
+      ],
+      "answer": "C",
+      "subject": "新思想"
+    },
+    {
+      "key": "S27",
+      "pdf_pages": [
+        23
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S28",
+      "pdf_pages": [
+        23
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S29",
+      "pdf_pages": [
+        23
+      ],
+      "answer": "C",
+      "subject": "新思想"
+    },
+    {
+      "key": "S30",
+      "pdf_pages": [
+        24
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S31",
+      "pdf_pages": [
+        24
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S32",
+      "pdf_pages": [
+        24
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S33",
+      "pdf_pages": [
+        24
+      ],
+      "answer": "B",
+      "subject": "新思想"
+    },
+    {
+      "key": "S34",
+      "pdf_pages": [
+        24
+      ],
+      "answer": "C",
+      "subject": "新思想"
+    },
+    {
+      "key": "S35",
+      "pdf_pages": [
+        25
+      ],
+      "answer": "D",
+      "subject": "新思想"
+    },
+    {
+      "key": "S36",
+      "pdf_pages": [
+        25
+      ],
+      "answer": "A",
+      "subject": "新思想"
+    },
+    {
+      "key": "S37",
+      "pdf_pages": [
+        25
+      ],
+      "answer": "A",
+      "subject": "时政"
+    },
+    {
+      "key": "S38",
+      "pdf_pages": [
+        25
+      ],
+      "answer": "B",
+      "subject": "时政"
+    },
+    {
+      "key": "S39",
+      "pdf_pages": [
+        25
+      ],
+      "answer": "C",
+      "subject": "时政"
+    },
+    {
+      "key": "S40",
+      "pdf_pages": [
+        25,
+        26
+      ],
+      "answer": "A",
+      "subject": "时政"
+    },
+    {
+      "key": "S41",
+      "pdf_pages": [
+        26
+      ],
+      "answer": "A",
+      "subject": "时政"
+    },
+    {
+      "key": "S42",
+      "pdf_pages": [
+        26
+      ],
+      "answer": "B",
+      "subject": "时政"
+    },
+    {
+      "key": "S43",
+      "pdf_pages": [
+        26
+      ],
+      "answer": "A",
+      "subject": "时政"
+    },
+    {
+      "key": "S44",
+      "pdf_pages": [
+        26
+      ],
+      "answer": "A",
+      "subject": "时政"
+    },
+    {
+      "key": "S45",
+      "pdf_pages": [
+        26,
+        27
+      ],
+      "answer": "D",
+      "subject": "时政"
+    },
+    {
+      "key": "S46",
+      "pdf_pages": [
+        27
+      ],
+      "answer": "D",
+      "subject": "时政"
+    },
+    {
+      "key": "M1",
+      "pdf_pages": [
+        27
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M2",
+      "pdf_pages": [
+        27
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M3",
+      "pdf_pages": [
+        27,
+        28
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M4",
+      "pdf_pages": [
+        28
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M5",
+      "pdf_pages": [
+        28
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M6",
+      "pdf_pages": [
+        28
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M7",
+      "pdf_pages": [
+        28,
+        29
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M8",
+      "pdf_pages": [
+        29
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M9",
+      "pdf_pages": [
+        29
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M10",
+      "pdf_pages": [
+        29
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M11",
+      "pdf_pages": [
+        29,
+        30
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M12",
+      "pdf_pages": [
+        30
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M13",
+      "pdf_pages": [
+        30
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M14",
+      "pdf_pages": [
+        30
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M15",
+      "pdf_pages": [
+        30,
+        31
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M16",
+      "pdf_pages": [
+        31
+      ],
+      "answer": "ABD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M17",
+      "pdf_pages": [
+        31
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M18",
+      "pdf_pages": [
+        31
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M19",
+      "pdf_pages": [
+        31,
+        32
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M20",
+      "pdf_pages": [
+        32
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M21",
+      "pdf_pages": [
+        32
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M22",
+      "pdf_pages": [
+        32
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M23",
+      "pdf_pages": [
+        32
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M24",
+      "pdf_pages": [
+        32
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M25",
+      "pdf_pages": [
+        33
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M26",
+      "pdf_pages": [
+        33
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M27",
+      "pdf_pages": [
+        33
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M28",
+      "pdf_pages": [
+        33
+      ],
+      "answer": "BCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M29",
+      "pdf_pages": [
+        33
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M30",
+      "pdf_pages": [
+        33,
+        34
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M31",
+      "pdf_pages": [
+        34
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M32",
+      "pdf_pages": [
+        34
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M33",
+      "pdf_pages": [
+        34,
+        35
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M34",
+      "pdf_pages": [
+        35
+      ],
+      "answer": "ACD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M35",
+      "pdf_pages": [
+        35
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M36",
+      "pdf_pages": [
+        35
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M37",
+      "pdf_pages": [
+        35,
+        36
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M38",
+      "pdf_pages": [
+        36
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M39",
+      "pdf_pages": [
+        36
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M40",
+      "pdf_pages": [
+        36
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M41",
+      "pdf_pages": [
+        36
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M42",
+      "pdf_pages": [
+        36,
+        37
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M43",
+      "pdf_pages": [
+        37
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M44",
+      "pdf_pages": [
+        37
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M45",
+      "pdf_pages": [
+        37
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M46",
+      "pdf_pages": [
+        37,
+        38
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M47",
+      "pdf_pages": [
+        38
+      ],
+      "answer": "BCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M48",
+      "pdf_pages": [
+        38
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M49",
+      "pdf_pages": [
+        38
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M50",
+      "pdf_pages": [
+        38,
+        39
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M51",
+      "pdf_pages": [
+        39
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M52",
+      "pdf_pages": [
+        39
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M53",
+      "pdf_pages": [
+        39
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M54",
+      "pdf_pages": [
+        39
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M55",
+      "pdf_pages": [
+        39,
+        40
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M56",
+      "pdf_pages": [
+        40
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M57",
+      "pdf_pages": [
+        40
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M58",
+      "pdf_pages": [
+        40
+      ],
+      "answer": "ABD",
+      "subject": "法治"
+    },
+    {
+      "key": "M59",
+      "pdf_pages": [
+        40
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M60",
+      "pdf_pages": [
+        40,
+        41
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M61",
+      "pdf_pages": [
+        41
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M62",
+      "pdf_pages": [
+        41
+      ],
+      "answer": "ABD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M63",
+      "pdf_pages": [
+        41
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M64",
+      "pdf_pages": [
+        41,
+        42
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M65",
+      "pdf_pages": [
+        42
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M66",
+      "pdf_pages": [
+        42
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M67",
+      "pdf_pages": [
+        42
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M68",
+      "pdf_pages": [
+        42,
+        43
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M69",
+      "pdf_pages": [
+        43
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M70",
+      "pdf_pages": [
+        43
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M71",
+      "pdf_pages": [
+        43
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M72",
+      "pdf_pages": [
+        43,
+        44
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M73",
+      "pdf_pages": [
+        44
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M74",
+      "pdf_pages": [
+        44
+      ],
+      "answer": "BCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M75",
+      "pdf_pages": [
+        44
+      ],
+      "answer": "ABD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M76",
+      "pdf_pages": [
+        44
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M77",
+      "pdf_pages": [
+        44,
+        45
+      ],
+      "answer": "ACD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M78",
+      "pdf_pages": [
+        45
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M79",
+      "pdf_pages": [
+        45
+      ],
+      "answer": "ABD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M80",
+      "pdf_pages": [
+        45
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M81",
+      "pdf_pages": [
+        46
+      ],
+      "answer": "ACD",
+      "subject": "法治"
+    },
+    {
+      "key": "M82",
+      "pdf_pages": [
+        46
+      ],
+      "answer": "BCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M83",
+      "pdf_pages": [
+        46
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M84",
+      "pdf_pages": [
+        46,
+        47
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M85",
+      "pdf_pages": [
+        47
+      ],
+      "answer": "ABC",
+      "subject": "法治"
+    },
+    {
+      "key": "M86",
+      "pdf_pages": [
+        47
+      ],
+      "answer": "ABCD",
+      "subject": "法治"
+    },
+    {
+      "key": "M87",
+      "pdf_pages": [
+        47,
+        48
+      ],
+      "answer": "ABD",
+      "subject": "法治"
+    },
+    {
+      "key": "M88",
+      "pdf_pages": [
+        48
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M89",
+      "pdf_pages": [
+        48
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M90",
+      "pdf_pages": [
+        48,
+        49
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M91",
+      "pdf_pages": [
+        49
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M92",
+      "pdf_pages": [
+        49
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M93",
+      "pdf_pages": [
+        49
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M94",
+      "pdf_pages": [
+        49,
+        50
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M95",
+      "pdf_pages": [
+        50
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M96",
+      "pdf_pages": [
+        50
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M97",
+      "pdf_pages": [
+        50
+      ],
+      "answer": "ABD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M98",
+      "pdf_pages": [
+        50,
+        51
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M99",
+      "pdf_pages": [
+        51
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M100",
+      "pdf_pages": [
+        51
+      ],
+      "answer": "ACD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M101",
+      "pdf_pages": [
+        51
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M102",
+      "pdf_pages": [
+        51,
+        52
+      ],
+      "answer": "AB",
+      "subject": "新思想"
+    },
+    {
+      "key": "M103",
+      "pdf_pages": [
+        52
+      ],
+      "answer": "BCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M104",
+      "pdf_pages": [
+        52
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M105",
+      "pdf_pages": [
+        52
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M106",
+      "pdf_pages": [
+        52,
+        53
+      ],
+      "answer": "ABC",
+      "subject": "时政"
+    },
+    {
+      "key": "M107",
+      "pdf_pages": [
+        53
+      ],
+      "answer": "ACD",
+      "subject": "时政"
+    },
+    {
+      "key": "M108",
+      "pdf_pages": [
+        53
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M109",
+      "pdf_pages": [
+        53
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M110",
+      "pdf_pages": [
+        53,
+        54
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M111",
+      "pdf_pages": [
+        54
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M112",
+      "pdf_pages": [
+        54
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M113",
+      "pdf_pages": [
+        54
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M114",
+      "pdf_pages": [
+        54,
+        55
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M115",
+      "pdf_pages": [
+        55
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M116",
+      "pdf_pages": [
+        55
+      ],
+      "answer": "BCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M117",
+      "pdf_pages": [
+        55,
+        56
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M118",
+      "pdf_pages": [
+        56
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M119",
+      "pdf_pages": [
+        56
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M120",
+      "pdf_pages": [
+        56
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M121",
+      "pdf_pages": [
+        56,
+        57
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M122",
+      "pdf_pages": [
+        57
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M123",
+      "pdf_pages": [
+        57
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M124",
+      "pdf_pages": [
+        57
+      ],
+      "answer": "BCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M125",
+      "pdf_pages": [
+        57,
+        58
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M126",
+      "pdf_pages": [
+        58
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M127",
+      "pdf_pages": [
+        58
+      ],
+      "answer": "ACD",
+      "subject": "时政"
+    },
+    {
+      "key": "M128",
+      "pdf_pages": [
+        58
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M129",
+      "pdf_pages": [
+        58,
+        59
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M130",
+      "pdf_pages": [
+        59
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M131",
+      "pdf_pages": [
+        59
+      ],
+      "answer": "ABD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M132",
+      "pdf_pages": [
+        59
+      ],
+      "answer": "ABC",
+      "subject": "新思想"
+    },
+    {
+      "key": "M133",
+      "pdf_pages": [
+        59
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M134",
+      "pdf_pages": [
+        59
+      ],
+      "answer": "ABCD",
+      "subject": "新思想"
+    },
+    {
+      "key": "M135",
+      "pdf_pages": [
+        59,
+        60
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M136",
+      "pdf_pages": [
+        60
+      ],
+      "answer": "BCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M137",
+      "pdf_pages": [
+        60
+      ],
+      "answer": "ABD",
+      "subject": "时政"
+    },
+    {
+      "key": "M138",
+      "pdf_pages": [
+        60
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M139",
+      "pdf_pages": [
+        60,
+        61
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M140",
+      "pdf_pages": [
+        61
+      ],
+      "answer": "ABC",
+      "subject": "时政"
+    },
+    {
+      "key": "M141",
+      "pdf_pages": [
+        61
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M142",
+      "pdf_pages": [
+        61
+      ],
+      "answer": "ABC",
+      "subject": "史纲、时政"
+    },
+    {
+      "key": "M143",
+      "pdf_pages": [
+        61,
+        62
+      ],
+      "answer": "ABCD",
+      "subject": "史纲、时政"
+    },
+    {
+      "key": "M144",
+      "pdf_pages": [
+        62
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M145",
+      "pdf_pages": [
+        62
+      ],
+      "answer": "ABCD",
+      "subject": "时政"
+    },
+    {
+      "key": "M146",
+      "pdf_pages": [
+        62
+      ],
+      "answer": "ABC",
+      "subject": "时政"
+    },
+    {
+      "key": "M147",
+      "pdf_pages": [
+        62,
+        63
+      ],
+      "answer": "ABC",
+      "subject": "时政"
+    }
+  ],
+  "output_sha256": {
+    "01-单选题1-46.md": "e3c4d1f24035884ea991aab62535aa23e996a5bc9b72b346dc71b7d0a772a081",
+    "02-多选题1-70.md": "303145b4732ccefeb181bbd6a514609e47e578b79dede9a00f89019289c2982b",
+    "03-多选题71-147.md": "5d0ab91e1550a4576a5067606156f8a9c772f1e7435d5f30223919fcc90e8cc5"
+  }
+}
