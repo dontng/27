@@ -606,9 +606,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 16,
+      "bvid": "BV1YhxM65EHM",
+      "url": "https://www.bilibili.com/video/BV1YhxM65EHM/",
+      "date": "2026-10-27",
+      "duration_seconds": 1684,
+      "topic": "因地制宜与创新发展",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-27T19:00:00+08:00",
+      "pubdate": 1793098800,
+      "timestamps": {
+        "material": 1667.0,
+        "answer": 1678.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day16材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day16-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "e44262cece7eb85090b03146b44ec6ed7ad31d49d865419b683d6338a95f4511",
+          "timestamp_seconds": 1667.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day16-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "85a8b1cc49f1a139553df3d98d69e9e0b4dbba919242d6ac74fa7fb46fef6dd9",
+          "timestamp_seconds": 1678.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-27T18:50:22+08:00",
+  "checked_at": "2026-10-28T18:36:48+08:00",
   "archived_days": [
     1,
     2,
@@ -624,12 +664,13 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-27T18:50:04+08:00",
-    "episode_count": 15,
-    "latest_day": 15,
+    "checked_at": "2026-10-28T18:36:24+08:00",
+    "episode_count": 16,
+    "latest_day": 16,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
