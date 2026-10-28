@@ -1,5 +1,5 @@
 {
-  "generator_version": "1.0",
+  "generator_version": "1.1",
   "source_sha256": {
     "references/xiaoxiurong/27肖秀荣-背诵手册【下册】.md": "961cbbd0aaae5af3c2f52a7eaadfd2cfb810d26e8de839d62c471822a91d48cd",
     "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页001-060.pdf": "8af425c7320c6a588574a6569d0d613b6ccd45ccffa0bee12cdc2ed6c9af72a4",
@@ -8,8 +8,9 @@
   "processing_inputs_sha256": {
     "tools/answer-table-ocr.txt": "6ce4f8d8113c6ce86bfd18c996aca032960289012ba69c3464e5359e2fad0472",
     "tools/answers.json": "5d01ce53321fa40611df57a5062504c9ea137071eb88f5ca2a0919a5253997ea",
-    "tools/build.py": "6cf1aaea06e8afb659bab1fdc3d4d38f3e25df805788fe51e508bc7a6d3ad876",
-    "tools/corrections.json": "b0aeecd5c55b5c51d0b0248dff0c6926bd0e1ff9f4d1fddfd084cd3ec046ed22"
+    "tools/audit.py": "494ef312eff22485215f4889e3459d4b4319dfc0f951e0b1744f4b1a6f334bd7",
+    "tools/build.py": "ca46bd22f1554342e2fee89956988d3a08f45663a5e899f5b39b3bb706dd0de7",
+    "tools/corrections.json": "d01b2b333137f2f69c01af0f11d1e2e0589415f0305b732a5b811834ae4b4f6a"
   },
   "counts": {
     "single": 46,
@@ -26,7 +27,7 @@
     63,
     64
   ],
-  "visual_review": "答案表第63、64页已逐项核对；题目按原顺序结构核对，OCR疑难处回看对应扫描页。不等同于逐字校对全部正文或逐题验证知识结论。",
+  "visual_review": "2026-10-29第二轮：逐页对照PDF第18—64页审核193题正文、772项选项和193项参考答案；差异及证据见audit/README.md。核对范围是扫描件转录忠实度，不是逐题独立验证政治事实。",
   "independent_answer_ocr_comparison": {
     "single": {
       "matched": 43,
@@ -41,7 +42,7 @@
       "ocr_unreadable_checked_on_scan": []
     }
   },
-  "corrected_question_count": 96,
+  "corrected_question_count": 98,
   "questions": [
     {
       "key": "S1",
@@ -1630,8 +1631,8 @@
     }
   ],
   "output_sha256": {
-    "01-单选题1-46.md": "e3c4d1f24035884ea991aab62535aa23e996a5bc9b72b346dc71b7d0a772a081",
-    "02-多选题1-70.md": "303145b4732ccefeb181bbd6a514609e47e578b79dede9a00f89019289c2982b",
-    "03-多选题71-147.md": "5d0ab91e1550a4576a5067606156f8a9c772f1e7435d5f30223919fcc90e8cc5"
+    "01-单选题1-46.md": "531e282fcba43756120d5c22180f23e3deb2abc8a8b35d1f2939e3213e01091e",
+    "02-多选题1-70.md": "99192801851d8f09d5dc2d8b3ba3cfc7d93fab6c9efb6da071c81e9bf94e5f0d",
+    "03-多选题71-147.md": "d0292854d1ca228b342ddcc0dbe0758f8e4ade2577631594ab0e89b39cce97d7"
   }
 }

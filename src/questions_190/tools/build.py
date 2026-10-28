@@ -11,7 +11,7 @@ import re
 from collections import Counter
 from pathlib import Path
 
-VERSION = '1.0'
+VERSION = '1.1'
 OUT = Path(__file__).resolve().parents[1]
 ROOT = OUT.parents[1]
 SOURCE = ROOT / 'references/xiaoxiurong/27肖秀荣-背诵手册【下册】.md'
@@ -192,7 +192,7 @@ def build():
         'counts': {'single': 46, 'multiple': 147, 'total': 193, 'options': 772, 'answers': 193},
         'question_pdf_pages': [18, 63],
         'answer_pdf_pages': [63, 64],
-        'visual_review': '答案表第63、64页已逐项核对；题目按原顺序结构核对，OCR疑难处回看对应扫描页。不等同于逐字校对全部正文或逐题验证知识结论。',
+        'visual_review': '2026-10-29第二轮：逐页对照PDF第18—64页审核193题正文、772项选项和193项参考答案；差异及证据见audit/README.md。核对范围是扫描件转录忠实度，不是逐题独立验证政治事实。',
         'independent_answer_ocr_comparison': verify_answer_ocr(),
         'corrected_question_count': len(corrected),
         'questions': [{'key': q['key'], 'pdf_pages': q['pages'], 'answer': q['answer'], 'subject': q['subject']} for q in questions],
