@@ -1,0 +1,42 @@
+{
+  "round": 1,
+  "workflow": "逐年逐题、逐段比对题干、各选项、材料段落与设问；仅归一化空白、标点和全半角；逐项复核差异；回看修改处页面",
+  "reference_sha256": "b60f992480b6c893baa8f879de43cfa65b8e404677be00af6029bd503472888e",
+  "input_sha256": {
+    "2012": "220956f829f238cb00cbcd0900ce8a4ed31202e4d6a2b0ba63ca5ce4b8a1ce59",
+    "2013": "f300a98385a56d4f224d5ac2c6654da86c2cd579495925e0f543df6a8499a9d3",
+    "2014": "2c869ef45af14935007ec7dea1989f197e40de0603336667e0f603adf7a48a49",
+    "2015": "068a9d1bff431b671a5b3c9d48d914e25c4a9f997321d2e44d58c3e5fc6410e5",
+    "2016": "0cc767647dcb64aeee87b25a371655b7e459e4787371957309ebd11f8ce9fbd2",
+    "2017": "d9a3077eff0c2d75e97a76a7d1a3f91f558fffca461505acbf846880440b006f",
+    "2018": "afacc64036e2e74def15007c55097a4fb90f73768fce86fa9f619d318cb11300",
+    "2019": "5b2a4af2c4eedc94d77c389ec08ffeeb4387a5c49ef1e7e0c434b24c742d554c",
+    "2020": "14aa878384312fb52d113eb955a9efbf32a96a3092c47e7072cbf2fc89e9a469",
+    "2021": "60627058c557a1a96111e6454b2b174fedeb3b85f2fb731b78d4eddb8fa64fff",
+    "2022": "b53d12a66d66c80f801e601a2c844b5d58b34e21e925eb710416b8ce0b639d92",
+    "2023": "9119bd014d7fe582b9fdf746dad1d01f6da6be6c366d3b54180fc6b3b14aaa4c",
+    "2024": "f86b5cda6def99dd1407de04400bfdfc686f6d2c169b54443be2c78b3454a571",
+    "2025": "c5bad6083464b63d49ccea3d0c213592943cae6fa26ac5144ea1599590bae630",
+    "2026": "e9ad8f44f31643a611fd304d8a863855987d264aeefb656d5123ae41e69d2775"
+  },
+  "review_completed": true,
+  "disposition": "全文比对差异已复核：10处字词修正及1处配图补齐，其余按版本差异/参照OCR问题保留，详见version-notes.json和逐字段差异记录。",
+  "question_files": [
+    "round-1/2012.json",
+    "round-1/2013.json",
+    "round-1/2014.json",
+    "round-1/2015.json",
+    "round-1/2016.json",
+    "round-1/2017.json",
+    "round-1/2018.json",
+    "round-1/2019.json",
+    "round-1/2020.json",
+    "round-1/2021.json",
+    "round-1/2022.json",
+    "round-1/2023.json",
+    "round-1/2024.json",
+    "round-1/2025.json",
+    "round-1/2026.json"
+  ],
+  "reference_metadata_correction": "2022参照正文未改变，修正其来源标签为公开预览页面，排除失败高校PDF的错误归属。"
+}

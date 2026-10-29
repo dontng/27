@@ -1,0 +1,2647 @@
+[
+  {
+    "year": 2019,
+    "q": 1,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c02c1668cfae5441fd857587642274156acab015d88e12fb6bcd1bc7311faf67",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 74.627,
+          "csg": 77.863
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "8160ec57e1a8f9bbd8a2f3ac40c7a75284063db4f56886e05dfa4b3cbe061a3f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 62.5
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 2,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "于",
+            "ref": "为",
+            "context": "橘生淮南则为橘生于淮北则为枳叶徒相似其实味"
+          }
+        ],
+        "text_sha256": "072ee6f4d1175c4f9bf77a02fdc12c7dc8b9a20ef3321086c573d9fbf94001f8",
+        "reference_scores": {
+          "pdf": 97.5,
+          "xdf": 82.5,
+          "csg": 87.5
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "79579ec5f0b0fbf68e2270f3203ebc5107a155b0148f0ed8413ca89825bf9d2c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "075b395ef1fa2074c29a5df9466d093671c5bd4968a27b5cd67ba4736a719567",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "具",
+            "ref": "实",
+            "context": "任何具体事物都是普遍联系之网上"
+          }
+        ],
+        "text_sha256": "ea8dff94ed053ab552ed6cef0c395c42681465e601c2639297aae63bd6a09391",
+        "reference_scores": {
+          "pdf": 95.0,
+          "xdf": 95.0,
+          "csg": 90.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "3613ab3e2c990ce59913091b712cd9b9c2f2087e16b9387eaf1269e67e32d1a5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.308,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 3,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "cde65fb98cc6a047136a648df21a40e3baac14f932adf0eaebc379c051309d61",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "c261653ed72a8c180d3faa159fcdf1582047a8fffd1cf4f907f9c446c59d531f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 93.333
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "ed57738a541893a767e0c2994257ff715c6f220fc3b368b1a751f134b56d7dc2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "c56491d86820f5f2e4df853ffb9cfc5f2e706a86ef97533204dc60fa4ea1a8e5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 84.615
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "0ab1e4811b6b6838a05a0793b075a9c0c95578cc898f96a45a2c23ac07a57ec0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 4,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "具",
+            "ref": "其",
+            "context": "否与社会的需求相适应作为具体劳动的有用性质能否为社"
+          }
+        ],
+        "text_sha256": "50f44bcd6823de7172541a91ad25ab51b3dfcd9c89f31555721a1e8588932b29",
+        "reference_scores": {
+          "pdf": 99.107,
+          "xdf": 96.429,
+          "csg": 95.536
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "aec42182ac64e5ed209d29e02538ace317c5eca916ed27fa34c6bd5ea42a6697",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "39e367d5b81c8fed4c942696860598bb2b290f823723c5ce91b434cc8016cede",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 85.714,
+          "csg": 85.714
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "d96401c8a82bc9db66ea0482cdda077529fdc4f87c58c485d07d0ce49f360d04",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "97d0aa021e1f97e19395bae7206235c49000a6a6b529f8084510c26df54e179e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 5,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "义",
+            "ref": "以",
+            "context": "行动指南这一思想的核心要义是"
+          }
+        ],
+        "text_sha256": "2fd5a07fec1b1b2fe895f352e891aa5220b423978dc13cf52ab19eb049e1f299",
+        "reference_scores": {
+          "pdf": 99.286,
+          "xdf": 97.857,
+          "csg": 30.714
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "b7d8527f0230f7957e2ab8b72f16e5be7b13ede81e0ec4cf71916ba7bafd3c0c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "b9e4f65f1d60bc1cf8c2a2038a168ea6549bf5905acabcd04d7a065f3e1fdc0f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 77.778
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "1ca37d7fda3ccce86b619602175b1813db610daf80bf6607de1749a137b2b4f3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "2678a710494b81000f8c502a411d064f5a8e9252983bfd373f13cd4e04ef72ab",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 6,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "ff15e729cf3584222c68d4842b0198c0f5656f24be8c7ebb4f9cdff0372e9a7c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.387,
+          "csg": 98.387
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "39def465ab504f06bfc69cf55beae43952711b94e24bef88efc075cbf02af99d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 7,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "382886268494b2fb6a2f5b57ea0f0880db38f7c312ec09a66859547c569c9c5f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.849,
+          "csg": 96.774
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "8c2c152fdabedaa89c428332ceb518e27aebf4f779ea74176d903ae8e5c7c844",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "c449b6d183818b1bdc2cbea0e3ff0047dcc47fb54fe04abb583e11a87ada05d9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "ec36f98536d9d637f35a5d2859053361f8b4ef5e1b65514af6bee0464af656c7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "db0f9b58eea7ab27fd15f078a3f202b1a5f9174bbde896e3bef2a5077fc70e14",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.0
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 8,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "90032aa9a098f1886a972765afdfbfb481d55eac5e6a259b390802b8df36874b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 99.13
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "39fbabb29b93c5341beba2d09d8d66cbe0b0f7b6e7cb501fb8940fd94e3fee4e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "1caf5cd4c61d0b767a85ab9295f5102ae7c5f0a117cdc456fc2a11aeea7e5a6b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "64986126c42c3bb14a95a44cd41b2b3bf3f88d299608b02a089952d40f2ed361",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.889,
+          "csg": 88.889
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "16b431d3a363e9ddde98b389d3355c5897f58d85eb7df39a0e0393ddf56b3ee3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 9,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "b8279d5628c2d3e8f1b298eab47034abf4f9c51850188940d1fce66f19be9b57",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.652,
+          "csg": 24.348
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "d70eaa12f907622f58ed621229cee562741a993c625291596b7617232dba2944",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 75.0,
+          "csg": 75.0
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "a3bd3be53e149c233fc45bac8adce2c9bdb777afaee0ffe203556ec0fae02d0e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 64.706
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "cfe7c5bcf3b7ae5cd258a4717dbb6289edb8c5947220f3790d3a11872858c2be",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "04c4086e589e1d3a36ec2448e6083791e4d2cb93c9beef536854f0d16c0a6f57",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.0
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 10,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c3b0dc720ccc55e466e3a50e7f2d1e0b048af89534c371466057d5dbeaf6896a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 40.426
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "cb77ca7cb132026015db889509a8e50d6281282bcc0cb2e8ea3c03f8a378ed57",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 87.5,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "7f7e81342656f5e64c5a48daf541cd5202c853f12a4dab3e686c25440575fae3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "d6f1017e0968a467b4c413ae2f1ddc6b8e35ff9905da78bd13e5f5340bb9da76",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 87.5,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 11,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "51dac3f4f08947707b9bc3066b5b6976c27ed7efb02f803d507ff114949e9adf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.549,
+          "csg": 26.761
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "23a4b44b05a5d977f5196115d7aece19eba9d1272b698be26239e65b2cf0c8c4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "308df070a7325eac66bf01c3549dd0c114d8847e1e28751d589fa4db2dd05d8f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.667,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "7ff41c63ea35f58790752537f88f2389ec9ee223f8efbe6252e972fcf457020f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 70.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "d194d8bba071e160be3cf6d3a43ac781460923641dfc923ff02f163f4c913377",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.0
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 12,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "1dfde5698acb9beaf1494794c0d0f948036957103c9f578ea7ca341249887336",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.925,
+          "csg": 20.43
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 13,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "4365f12632987cd32dba370e6a504c20425fcc6d2813b0d802c6c462c8bdeec0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.222,
+          "csg": 83.333
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "76953093002d8bb4b95bb824ddb14dc36f93daefbc8019ff7aebfabc896d8c0d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 50.0
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "f154cbbcbc606548970eba9b0e79546a01bf39bd7a84b8505f89f41f897330bb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 53.846
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "a039c9db7628ce41a35888f2cd4ecc9e1bee0414cf2fde35a7d26a0f99966c51",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.118,
+          "csg": 52.941
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "ef1601757d5610798d986ec339ae44f0096bebc566eb5bfd5700505d150b7b29",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 65.0
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 14,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "1fee48d77e5bb9fc713e68467fab6b801e5feeac3e0948e2e12e0cd501c00eed",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 87.356
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "f9b0095a3898ad8d6a632269dd248e048deaab65e62f1d74dfbce5bb4e303bdc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "531519235cc7c05086306eeb61b7b46ff24cbdc8d64bdf0f7051d95cc9d39704",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 94.118
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "4227edb1bd78aae96974f48e47cf8c23e074809b080c3a7874b173f998a97dcf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.857,
+          "csg": 92.857
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "e5caa1ea69ed79a0a7e89f0b9125705c93f99e9de24099a388d7a56221dacd1a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 86.667
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 15,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "cad09e97d734dd7c23312c04a077369f03548dd3127756359a568eff1fd90ec1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.718,
+          "csg": 97.436
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "e4c7948039ef28e4f1862bc695720e2b28dd4fac9ec822be84ea548245193e78",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 92.857
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "6b664a3052e4d43a6cdc62d66ef37335c37b3eabc52a8584b150ddb8b01b99a9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "cd862c699d24a7c7d908443582e96374ad014ca2e9c8f14bfd0475c8371bf458",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.857,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "5d8658b4295e3af79ece4df92ac4f4aaec2e8a1397dcce3e3bd82c93dede56b2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 16,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "终",
+            "context": "行会晤本次两国首脑会晤最重要的成果是共同签署并发"
+          },
+          {
+            "old": "了",
+            "ref": "",
+            "context": "要的成果是共同签署并发表了"
+          }
+        ],
+        "text_sha256": "db918d546707d7408e5a8ab5cb1dcd43eb11a74222b634bdb83dab23a0834a1a",
+        "reference_scores": {
+          "pdf": 98.592,
+          "xdf": 98.592,
+          "csg": 98.592
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "0a7b359f2b562874a4cd2778f4bd579a080757988c5beee1249d1a7fb8245909",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 92.308
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "c161794ee29cc643e9422a1ab9963d3187f51dfe39e670e87bc2520c90ae3b2f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "6dc48b3d79ccc39c345526f3abfb4d767c506a49366fbe33e8609c2df9e01049",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.737,
+          "csg": 89.474
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 17,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "5cbe28f9ad5563659689a95f8340d16eec1d820f99d57ddfc4fe8be186ce9929",
+        "reference_scores": {
+          "pdf": 95.238,
+          "xdf": 98.81,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "beda4347cf8e6a5758e9e77d0de7a5fdfedc5a17e324e848ff00265e99a0d4a2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 76.923
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "5ff1c8a11d26079e4d566e0f477816039ad6e80d5c308ed3c98c85cfb6376aec",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 57.143
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "010362bf6875af8c74b43cddcb40d451a4457485a2c2ceda8bee3c882cb643da",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 84.211
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "716511f296283221311f310332dec03295dffe819d70eaa75bed569bf8dc1bf9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 18,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "67a70b8c1e3184dd26ba67b2b9a8c20f86099841ce9bf11f04e00ef53ea96d5d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.667,
+          "csg": 16.0
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "c979301753ca02da5f2e610616c6ef0db081b4b1619f03d3eb5996c417365365",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 42.857
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "5222cbdd159190c020c19546f7292791a8931ea0c72e7465915c426273cbf20f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 42.105
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "3b0729f4c4449408c7a32034448bae09de8662e8c3bf8d3e43f51ee927718f98",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.118,
+          "csg": 47.059
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "3311fa456c037797988d65be75f5a3bd4fdf478f0f790f9e17387e7611c9f2a8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.737,
+          "csg": 63.158
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 19,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "9",
+            "context": "资本主义的生产目的是追逐"
+          },
+          {
+            "old": "率",
+            "ref": "",
+            "context": "而竞争的结果必将导致利润率的平均化利润率的平均化的"
+          }
+        ],
+        "text_sha256": "fd2e85a8cf68a853613811242e3906ecafb52847609f731e5a31abc0e07ce6ca",
+        "reference_scores": {
+          "pdf": 98.78,
+          "xdf": 98.78,
+          "csg": 30.488
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9a4a2f68a0c9e2aeef4f5b124ad5d1ac0771a580aecde6bd5502bd2e58c2b5a1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 54.167
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "12efe419feac86483d379379f28c1aafec9f701cefdcac88dce1206729e0617d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 52.0
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "2f6cde8f3e31e577ea9cebc29a6ffaa35feb6e525fed15bfa5e8e1228d7e72f6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.296,
+          "csg": 81.481
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "cdc759b1b190e7a0fb6abf95fdf9c3f756b54e39cbeacd62fc43e9b2d4802e8b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 74.074
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 20,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "9f3784b0aeecd2a4cf69fca5be80602ef6eca3f48060c96f5e0e4160a9527d83",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.875,
+          "csg": 32.812
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "85943672dad646bb92540147cd843930fc2e282c277fc5ea7ee98f131ac84a44",
+        "reference_scores": {
+          "pdf": 93.75,
+          "xdf": 100,
+          "csg": 68.75
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "b0e0472ad092333730fc04cff868c223df78372e90f87fc5534957b9eec2d907",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 69.231
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "c5597d31d0e7bdf8121403332fac698f1bc3a54ae0817340f9838a6f7242f1e4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 41.176
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4b04f73734a928c37fd48a76fa3959d51e6bdacc45e228ce59154e0185a08f29",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 50.0
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 21,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "主",
+            "ref": "",
+            "context": "想的模板不是其他国家社会主义实践的再版不是国外现代"
+          },
+          {
+            "old": "",
+            "ref": "5",
+            "context": "社会主义一般原则的启示是"
+          }
+        ],
+        "text_sha256": "95f5dad0bedee011cc934e2424a1f5cbd2afd065a62a3dea4f65fd47b302df93",
+        "reference_scores": {
+          "pdf": 97.959,
+          "xdf": 98.98,
+          "csg": 97.959
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "ffdbdbe4cce3217c9dec37b6751232b9a46d2a7004ec3ca83af2e590c2cce5db",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "76a1bedf5e7b1f595106637306b1364623bc3f89327efcd6c6c47d3dbca5173f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 95.455
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "73d941f53877ae147b04e82277bac92b66d8d7b749c5d46f0b19f7857d1c6352",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "278d849db410d1460fb815972d9b4124755862551ff676ced5b2a925f53e4004",
+        "reference_scores": {
+          "pdf": 95.455,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 22,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "dfde89c89f5126b3631bdaa887985bf66a0ffaaccaf1067bdd8d73c6a16f48f6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.826,
+          "csg": 98.913
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "72e6191c6b3c95da5af3900f112b01c382b3ccd32ad62843d9ce8f1d339a013f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "3687236835b7ec0c462003f228fe37a4dcba5cc1dddd58da8e2654f14e236a23",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "5142ab021e0cbe416531db2ee2e3edd82f74d5121e943fbbd9d700a0a3d78fe2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "8fea9a3eaffad55cafd5ecb4ec5fcab5065d2182f7207e737362da44fb2b57a2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 23,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "d381350bdf4301ecaac5f7a2e92126beb098c90b5c3905e7e4e0ad4c8857080e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.154,
+          "csg": 99.451
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9cb8a69b26cb4e97b7976f38bc82755c1d020dbc4d41d02a6f5cae4cf4b104fd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "4c7951b589186bbc94298e0d61cbd833d4d8bf24b8c69dfd03b5f4406a9e205b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "024199de06f7cc0adbe956316276ab78e6316c1f8f084402a024256adc6e1eef",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "196382b4ec903068a8f0a88e8dd132a506c9980ab19def5db4cef887e2d66c65",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 24,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "6c3ff1de7e80bedbfe7069f3ebfd7dcdad5a1d4ecc4efdb500965acefd7a55d4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.649,
+          "csg": 98.649
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "fee3e90a4edb987f9baad14e298156d8c9cdefc816eb462f6d5686b0762f44ff",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.476
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "7bc8e7f8c3b6d36148db61600039b7cef2a5af81e40c2468520c6b3b46dc110a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.889,
+          "csg": 88.889
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "ac17f0942d4ff00c03d9e8968fe18393d0cb176fb27eb4604a4ae071a6f55d4e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "02d25a70e6425b3300aa0185bcd91c13a8212af5d94616e1affb71670d2bf44d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 25,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c4cfd16687ea53eded458d6a6d86c63d770d6e7d7938f79b68d1e732e2a34d82",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.918,
+          "csg": 95.918
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "c692ff987c9545ecb9f9e795cc37b2a26eb5d90c621372a44405f5e86999351d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 95.455
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "cf3bca8c5d37c82ce2817b3fb9876a8813234eb786f6b10e3bc957678b0ec58b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.0,
+          "csg": 95.0
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "71dc1517b6d643afb08a9548ff96a8fb5ca6dadc7120697a3104600fada3db39",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.154,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "99dc58f9b9411f288f6f203a219bc92364d04aa40e6f593e832e02386777d69f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 26,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "d4d9e816c9c049c2fea4115c9692f17ce90f85755018e75ee8faa2d7969cba2f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.917,
+          "csg": 97.917
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "2c9af80bad051b113dde09efd2204198448568fc600897f15cf6a2e6517c2fa1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "28d20b37513f01495e88612f46fd947e1bf1d08200bef42870df1cc0248cbada",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "eb9a65a449ea5d4c83703a673676dce00553f9432934aaa2af57c671bae10de1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4fded6a2b0419a2257e175a9ab3125f9b90aa3f5bf3f5e0ff52d8959bef76394",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 27,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "7",
+            "context": "1927年10月毛泽东率"
+          },
+          {
+            "old": "为",
+            "ref": "",
+            "context": "工农革命军开始创建以宁冈为中心的井冈山农村革命根据"
+          }
+        ],
+        "text_sha256": "ee9d27135c62a524add8582f48e089b78c2dc3e4b7b17385795552eebf799193",
+        "reference_scores": {
+          "pdf": 98.864,
+          "xdf": 97.727,
+          "csg": 25.0
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "f2284ae11223b1497929807d2427cbf271879e770524d3066199314395ea4b26",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "d33484bf5c80052b930c65537105c25cfca8851ccb2ff908aa3c6e0571d1043c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.889,
+          "csg": 88.889
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "28413772d34c029f821a92c0a39871563ce04c6da05a0c8710b1119485ae5cd2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 75.0,
+          "csg": 75.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "d28d04b9cbbbf6debdab5f73b9544af8badcd9a5c33d6de8150934a1d52e5603",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 28,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "042ecbf368db4be26fcb02e0f1342aad4a0f6d708937d29883294d66c0488efe",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.077,
+          "csg": 26.923
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "1ce56e86b4c2432a5f823865534557a07257f99c898a82dd20400d807fb06ade",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 73.333
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "432ff47349a9e3525c793ed4e591d4044887bfc5734aac857b1a97589ec28e4d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.667,
+          "csg": 91.667
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "1e89eab0ecc40b81bbacbaeb69cef16c8363e45f0ef5a3c9d4f3546712fb52bf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 58.824
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "8c5509c7ee72fead002de2a50603b5bfb55a0d91c9c82d60f4ec0bedd2b67392",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.909
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 29,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "极",
+            "ref": "及",
+            "context": "个现代化的需要之间存在着极其尖锐的矛盾当时我国农业"
+          }
+        ],
+        "text_sha256": "a4e99db994b0e9b8c6051858a7c8dcdf9171210a9b75de40533ad5e28b5b1661",
+        "reference_scores": {
+          "pdf": 98.98,
+          "xdf": 97.959,
+          "csg": 32.653
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9ac3fd4903a408432febac62f953aadee148b2f5524ab5a9bbfbb80782f5dc81",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 61.538
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "d7f3ba24ee5a73d7a5bb1eb1310ec0b5f78ff5b02411b472b220ca64db92e6e9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.909
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "a079bb9a589f6b624c85f89cbff9b7bfc278390f21c922ec29308d2efe38d918",
+        "reference_scores": {
+          "pdf": 90.0,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "af412a09c548cd7fcb6b6ed64dfd022b1a38266f3c2cc8bf584f8c60bbb6ea40",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 91.667
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 30,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "dfdf9f62658aa82c9983fae47fac35f713cf4c6508eb3e6b4a207aa2cae83640",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.5,
+          "csg": 80.0
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "23d3e3e60b8da72820c1b5c3db5d660faba5eac52f5a6bed27c5e4b2772ddf2a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 94.444
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "c2688dc248c6b7665593b22d5cbd8db6d2706a55b488553bb8a98228e13bb3e4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "8d66daa6cef0ce4711fc90626785e5015b294bdff7898856fcd78bfcc3264a59",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "9b727d605ef58b66a1e916fc86aba16f57ade6f343c3716b52c6a152ee2378b6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 92.857
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 31,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "411c827a904f825359d6be6a64816bc30219325b32705cc31b47a9d63497bf1f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.413,
+          "csg": 60.317
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "1278448fc8a359b8213bd07c8ee3e9011090dde568ed8f6deb592a0e8a62bdda",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 32,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "437cdc9b21d1e967be6571250566e10ea47f2a9610a0e057bb0de3f45f2dba02",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 85.294,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "a03fcd8144a4a21877f734b678f575a0891df79f5cc3e75244b57b82b9c3feea",
+        "reference_scores": {
+          "pdf": 96.774,
+          "xdf": 96.774,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "08e55b311a3bdb5699e850eae05034420f9edee6887738e87e17de288c866288",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.97,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "fdcd0c3c8a3ff8dd921414d3d95b27f8faca710798783877026ed69eb1e1440b",
+        "reference_scores": {
+          "pdf": 96.875,
+          "xdf": 96.875,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "3b75e1b3924d8a842144b9065c9e82854ec70004fb26c5f584e8a6fa93658da1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.75,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 33,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "b5df59d9ed5d2fb4ffa630e582427eadd374f98c31ed02b478ebe626c82f4326",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.507,
+          "csg": 99.254
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "58b2a1c7eec3bb5e71061b709e4c02517ad465be84749d815a087cdeeebc8f7c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "5eb9a1735d96cf566a500c6b3f4998e026b0d5595788e8c577be9f9c11e7470c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "641b2ed22d9a8ed633dd7a70054592f68522d210491bef53e3e361beeeb0f2d7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "92ce839dfb6417f6ff28519c0b76cd8c5bc4a8bf171b74f89dbeb0bdbdf328c3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 95.833
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2019,
+    "q": 34,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "桓",
+            "ref": "恒",
+            "context": "过何种方式抵达近代以来盘桓在中华民族头上的问题再次"
+          }
+        ],
+        "text_sha256": "a3b54b142b36274927db313b3251200a2b088a089fe4bdf3cd57b98e1e02dbbc",
+        "reference_scores": {
+          "pdf": 98.551,
+          "xdf": 98.551,
+          "csg": 98.551
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "e955f4fa7b90456ed3238b1b48776200619c3af86dfeae9cf060465e7e21ddc5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.958,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "8705d14896961696865afb97a8aec6e9b5deb1119f1118b711be1ec4fb6691a5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.89,
+          "csg": 98.63
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "3fbb7437c126078e15761ba8ccb82704cd4d38e26b02d407d850172e3813f3a1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "7a278aa1cc207777c3c3b25704628eb57e182f2f61104e948c5f474d9ac1c969",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": true,
+        "text_sha256": "5149fb496e44f65cd53f175430d8b037057f404c8c8d1a2c9c7cc980166728de",
+        "reference_scores": {
+          "pdf": 97.183,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "703506cc95228b5db787a091e953e5d5370da0ca74a2c5acb8152782f996f8b2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "b44b7f04c61b9419a47c4bc16eea3498a18e788bac9e011e348907ccfb9b49f0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.851,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "新",
+            "context": "时代是思想之母实践是理论"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "之源只要我们善于聆听时代的声音勇于坚持真理修正错误"
+          }
+        ],
+        "text_sha256": "bdfabdfbe56be3aaee77e616ed6e0be57e80ad7a1ee0659b17280c3f6d9143fe",
+        "reference_scores": {
+          "pdf": 97.143,
+          "xdf": 98.571,
+          "csg": 95.714
+        }
+      },
+      {
+        "field": "material-12",
+        "exact": true,
+        "text_sha256": "e779ed26b7046051d25400d3b12fe6a5bf57bdb8f930173d8aeeaf619f3162c8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.077,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "eb227874e7cf6849e2b24c5d7a2a28f002a1be005ce02483750479aa983a3395",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "f1a92011fcee1cac23b7982f8d5614f6d3a1dcd3e8b457c697fdbcad579b35eb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 35,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "9340b79d039b9b3dd869d0fa08069d7e1a6874ed1a32ea70e69a9936a138e91b",
+        "reference_scores": {
+          "pdf": 99.396,
+          "xdf": 99.396,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "的",
+            "context": "起源地和中国特色社会主义忠实践行地深圳故事连着中"
+          },
+          {
+            "old": "源",
+            "ref": "",
+            "context": "当代中国发展进步的活力之源"
+          }
+        ],
+        "text_sha256": "b8d3ef449a566c0c0decdbe8eeacfd80f62d1f470b9a1bf06e8eabb89251ec16",
+        "reference_scores": {
+          "pdf": 99.231,
+          "xdf": 99.615,
+          "csg": 98.846
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "72e38f3febc2ac3a8e2f664c3217cbc4d3ce9b216f63e147361912104157cc57",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "期",
+            "ref": "代",
+            "context": "是这个伟大觉醒孕育了新时期从理论到实践的伟大创造现"
+          }
+        ],
+        "text_sha256": "55754ffab0b17371be3cd1459c7499e37fbec8278d3cbc2979d12aec5a943a9f",
+        "reference_scores": {
+          "pdf": 99.401,
+          "xdf": 98.802,
+          "csg": 98.802
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "像",
+            "context": "40周年之际再来这里就是要向全世界宣示中国改革不"
+          },
+          {
+            "old": "着",
+            "ref": "的",
+            "context": "泛而深刻变化改革发展面临着新形势新任务新挑战必须以"
+          },
+          {
+            "old": "新",
+            "ref": "",
+            "context": "变化改革发展面临着新形势新任务新挑战必须以改革开放"
+          }
+        ],
+        "text_sha256": "49ed0497ce4af2762fdceed1855cfbb7e2814f641a8b71a4fd2783b181dfcd82",
+        "reference_scores": {
+          "pdf": 99.07,
+          "xdf": 73.488,
+          "csg": 99.07
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "0e11cfbcde2e5d19f2f7808b43d6f72f214f878e5b5f95b79cb75c4ab33b36d4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.875,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "12a6ee1c606bd8fe6e5a92de592f8f5800a672c3045ac7ba4326d67a88e0f0c4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "5bc72b444e50796a40571959772f6b168e16f2bf0a4cdefffda530881f4232c3",
+        "reference_scores": {
+          "pdf": 96.429,
+          "xdf": 92.857,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 36,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "ec59d16582800dd03eec03245ada3382fd3b864c8bb5e8ed67e4ebd9c175160d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 82.075,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "ff34f9710b95c54b4c174f8bd2f91d3e39c3c25811ca37f708ed8d1ad08a8d40",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.795,
+          "csg": 98.077
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "选择",
+            "context": "中国共产党诞生后中国共产"
+          },
+          {
+            "old": "建设",
+            "ref": "",
+            "context": "义基本制度进行了社会主义建设的艰辛探索实现了中华民族"
+          }
+        ],
+        "text_sha256": "faa2853ba44d86af60ccd4adeed166644a2c6b8b1460af4981067a80e4642630",
+        "reference_scores": {
+          "pdf": 98.387,
+          "xdf": 98.387,
+          "csg": 98.387
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "a36e36193ab6f06c6a70852fb412c26188adac88bc0f6aa8f8ea795f5625c2fe",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.842,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "编",
+            "context": "摘自习近平在纪念马克思诞辰"
+          },
+          {
+            "old": "辰",
+            "ref": "搬",
+            "context": "摘自习近平在纪念马克思诞辰200周年大会上的讲话"
+          },
+          {
+            "old": "话",
+            "ref": "",
+            "context": "诞辰200周年大会上的讲话"
+          }
+        ],
+        "text_sha256": "b08a5408fbfa342d773044303a38ec5080140d239df28ed7bd45923014def354",
+        "reference_scores": {
+          "pdf": 33.333,
+          "xdf": 91.667,
+          "csg": 33.333
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "eecf58e0b7c14d688414145d0718e854e0ee3d2a537269d63b7f32c4c7e33937",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "c6e18c02282adb4c47ea2af94198a75204c9c69d70c1b9c208a29871b91bcaaf",
+        "reference_scores": {
+          "pdf": 99.034,
+          "xdf": 99.517,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "e779ed26b7046051d25400d3b12fe6a5bf57bdb8f930173d8aeeaf619f3162c8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.077,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "c243193b36f9dab318ca7cd8ea187a23988a3705794c6dc4adc094074c566f50",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "34e73f4875193f080512ad7b1331df4f056fa37cf1644aab8adcce48e8894de1",
+        "reference_scores": {
+          "pdf": 96.296,
+          "xdf": 72.222,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 37,
+    "fields": [
+      {
+        "field": "material-1",
+        "exact": true,
+        "text_sha256": "9770771d2e03ef7b7dd6adbd8d008d83cf4678f252cb0b5ae14c3e1d185c5daa",
+        "reference_scores": {
+          "pdf": 96.053,
+          "xdf": 98.684,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "21d71eaca6120ee4cfc1b55bfd9bf6db6d1ad3544c22fd408e561693aa65b934",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.175,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "99a261a2c4b30d9528b55535eb762859027b62ad38debc2684403383ccc71cae",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.935,
+          "csg": 98.387
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "d81706872880bf46677f021eb4f10324936375fe9c51c8eb1b8e4686e3d2a832",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.059,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "9bbae8f8c812a35b35daaaf65a1a6295d8cd8f6d8a95d14db06fc7a6eb219a89",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.923,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "d14312a01c82ad28897b02c6c2e69076cc666bb141f29d5dde05b5a45d4a65b6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.5,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "英",
+            "ref": "",
+            "context": "英雄烈士保护法生效一个月后"
+          },
+          {
+            "old": "",
+            "ref": "现",
+            "context": "违法行为文化和旅游部部署查处抹黑英雄烈士等违法违"
+          }
+        ],
+        "text_sha256": "9bcfbff0929ce3c49197294f59d645de2ea9a57514741166e1563ffb80b30529",
+        "reference_scores": {
+          "pdf": 99.242,
+          "xdf": 93.939,
+          "csg": 95.455
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "44c2c7a4ccc63c46c93cbb9ea3f2a7c161e46de44aa4fb2a610ad0132e28c6bf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.674,
+          "csg": 97.674
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "c487d3d32508c7a350b8bbc2c610fbebf99a1f3bc6f4ef4f92d885de979fea4a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.684,
+          "csg": 98.684
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "d21267faf7e8fb140d399b7ff329e14d84d731a99e24b7e689e23b63eb89e47c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.222,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "5分",
+            "ref": "C从",
+            "context": "历史记忆和宝贵的精神财富5分"
+          }
+        ],
+        "text_sha256": "4e21f503e2944befec6d7bfff10bab1518a721df31d232b0657488c7b5b16d30",
+        "reference_scores": {
+          "pdf": 91.892,
+          "xdf": 94.595,
+          "csg": 94.595
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "5c25c01e097b032127cf195c816f76c63f7d57dc5449ea60789770a46b69cd77",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 83.871,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2019,
+    "q": 38,
+    "fields": [
+      {
+        "field": "material-1",
+        "exact": true,
+        "text_sha256": "cec7436f7d521e63f2ebbde20f2fdc674c47fbb3f404db01483bb199bce33a81",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "4ce28f6b5a781065d37aa6f1853160b14e6529942b7794e314b96978d2170c10",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.667,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "373906275ce3c5254f2d24970ef198b0ce56250cc546afc3eecae0ac644a48f5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.198,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "ba9149df5cd974b5b4ca31de8bf332fcf4a96d0682cdcf8c1e01cdec658f0aef",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.104,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "7e55bdd167dbbeab2e7dcee6367f0e7aace8d228341ff602f8f545f3121a8968",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "使",
+            "ref": "史",
+            "context": "内涵赋予上合组织新的历史使命"
+          }
+        ],
+        "text_sha256": "509364a477085d39a68bf2b5145020eebf84993e73aeb6988dbbbe330652ef78",
+        "reference_scores": {
+          "pdf": 99.242,
+          "xdf": 99.242,
+          "csg": 99.242
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "史命",
+            "context": "习近平呼吁各方齐心协力构"
+          },
+          {
+            "old": "上合组织",
+            "ref": "共",
+            "context": "近平呼吁各方齐心协力构建上合组织命运共同体经各方协商一致"
+          },
+          {
+            "old": "立",
+            "ref": "定",
+            "context": "运共同体经各方协商一致确立人类命运共同体的共同理念"
+          },
+          {
+            "old": "",
+            "ref": "中",
+            "context": "重要的政治共识和努力目标"
+          }
+        ],
+        "text_sha256": "2f507a15118ec4b84932691adc738877a0454f5273ceb09a303cc41f18d885b4",
+        "reference_scores": {
+          "pdf": 92.958,
+          "xdf": 91.549,
+          "csg": 92.958
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "3dd23e3ec5bde27381817271a7cdb785bffb59395d9ccbe4dbcac64a10256e2e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "十大",
+            "ref": "中非",
+            "context": "谐共生的中非命运共同体在十大合作计划全面落实的基础上"
+          },
+          {
+            "old": "八",
+            "ref": "人",
+            "context": "年和今后一段时间重点实施八大行动为构建更加紧密的中"
+          }
+        ],
+        "text_sha256": "25202afe380a31da70ad06bf8f8fa60d75880343b83c1216b6d8c098cbfacc9e",
+        "reference_scores": {
+          "pdf": 98.086,
+          "xdf": 88.995,
+          "csg": 98.565
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "9efd7adba1b773f22ae75709f6a4b8992506598025fbe25efa11212a8da4211e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "共享",
+            "context": "2018年11月5日首届"
+          },
+          {
+            "old": "建",
+            "ref": "同",
+            "context": "海隆重举行习近平在题为共建创新包容的开放型世界经济"
+          },
+          {
+            "old": "滞",
+            "ref": "灌",
+            "context": "类命运共同体的脚步不会停滞习近平同志强调中国国际进"
+          },
+          {
+            "old": "志",
+            "ref": "时",
+            "context": "体的脚步不会停滞习近平同志强调中国国际进口博览会不"
+          },
+          {
+            "old": "将",
+            "ref": "",
+            "context": "独唱而是各国的大合唱中国将在激发进口潜力持续放宽市"
+          },
+          {
+            "old": "宽",
+            "ref": "竞",
+            "context": "国将在激发进口潜力持续放宽市场的准入营造国际一流营"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "激发进口潜力持续放宽市场的准入营造国际一流营商环境"
+          },
+          {
+            "old": "营",
+            "ref": "避",
+            "context": "口潜力持续放宽市场的准入营造国际一流营商环境打造对"
+          },
+          {
+            "old": "营",
+            "ref": "喜",
+            "context": "宽市场的准入营造国际一流营商环境打造对外开放新高地"
+          }
+        ],
+        "text_sha256": "487cea7168a0f6699b6c565ad946a226899ee553c7fa54fc8a465bd30daab83f",
+        "reference_scores": {
+          "pdf": 95.021,
+          "xdf": 96.68,
+          "csg": 94.191
+        }
+      },
+      {
+        "field": "material-12",
+        "exact": true,
+        "text_sha256": "88de71437053d141e6a44e76b5e4df0bc56db7cab4e15ca0babd852742c148d9",
+        "reference_scores": {
+          "pdf": 67.742,
+          "xdf": 100,
+          "csg": 67.742
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "c79f88f56e5c2cbdcb317aeb4073b5521962002f41e886cf2a1a9598e6ab9059",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "么",
+            "context": "2中国主场外交贯穿着怎样的对外关系理念中国为世"
+          },
+          {
+            "old": "对",
+            "ref": "",
+            "context": "中国主场外交贯穿着怎样的对外关系理念中国为世界发展"
+          },
+          {
+            "old": "",
+            "ref": "交",
+            "context": "主场外交贯穿着怎样的对外关系理念中国为世界发展提"
+          },
+          {
+            "old": "分",
+            "ref": "",
+            "context": "展提供了哪些智慧和方案6分"
+          }
+        ],
+        "text_sha256": "5090bb88e3e2042dbcbafda72ea7e5afcb3c939fb0229817ba9ed129b133682d",
+        "reference_scores": {
+          "pdf": 94.737,
+          "xdf": 94.737,
+          "csg": 94.737
+        }
+      }
+    ],
+    "exact": false
+  }
+]

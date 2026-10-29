@@ -1,0 +1,2810 @@
+[
+  {
+    "year": 2013,
+    "q": 1,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "1",
+            "context": "有一幅对联上联是桔子洲洲"
+          },
+          {
+            "old": "是",
+            "ref": "",
+            "context": "有一幅对联上联是桔子洲洲旁舟舟行洲不行下"
+          },
+          {
+            "old": "地",
+            "ref": "的",
+            "context": "阁阁中鸽鸽飞阁不飞这形象地说明了运动和静止是相互依"
+          }
+        ],
+        "text_sha256": "4cc5a888222c197aa3796e7075cf5ba7244ae622f236f3c052da3d733ce23038",
+        "reference_scores": {
+          "pdf": 96.226,
+          "xdf": 86.792,
+          "csg": 96.226
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 2,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "着",
+            "ref": "A",
+            "context": "吃草与割羊草两者之间存在着"
+          }
+        ],
+        "text_sha256": "c0b71cfdf9ea6ea012eb23e17144289060dee7c4c152a0295abe83cf0011d270",
+        "reference_scores": {
+          "pdf": 99.115,
+          "xdf": 87.611,
+          "csg": 99.115
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 3,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "8fc8e30b782ed3c0470c66650ee080eaa7d8deedbbcd5b4771d10a0f0fe3d44b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.556,
+          "csg": 93.333
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "892a55dde4f61bb3d7ac106f87ce3589e3c0190a87b4e63f07cc6dd5035c2615",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 91.667
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "231bc5d5f9705daf7497589d1777f10d2b16eefbd99efd68968fada2afd4eb1a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.0
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "83596f09ea57b3a532ab0e3f5d742d823358b16a66c05d7561cc62857a22e028",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "a7d5af34808fbe5ab40a4995107289373cc1bde048401068828ee2dfbe14e679",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 4,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "获",
+            "ref": "",
+            "context": "投资100万元每次投资所获得的利润是15万元假定其"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "投资所实现的剩余价值率为"
+          }
+        ],
+        "text_sha256": "f186cd920ee20dd1f8338667a327dc44c114577c213b155248fd6ded864fcd34",
+        "reference_scores": {
+          "pdf": 98.361,
+          "xdf": 91.803,
+          "csg": 98.361
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 5,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "2078951cbf62f7f21fc795d1eb72f037f9f39864b474b584eb30f56cfe3c63a3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.918,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "2c8b23187bffbde87fefeaa024987d73c2d9d37eaac663f69598e5c1f5f36f65",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "c80571a0476b352e105e6a5b529369521db75947f5dd73c68c1b365c1caeba47",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 87.5
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "55eb04084beb7874ad7e6226752cc1ad3088d048db03b0b1e5b1096469855447",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "1c6a5825bab22dea61daf6483e709c7e7d7b228ec2a62d4f40da12858dafcd4b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 6,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c3bb0e1c3059eab2580d0bda8d5df8b1bb6cd51e6712a4c6721520887caf107f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 86.047,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 7,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "征",
+            "ref": "证",
+            "context": "了巨大的努力如提高个税起征点提高企业退休人员基本养"
+          }
+        ],
+        "text_sha256": "5264b7f981414974c672f1355ad75cbec374c0eb3c740a9951d1117a95f0d45e",
+        "reference_scores": {
+          "pdf": 98.734,
+          "xdf": 88.608,
+          "csg": 97.468
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "4437b383fb07be80d5f28f933d4980c912c1d33961eaf985fdc25f7ced896cfa",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "95b62b3332304d785a5ff4f93976934b6dbb439ac681003594cfd94263a0d483",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 88.889
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "f01951211d1200bc9f18223c6df810508c8b3912eb9782243d4ea723d980b9a9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.857,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "9a5f31a985e8d6ecab168271459c2ea2d479de401bc087391d90f3d55e68fe27",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 66.667,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 8,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "b143134b2159686ec2e55e5cc080a743f51ec24e2cc520fe2b19555db58433a4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.413,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "d4faca9d8369272730fcb21bd21812ac09a1d85cbbb30e004a0b499763dc722a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "4117b1d68f12cda02d37c8ee00185ef22170dd08af188060a403996931892b12",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 9,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c96713d66e1cab9222f6a6691c30ccd09e617e9beaff7c4128a0fd942469b4b8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 86.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "295987429786ee9c53b6b5b308667251fb308cd0871c15fe9f84dc98f88e8218",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 84.615,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "7a7e3217c4a49139a36deedab3b4ff59333ea98d1ada546cdebc3c5c67494ee0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "9ba14ab8ee7eb9d2b131a4b7e9724f1fa7afac5b8884f2e8c19ddcc8a22ac91b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 10,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "7a3fe37097100392521be056016c0acc3b72a41bcc62a348a25e4b0885a59902",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.364,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9601294a8dbba381cce56f0abcc99a19bbb91453060d8c7d00fab1f00bd14f88",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 75.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "fd5d94d0391a36447f4e41cd1092295141cef8c759308641659dd35fb26e3323",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "b2a23352a88fda9733359e1d6c8f6b82c2c7b98426808a08970d4171a552b65c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "14c3716e642ca3ffba161390486df6bd12f813f45cd23783e3e70d84648337b6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 11,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "既",
+            "ref": "即",
+            "context": "德弘扬时代新风下列选项中既是道德规范又是法律原则的"
+          }
+        ],
+        "text_sha256": "b61db45605c9d264cce21d4c5e4ad324cf003e578b35fb90ec37df314d3baea9",
+        "reference_scores": {
+          "pdf": 98.718,
+          "xdf": 82.051,
+          "csg": 98.718
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 12,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "2",
+            "context": "我们要大力弘扬的时代精神"
+          },
+          {
+            "old": "中国",
+            "ref": "",
+            "context": "大力弘扬的时代精神是当代中国人民精神风貌的集中体现是"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "精神内涵十分丰富其核心是"
+          }
+        ],
+        "text_sha256": "049278c32828c0b4f199a3428bb5651d040db986a5c32f68b83c7939a8c8396d",
+        "reference_scores": {
+          "pdf": 96.429,
+          "xdf": 94.643,
+          "csg": 96.429
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 13,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "3d9865d5575eb7b92c3e0bbe6b75bd06a1a13594c3f820d7207cb9e57f90f05d",
+        "reference_scores": {
+          "pdf": 98.571,
+          "xdf": 98.571,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 14,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "543c5135700c80e712545b6e2bcdfae446bfac7c401a2b2309deefe79cd27b4a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 15,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "连",
+            "ref": "联",
+            "context": "为文化遗产保护区这些决定连同设立三沙市构成了中国加"
+          }
+        ],
+        "text_sha256": "5edad22d048a660955bf20958b0c8aaeafd2441b68b9888dc2c6e6c3e4cddf88",
+        "reference_scores": {
+          "pdf": 99.123,
+          "xdf": 99.123,
+          "csg": 99.123
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "ece4a3fa7ecd57a2a41c20a5f95094b1007f73058d37addcf823296a2b46ffa1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "a602984e443702f2b82c95035b4afa90251de18feec56be47331037ae8b3aea3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "0d5db900d527505da11399069f79b7149ae0b69b1e02d89b45fdd048f05133a2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 87.5,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "c217132ba04231203ae50e45e750648bd1fa58bb3f1b76a501ffac9b7c3ab654",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 16,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "fcbd12a9c4fb5c948865e8088c986843a4bbcec477f895abe22930df26ffc854",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "571be998b3d9c4b8a494f661aa65844c36c94184f9121498f9d10fc69a35b691",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "3ec53e2ac4c308cdccdd06d5a19f74146c17935a9ceaab37407b7b4973a99696",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "ec9e4cd17f0201a36f80bf3d1a3e1236f674872307c19754182096443326b40e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4dc26af938b41bcbb39e5dfa9979f06abcb116880bfed4aa1c03bc016da95a40",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 17,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "5fe9c794f517633e0639df0e614be9dead10d723f6e97ac9b81571e5ca894efc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "A",
+            "context": "从自然界的压迫下解放出来"
+          },
+          {
+            "old": "界",
+            "ref": "",
+            "context": "从自然界的压迫下解放出来"
+          }
+        ],
+        "text_sha256": "b4b3fbabb5385a2138d9e789aee124d988e665b5a1ac71e641198face5cab5f1",
+        "reference_scores": {
+          "pdf": 91.667,
+          "xdf": 91.667,
+          "csg": 91.667
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "402e75031862b8273d6cb766d4f7bb1b1b3bf6c2c31d142043ad27be75822e0b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "f011740990e099dfd93480e2470fc27e7b0cc6ea0a71a9185d990924abb4c9e9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "02c242b16ab6e290e88aa917589e91739000644305462d99c02d38e3ce20dfcf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 18,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "5146eae85ed4a5f97120c2ec81b152f84d04d3574ea10336ca0d1696987b780c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "A",
+            "context": "从量上说是指社会人口的绝"
+          },
+          {
+            "old": "口",
+            "ref": "",
+            "context": "从量上说是指社会人口的绝大多数"
+          }
+        ],
+        "text_sha256": "9b15aa28559b5b061bf33979c994e76f1f9041f2b4d9a81725abcd43f35dffdb",
+        "reference_scores": {
+          "pdf": 93.333,
+          "xdf": 93.333,
+          "csg": 93.333
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "一切",
+            "context": "从质上说是对社会历史发展起推动作用"
+          },
+          {
+            "old": "人们",
+            "ref": "",
+            "context": "社会历史发展起推动作用的人们"
+          }
+        ],
+        "text_sha256": "ad974cf74cf40d82603d43eab67191ac831ddaaf7849d546eceb4dfadf23378f",
+        "reference_scores": {
+          "pdf": 85.0,
+          "xdf": 90.0,
+          "csg": 85.0
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "a62e9769d93f02366d420c83cc89ab20ae694717ebdc3570428ee7abcd3d75d0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "1439aa5e249d149062c66a5269188f7c18340482812a26018aa9e6d52228a013",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 19,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "在他",
+            "context": "美国导演迈克尔穆尔的最新纪录片资本主义一个"
+          },
+          {
+            "old": "纪",
+            "ref": "记",
+            "context": "美国导演迈克尔穆尔的最新纪录片资本主义一个爱情故事"
+          },
+          {
+            "old": "之所以",
+            "ref": "",
+            "context": "就是资本主义对金钱的贪欲之所以与资本主义连为一体是因为"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "与资本主义连为一体是因为"
+          }
+        ],
+        "text_sha256": "f418df7293f3e899d9ee30d909b943c51039985734fd6fc68f00bc707b55bd0f",
+        "reference_scores": {
+          "pdf": 97.015,
+          "xdf": 77.612,
+          "csg": 97.015
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "家",
+            "ref": "就",
+            "context": "资本家是人格化的资本"
+          }
+        ],
+        "text_sha256": "739da299a8102d4e48bcd57db782c378b6322459bfb91f02b9453afcd0ae6716",
+        "reference_scores": {
+          "pdf": 90.0,
+          "xdf": 90.0,
+          "csg": 90.0
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "3063aa003bd6ff5d034f3695d587cab510f6b2b6d7b7fa7d994ddc838eb53d1b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "C",
+            "context": "资本的生命在于不断运动和"
+          },
+          {
+            "old": "殖",
+            "ref": "",
+            "context": "生命在于不断运动和不断增殖"
+          }
+        ],
+        "text_sha256": "30c11c9a2e327997a940f5c0edeed85e899b52213395c3da022e79accac55b78",
+        "reference_scores": {
+          "pdf": 93.75,
+          "xdf": 93.75,
+          "csg": 93.75
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "287e5cd99e3678e867e8b062430946327b91aaf8e4550d7299d65032a446f76c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 20,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "03a77ba954a25c1486c6c4b729d493fb305e3be24945f0dcbc6339a115e9a82e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "8f88ae508a4f19dac3b6fbb4f6b64dfe34fc1613ee4bb75a1e1400a9f9b4868e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "676fdb62a4a3da336a5ff2617e256cb765b0d0c815dcd22fdd6d7e7c985f059f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "C",
+            "context": "职工选举管理者制度"
+          },
+          {
+            "old": "者",
+            "ref": "",
+            "context": "职工选举管理者制度"
+          }
+        ],
+        "text_sha256": "ed38c98e361f34823b1bb9415eb3f7a4bf13d6bcced6e3680bcf05ea8033c572",
+        "reference_scores": {
+          "pdf": 88.889,
+          "xdf": 88.889,
+          "csg": 88.889
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 21,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "f41ced187822e7ad39f5129cf2f15e27981e558628176fb6ebd6673698870db9",
+        "reference_scores": {
+          "pdf": 96.923,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "7a54e4c101f77c8f4fe87aff29fa1621dd5c5b748da79cbb9d19c7e0947489c6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 86.957,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "学习",
+            "ref": "认可",
+            "context": "发展社会主义不等于不学习西方资本主义的文明成果"
+          }
+        ],
+        "text_sha256": "a5c830ec425689f7da10ac3ed7004050c0691ba6e53d1ef929f9abbc7c6dc204",
+        "reference_scores": {
+          "pdf": 91.304,
+          "xdf": 91.304,
+          "csg": 91.304
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "或",
+            "ref": "有",
+            "context": "改革或抛弃某种社会主义模式不等"
+          }
+        ],
+        "text_sha256": "20e7254c0e7569f095979748c740547e2c693edb1d5e81b9d67f9c2a7d6868a1",
+        "reference_scores": {
+          "pdf": 96.0,
+          "xdf": 88.0,
+          "csg": 96.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "失",
+            "ref": "成",
+            "context": "不等于整个社会主义事业的失败"
+          }
+        ],
+        "text_sha256": "bc1d38af232383bcb35cc5e87446b0bfa27ccc30dbec511cde06c3ae1b935512",
+        "reference_scores": {
+          "pdf": 96.0,
+          "xdf": 96.0,
+          "csg": 96.0
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 22,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "1ffdc169cf9f592e639a6d571b650755cca157922936632d8570d6efc3d69837",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.667,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "b09b3df349a281546986c4800a3781582b8ec812b214e6755a40069c2c34a08f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "bf7dc5fe2312282be96b7e9ff5d1f85b8d4165baad5bd78a27dbdc8fb5326987",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "3e2a1aa71fb6f45b68f7247da3aefe192c84d612c977187006ce759ad3e05ac6",
+        "reference_scores": {
+          "pdf": 91.667,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "cbd45854b1d8cee6f2943db5ceb30de7b2632f44ebc9a5091ea817412198de49",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 23,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "23",
+            "context": "国务院新闻办公室发表的西"
+          },
+          {
+            "old": "传承",
+            "ref": "活动",
+            "context": "藏传佛教特有的活佛转世的传承方式得到充分尊重寺庙学经"
+          },
+          {
+            "old": "辩经受",
+            "ref": "变",
+            "context": "方式得到充分尊重寺庙学经辩经受戒灌顶修行等传统宗教活动"
+          },
+          {
+            "old": "敬",
+            "ref": "进",
+            "context": "动正常进行每年到拉萨朝佛敬香的信教群众达百万人次以"
+          }
+        ],
+        "text_sha256": "cb9abbed8e82d46d3a6fbf2e32a24f38293e3293db88fead0715c6d65d45f62e",
+        "reference_scores": {
+          "pdf": 96.25,
+          "xdf": 95.0,
+          "csg": 96.25
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "350d95a4fad39838f6a353f6c47bd8668189aa986ba0bac45afb91811935f694",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "517c06baaae69bf98f39dc957863edc1c14d6fed7d462b07ca801b3aaeaf6c76",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "2499b7e0a98b1281ad14f471348cdc202e3c10dc7c46fe3b869d09f8fbebe256",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "106dc72edf962ca84007117b001f0b7e9b1d051c92c3956c47e431cf5ef9d325",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 24,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "2c2d30d1884a49efdb9cd7e4c6524d9346a4c4d191930b7ad1ce0478f252e82e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "4fbfc7a98f6bdcbfb666bead4c0555f643551657d573665feaf784ce795c3d2d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "d947a016623dc4fa81b20fa5a729acde0f928dfbfd4ee767d838cabd2920cae3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "f595a00183a653be52d1452620a5d5852c0f212f13eed7779799f756c5c2f91d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "6c786ad1e1aa3df3d4a03da3d43c8ea43474ee73a318f0a10e1832e3d9a4e18a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 25,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "灭",
+            "ref": "除",
+            "context": "是解放生产力发展生产力消灭剥削消除两极分化最终达到"
+          }
+        ],
+        "text_sha256": "e28f77a8a3867be3ec7583cc3f6e9ffea836c295aad52d858f42a1542e63fc56",
+        "reference_scores": {
+          "pdf": 97.297,
+          "xdf": 98.649,
+          "csg": 97.297
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "5164601c7a550150a61b33dec31e830254972c1f33909a411103efc6fc4f5b13",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "8ed3fd759bbf172bc9f36a9ec2ed80cf08cbc5efd8c05632e13eb330cf93b17f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "89afa69277afa7f8169f8e2e07ab28f61e03ac579bf64fe5db9a8e6758ca4e51",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "纠正",
+            "ref": "止",
+            "context": "纠正了把社会主义本质等同于社"
+          },
+          {
+            "old": "",
+            "ref": "2",
+            "context": "于社会主义具体做法的认识"
+          }
+        ],
+        "text_sha256": "e288dfcd8641df24d1e66cecd36a79474a5395ee5fb34bddd69ecb116ec67f5c",
+        "reference_scores": {
+          "pdf": 91.667,
+          "xdf": 91.667,
+          "csg": 91.667
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 26,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "会主义具体做法的认识26",
+            "context": "PM25细粒颗粒这个大家"
+          },
+          {
+            "old": "党的十八大进一步把生态文明建设融入中国特色社会主义建设五位一体的总布局",
+            "ref": "",
+            "context": "境污染建设生态文明的决心党的十八大进一步把生态文明建设融入中国特色社会主义建设五位一体的总布局十八大提出的生态文明建设"
+          },
+          {
+            "old": "",
+            "ref": "A加大自然生态系统和环境保护力度B全面促进资源",
+            "context": "出的生态文明建设新要求是"
+          }
+        ],
+        "text_sha256": "c50296a30166555cdbc9fe731e30e6be7e333af0295749cc2a20eb11d9080103",
+        "reference_scores": {
+          "pdf": 81.771,
+          "xdf": 80.729,
+          "csg": 81.771
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "bca0955f9c3fe0a25fb010f0de7eaf52421c95a89f062fa997e4ae7edfa568df",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "3df856a829425f54f7755d08306c09cbaee4891b339fb743ba1ad6d9a2040095",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "e5de5e9f7914173594aa479090c9d88acddca6a12dd889fbe8354a3df6ab16d3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "00ab8fd0856631d85c7ad20f5a8c06161dc8acd0a15205dc8ad82ac2a52fb7c3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 27,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "e24f8a4787e5236f8c2490bdd192e46ddf0038ef30d6dd3dac4c83cdfceb9a1d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.222,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "a8e954b40ad2abd972aff2023103d70ec65c433dab4a685bd37a4ef088e37197",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "3b1ca82e4471448859e387a57489d7845c9024f2998a0a9ce98a4e8ae57f3450",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "7670d152f17ac845b567b781cd4d8a511db7513bf8e9fb0a8a65f1604f23181f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "阀D",
+            "context": "它是在以国共合作为基础的"
+          },
+          {
+            "old": "形式",
+            "ref": "",
+            "context": "作为基础的统一战线的组织形式下进行的"
+          }
+        ],
+        "text_sha256": "cad149d535ea60b1a88c92a6a8eab82168a5ecc35d4939b97b950210ae733863",
+        "reference_scores": {
+          "pdf": 88.0,
+          "xdf": 92.0,
+          "csg": 88.0
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 28,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "2809be465e646ef9a65aede21c71526a7387d2655e71ded58867fcba73d14cf9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "752bd1a97c1ab7ae1316a54d22e5e9140e233da674c9f8d4171dbe7532006f8e",
+        "reference_scores": {
+          "pdf": 88.889,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "5f173ab97d818cc52f35bf225998bbd039e111e1fdd136ac06953a70fbc95de1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "4bd32891190e314555f4d687e17dcc7cd6fde431504897561d7f694f419b51a0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "f6d7821f4566cef023d155c22380fb3671b248901967853b338dad3f95eb4720",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 29,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "214c485cb2f41df632387564faeecd8fb1b2cd0cab13d90e507e37e7f7954cb3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 72.549,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "2226927a64c75cdc15384c50c9d7b2e35a516724f15c1ba19150bfa4512d006a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "74b2ce622befaf7a49daa0a87370b4634b5f4f58ed51cfa922105f00945e3917",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "与",
+            "ref": "和",
+            "context": "了国际反法西斯力量的同情与支持"
+          }
+        ],
+        "text_sha256": "e95313f4cd355e3930ed769fdc365b55a3a85189e55b4a9dd1d47efcef3f415b",
+        "reference_scores": {
+          "pdf": 94.118,
+          "xdf": 94.118,
+          "csg": 94.118
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "67e4eb6a579cf80a10222ee787fb4fa521846487fc7e12ac4e8ef75c1c681f85",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 30,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "063b8d75231f7fae4642eb4662153f6f2934bc79cd4e678d0cb6ef671ef14ce2",
+        "reference_scores": {
+          "pdf": 98.571,
+          "xdf": 100,
+          "csg": 98.571
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "f7bc3eed3e70de6325e255d7ffec609c890f0952597e947fa0d1b083a307a7b0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "6c70de9094bdc728c440a512dd062ac2002664daff1b6d5389b625bd2c8c0801",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "ce70c9a79718a26a5e7b7ac542a6b0a1097f3fe23de9fa06a5a27529606b7fc5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "1ef08529ad5ffe1664a790dfcab53eb96c90ff92b6836a19acc987e98c6567f1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2013,
+    "q": 31,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "一",
+            "ref": "",
+            "context": "他得出结论一样东西如果有一点破损人们就会有意无意地"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "言与破窗定律内涵相近的是"
+          }
+        ],
+        "text_sha256": "07a7081194e3d84f303a7f18a26a33b433b1db21bf64154cb8df010b4f5461f6",
+        "reference_scores": {
+          "pdf": 98.529,
+          "xdf": 99.265,
+          "csg": 98.529
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9986c4160475fa39e7cea6708e389eceddc9adfcf676e910803fb762b0a85d68",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "8a4e1293e692d2db8b2d3dad526ef275d59a2bd0938aef9984ae324580e11e46",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "C",
+            "context": "小善虽无大益而不可不为细"
+          },
+          {
+            "old": "也",
+            "ref": "",
+            "context": "为细恶虽无近祸而不可不去也"
+          }
+        ],
+        "text_sha256": "b1f37c43fc2bd4be7fd706101510b964685ea4068779dfbadbb668b4c74bb7ff",
+        "reference_scores": {
+          "pdf": 95.652,
+          "xdf": 91.304,
+          "csg": 95.652
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "ca708f9061e73fa097012ecfdc9dc9f22d80e09308bad7c45abf423383eb32f0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.308,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 32,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "控",
+            "ref": "作",
+            "context": "月24日在航天员的手动操控下我国神舟九号宇宙飞船与"
+          },
+          {
+            "old": "舟九",
+            "ref": "航",
+            "context": "航天员的手动操控下我国神舟九号宇宙飞船与天宫一号交会"
+          },
+          {
+            "old": "会",
+            "ref": "互",
+            "context": "九号宇宙飞船与天宫一号交会对接成功向未来建设宇宙空"
+          },
+          {
+            "old": "出",
+            "ref": "向",
+            "context": "功向未来建设宇宙空间站迈出坚实一步就在同一天我国的"
+          },
+          {
+            "old": "项",
+            "ref": "次",
+            "context": "深度再次创造历史记录这两项成就的里程碑意义在于"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "两项成就的里程碑意义在于"
+          }
+        ],
+        "text_sha256": "5fd54e499e1c18a64192c83567e264e3027999b2a911ea4a25eb84b28ec6ec44",
+        "reference_scores": {
+          "pdf": 94.915,
+          "xdf": 94.068,
+          "csg": 94.915
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "c8c7da5a89d690f625cc6098ba084499a6caab572bfd5b92430d543f8cf30100",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "ed41a21d0eeb4b8ceabff51cf26c6866476b0c18950e4d476ecbe811efc9f850",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "6df4df0bffe1e0b5927dc1e7a8a90df767c4ab8703c86124df379f1e58c28594",
+        "reference_scores": {
+          "pdf": 95.455,
+          "xdf": 100,
+          "csg": 95.455
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "的",
+            "ref": "",
+            "context": "分利用空间的活动创造了新的可能性"
+          },
+          {
+            "old": "",
+            "ref": "3",
+            "context": "间的活动创造了新的可能性"
+          }
+        ],
+        "text_sha256": "36af66758f37de2f534a40592b73638fe7c93e54aa658159cc20f5434da77257",
+        "reference_scores": {
+          "pdf": 96.774,
+          "xdf": 96.774,
+          "csg": 96.774
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 33,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "33",
+            "context": "2012年6月6日至7日"
+          },
+          {
+            "old": "月",
+            "ref": "",
+            "context": "2012年6月6日至7日上海合作组织成"
+          },
+          {
+            "old": "日",
+            "ref": "",
+            "context": "2012年6月6日至7日上海合作组织成员国"
+          },
+          {
+            "old": "北",
+            "ref": "",
+            "context": "元首理事会第十二次会议在北京举行这是该组织发展进入"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "共识此次峰会的主要成果有"
+          }
+        ],
+        "text_sha256": "92e70dd08725eaef2ada3c901d38985a2ebaadb9cad4a6d2c7faebe97e5d708d",
+        "reference_scores": {
+          "pdf": 97.248,
+          "xdf": 97.248,
+          "csg": 97.248
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "a5822c1776bf3596400662b429c5ecc1b843e8745f1bed408347be48c3ff8957",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "e494775eadd37efc71c3e5fe9e3dc28c6d0d08aa8b2703d5f5a5c0f48dc46a0d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "516d7b1de967b3f24f0b7ac4807d38659d5e57942552ef109367639205ac62ad",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "2c936c69cd67e6e3694c8a507c65c1e4e30d3f472b3d05aa1600a9bfffd25b0d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 34,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "奎",
+            "ref": "基",
+            "context": "小学老师雷夫爱斯奎斯在其所著的热门教育畅销"
+          },
+          {
+            "old": "",
+            "ref": "时",
+            "context": "拿签名球来玩儿子问他理由他觉得儿子还太小对球队和"
+          },
+          {
+            "old": "队",
+            "ref": "",
+            "context": "理由他觉得儿子还太小对球队和球员一无所知说多了儿子"
+          }
+        ],
+        "text_sha256": "a731e3f488fda5e5d428d7d6a979c9d0921367d65a68bd7f0430c009e925bf82",
+        "reference_scores": {
+          "pdf": 99.061,
+          "xdf": 97.183,
+          "csg": 99.061
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "25bd8fd2dc923f0ea7393a7e5083d84fcf8810c8ef6ed7a7b785256441ebadd0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.11,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "标",
+            "ref": "保",
+            "context": "人的思维理解孩子用成人的标准要求孩子岂不知从孩子的"
+          }
+        ],
+        "text_sha256": "973de98125da8a442b01244758efb5331f06ef311d91bf2c15139baf7ceae102",
+        "reference_scores": {
+          "pdf": 98.684,
+          "xdf": 97.368,
+          "csg": 98.684
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "017cd415980555e8f20d2dce51a1111507c98519528cc40cc5027269c8bc39bf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "db3bf7fa868fc499024d419019cf144c2d9c6eccacb178571aa75b2dd47f84a6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "奖",
+            "context": "在她提供的设计图上常见的"
+          },
+          {
+            "old": "她",
+            "ref": "他",
+            "context": "在她提供的设计图上常见的塑料"
+          },
+          {
+            "old": "药",
+            "ref": "",
+            "context": "提供的设计图上常见的塑料药瓶盖的顶上一圈变身为一块"
+          },
+          {
+            "old": "她",
+            "ref": "他",
+            "context": "是一面凹凸镜有放大的功能她解释说有了这个药瓶盖老年"
+          },
+          {
+            "old": "她",
+            "ref": "他",
+            "context": "镜来区别药的类别服用量等她的灵感来源于生活中对中老"
+          },
+          {
+            "old": "得",
+            "ref": "的",
+            "context": "脖子上的老花镜却不见了急得这位老人团团转就这样该同"
+          }
+        ],
+        "text_sha256": "df24a3c21c37b6d5995c20112d053ee76eb4e377c618ca4660f9d32571612290",
+        "reference_scores": {
+          "pdf": 97.238,
+          "xdf": 82.873,
+          "csg": 96.685
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "到",
+            "ref": "带",
+            "context": "有了灵感后从设计到写英文翻译说明再到制作动"
+          },
+          {
+            "old": "她",
+            "ref": "他",
+            "context": "单为什么能拿国际红点奖呢她坦言设计很简单关键在于设"
+          },
+          {
+            "old": "言",
+            "ref": "然",
+            "context": "什么能拿国际红点奖呢她坦言设计很简单关键在于设计前"
+          },
+          {
+            "old": "像",
+            "ref": "象",
+            "context": "单关键在于设计前把自己想像成老人这一设计胜在实用按"
+          },
+          {
+            "old": "瓶",
+            "ref": "品",
+            "context": "胜在实用按照测算不会给药瓶本身带来额外的成本推广起"
+          },
+          {
+            "old": "使",
+            "ref": "实",
+            "context": "额外的成本推广起来很容易使用方便希望将来这款设计能"
+          }
+        ],
+        "text_sha256": "58c32a1435c0438a5694bc976c7cb5be92a547a7f14e9225d36e941e3afe81ac",
+        "reference_scores": {
+          "pdf": 95.652,
+          "xdf": 95.652,
+          "csg": 95.652
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "她",
+            "ref": "他",
+            "context": "这位研究生说她没有想当名人的野心只期望"
+          }
+        ],
+        "text_sha256": "e73dcf04edbad79b21287f3dadc2f9e05d405ec1374f3db41872375cb4658c7e",
+        "reference_scores": {
+          "pdf": 99.048,
+          "xdf": 98.095,
+          "csg": 99.048
+        }
+      },
+      {
+        "field": "material-12",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "摘",
+            "ref": "搞",
+            "context": "摘编自扬子晚报2012年3"
+          }
+        ],
+        "text_sha256": "43dbae961aada93928e366223a69d0515bf96b5dcaee6ab2753da68f256893fd",
+        "reference_scores": {
+          "pdf": 76.471,
+          "xdf": 94.118,
+          "csg": 76.471
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "c17b87c6a9737b541cfbd455bb75ef94268249adb9dc4cd812e4af786f9415cd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "加",
+            "ref": "",
+            "context": "己的设计改变生活让生活更加美好对我们从事实践活动有"
+          },
+          {
+            "old": "",
+            "ref": "3",
+            "context": "从事实践活动有何意义4分"
+          }
+        ],
+        "text_sha256": "33cc83b476c61d13c3a40ee02d0350291175c11dacf1349044dc9faa6196a8cd",
+        "reference_scores": {
+          "pdf": 96.97,
+          "xdf": 93.939,
+          "csg": 96.97
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 35,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "1",
+            "context": "浙江武义县后陈村是全县经"
+          },
+          {
+            "old": "末",
+            "ref": "",
+            "context": "透明村民从上世纪90年代末以来连续向县纪委街道反映"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "连续向县纪委街道反映村里的问题却长期得不到彻底解决"
+          },
+          {
+            "old": "被",
+            "ref": "",
+            "context": "连续两任村支书因经济问题被查处2004年初村里有1"
+          },
+          {
+            "old": "",
+            "ref": "多",
+            "context": "多万元在人均发放7000元后还剩1000多万元如"
+          },
+          {
+            "old": "会",
+            "ref": "员",
+            "context": "权力6月后陈村在海选村委会基础上由群众选举产生了全"
+          },
+          {
+            "old": "会",
+            "ref": "员",
+            "context": "监督委员会与村党支部村委会一起称为三委会"
+          },
+          {
+            "old": "",
+            "ref": "监",
+            "context": "支部村委会一起称为三委会"
+          }
+        ],
+        "text_sha256": "3467bf635009d85baa1afea17b4c44a674d70b6280d4fb99d35052409150dcfb",
+        "reference_scores": {
+          "pdf": 98.442,
+          "xdf": 98.131,
+          "csg": 98.442
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "委",
+            "ref": "督",
+            "context": "监委会成立不久即对村里两口池"
+          }
+        ],
+        "text_sha256": "9c4a4fb6c8a7f603730b711424154ecc02044bd6030a717f5060b0f38eb242cc",
+        "reference_scores": {
+          "pdf": 99.057,
+          "xdf": 73.585,
+          "csg": 99.057
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "9cc7417ab7fc2c3e9f964ff763840b091730cfbd4fc22e75377d7e6436136cb4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.482,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "a7bb081238e45eb328dd5b2b042bbfed1c2720c4c2ac7b47ee8c11dbd4b17d32",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "9e60ba54d677d2cb90f234634ddf9ecf4b5217f9a97b36951e963c8f408e9eb5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 77.778,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "fa974a4b6c76e58aea8865b7d1d44b5b01b55490e851c2a469db00eb76ba0c40",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "c89d927ac89ac0657f0d961026339b22dac8d401215d7331328244bd9ad3a11f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 36,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "7c0eb6e3926758ca1d71a55bbf9464cd9dabe0f5ad5cc71ff15977ed3dce822b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.63,
+          "csg": 99.315
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "3a0106b94dc9145aadb4232b28654ffb3435402920a0bbf5a6e891d673074274",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.774,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "候",
+            "context": "个可赞美的光明前途到那时到处都是活跃的创造到处都"
+          },
+          {
+            "old": "",
+            "ref": "跃",
+            "context": "光明前途到那时到处都是活跃的创造到处都是日新月异"
+          },
+          {
+            "old": "将来",
+            "ref": "",
+            "context": "不在辽远的将来而在很近的将来"
+          }
+        ],
+        "text_sha256": "951ab53e93e1340cd6165ab225fd6a34dda7e34ee2249fc7365a0ea91aa3fe5b",
+        "reference_scores": {
+          "pdf": 99.01,
+          "xdf": 82.673,
+          "csg": 98.515
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "1",
+            "context": "经济日报2012年12月2日"
+          },
+          {
+            "old": "日",
+            "ref": "",
+            "context": "济日报2012年12月2日"
+          }
+        ],
+        "text_sha256": "5a68dd912da8f5b8e3015994bdb73cd82bf1301a52c321601ebc51e07bd1b49d",
+        "reference_scores": {
+          "pdf": 94.118,
+          "xdf": 94.118,
+          "csg": 94.118
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "亥",
+            "ref": "雍",
+            "context": "期间虎门的大炮前在反映辛亥革命的文物和照片前在共产"
+          },
+          {
+            "old": "命",
+            "ref": "民",
+            "context": "虎门的大炮前在反映辛亥革命的文物和照片前在共产党宣"
+          },
+          {
+            "old": "指",
+            "ref": "提",
+            "context": "中习近平发表了重要讲话他指出每个人都有理想和追求都"
+          },
+          {
+            "old": "候",
+            "ref": "期",
+            "context": "景现在我们比历史上任何时候都更接近中华民族伟大复兴"
+          }
+        ],
+        "text_sha256": "4a85ec56edfb0dd7f3ac4faea9f879f8d922f58636b86cc0cc0f2c4e0b7c3887",
+        "reference_scores": {
+          "pdf": 72.658,
+          "xdf": 98.987,
+          "csg": 72.405
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "2",
+            "ref": "1",
+            "context": "摘编自人民日报2012年11月30日"
+          },
+          {
+            "old": "1",
+            "ref": "2",
+            "context": "编自人民日报2012年11月30日"
+          },
+          {
+            "old": "",
+            "ref": "2",
+            "context": "人民日报2012年11月30日"
+          },
+          {
+            "old": "0",
+            "ref": "",
+            "context": "民日报2012年11月30日"
+          }
+        ],
+        "text_sha256": "b7aae6ce3cd3f16837057aff997f40b5e9ef057e5a80dda76fe8ec83011f6386",
+        "reference_scores": {
+          "pdf": 83.333,
+          "xdf": 72.222,
+          "csg": 83.333
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "3d4b11efeada56789a18de786a9dabdfa30d08691e5f8af5cf91f0ab39afff14",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.875,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "e7d879fb0835df1801ec69a69e5926062af9067f9269d9a2c18959af8ad29668",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 37,
+    "fields": [
+      {
+        "field": "material-1",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "某",
+            "ref": "",
+            "context": "某图书馆向所有读者免费开放"
+          },
+          {
+            "old": "",
+            "ref": "和",
+            "context": "有读者免费开放乞丐拾荒者衣衫破旧的民工小心翼翼进"
+          },
+          {
+            "old": "拦",
+            "ref": "挡",
+            "context": "民工小心翼翼进来了无人阻拦于是他们便堂而皇之地在馆"
+          },
+          {
+            "old": "地",
+            "ref": "的",
+            "context": "人阻拦于是他们便堂而皇之地在馆内读书看报有读者对此"
+          }
+        ],
+        "text_sha256": "5ecff7effb250637a4c1aaf778245b5ee2b0ab6f1b402bcc3c335eb3a3e4786f",
+        "reference_scores": {
+          "pdf": 97.6,
+          "xdf": 96.0,
+          "csg": 97.6
+        }
+      },
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "离开",
+            "context": "此事被发在微博上顿时触动"
+          },
+          {
+            "old": "的",
+            "ref": "地",
+            "context": "共图书馆一向更愿意向体面的文化人敞开常在门口赫然告"
+          },
+          {
+            "old": "馆",
+            "ref": "",
+            "context": "内其公益性大打折扣而该馆馆长希望图书馆成为每一个读"
+          },
+          {
+            "old": "者",
+            "ref": "书人",
+            "context": "长希望图书馆成为每一个读者的天堂无论任何人只要进了"
+          },
+          {
+            "old": "论",
+            "ref": "乱",
+            "context": "馆成为每一个读者的天堂无论任何人只要进了图书馆在知"
+          },
+          {
+            "old": "阅",
+            "ref": "读",
+            "context": "免证阅读制度任何人进馆借阅书籍都不需要证件和费用以"
+          },
+          {
+            "old": "办馆",
+            "ref": "",
+            "context": "体现人道人文的公共图书馆办馆理念和人性化的服务"
+          }
+        ],
+        "text_sha256": "74b50e5b2a46b5dd4772757d1b9573a2f6bdbfa2989ba08edd211d68f899b2bc",
+        "reference_scores": {
+          "pdf": 97.119,
+          "xdf": 83.539,
+          "csg": 97.119
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "利",
+            "ref": "力",
+            "context": "放的时间越长不尊重这种权利的读者越少我们和读者都被"
+          },
+          {
+            "old": "进馆",
+            "ref": "尽管",
+            "context": "这种和谐的环境所改变至于进馆要先洗手馆内并没有硬性规"
+          },
+          {
+            "old": "再",
+            "ref": "在",
+            "context": "长了谁也会自觉地洗手然后再阅读"
+          }
+        ],
+        "text_sha256": "85493c4e740349d285082360478a13a96796ecc52ead37b47f0f791b7f865920",
+        "reference_scores": {
+          "pdf": 96.923,
+          "xdf": 95.385,
+          "csg": 96.923
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "如",
+            "ref": "",
+            "context": "如果有天堂天堂应该是图书馆"
+          },
+          {
+            "old": "",
+            "ref": "没",
+            "context": "如果有天堂天堂应该是图书馆的"
+          },
+          {
+            "old": "担",
+            "ref": "相",
+            "context": "书馆的模样这是文学大师曾担任阿根廷国立图书馆馆长的"
+          }
+        ],
+        "text_sha256": "98959b11c61ffa24c5e918d2d9bb35f49220642e674ee179fe979dca04384717",
+        "reference_scores": {
+          "pdf": 97.826,
+          "xdf": 96.739,
+          "csg": 97.826
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "1d97e0955759a8d5b7ceb3c88f0ffdbc47fd005fa65e2a9533914a17dba05e5d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "242e17173bf1fc90c0db0fe2235571fe441d8ac7592e8958046953f2a8cf9796",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "a5fa223b8eaf2722941d80c00ef9d8472c22c94c7c7e7b80f8daf01b84c46401",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.774,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "向",
+            "ref": "想",
+            "context": "2图书馆向乞丐和拾荒者免费开放对我"
+          },
+          {
+            "old": "免",
+            "ref": "年",
+            "context": "2图书馆向乞丐和拾荒者免费开放对我们处理人际关系"
+          }
+        ],
+        "text_sha256": "866b83fc5a2341496bc91972b993c05a9033fad9f137cfbf3d68c9aeed2b5db3",
+        "reference_scores": {
+          "pdf": 93.333,
+          "xdf": 90.0,
+          "csg": 93.333
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2013,
+    "q": 38,
+    "fields": [
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "个",
+            "ref": "",
+            "context": "安全繁荣价值和国际秩序四个方面组成美国通过对这些利"
+          },
+          {
+            "old": "所",
+            "ref": "",
+            "context": "界其他地区亚洲是美国最有所作为的地区同时报告将东南"
+          },
+          {
+            "old": "预",
+            "ref": "有丙",
+            "context": "类别正式盟友战略伙伴和可预期的战略伙伴显然美国准备"
+          },
+          {
+            "old": "是",
+            "ref": "",
+            "context": "所有国家成为美国的盟友或是伙伴"
+          },
+          {
+            "old": "",
+            "ref": "美国",
+            "context": "家成为美国的盟友或是伙伴"
+          }
+        ],
+        "text_sha256": "8ef2cf5d4382f3b284c7d7876e8059aad841b083617c73912d4ad3a7dd9eb606",
+        "reference_scores": {
+          "pdf": 94.048,
+          "xdf": 97.619,
+          "csg": 94.048
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "的",
+            "context": "基金会副总裁包道格说过去10年来中国在东南亚地区"
+          },
+          {
+            "old": "东",
+            "ref": "",
+            "context": "道格说过去10年来中国在东南亚地区不断扩大其利益取"
+          }
+        ],
+        "text_sha256": "9a1640024d73eb7861ee35265b2cb5b99215d033ad67d7880dc9857dfea19797",
+        "reference_scores": {
+          "pdf": 98.246,
+          "xdf": 87.719,
+          "csg": 98.246
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "316a7885d081140a11fea5484f3823e7b4d079230cd6331b5eb1b94799a7dff9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 81.25,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "亚太的",
+            "ref": "",
+            "context": "本和韩国强调美国将加大在亚太的军事部署11月下旬到12"
+          },
+          {
+            "old": "月",
+            "ref": "时",
+            "context": "美国国务卿首次访问缅甸同月奥巴马也展开亚太之行他参"
+          },
+          {
+            "old": "",
+            "ref": "是",
+            "context": "首次访问缅甸同月奥巴马也展开亚太之行他参加在夏威"
+          },
+          {
+            "old": "将",
+            "ref": "讲",
+            "context": "高调宣示美国是太平洋大国将留驻亚太通过坚持核心原则"
+          },
+          {
+            "old": "",
+            "ref": "摘编",
+            "context": "塑造其安全与繁荣至关重要"
+          }
+        ],
+        "text_sha256": "133c95a5c65befe2f7c45d1896ed115c807057f9c26ac8b118f8a98111507626",
+        "reference_scores": {
+          "pdf": 98.731,
+          "xdf": 90.102,
+          "csg": 98.477
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "7be6d33b8a0fd747a1cc2e1a137bba6840a6320f9093013c024e98a6bdb0c07d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 83.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "69f5a6b123ab40ef06eb715cd88e301c9346a8af28a2fb007fe197fa9121993a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.75,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": true,
+        "text_sha256": "fb6a7fcb71c98967a36f06cd3b00d9ae67aec23574c81e8a7664f9a3bace004a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.403,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-12",
+        "exact": true,
+        "text_sha256": "c42b5434a0b28ef7c4599ba0bb816226d0e988d9c13bbc75eb2be26ca211fdd8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "2ad1abc0a4eb2e9d202caaf18391b7b09390d8c0ac2c1a8eae760768adcbea8c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "ffa30d43f061b15c2100acdbc22e8fc1ebc69da69b42157186db5053d4045a45",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "C01",
+    "year": 2012,
+    "question": 1,
+    "before": "人不仅有直觉还有想象",
+    "after": "人不仅有知觉还有想象",
+    "reason": "C项“知觉”误录为“直觉”；采用研招网当年真题文本。",
+    "evidence": [
+      "https://yz.chsi.com.cn/kyzx/politics/201201/20120110/276596371.html",
+      "https://www.qingsuyun.com/lib/d/600120460001000200010110/"
+    ]
+  },
+  {
+    "id": "C02",
+    "year": 2013,
+    "question": 20,
+    "before": "职工选举管理者制度",
+    "after": "职工选举管理制度",
+    "reason": "C项多“者”字；高校PDF与新东方第5页一致。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980238.html",
+      "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf"
+    ]
+  },
+  {
+    "id": "C03",
+    "year": 2013,
+    "question": 21,
+    "before": "不学习西方资本主义的文明成果",
+    "after": "不借鉴西方资本主义的文明成果",
+    "reason": "B项改回新东方第5页和徐之明当年解析的“借鉴”；另有“认可”流传版本，不据其替换。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980238.html",
+      "https://www.chinakaoyan.com/info/article/id/27048.shtml"
+    ]
+  },
+  {
+    "id": "C04",
+    "year": 2013,
+    "question": 36,
+    "before": "2012年12月2日",
+    "after": "2012年12月12日",
+    "reason": "《经济日报》来源日期漏1；高校PDF与新东方第11页相同。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980238.html",
+      "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf"
+    ]
+  },
+  {
+    "id": "C05",
+    "year": 2013,
+    "question": 36,
+    "before": "到处都是活跃的创造",
+    "after": "到处都是活跃跃的创造",
+    "reason": "引文漏叠字；高校PDF与新东方第11页一致。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980238.html",
+      "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf"
+    ]
+  },
+  {
+    "id": "C06",
+    "year": 2018,
+    "question": 34,
+    "before": "如果是存在两个以上矛盾",
+    "after": "如果是存在着两个以上矛盾",
+    "reason": "《矛盾论》引文漏“着”，回看新东方第8页核对。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980265.html",
+      "https://www.csgraduates.com/study_methods/politics/2018/"
+    ]
+  },
+  {
+    "id": "C07",
+    "year": 2018,
+    "question": 34,
+    "before": "就要用全力去找出它的主要矛盾",
+    "after": "就要用全力找出它的主要矛盾",
+    "reason": "引文多“去”字，回看新东方第8页核对。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980265.html",
+      "https://www.csgraduates.com/study_methods/politics/2018/"
+    ]
+  },
+  {
+    "id": "C08",
+    "year": 2020,
+    "question": 6,
+    "before": "深化要素市场配置改革",
+    "after": "深化要素市场化配置改革",
+    "reason": "B项漏“化”；高校PDF与新东方第3页一致。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980275.html",
+      "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fb8a3633a8df34d0.pdf"
+    ]
+  },
+  {
+    "id": "C09",
+    "year": 2020,
+    "question": 12,
+    "before": "进入开始全面建设社会主义的历史阶段",
+    "after": "进入了全面建设社会主义的历史阶段",
+    "reason": "A项“进入开始”重复，按高校PDF与新东方第4页恢复。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980275.html",
+      "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fb8a3633a8df34d0.pdf"
+    ]
+  },
+  {
+    "id": "C10",
+    "year": 2023,
+    "question": 36,
+    "before": "把我国建成现代化的社会主义强国",
+    "after": "把我国建设成现代化的社会主义强国",
+    "reason": "邓小平引文漏“设”；高校PDF、新东方第12页及启航当年PDF一致。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980296.html",
+      "https://m.scqihangky.com/zb_users/upload/2022/12/202212261672022150377217.pdf"
+    ]
+  }
+]

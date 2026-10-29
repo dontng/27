@@ -1,0 +1,605 @@
+[
+  {
+    "year": 2012,
+    "reference_html": "tools/papers/audit/reference-text/2012.html",
+    "sha256": "9995acb3ead4d1f932423aac503e9d4e957bf2b15e66c80cb8e6d3778d307555",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://31202860.s21i.faiusr.com/61/ABUIABA9GAAguonxvAYo7J_aWQ.pdf",
+        "text_sha256": "4c9558689a7569b396a3ce7f9b9e8aa5e70a3d66932e8dc3a5872ef4544b8d54",
+        "download_sha256": "f4f71f93d89eac3ad3355e3979cb587499e3fe292c5a2787cad5318207e6de34"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980233.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/90f922fd11594320bc6344e7f9a8969b.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6849a13499414c4f94eb7510feaf1ebc.jpg",
+          "https://cfiles.xdf.cn/content/image/article/68da118b830a475c9ead5e5cc8ffd75d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/d5cea18a5c8f43f98a0e9f9f0d5a4a88.jpg",
+          "https://cfiles.xdf.cn/content/image/article/fecbca69496c4ecfadbd3ffe9a1db020.jpg",
+          "https://cfiles.xdf.cn/content/image/article/8f22fd0e3589424194d715042caedefe.jpg",
+          "https://cfiles.xdf.cn/content/image/article/31bf9971243e4884b1e30bb5c367613c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/26e51f4d06f1452ca5541f0e34ce64c3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/585613750b7b46dab744cabd5a60cd0f.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a5c1a29d0ffe41ab875f18e314b4419b.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6d6aa92fcacc4400824ad58d3a5ef87e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9033616489dd4760acd67b163c3d2226.jpg",
+          "https://cfiles.xdf.cn/content/image/article/3196767208324293b4a44be8f67a346f.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9a6425c58c324ab2bf5b090881cf6b8f.jpg"
+        ],
+        "text_sha256": "5345d44c8bd6a4ed6719070ef242c6cc61e8beebb5e92f66265d38e4874c6616",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2012/",
+        "text_sha256": "85d7c45943ac2acaa28826c02e8f55d6681fc7bc1bec4031bcdd5ad9d0bac0fa",
+        "download_sha256": "c3c8436e4540049f6d86396d92e6b7312bae4824da9a20eee2e6916d187f373a"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "reference_html": "tools/papers/audit/reference-text/2013.html",
+    "sha256": "6738129d4c6173aaf933f33353d02893a9d53d0aa4e48f619e717c479bb1ba4b",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf",
+        "text_sha256": "85c96f7a2dd156a4b455f1f2316e576385efbb5129b65cfe348a9a5be4f44f60",
+        "download_sha256": "fd32624aceef6645d6a6c4b2f49cef9d1e464258fc5945094fc39f7fe1c7cfdf"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980238.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/128b091a80254a84baac510af945b27e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/cdc84fc7334f488a9fb2f7e068b17334.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b69253992303488d9a7993233eef92d4.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7f82fddb05ec49ce88124763c566afa0.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ac23fa6c437944fa8d1d3ac9fe561ad8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6be9d82823274eb684938a93041f0436.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6e77ddc17b734345a4b0125172466621.jpg",
+          "https://cfiles.xdf.cn/content/image/article/56fb8da584ae483d9b5b2efae5b867d3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/70277c9928cc4228beed38e7930009d1.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ea3a846fd47746f68407b6e78815db92.jpg",
+          "https://cfiles.xdf.cn/content/image/article/24dcf8ada3f245b582c8d3d774a14e60.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a1cd48ac5e074a48846f05e62427651a.jpg",
+          "https://cfiles.xdf.cn/content/image/article/77d6af81ce71449da8f87e4b80b7eaaf.jpg"
+        ],
+        "text_sha256": "4e0aa505cdd8ff83e8acafdd7250695c09f974b7682893a320db6124eb94d50d",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2013/",
+        "text_sha256": "0ec704e79dd355277e68640f4fbd63683db0418865f3989c79623aabdb3fc645",
+        "download_sha256": "d3133cf35a5936c2cc1cc033dfa29e18ef8ea734e8b8f9b7891de9e3b10839ac"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "reference_html": "tools/papers/audit/reference-text/2014.html",
+    "sha256": "a7becf2d4a700b6d3202d9b14c70c6f406f62ec85c038f7e774e707e9ea0a4dd",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/80fce00922d3521e.pdf",
+        "text_sha256": "8e3dc13c881adfd0c17d11db2ea1520cdac36d84256f3ad067d7a0f9372dc1d3",
+        "download_sha256": "8986c3f6bfc070ff4714e07107f5764c254a87ef95cb950a46a84f43b37d619f"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980243.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/9c308dbcd85b44e5a1f6e8084f22e670.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6eba5ee68f4c42c89a8f4349a3900881.jpg",
+          "https://cfiles.xdf.cn/content/image/article/26e297ee14024a0cae7fbb71fac37df0.jpg",
+          "https://cfiles.xdf.cn/content/image/article/20d588ea44594a89950fd6aab1ba9c0e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/80ce2f6dfd28444eb8c2e43de210b9da.jpg",
+          "https://cfiles.xdf.cn/content/image/article/76def6a586164afcbb02671085a7d746.jpg",
+          "https://cfiles.xdf.cn/content/image/article/052dfc28037441baabae1187add5ae38.jpg",
+          "https://cfiles.xdf.cn/content/image/article/eadccf707ac9410195b26aadbe79f715.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e9cde22615b64c159983602496b56703.jpg",
+          "https://cfiles.xdf.cn/content/image/article/421d86bcdf2d4732901f72df4dc473de.jpg",
+          "https://cfiles.xdf.cn/content/image/article/5ddd388faabe4746b205cbbe7e9f6881.jpg",
+          "https://cfiles.xdf.cn/content/image/article/59bf27a891c84d9a8ade1e2399f60820.jpg",
+          "https://cfiles.xdf.cn/content/image/article/2131ddb65ea1494196bded8e1f82205e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c0346f04b103437596dfb02a671037ad.jpg"
+        ],
+        "text_sha256": "def02128a6b14a2c169a0044ad2ba0bf8a98fb7325fc389ddfb726ed46785da0",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2014/",
+        "text_sha256": "2c15d1b7a6e7baf9d77c46788034d66b5cb5b6e15f8e0639c3a6cdd47a4c90ff",
+        "download_sha256": "77c3e5b417517bb9f8ee867b02a2ba8aa20a3fca9356a4fa3ec6edac204ed424"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "reference_html": "tools/papers/audit/reference-text/2015.html",
+    "sha256": "b1307200f494534ceb0d0413d89fc9462a7b26001bceb47a5a426fd78a4673bf",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fd8d31fce1370441.pdf",
+        "text_sha256": "8c43fd35af07d5bea36964015363e2d304f2102dab95d40fcd1b87e9223498a8",
+        "download_sha256": "b61fb56b4063cacc2f863b8877f90c8d911196ee2eb72e2556f70a4d6433d6b6"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980250.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/e4badfd639f84350b154561eb823a03a.jpg",
+          "https://cfiles.xdf.cn/content/image/article/53785bd04faa4edcbb1f1423e9641b1b.jpg",
+          "https://cfiles.xdf.cn/content/image/article/86e324c38f06434a9650597e1f8d804b.jpg",
+          "https://cfiles.xdf.cn/content/image/article/197c22a72ec84efe824af6910f057f06.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f0ae7e2573304acf90553b61a54682ca.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9de89bbcfe9d49fea9213374dea302c3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/29976f9720484777b7fed0502d327662.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6b86a804cead4b399124949a15e10c76.jpg",
+          "https://cfiles.xdf.cn/content/image/article/0d50988734dc4b10ae68a6173f98114f.jpg",
+          "https://cfiles.xdf.cn/content/image/article/60110e46a88e4dafa5ab9096cd1a8d29.jpg",
+          "https://cfiles.xdf.cn/content/image/article/180cbe01775547dfaec320d8d690165c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/304b4956c40d4edb8889edf63ab3561d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/890bf0ce1b864d6887f6ac7528396e0e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/d716dc0c8eb14afea5b6a04112afc35d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9c30c631b5e54beaa711bdd101048ca9.jpg"
+        ],
+        "text_sha256": "2ba3271f79a991f3a85bde83e8027de7fb5216c53db9dceb89d5b4e255b69d22",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2015/",
+        "text_sha256": "4c6d650615060b7fe28834d86b1708b83c669df000f1800b8a1ad3565afc05e8",
+        "download_sha256": "04faed4df11354a10d04d78e8770f1f256167c52efffeb9d6b4c911afb6d5487"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "reference_html": "tools/papers/audit/reference-text/2016.html",
+    "sha256": "fc1724a017cfb288e8037b5219e85131cc3a0f980a74d5972ee16c649b93b6fd",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/52bc1b34ce1420ac.pdf",
+        "text_sha256": "127c703512da609f5ecc5552a65cfa845fa1cfbeb11fa8d425c1948184ed0ab6",
+        "download_sha256": "5d071599c10869213ee07014facb749ec5bd99c1cf9828133f8805a7cab06caa"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980255.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/9557956272be422fb6f1b9a6b4b2de51.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a31f8b1e7afc4970a4d0b16455460bf8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e6350aec248b4258b69daac4cb6a367d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b92a05a7622b4288aa69028013a3bc71.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ced8f9a8670e4b13a821f85d23661abf.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c91f5ab161644a0bbb137be381f72cb6.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a2e31ec6e92440639ec3d3fd66715f76.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7a037ebfeaca4ad9ae88be67f8a8cb9d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/fb202618d434405ea749400c1bd6390c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9716f95d508c4435b062b3a48f660ab7.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6672171513974ab688421b110daf0c36.jpg",
+          "https://cfiles.xdf.cn/content/image/article/227b108d3b414213a2edcac80e1beef3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/be4f69b296614142bc8cd3ce2ce35056.jpg",
+          "https://cfiles.xdf.cn/content/image/article/4b40791428794aeca97e42658a80f632.jpg"
+        ],
+        "text_sha256": "d60f08c7ed9b13ef15b1e6c57ae9e94f531e13cade1bcfc96033a77740704bdb",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2016/",
+        "text_sha256": "28b20692cae3e0926d0894c8a4981c63f275a629e8e1dd7d73c7009c35da67af",
+        "download_sha256": "a0ffafaca04061b9dad2103f58a26e3502982a67486629e1992daf041f0b9127"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "reference_html": "tools/papers/audit/reference-text/2017.html",
+    "sha256": "b46779d54c3c9e92f0b941637c55448caa03da31e06593f6a28c15ad14cb1de6",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/ef7e656229b14ffe.pdf",
+        "text_sha256": "69f00ef5b1e4f5c8d97442704556a60293c4a6f01cf98d0ed556b1146c5c340e",
+        "download_sha256": "82e3fa748b7e5bb3990c7ab5cd3135b73e955999204c79b9f3ee94cbf8f92c5d"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980260.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/e429d01bfe08445fbc6ac14b952a4200.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f57a260997ed40829448be61d86afb03.jpg",
+          "https://cfiles.xdf.cn/content/image/article/8f139b88cc1645c997d326b2f4dd1296.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e214e45ee15d423c98117d952c6c6bf8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/802be121757342aeadd56186a706ad2f.jpg",
+          "https://cfiles.xdf.cn/content/image/article/2ee83753e9aa4c35b02dac6b7caf5655.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f456befc84f5480190e84b832aad41c8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/d2ac5422d00d4a7eb031c76ed406dfc5.jpg",
+          "https://cfiles.xdf.cn/content/image/article/bee27d2c19c74028aad9b165aae265dc.jpg",
+          "https://cfiles.xdf.cn/content/image/article/39a9aaeb57254fd68bf0237a773717e0.jpg",
+          "https://cfiles.xdf.cn/content/image/article/653a4af25a2c4db6b2afeb46befaeaae.jpg",
+          "https://cfiles.xdf.cn/content/image/article/87c3e238ca4746a4877bb45fb7619c21.jpg",
+          "https://cfiles.xdf.cn/content/image/article/4da4c6f894ba4682bfac9b593147c3e2.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6030a74da18e470f87022a05d1218d0f.jpg"
+        ],
+        "text_sha256": "46d6869001ae475c598eb6302bd8a0c17ca9788cd326f44fd0415b23bf41274b",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2017/",
+        "text_sha256": "ed8cce8eee8c70b88012e39f9be8ee936c8307eb14cdcc982e9a0b31f7616927",
+        "download_sha256": "f100e77a1a1abb93b6410cebbb102b9aa7d85794a4d2a2a3cbfb4608d37f242a"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "reference_html": "tools/papers/audit/reference-text/2018.html",
+    "sha256": "00aa976037ab696a308b3a633f7345f56b7924433791b1e1e4fa61050ae08b74",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/aa722ead55dc4dbc.pdf",
+        "text_sha256": "3f01ef99a23ee4e165bf2ec59e8b720a9312421837d1b084358d2f38138ed3e3",
+        "download_sha256": "70480930c83a800f54ecfe89a8bf5fd007c0d04cb5cd447046aa6d1ade7665fd"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980265.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/8d639c6bf8a84056b79448ea2d9b0a8e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/16390123fc2f4b15aa8907fdc9a71906.jpg",
+          "https://cfiles.xdf.cn/content/image/article/29e33a39ed8144a9987e17581dec275c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/4c443d7e7995495faee19fbd2db43a55.jpg",
+          "https://cfiles.xdf.cn/content/image/article/692954bbd8034971b5c613e9cf1ad8c1.jpg",
+          "https://cfiles.xdf.cn/content/image/article/778c513c56b64e78ac22a9386780a7a4.jpg",
+          "https://cfiles.xdf.cn/content/image/article/dca978c0b32e42e5b0bf3a575314d510.jpg",
+          "https://cfiles.xdf.cn/content/image/article/79bf5dd42c824280a580b13c6babcb9d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c7d56bffa7854be3b5fa97d34eebcb1d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ee5a3f4da3414646b423b676ee122ec7.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7f0642edeae44de18627cfe4060ead41.jpg",
+          "https://cfiles.xdf.cn/content/image/article/2d48c3e40615435db5ede150aac47f98.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ec3fc53b3ed34a54ac413803fbac33d0.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7e14a540858e4845b11d643eedeefa14.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c55ac39b3ca64a8ba117d1b3c4e66078.jpg"
+        ],
+        "text_sha256": "c15cdd96cfd3339cc5e6d68426b233e6667af18bad5d5e0ccfe8833908e4519a",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2018/",
+        "text_sha256": "2679395a5a1e19a0e26406a6b08517a47a7eff5dc5ce0eb6fb6972d37f4a76e7",
+        "download_sha256": "a14bbcda766ec97ba6634c31129240460948edce454c636b8df4e7cad46a2fc9"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "reference_html": "tools/papers/audit/reference-text/2019.html",
+    "sha256": "fafe246d6c916b68a8fe195206f024b9530e5bbb15eea548a12d273e835fbb08",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fe440afcb892077f.pdf",
+        "text_sha256": "f9968f64925d80e69ce7882cf9afb8d4500d0a8ebc58d022d95a49b2d3359ebe",
+        "download_sha256": "d26870d27f5f3397d838b83b9f023ae885ccbd3a42d38fd5842c8eb952c09af7"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980270.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/9d697d6283f94cf688af13eefa53c16d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b8358f4f45714b6182427f3c9b598283.jpg",
+          "https://cfiles.xdf.cn/content/image/article/af255826288a41b380e6ed81cd231206.jpg",
+          "https://cfiles.xdf.cn/content/image/article/677e433c171746fabff61e9649414443.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e1972b45f5e9408488b51c72c0593723.jpg",
+          "https://cfiles.xdf.cn/content/image/article/0d8e725511d9435185a8d6947fcd4086.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b8592f09a1d84a588e05333e464f4db2.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b60066f4b2144c7b81b7adf186ce3acb.jpg",
+          "https://cfiles.xdf.cn/content/image/article/75d51e0f66a7439b8e5964eb8ff79dd3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c600d5f6baf54fafabb0ac1f580f2884.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a657cbcd3c63442987fe43069eb7221c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a7885493742e4afbba4675506c62d07f.jpg",
+          "https://cfiles.xdf.cn/content/image/article/42154ef9c7b943f49bc995c25c1af66f.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c33c5f19148b478f9b92d55d618ea837.jpg"
+        ],
+        "text_sha256": "e2017af9524856665cf407bc1eba6a8fa263e01d2e98fe1da48fd711ecf83b55",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2019/",
+        "text_sha256": "cbfbbd5502b8a1c167242d279735e18d5c053a5971020cb8f9d37e06147162bf",
+        "download_sha256": "b879678b2f7f3bb1ab4af9cbb56f035df15b97c10700febcaeafd27840110e73"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "reference_html": "tools/papers/audit/reference-text/2020.html",
+    "sha256": "1631d3a3100278198cdf482d6b33e723381912a168621661eaffa2f20bc40fec",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fb8a3633a8df34d0.pdf",
+        "text_sha256": "e6c16b8de3e72d91d32eca269dc8d58c60abf01753414b8b57901e56591b7df9",
+        "download_sha256": "d97def3d70d1afc432797e1276c5b4bf0edf3b5b668978b5efc77b960529baec"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980275.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/d9406a63e38d48a3b7193c6e3c028c2c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/05771e683bcb4f7189288c39bd5c0971.jpg",
+          "https://cfiles.xdf.cn/content/image/article/cc88da1e81b0425ba7c8d3fed90f2852.jpg",
+          "https://cfiles.xdf.cn/content/image/article/bcec99a923934d84b60bd9ad45f68824.jpg",
+          "https://cfiles.xdf.cn/content/image/article/2640546966be42b2a7a0f7945a05a868.jpg",
+          "https://cfiles.xdf.cn/content/image/article/c11a9e3d4db047ffb65a4648db0943d7.jpg",
+          "https://cfiles.xdf.cn/content/image/article/3140b19ee18843679b66460ddcf0d9bd.jpg",
+          "https://cfiles.xdf.cn/content/image/article/04ce93101e7a4efb881e30a0cbfbc15a.jpg",
+          "https://cfiles.xdf.cn/content/image/article/0183aadeb61c492a8da48ce651c83da1.jpg",
+          "https://cfiles.xdf.cn/content/image/article/36dde3591fc9473f9dd32a5a05966afa.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6f85f0c38d3e4a62ba343640c3632739.jpg",
+          "https://cfiles.xdf.cn/content/image/article/218a6c3200dd41f4b79d0e4efc357d83.jpg",
+          "https://cfiles.xdf.cn/content/image/article/38acf63de3774030be06b2168c972cd4.jpg",
+          "https://cfiles.xdf.cn/content/image/article/582d4a0010944ad18220dd7ae083a224.jpg"
+        ],
+        "text_sha256": "d9419c5c026b3aa4989c985242bad8b58ec9f151ae5845641b56b2cbf1e13b7e",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2020/",
+        "text_sha256": "633f78a1a8dc6c31ae2ca145a59faf0a71c79e786b5dc02ff676f7444eabecfc",
+        "download_sha256": "444b534a2425c6b5317a4e3edb1f57a7300d6a3f7588257f1c7ee0131306d062"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "reference_html": "tools/papers/audit/reference-text/2021.html",
+    "sha256": "393bfe24d7ec6f5bb50d6afa61524764d8570b7cf0e5e34d92cfda48db52c76b",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/12a2177b1eec778a.pdf",
+        "text_sha256": "e3ff9e4f84c025df6d7a659f35bbf423e04e1ddb281c25d02f600195fdcbbc06",
+        "download_sha256": "b1abefb2a02e292eeedf666df06453d9086af4dac33ace2ff7e7eee24b73b665"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980280.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/bf84f8f7942140bfb7280f16565055b3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/1cc420259d6a4a158901622f0590c2fa.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f62e1a08dbb24833af8c6c641e72b111.jpg",
+          "https://cfiles.xdf.cn/content/image/article/631a60e5e0a74ee58695747d9e34d91e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a95ad3a64eec45c3a968d0093d809d1b.jpg",
+          "https://cfiles.xdf.cn/content/image/article/2640b18663ba4abbb4fdee9ce2ac83b8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/12bb6a3dc84b4d468baabac99aba4159.jpg",
+          "https://cfiles.xdf.cn/content/image/article/daa5ced5debd4ec1a892903a0456bcce.jpg",
+          "https://cfiles.xdf.cn/content/image/article/24fbc61375e644a2863c25fcc649b979.jpg",
+          "https://cfiles.xdf.cn/content/image/article/6b572180ecce488fb1ae70ded9d512a2.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a0045fa740304ab7afed4fbf72dee4cb.jpg",
+          "https://cfiles.xdf.cn/content/image/article/45c9729795cb4cd49d79d83b84288c02.jpg",
+          "https://cfiles.xdf.cn/content/image/article/dcf0372393584c6ba8fdedc8a7a7a94a.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e68e7bc4263a462dbd48f11819cb86ba.jpg",
+          "https://cfiles.xdf.cn/content/image/article/5374ec7e2cf4440db7d0cacfa2e91a35.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ea924e43b942443a9d22c2f75f617a48.jpg"
+        ],
+        "text_sha256": "c67fb3c022d103d4435517241c7ee4669995f0391da6c215d62699e5247902e3",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2021/",
+        "text_sha256": "854312aea7f371643318f0cdafd81fbd844d945f0cbe7f8be0504cc8c1c0c16e",
+        "download_sha256": "a9fa9036e1c5f111f9891b477d7b525d212c395b6833d15783fabdeccf1d2c3c"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "reference_html": "tools/papers/audit/reference-text/2022.html",
+    "sha256": "dccc0f474610bd87c452b14290c36859370ec676bc1d1bae552289280e3e0373",
+    "sources": [
+      {
+        "type": "preview",
+        "url": "https://www.yeyulingfeng.com/wendang/374413.html",
+        "text_sha256": "1c7d5086701fffea274c954a80141567fbb5efd0f4e7f68f1533cfe82b423b7f",
+        "download_sha256": "b15d34e213706874aa9c17034fb72e603e71714dcafcaa4de5d91af12bed823a",
+        "note": "高校PDF无法正常提取，改用公开文档预览的完整试题文本；未把失败PDF作为核验依据。"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980285.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/dd6da84a52a74b969bbab3bec8dbde85.jpg",
+          "https://cfiles.xdf.cn/content/image/article/656d1e41d09f46039a52e3e6f7da015e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b366e0f8219448fca39b1c624a534dde.jpg",
+          "https://cfiles.xdf.cn/content/image/article/1df34d22dc40473487d77caf6e82e973.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f2ec6970c86844d58908143d8f1529a2.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e5e1222bbc2f46c8ab156d15b7ce6459.jpg",
+          "https://cfiles.xdf.cn/content/image/article/1ba25cc0c4364ea39bf5ed8f119bdb18.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9dd75bedd98645c19d8cc4c5f8e37bc6.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f328b458518d4af597b7225a865eb364.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f71c1a7cc04c4428992c0b3f0cf2e394.jpg",
+          "https://cfiles.xdf.cn/content/image/article/3b2fc168090f494d864ce8058a8d1c3c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/990c1a74fdb94db68a20f60d632b6bb9.jpg",
+          "https://cfiles.xdf.cn/content/image/article/4c178f22f2d54f2baf1e337e9515f776.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ca659345a66a46fc8da122cb092abf66.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e074af981b9f40cf90506657652cc59e.jpg"
+        ],
+        "text_sha256": "64207029c7a1ce084e2909a84de4e60e8784e185a279410db2da9a2914c9d3fb",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2022/",
+        "text_sha256": "88e55fc44d094fcf094a7abb8606094014b4fb5341ce98034c67fd3a2ac44d0a",
+        "download_sha256": "bfeac925264df2100e6123892170144ab876c8fdb7235010b26a411c666001d6"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "reference_html": "tools/papers/audit/reference-text/2023.html",
+    "sha256": "ac4b68b10a3dd9fd5599184a94613d8a9ed211cec0dcef68e43d93b65fea4053",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/148ebcad6cdfd251.pdf",
+        "text_sha256": "0e4e1fab0b2b72643b76e161d7b8063d2b178350c22c95bb9d4fc533f2090299",
+        "download_sha256": "c8e9c9c159718bf84e79a757cee4f25486fecc7598ea310a1288f7b42cffea52"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980296.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/9a6e681c56084e358763a5dc6f63db61.jpg",
+          "https://cfiles.xdf.cn/content/image/article/d6d96be6477e4ba38b6c87aef04445e5.jpg",
+          "https://cfiles.xdf.cn/content/image/article/5ce5e95e49cb463080a5566e6548e2a3.jpg",
+          "https://cfiles.xdf.cn/content/image/article/06f000cfa22f40918433f1efb7a03624.jpg",
+          "https://cfiles.xdf.cn/content/image/article/5e382098166d42109b456390c48c66a5.jpg",
+          "https://cfiles.xdf.cn/content/image/article/5e97c6dfd2f14a648107964619b5b2fc.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f7a2b16d2d4d42ff8cba029b9db395a8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/924b7722174d4ecf9cc7eb46ecc11de1.jpg",
+          "https://cfiles.xdf.cn/content/image/article/295541acfe604aa0b99134f94f9216b5.jpg",
+          "https://cfiles.xdf.cn/content/image/article/448043f9d89345ae9d164eaf54d12bfe.jpg",
+          "https://cfiles.xdf.cn/content/image/article/54b21baea7414407a8b48e6392f4db55.jpg",
+          "https://cfiles.xdf.cn/content/image/article/92a5c8c258cc414f9fefde3c7da07e91.jpg",
+          "https://cfiles.xdf.cn/content/image/article/192548bcdc374dbc89fe13ed71a17c7b.jpg",
+          "https://cfiles.xdf.cn/content/image/article/53ba4cc6efcc4be596e347889a27cc33.jpg",
+          "https://cfiles.xdf.cn/content/image/article/e41e7ae032b442dea8e54ea4a43ddc5e.jpg"
+        ],
+        "text_sha256": "479c1f49754f574fff7378420c4441550f78f20ce6dd785d4d73789a7ea2da8c",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2023/",
+        "text_sha256": "9635783df8e4e277f357c32a01245b2de6257a707d645fbf5f35ff3a49d747b7",
+        "download_sha256": "013693f566a88a586e81ee608cf84439f989ab29b1261d39ef2aabb66b103fbb"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "reference_html": "tools/papers/audit/reference-text/2024.html",
+    "sha256": "b54a78df266b907f07b6fcaa54fdf6047cc24d0fc4c3f8c8b3b23343ded251a9",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/5d686b973abe5381.pdf",
+        "text_sha256": "d630e45152a8a58fc6283d2bffff8ea26c2a542948f48eb9fc5f2588f53b1aa8",
+        "download_sha256": "601d7603630b8b49e2009333dc4cad43f2fa914df960327ae3f925f997425eaf"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202411/13980301.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/ab0a1f12d7814dc2b1adf03f14ad83e5.jpg",
+          "https://cfiles.xdf.cn/content/image/article/88aa660821f54f84ba12a411b577c33c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/d0e37d0ddfaf4aa79599f0c16cbb465e.jpg",
+          "https://cfiles.xdf.cn/content/image/article/f05e635f103f4fd4a95ba3c3ece42c69.jpg",
+          "https://cfiles.xdf.cn/content/image/article/31c67cfe16bc4424896943c96b810b28.jpg",
+          "https://cfiles.xdf.cn/content/image/article/1a9873cd291545798a043c224d56744c.jpg",
+          "https://cfiles.xdf.cn/content/image/article/9ec6f089ee7046ef86b3e225c440d7f8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/b2c6f0b7b36b492ea5bf6d0630c49f65.jpg",
+          "https://cfiles.xdf.cn/content/image/article/afe76f82009e41bc84920ecaaf2b8054.jpg",
+          "https://cfiles.xdf.cn/content/image/article/1c35f7a4551d4b299a6119bc36e244de.jpg",
+          "https://cfiles.xdf.cn/content/image/article/2ca6844d16e44315ae81a2eb66c25ef8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7609fd6656dc4ca89be63aa91648fd7d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/80d0d41e1f6044e4855883511c2fdfec.jpg",
+          "https://cfiles.xdf.cn/content/image/article/596a075ccf24442f96e46c972e11b132.jpg",
+          "https://cfiles.xdf.cn/content/image/article/4a24948690de410f936b2d9bb6f9e13d.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7043d0c5a9634ec19c0f98762ff539a7.jpg",
+          "https://cfiles.xdf.cn/content/image/article/032f8bad3e15441aa28f1214ed279a53.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7be0636571984b6ba17544cc79293ee1.jpg",
+          "https://cfiles.xdf.cn/content/image/article/fe64c34c1647491d8b91bd316fe08252.jpg",
+          "https://cfiles.xdf.cn/content/image/article/30e634ac6ee746ac8d2d71848ac6ede8.jpg",
+          "https://cfiles.xdf.cn/content/image/article/a652d1c35bad43f2a2b4897bc8ac1a04.jpg",
+          "https://cfiles.xdf.cn/content/image/article/7dd2c29c302b40549f790bcbd4f04dd5.jpg",
+          "https://cfiles.xdf.cn/content/image/article/ec6f89118f084ff6a95587ab5178ec64.jpg"
+        ],
+        "text_sha256": "dd667c4f1910b3c673a835b62dcc9b61e66f315fa64a6e885eba17afc1f431fe",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2024/",
+        "text_sha256": "c812d830c3fe33f66e984e07de7d2580aa683d1b0ffd8ce23ea55306021a7d49",
+        "download_sha256": "11bbda35fa9ce3cd3c7a8a9e9d68856c0f6c832f34cfe2e872905d8e11bb6767"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "reference_html": "tools/papers/audit/reference-text/2025.html",
+    "sha256": "5840178840e79e20547621cb38bbb58626403441f30c9678ba6a65045c823eb5",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://edu.xaiu.edu.cn/__local/F/70/01/50746677F11FF187B5D43B0E760_18751FEC_70206.pdf",
+        "text_sha256": "8251255744a568af8f11dfee4460a1fb3bcec63bca004d3c2522c9c921c74aec",
+        "download_sha256": "1471267937e3664a8a156590eadb69cebe021bad3e4363931c2fb48eae18f972"
+      },
+      {
+        "type": "xdf",
+        "url": "https://kaoyan.xdf.cn/202501/14059241.html",
+        "images": [
+          "https://cfiles.xdf.cn/content/image/article/616fcb1bd34d4704adb1aae56f6e1924.png",
+          "https://cfiles.xdf.cn/content/image/article/bf65569aebab435a9fdfdbbf59d50919.png",
+          "https://cfiles.xdf.cn/content/image/article/c91367ed6bcb47189cdd4a22662349ae.png",
+          "https://cfiles.xdf.cn/content/image/article/956b1f36ace64675b25cfaa61b3d3946.png",
+          "https://cfiles.xdf.cn/content/image/article/08a9fabf21fa47dc8c9a636d0b5cd16e.png",
+          "https://cfiles.xdf.cn/content/image/article/56c7807476ea487cbcdedbd43bf86f1b.png",
+          "https://cfiles.xdf.cn/content/image/article/5a7aff8c4c714d0d826052d01dbc0068.png",
+          "https://cfiles.xdf.cn/content/image/article/8a9bc995e0ed4c2497a41129e015b81f.png",
+          "https://cfiles.xdf.cn/content/image/article/79d41687c1664cbf83ad283d3f3508aa.png"
+        ],
+        "text_sha256": "557fb48a47e30ca0b24d0a402b1f885beef77b8d745f4fee76411587c26f9e92",
+        "ocr": "tesseract 5 / chi_sim tessdata_fast / PSM 3"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2025/",
+        "text_sha256": "16152de2d061fb3d0b1207e651ea41519c6e2e9f99d6df1c7d151956e91d78c3",
+        "download_sha256": "546b2cc166b4bfaa483e2a6d4508ca0a8ddc9332178b1bcc2ed39a34432730ae"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "reference_html": "tools/papers/audit/reference-text/2026.html",
+    "sha256": "4e297bd0c08c90544ae9e1a340f02bdc473e52df918e17f8aeebd02422378a52",
+    "sources": [
+      {
+        "type": "pdf",
+        "url": "https://static.kaoyan.cn/file/question/2025/12/20/e42f4c7191a84bde7b9688900c790a1a.pdf",
+        "text_sha256": "48ad34ad52f098ce38d735593ec4143e0546ede174c88d459c8a591e2f07c43e",
+        "download_sha256": "ed008fc478bcb9eefdbba7f1872515c9aa7d920fdbb8d091686a71a90efd713e"
+      },
+      {
+        "type": "csg",
+        "url": "https://www.csgraduates.com/study_methods/politics/2026/",
+        "text_sha256": "4b33642432d332b80f55d1ac8af2edfab2168ec62f58acabcb7f28de51bbb0d9",
+        "download_sha256": "e8873f0cd765eeec9fa23cbcc9c263198cd387b4ea8868253b27ee38e62b933b"
+      }
+    ]
+  }
+]

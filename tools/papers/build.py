@@ -7,7 +7,7 @@ Default input: tools/papers/source-cache/*.html (question-only source snapshots)
 Original HTTP response hashes are retained in each snapshot comment.
 Visual browser QA was attempted but Chromium download was unavailable; no visual approval claimed.
 """
-import argparse, hashlib, html, re, urllib.request
+import argparse, hashlib, html, re, urllib.request, json
 from pathlib import Path
 from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[2]; OUT=ROOT/'papers'
@@ -24,6 +24,12 @@ def build(cache,years):
   if not p.exists():
    cache.mkdir(parents=True,exist_ok=True);p.write_bytes(urllib.request.urlopen(url,timeout=60).read())
   raw=p.read_bytes();s=BeautifulSoup(raw,'html.parser');qs=s.select('[data-question-id]');assert len(qs)==38
+  patchfile=ROOT/'tools/papers/corrections.json'
+  patches=json.loads(patchfile.read_text()) if patchfile.exists() else []
+  for patch in [z for z in patches if z['year']==y]:
+   q=qs[patch['question']-1];hits=[t for t in q.find_all(string=True) if patch['before'] in t]
+   assert len(hits)==1,(patch['id'],'ambiguous patch')
+   hits[0].replace_with(str(hits[0]).replace(patch['before'],patch['after']))
   chunks=[];text_pairs=[];counts=[0,0,0];analysis_scores=[]
   for n,q in enumerate(qs,1):
    assert int(q['data-question-id'].split('_')[-1])==n
@@ -50,7 +56,7 @@ def build(cache,years):
   toolbar=nav(y,years)+'<div class="toolbar"><button onclick="window.print()">打印试卷</button><button onclick="document.body.classList.toggle(\'with-space\')">显示／隐藏答题留白</button><a href="sources.html#year-'+str(y)+'">来源与校验</a></div>'
   head=f'<header><h1>{y} 年全国硕士研究生招生考试</h1><p class="subtitle">思想政治理论 · 真题整理版</p><div class="meta"><span>科目代码：101</span><span>满分：100 分</span><span>考试时间：180 分钟</span></div></header>'
   qnav='<nav class="qnav" aria-label="题号导航">'+''.join(f'<a href="#q{n}">{n}</a>' for n in range(1,39))+'</nav>'
-  foot=f'<footer><p>题目来源：<a href="{url}">过级鸭 · {y} 年考研政治真题</a>。本页收录题干、选项、分析题材料和设问，未收录网站解析。已校验题号与结构；尚未完成全部试题的原卷逐字复核。</p>'+nav(y,years)+'</footer>'
+  foot=f'<footer><p>题目来源：<a href="{url}">过级鸭 · {y} 年考研政治真题</a>。本页收录题干、选项、分析题材料和设问，未收录网站解析。已进行跨来源全文审核；公开整理版本仍存在异文，参见审核记录。</p>'+'<p><a href="audit.html#year-'+str(y)+'">双轮审核记录与版本差异</a></p>'+nav(y,years)+'</footer>'
   target=OUT/f'{y}.html';target.write_text(H(f'{y} 年考研政治真题',toolbar+head+qnav+''.join(chunks)+foot))
   # Independent round-trip: all extracted source strings must survive escaped HTML serialization.
   rendered=BeautifulSoup(target.read_text(),'html.parser');articles=rendered.select('article')
@@ -59,9 +65,9 @@ def build(cache,years):
    for t in strings:assert normalized(t) in normalized(a.get_text()),(y,q['data-question-id'])
   records.append((y,url,hashlib.sha256(raw).hexdigest(),hashlib.sha256(target.read_bytes()).hexdigest(),analysis_scores))
  cards=''.join(f'<a href="{y}.html"><strong>{y} 年</strong><small>单选 16 · 多选 17 · 分析 5</small></a>' for y in years)
- OUT.joinpath('index.html').write_text(H('考研政治历年真题',f'<h1>考研政治历年真题</h1><p class="subtitle">{years[0]}—{years[-1]} · {len(years)} 套 · {38*len(years)} 道题</p><p>按年份整理试卷，保留题干、四个选项、分析题材料与设问。每年一份独立 HTML，下载后可直接在浏览器阅读和打印。</p><div class="years">'+cards+'</div><p class="note">年份按招生考试年度标注，例如 2026 年真题对应 2025 年底举行的考试。本批为题目收集与排版，尚未完成全部原卷逐字复核。已知缺项：2012 年第 4 题漫画原图尚未取得，题干和选项已保留。</p><p><a href="sources.html">查看来源与校验记录</a></p>'))
+ OUT.joinpath('index.html').write_text(H('考研政治历年真题',f'<h1>考研政治历年真题</h1><p class="subtitle">{years[0]}—{years[-1]} · {len(years)} 套 · {38*len(years)} 道题</p><p>按年份整理试卷，保留题干、四个选项、分析题材料与设问。每年一份独立 HTML，下载后可直接在浏览器阅读和打印。</p><div class="years">'+cards+'</div><p class="note">年份按招生考试年度标注，例如 2026 年真题对应 2025 年底举行的考试。2012 年第 4 题漫画已补回。题目已进入双轮全文审核；公开版本异文与修订依据见审核记录。</p><p><a href="sources.html">查看来源与校验记录</a> · <a href="audit.html">查看双轮审核及版本差异</a></p>'))
  items=''.join(f'<section class="source-item" id="year-{y}"><h2>{y} 年</h2><p><a href="{y}.html">试卷</a> · <a href="{u}">文字来源</a></p><p>结构检查：16 单选、17 多选、5 分析题；题号 1—38 连续；132 项选项完整；每道分析题均含材料及至少两个设问。分析题分值：'+ '、'.join(map(str,scores))+'，合计 50 分。</p><p>源网页 SHA-256：<code>'+sh+'</code><br>试卷 HTML SHA-256：<code>'+oh+'</code></p></section>' for y,u,sh,oh,scores in records)
- OUT.joinpath('sources.html').write_text(H('政治真题 · 来源与校验', '<nav><a href="index.html">返回年份目录</a></nav><h1>来源与校验记录</h1><p>采集日期：2026-10-29。保存公开试题内容，不采集网站会员解析或参考答案。生成脚本：tools/papers/build.py；输入为 tools/papers/source-cache 下的逐年 HTML 题目快照（仅保留来源网页的试题容器，原响应摘要见快照注释）；可离线重建或按原网址重新采集。校验涵盖题号、选项数、材料、设问、分值和提取前后文本一致性，不等同于原卷逐字审核。</p><p>已知缺项：2012 年第 4 题的多个公开文字版及图片版均缺漫画，本页已明确标记待补，未用重绘图替代原图。</p><p>2012 年第 34 题 12 分、第 38 题 8 分：保留源页面分值，并以<a href="https://yz.chsi.com.cn/kyzx/politics/201208/20120827/337816885.html">研招网当年试卷评析</a>交叉核对。2026 年另以<a href="https://static.kaoyan.cn/file/question/2025/12/20/e42f4c7191a84bde7b9688900c790a1a.pdf">中国教育在线考研平台试卷 PDF</a>抽查题型及第 1—9 题，未用参考答案反推题目。</p>'+items))
+ OUT.joinpath('sources.html').write_text(H('政治真题 · 来源与校验', '<nav><a href="index.html">返回年份目录</a></nav><h1>来源与校验记录</h1><p>采集日期：2026-10-29。保存公开试题内容，不采集网站会员解析或参考答案。生成脚本：tools/papers/build.py；输入为 tools/papers/source-cache 下的逐年 HTML 题目快照（仅保留来源网页的试题容器，原响应摘要见快照注释）；可离线重建或按原网址重新采集。校验涵盖题号、选项数、材料、设问、分值和提取前后文本一致性，不等同于官方原卷认证。另见 <a href="audit.html">双轮全文交叉审核记录</a>。</p><p>2012 年第 4 题漫画已从新东方公开试卷第 2 页提取并内嵌至 HTML。原图来源、提取范围与校验摘要见审核记录。源快照保留最初采集版本，字词修订通过 tools/papers/corrections.json 应用，避免改写原始来源。</p><p>2012 年第 34 题 12 分、第 38 题 8 分：保留源页面分值，并以<a href="https://yz.chsi.com.cn/kyzx/politics/201208/20120827/337816885.html">研招网当年试卷评析</a>交叉核对。2026 年另以<a href="https://static.kaoyan.cn/file/question/2025/12/20/e42f4c7191a84bde7b9688900c790a1a.pdf">中国教育在线考研平台试卷 PDF</a>抽查题型及第 1—9 题，未用参考答案反推题目。</p>'+items))
  print(f'Built {len(years)} papers / {len(years)*38} questions; round-trip checks passed.')
 def check():
  years=sorted(int(p.stem) for p in OUT.glob('[0-9][0-9][0-9][0-9].html'))
@@ -71,6 +77,12 @@ def check():
   report=BeautifulSoup((OUT/'sources.html').read_text(),'html.parser').find(id=f'year-{y}')
   assert hashlib.sha256(p.read_bytes()).hexdigest() in report.get_text(),f'{y}: digest mismatch'
   assert not s.select('script[src],link[href],img[src^="http"]')
+  patchfile=ROOT/'tools/papers/corrections.json'
+  if patchfile.exists():
+   for patch in json.loads(patchfile.read_text()):
+    if patch['year']==y:
+     q=s.find(id='q'+str(patch['question']));assert patch['after'] in q.get_text(),patch['id']
+     assert patch['before'] not in q.get_text(),patch['id']
   for a in s.select('a[href]'):
    h=a['href']
    if h.startswith(('http:','https:','#')):continue
