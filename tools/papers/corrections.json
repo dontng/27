@@ -9,7 +9,8 @@
     "evidence": [
       "https://yz.chsi.com.cn/kyzx/politics/201201/20120110/276596371.html",
       "https://www.qingsuyun.com/lib/d/600120460001000200010110/"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C02",
@@ -21,7 +22,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980238.html",
       "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C03",
@@ -33,7 +35,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980238.html",
       "https://www.chinakaoyan.com/info/article/id/27048.shtml"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C04",
@@ -45,7 +48,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980238.html",
       "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C05",
@@ -57,7 +61,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980238.html",
       "https://www.btmc.edu.cn/__local/9/A4/25/57748ADB6C2C448942919ADAF1A_7334173C_766F2.pdf?e=.pdf"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C06",
@@ -69,7 +74,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980265.html",
       "https://www.csgraduates.com/study_methods/politics/2018/"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C07",
@@ -81,7 +87,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980265.html",
       "https://www.csgraduates.com/study_methods/politics/2018/"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C08",
@@ -93,7 +100,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980275.html",
       "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fb8a3633a8df34d0.pdf"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C09",
@@ -105,7 +113,8 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980275.html",
       "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fb8a3633a8df34d0.pdf"
-    ]
+    ],
+    "found_in_round": 1
   },
   {
     "id": "C10",
@@ -117,6 +126,46 @@
     "evidence": [
       "https://kaoyan.xdf.cn/202411/13980296.html",
       "https://m.scqihangky.com/zb_users/upload/2022/12/202212261672022150377217.pdf"
+    ],
+    "found_in_round": 1
+  },
+  {
+    "id": "C11",
+    "year": 2016,
+    "question": 12,
+    "before": "关于清算、减租以及土地问题的指示",
+    "after": "关于清算、减租及土地问题的指示",
+    "found_in_round": 2,
+    "reason": "复核文献题名，将“以及”恢复为“及”；采用研招网2016年当年真题正文，与新东方图版第4页一致。",
+    "evidence": [
+      "https://yz.chsi.com.cn/kyzx/politics/201603/20160303/1524619376.html",
+      "https://kaoyan.xdf.cn/202411/13980255.html"
+    ]
+  },
+  {
+    "id": "C12",
+    "year": 2017,
+    "question": 7,
+    "before": "在“四个全面”战略布局居于引领地位",
+    "after": "在“四个全面”战略布局中居于引领地位",
+    "found_in_round": 2,
+    "reason": "漏“中”字；新东方第3页和中国教育在线当年真题正文相同。",
+    "evidence": [
+      "https://kaoyan.xdf.cn/202411/13980260.html",
+      "https://kaoyan.eol.cn/shiti/zhengzhi/201612/t20161224_1478683.shtml"
+    ]
+  },
+  {
+    "id": "C13",
+    "year": 2020,
+    "question": 8,
+    "before": "发表40周年纪念日上的讲话",
+    "after": "发表40周年纪念会上的讲话",
+    "found_in_round": 2,
+    "reason": "“纪念日”误为活动名称，“纪念会”见高校PDF和新东方第3页。",
+    "evidence": [
+      "https://szb.ztbu.edu.cn/attachment/sites/item/2025_06/03_17/fb8a3633a8df34d0.pdf",
+      "https://kaoyan.xdf.cn/202411/13980275.html"
     ]
   }
 ]

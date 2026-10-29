@@ -38,5 +38,6 @@
     "round-1/2025.json",
     "round-1/2026.json"
   ],
-  "reference_metadata_correction": "2022参照正文未改变，修正其来源标签为公开预览页面，排除失败高校PDF的错误归属。"
+  "reference_metadata_correction": "2022参照正文未改变，修正其来源标签为公开预览页面，排除失败高校PDF的错误归属。",
+  "short_fields_supplement": "round-1-short-fields.json"
 }

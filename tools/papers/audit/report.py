@@ -20,15 +20,15 @@ for n in [1,2]:
   r=json.loads(p.read_text());r['questions']=[q for f in r['question_files'] for q in json.loads((D/f).read_text())];rounds.append(r)
 patches=json.loads((R/'tools/papers/corrections.json').read_text());E=html.escape
 body='<nav><a href="index.html">年份目录</a> · <a href="sources.html">采集来源</a></nav><h1>政治真题双轮审核记录</h1>'
-body+='<p>审核日期：2026-10-30。两遍采用相同流程和相同参照集，每遍重新读取全部2012—2026年HTML，对570题的题干、四个选项、材料各段和全部子问进行全文比对，复核差异并核查修订处。第二遍不只检查第一遍改动。文字比对仅归一化标点、空白和全半角。</p>'
+body+='<p>审核日期：2026-10-29。两遍采用相同流程和相同参照集，每遍重新读取全部2012—2026年HTML，对570题的题干、四个选项、材料各段和全部子问进行全文比对，复核差异并核查修订处。第二遍不只检查第一遍改动。文字比对仅归一化标点、空白和全半角。</p>'
 body+='<p>比对参照包括高校公开PDF、新东方公开图版的OCR及独立文字版。OCR和网页文本都是辅助依据，发生冲突时回看相关页面，不用答题逻辑改写错误选项，也不把参考答案当题干。自动匹配只证明某个参照出现过该文本，不等于官方原卷认证。</p>'
 for r in rounds:
  n=r['round'];qs=r['questions'];body+=f'<h2>第{n}遍</h2><p>覆盖15年、{len(qs)}题；比较{sum(len(q["fields"]) for q in qs)}个正文片段。'
  body+='已复核差异并形成修订及版本记录。' if r.get('review_completed') else '全文比对已运行，人工差异处置记录尚未封存。'
- body+='</p>'
+ body+='另按相同补充流程核对494个短文本及作答提示，短文本均在参照中找到对应。</p>'
 body+=f'<h2>确认修订：{len(patches)}处字词，另补1处漫画</h2>'
 for p in patches:
- body+=f'<section class="source-item"><h3>{E(p["id"])} · {p["year"]}年第{p["question"]}题</h3><p><del>{E(p["before"])}</del> → <strong>{E(p["after"])}</strong></p><p>{E(p["reason"])}</p><p>'+ ' · '.join(f'<a href="{E(u,quote=True)}">依据{i+1}</a>' for i,u in enumerate(p['evidence']))+'</p></section>'
+ body+=f'<section class="source-item"><h3>{E(p["id"])} · {p["year"]}年第{p["question"]}题 · 第{p["found_in_round"]}遍发现</h3><p><del>{E(p["before"])}</del> → <strong>{E(p["after"])}</strong></p><p>{E(p["reason"])}</p><p>'+ ' · '.join(f'<a href="{E(u,quote=True)}">依据{i+1}</a>' for i,u in enumerate(p['evidence']))+'</p></section>'
 body+='<p>2012年第4题漫画：从<a href="https://kaoyan.xdf.cn/202411/13980233.html">新东方公开试卷</a>第2页原图提取，未重绘。原页SHA-256：373a2a31619efe7116a525a4bb069e604fd36e8e048fc99829c535bfb76d284b；图像区域为(795,1008)—(1045,1190)，单位为原图像素；配图内嵌在HTML中。</p>'
 body+='<h2>保留的版本差异</h2><p>以下差异已被发现并记录，没有擅自统一成自认为正确的措辞。这些题仍应按“公开整理版”使用；若要制作官方原卷逐字认证版本，需要进一步取得官方出版原卷核定。</p>'
 for v in variants:body+=f'<p><strong>{v["year"]}年，第'+ '、'.join(map(str,v['q']))+'题：</strong>'+E(v['note'])+'</p>'

@@ -1,0 +1,42 @@
+{
+  "round": 2,
+  "workflow": "逐年逐题、逐段比对题干、各选项、材料段落与设问；仅归一化空白、标点和全半角；逐项复核差异；回看修改处页面",
+  "reference_sha256": "b60f992480b6c893baa8f879de43cfa65b8e404677be00af6029bd503472888e",
+  "input_sha256": {
+    "2012": "7bc0c567613a0e1f7429f4f779eb88a99373ca3eeb2cb9e5c872b1c8defa6842",
+    "2013": "0e3103a7b437f1d41bb50eb78670d1688a5f5cfac051cf3e71a87fcb6fd12666",
+    "2014": "011c9167372e3f2b11d34198be9d3954e592d113bbfdd9a9ba790a58fda088b7",
+    "2015": "30ff045893bda6d2bf5df600d5cb7eab3c41c22beba211d5a5991a15303bd284",
+    "2016": "b76c5a977bb63f825ffd519e104d99efa28089103ab7e8488162006ad22b3d6e",
+    "2017": "f110ac5d384770c05ef0ebd6423f207307c49c0315d06c6d0b8a85de93564d8a",
+    "2018": "1cb6f65da6898e6f95e5da34defbffba5f8c25d377956e0304e3dfdbd22720c0",
+    "2019": "33280006977c2e022577d3c75ccf2b3875bbca0a2f7b91b84ca075065b35be0b",
+    "2020": "1889f48cdbbb53958b4e4471bc5abed74e155e36e1cb81a961dbc4b281a006a1",
+    "2021": "d695756b990f3534f29a36dd175dbb40f33b829352626e79a45a51a222124ef6",
+    "2022": "0aecbf1ac835ab050eb3cd36a4f363c94d3b6cf4e8b46cedccf2ece9d6772fa3",
+    "2023": "795262f4499581c6c530b6302150e27caee75097bde8090e7cf3268d4d6126a0",
+    "2024": "536192a5335e5832f1a05dc2425f77343f6292dd19708f5719e382133958a1bd",
+    "2025": "da979d74b7053b2cef3bac6c4acbd781f4ca98943a9d29cbdb8ae73f93a8addf",
+    "2026": "22f72ccff7ff23be592142dbd1a6a2ab1411dec24e86df22e4ea170f5e4ebc00"
+  },
+  "question_files": [
+    "round-2/2012.json",
+    "round-2/2013.json",
+    "round-2/2014.json",
+    "round-2/2015.json",
+    "round-2/2016.json",
+    "round-2/2017.json",
+    "round-2/2018.json",
+    "round-2/2019.json",
+    "round-2/2020.json",
+    "round-2/2021.json",
+    "round-2/2022.json",
+    "round-2/2023.json",
+    "round-2/2024.json",
+    "round-2/2025.json",
+    "round-2/2026.json"
+  ],
+  "review_completed": true,
+  "disposition": "全文比对差异已复核，新增C11—C13三处字词修正；其他公开版本异文及OCR问题保留并记录。保留本遍修订前输入摘要，不以修订后文件覆盖审核输入记录。",
+  "short_fields_supplement": "round-2-short-fields.json"
+}
