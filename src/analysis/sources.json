@@ -646,9 +646,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 17,
+      "bvid": "BV1ktxj6EEyN",
+      "url": "https://www.bilibili.com/video/BV1ktxj6EEyN/",
+      "date": "2026-10-28",
+      "duration_seconds": 1383,
+      "topic": "情绪消费与社会意识",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-28T19:00:00+08:00",
+      "pubdate": 1793185200,
+      "timestamps": {
+        "material": 1365.0,
+        "answer": 1375.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day17材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day17-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a37c4eb25485e1b8ce2a0f4101301eade5f102c5b7014725dbd564f21528cebe",
+          "timestamp_seconds": 1365.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day17-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "4d84bb09fbd41aa6f510e1725add533e1aa5e3507497e2c891aa801a9fc616b7",
+          "timestamp_seconds": 1375.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-28T18:36:48+08:00",
+  "checked_at": "2026-10-29T19:03:49+08:00",
   "archived_days": [
     1,
     2,
@@ -665,12 +705,13 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-28T18:36:24+08:00",
-    "episode_count": 16,
-    "latest_day": 16,
+    "checked_at": "2026-10-29T19:03:28+08:00",
+    "episode_count": 17,
+    "latest_day": 17,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }

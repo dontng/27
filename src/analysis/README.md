@@ -20,8 +20,9 @@
 - [Day14 · 乡土植物与生态修复](bank/day14.md) · [原视频](https://www.bilibili.com/video/BV1UCHK6XEiq/)
 - [Day15 · 秸秆综合利用与辩证法](bank/day15.md) · [原视频](https://www.bilibili.com/video/BV1kind6mEm5/)
 - [Day16 · 因地制宜与创新发展](bank/day16.md) · [原视频](https://www.bilibili.com/video/BV1YhxM65EHM/)
+- [Day17 · 情绪消费与社会意识](bank/day17.md) · [原视频](https://www.bilibili.com/video/BV1ktxj6EEyN/)
 
-已归档 16/16 期；当前清单全部完成。
+已归档 17/17 期；当前清单全部完成。
 
 ## 目录约定
 
