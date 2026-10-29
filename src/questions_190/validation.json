@@ -8,8 +8,8 @@
   "processing_inputs_sha256": {
     "tools/answer-table-ocr.txt": "6ce4f8d8113c6ce86bfd18c996aca032960289012ba69c3464e5359e2fad0472",
     "tools/answers.json": "5d01ce53321fa40611df57a5062504c9ea137071eb88f5ca2a0919a5253997ea",
-    "tools/audit.py": "494ef312eff22485215f4889e3459d4b4319dfc0f951e0b1744f4b1a6f334bd7",
-    "tools/build.py": "ca46bd22f1554342e2fee89956988d3a08f45663a5e899f5b39b3bb706dd0de7",
+    "tools/audit.py": "961cacfb0efe6523831152e2455ed1fbf5698d4e2cff7a897f372ed04d3f5a79",
+    "tools/build.py": "1895825648e4a0c446796e7c5ea722a29f9da14ecf54774e51a9f09d9f8159c9",
     "tools/corrections.json": "d01b2b333137f2f69c01af0f11d1e2e0589415f0305b732a5b811834ae4b4f6a"
   },
   "counts": {
@@ -1631,8 +1631,8 @@
     }
   ],
   "output_sha256": {
-    "01-单选题1-46.md": "531e282fcba43756120d5c22180f23e3deb2abc8a8b35d1f2939e3213e01091e",
-    "02-多选题1-70.md": "99192801851d8f09d5dc2d8b3ba3cfc7d93fab6c9efb6da071c81e9bf94e5f0d",
-    "03-多选题71-147.md": "d0292854d1ca228b342ddcc0dbe0758f8e4ade2577631594ab0e89b39cce97d7"
+    "01-单选题1-46.md": "ce0e43b7d11bbb0cce3a8cbeef138cc0ecde2e16dbf92d6448b465cc76ea5897",
+    "02-多选题1-70.md": "5a19e4519d137eff11a52755f6438d63d9296a3a0a0205d2f3fdee6939094404",
+    "03-多选题71-147.md": "e95a3fb7ba1f51f1a801108a2700cdbb06c2077926c2cff504c19b48d6c0cec4"
   }
 }

@@ -81,7 +81,8 @@ def verify():
     for path in OUT.glob('*.md'):
         for link in re.findall(r'\]\(([^)]+)\)', path.read_text()):
             if '://' not in link:
-                assert (path.parent / link.split('#')[0]).is_file(), (path.name, link)
+                target = link.split('#')[0]
+                assert (path if not target else path.parent / target).is_file(), (path.name, link)
     assert all(q['subject'] in {'新思想', '时政', '法治', '史纲、时政'} for q in questions)
     evidence = {str(p.relative_to(OUT)): file_sha(p) for p in sorted(OUT.rglob('*'))
                 if p.is_file() and p != AUDIT / 'result.json' and '__pycache__' not in p.parts}

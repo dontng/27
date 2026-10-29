@@ -81,10 +81,10 @@
   ],
   "scope": "检查扫描件转录忠实度、完整性、答案对应和页码，不独立背书原书每项时政事实或参考答案的知识正确性。",
   "evidence_sha256": {
-    "01-单选题1-46.md": "531e282fcba43756120d5c22180f23e3deb2abc8a8b35d1f2939e3213e01091e",
-    "02-多选题1-70.md": "99192801851d8f09d5dc2d8b3ba3cfc7d93fab6c9efb6da071c81e9bf94e5f0d",
-    "03-多选题71-147.md": "d0292854d1ca228b342ddcc0dbe0758f8e4ade2577631594ab0e89b39cce97d7",
-    "README.md": "14566f4fdee979f6d7be916a3e4d27cb82c2afceb85b517ae97dc271355342b3",
+    "01-单选题1-46.md": "ce0e43b7d11bbb0cce3a8cbeef138cc0ecde2e16dbf92d6448b465cc76ea5897",
+    "02-多选题1-70.md": "5a19e4519d137eff11a52755f6438d63d9296a3a0a0205d2f3fdee6939094404",
+    "03-多选题71-147.md": "e95a3fb7ba1f51f1a801108a2700cdbb06c2077926c2cff504c19b48d6c0cec4",
+    "README.md": "82f5d3df63c595fdf571adad09577ff832fb3ad76acba33774239e866b9360c1",
     "audit/README.md": "826e3c5b87464c1533f438c86681cc6dd70b383cfbee4c1547b61943c4ab2573",
     "audit/answer-rows.json": "5354ce0fb4c138371eb5b746aaa046dbad09ea8d3e8ee4ffaaa42c0b013de2c8",
     "audit/negative-controls.json": "6f684599b96695de3093723390788d301c01c9b835bcdf1186b7767c85a6bb3b",
@@ -93,9 +93,9 @@
     "audit/review.json": "5e0b75eadb55c5c1e0af8daf59f8392bad1d52b4ce9f33435d0329707182c7cb",
     "tools/answer-table-ocr.txt": "6ce4f8d8113c6ce86bfd18c996aca032960289012ba69c3464e5359e2fad0472",
     "tools/answers.json": "5d01ce53321fa40611df57a5062504c9ea137071eb88f5ca2a0919a5253997ea",
-    "tools/audit.py": "494ef312eff22485215f4889e3459d4b4319dfc0f951e0b1744f4b1a6f334bd7",
-    "tools/build.py": "ca46bd22f1554342e2fee89956988d3a08f45663a5e899f5b39b3bb706dd0de7",
+    "tools/audit.py": "961cacfb0efe6523831152e2455ed1fbf5698d4e2cff7a897f372ed04d3f5a79",
+    "tools/build.py": "1895825648e4a0c446796e7c5ea722a29f9da14ecf54774e51a9f09d9f8159c9",
     "tools/corrections.json": "d01b2b333137f2f69c01af0f11d1e2e0589415f0305b732a5b811834ae4b4f6a",
-    "validation.json": "c1a3ec4f44c0a72b6990dd8c1a9f47ff5e843b810ac37c2c420358cf376887b0"
+    "validation.json": "ded6c7d9c5db61f4dd656d9c2090ffec7a49e2e30294227e9c7d0750bf1d1a1f"
   }
 }

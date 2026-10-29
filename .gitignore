@@ -6,3 +6,4 @@
 
 # Full compressed copies remain local; publish smaller PDF parts.
 /references/xiaoxiurong/*.pdf
+__pycache__/

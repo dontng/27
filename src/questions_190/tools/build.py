@@ -165,15 +165,71 @@ def pdf_link(page):
     return f'[PDF 第 {page} 页](../../references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页{part}.pdf#page={page - start + 1})'
 
 
+def nav_bar(start_num, last_num, step=10):
+    anchors = []
+    for i in range(start_num, last_num + 1, step):
+        end = min(i + step - 1, last_num)
+        anchors.append(f'[{i}—{end}](#第-{i}-题)')
+    return ' · '.join(anchors)
+
+
 def render(title, questions):
-    lines = [f'# {title}', '', '[返回总索引](README.md)', '', '答案按原书参考答案匹配；科目为整理标签。', '']
+    total = len(questions)
+    first_num = questions[0]['number']
+    last_num = questions[-1]['number']
+    kind_text = '单项选择题' if questions[0]['type'] == 'single' else '多项选择题'
+
+    lines = [
+        f'# {title}',
+        '',
+        '[返回习题 190 总索引](README.md)',
+        '',
+        '> [!TIP]',
+        '> **刷题自测指南**：',
+        f'> - 本卷共 **{total}** 道{kind_text}，已去除转义杂音，选项对齐排版。',
+        '> - **参考答案与出处默认折叠隐藏**，建议先独立作答，选择答案后再点击展开核对。',
+        '> - 每道题均已链接至原书高清 PDF 扫描页对应位置，支持一键溯源查证。',
+        '',
+        f'**题号快速跳转**：{nav_bar(first_num, last_num, 10)}',
+        '',
+        '---',
+        ''
+    ]
+
     for q in questions:
-        lines += [f'## 第 {q["number"]} 题', '', q['stem'], '']
-        lines += [f'{letter}. {q["options"][letter]}  ' for letter in 'ABCD']
-        lines[-1] = lines[-1].rstrip()
-        lines += ['', f'**答案：{q["answer"]}**  ', f'**科目：{q["subject"]}**  ']
-        lines += ['**出处：**' + '、'.join(pdf_link(p) for p in q['pages']), '']
-    return '\n'.join(line.rstrip() + ('\\' if line.endswith('  ') else '') for line in lines)
+        n = q['number']
+        stem = q['stem']
+        optA = q['options']['A']
+        optB = q['options']['B']
+        optC = q['options']['C']
+        optD = q['options']['D']
+        ans = q['answer']
+        subj = q['subject']
+        links = '、'.join(pdf_link(p) for p in q['pages'])
+
+        lines += [
+            f'## 第 {n} 题',
+            '',
+            stem,
+            '',
+            f'A. {optA}',
+            f'B. {optB}',
+            f'C. {optC}',
+            f'D. {optD}',
+            '',
+            '<details>',
+            '<summary><b>点击查看【答案与出处】</b></summary>',
+            '',
+            f'**答案：{ans}**',
+            f'**科目：{subj}**',
+            f'**出处：**{links}',
+            '',
+            '</details>',
+            '',
+            '---',
+            ''
+        ]
+    return '\n'.join(lines)
 
 
 def build():
