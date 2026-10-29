@@ -3,6 +3,9 @@
 Input: https://www.guojiya.cn/exam/neem_politics_{year} (2012..2026).
 Requires beautifulsoup4. python tools/papers/build.py --cache /tmp/politics-raw
 Each saved exam is a standalone HTML file; audit/source hashes are in sources.html.
+Default input: tools/papers/source-cache/*.html (question-only source snapshots).
+Original HTTP response hashes are retained in each snapshot comment.
+Visual browser QA was attempted but Chromium download was unavailable; no visual approval claimed.
 """
 import argparse, hashlib, html, re, urllib.request
 from pathlib import Path
@@ -56,15 +59,17 @@ def build(cache,years):
    for t in strings:assert normalized(t) in normalized(a.get_text()),(y,q['data-question-id'])
   records.append((y,url,hashlib.sha256(raw).hexdigest(),hashlib.sha256(target.read_bytes()).hexdigest(),analysis_scores))
  cards=''.join(f'<a href="{y}.html"><strong>{y} 年</strong><small>单选 16 · 多选 17 · 分析 5</small></a>' for y in years)
- OUT.joinpath('index.html').write_text(H('考研政治历年真题',f'<h1>考研政治历年真题</h1><p class="subtitle">{years[0]}—{years[-1]} · {len(years)} 套 · {38*len(years)} 道题</p><p>按年份整理试卷，保留题干、四个选项、分析题材料与设问。每年一份独立 HTML，下载后可直接在浏览器阅读和打印。</p><div class="years">'+cards+'</div><p class="note">年份按招生考试年度标注，例如 2026 年真题对应 2025 年底举行的考试。本批为题目收集与排版，尚未完成全部原卷逐字复核。</p><p><a href="sources.html">查看来源与校验记录</a></p>'))
+ OUT.joinpath('index.html').write_text(H('考研政治历年真题',f'<h1>考研政治历年真题</h1><p class="subtitle">{years[0]}—{years[-1]} · {len(years)} 套 · {38*len(years)} 道题</p><p>按年份整理试卷，保留题干、四个选项、分析题材料与设问。每年一份独立 HTML，下载后可直接在浏览器阅读和打印。</p><div class="years">'+cards+'</div><p class="note">年份按招生考试年度标注，例如 2026 年真题对应 2025 年底举行的考试。本批为题目收集与排版，尚未完成全部原卷逐字复核。已知缺项：2012 年第 4 题漫画原图尚未取得，题干和选项已保留。</p><p><a href="sources.html">查看来源与校验记录</a></p>'))
  items=''.join(f'<section class="source-item" id="year-{y}"><h2>{y} 年</h2><p><a href="{y}.html">试卷</a> · <a href="{u}">文字来源</a></p><p>结构检查：16 单选、17 多选、5 分析题；题号 1—38 连续；132 项选项完整；每道分析题均含材料及至少两个设问。分析题分值：'+ '、'.join(map(str,scores))+'，合计 50 分。</p><p>源网页 SHA-256：<code>'+sh+'</code><br>试卷 HTML SHA-256：<code>'+oh+'</code></p></section>' for y,u,sh,oh,scores in records)
- OUT.joinpath('sources.html').write_text(H('政治真题 · 来源与校验', '<nav><a href="index.html">返回年份目录</a></nav><h1>来源与校验记录</h1><p>采集日期：2026-10-29。保存公开试题内容，不采集网站会员解析或参考答案。生成脚本：tools/papers/build.py；输入缓存为逐年源网页，可按原网址重新下载。校验涵盖题号、选项数、材料、设问、分值和提取前后文本一致性，不等同于原卷逐字审核。</p><p>2012 年第 34 题 12 分、第 38 题 8 分：保留源页面分值，并以<a href="https://yz.chsi.com.cn/kyzx/politics/201208/20120827/337816885.html">研招网当年试卷评析</a>交叉核对。2026 年另以<a href="https://static.kaoyan.cn/file/question/2025/12/20/e42f4c7191a84bde7b9688900c790a1a.pdf">中国教育在线考研平台试卷 PDF</a>抽查题型及第 1—9 题，未用参考答案反推题目。</p>'+items))
+ OUT.joinpath('sources.html').write_text(H('政治真题 · 来源与校验', '<nav><a href="index.html">返回年份目录</a></nav><h1>来源与校验记录</h1><p>采集日期：2026-10-29。保存公开试题内容，不采集网站会员解析或参考答案。生成脚本：tools/papers/build.py；输入为 tools/papers/source-cache 下的逐年 HTML 题目快照（仅保留来源网页的试题容器，原响应摘要见快照注释）；可离线重建或按原网址重新采集。校验涵盖题号、选项数、材料、设问、分值和提取前后文本一致性，不等同于原卷逐字审核。</p><p>已知缺项：2012 年第 4 题的多个公开文字版及图片版均缺漫画，本页已明确标记待补，未用重绘图替代原图。</p><p>2012 年第 34 题 12 分、第 38 题 8 分：保留源页面分值，并以<a href="https://yz.chsi.com.cn/kyzx/politics/201208/20120827/337816885.html">研招网当年试卷评析</a>交叉核对。2026 年另以<a href="https://static.kaoyan.cn/file/question/2025/12/20/e42f4c7191a84bde7b9688900c790a1a.pdf">中国教育在线考研平台试卷 PDF</a>抽查题型及第 1—9 题，未用参考答案反推题目。</p>'+items))
  print(f'Built {len(years)} papers / {len(years)*38} questions; round-trip checks passed.')
 def check():
  years=sorted(int(p.stem) for p in OUT.glob('[0-9][0-9][0-9][0-9].html'))
  for y in years:
   p=OUT/f'{y}.html';s=BeautifulSoup(p.read_text(),'html.parser');assert [int(a['id'][1:]) for a in s.select('article')]==list(range(1,39));assert len(s.select('.options li'))==132
   assert len(s.select('.analysis'))==5
+  report=BeautifulSoup((OUT/'sources.html').read_text(),'html.parser').find(id=f'year-{y}')
+  assert hashlib.sha256(p.read_bytes()).hexdigest() in report.get_text(),f'{y}: digest mismatch'
   assert not s.select('script[src],link[href],img[src^="http"]')
   for a in s.select('a[href]'):
    h=a['href']
@@ -73,6 +78,6 @@ def check():
    if anchor:assert BeautifulSoup(t.read_text(),'html.parser').find(id=anchor),h
  print(f'Checked {len(years)} files; all question counts, options and local links passed.')
 if __name__=='__main__':
- a=argparse.ArgumentParser();a.add_argument('--cache',type=Path,default=Path('/tmp/politics-raw'));a.add_argument('--end',type=int,default=2026);a.add_argument('--check',action='store_true');args=a.parse_args()
+ a=argparse.ArgumentParser();a.add_argument('--cache',type=Path,default=Path(__file__).resolve().parent/'source-cache');a.add_argument('--end',type=int,default=2026);a.add_argument('--check',action='store_true');args=a.parse_args()
  if not args.check:build(args.cache,list(range(2012,args.end+1)))
  check()
