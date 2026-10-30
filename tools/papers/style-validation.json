@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-30",
+  "reference_style": "dontng/m2@1430fdbfdfbfd0f50d60d0b84cae468e79a2fc3e",
+  "reviewed_content_base": "568f16a71717292636b748e38550667d58ac2352",
+  "scope": "仅布局与样式，题目DOM及漫画保持一致；原审核记录保留其历史输出摘要。",
+  "content_check": {
+    "base": "568f16a71717292636b748e38550667d58ac2352",
+    "reference_style": "dontng/m2@1430fdbfdfbfd0f50d60d0b84cae468e79a2fc3e",
+    "question_count": 570,
+    "content_unchanged": true,
+    "papers": [
+      {
+        "year": 2012,
+        "questions": 38,
+        "question_dom_sha256": "184eeec5806fb0e76c8dcbc4060395de2ea9ee5650a2ac0385fca38ff0c24a4c"
+      },
+      {
+        "year": 2013,
+        "questions": 38,
+        "question_dom_sha256": "900978c5ea0259cd57e30e303d2a520328d54ae32f78df49630d162d1d8cf3bb"
+      },
+      {
+        "year": 2014,
+        "questions": 38,
+        "question_dom_sha256": "87779e218e8e416438df88e08e7086e213ff7f726b32d590f85519a4ba7d0747"
+      },
+      {
+        "year": 2015,
+        "questions": 38,
+        "question_dom_sha256": "91a58f1cc3cc0d66803d6c91f9827c6d0764dd99e4b9f1102e5c245100b5d1d8"
+      },
+      {
+        "year": 2016,
+        "questions": 38,
+        "question_dom_sha256": "c83dfb4c5b0c2658b05158eafb845d5ae839f4835b70bf4d83c5dede2041ceb0"
+      },
+      {
+        "year": 2017,
+        "questions": 38,
+        "question_dom_sha256": "ff62522a607b60733ec90ec9a4e6fd6fb23e94b407bfb65885871fa29a847db6"
+      },
+      {
+        "year": 2018,
+        "questions": 38,
+        "question_dom_sha256": "12102f36f7139ccfd91f3c3f38eee526dffe196b6ed8df2e238cfefe5eb4dacb"
+      },
+      {
+        "year": 2019,
+        "questions": 38,
+        "question_dom_sha256": "f3b917e5d82cb4877a60dfe1bfb353e67e7d9ff0f2760a04adaf21f1dd808ab9"
+      },
+      {
+        "year": 2020,
+        "questions": 38,
+        "question_dom_sha256": "8347bc90594692b2ddc11166d5cc092e7d22dcb919e03ff213541933692d902a"
+      },
+      {
+        "year": 2021,
+        "questions": 38,
+        "question_dom_sha256": "c0058afaf920a2da564f618bc93d44c141ed26ed4354e1bcea3c6e7afe0736f6"
+      },
+      {
+        "year": 2022,
+        "questions": 38,
+        "question_dom_sha256": "ab342db24f4d01890c9360dc44b3b79d230b3c9d9d48e9d82c9bf5bbac66f6d8"
+      },
+      {
+        "year": 2023,
+        "questions": 38,
+        "question_dom_sha256": "833f7772bdd8de8394d3e1eb46737797f4ba7606ca9e6b501eb83ce3c9a7a215"
+      },
+      {
+        "year": 2024,
+        "questions": 38,
+        "question_dom_sha256": "80e0e19db8821179658f8f3f11d24cfb6ae9a3dfae70a161007779245441c2d3"
+      },
+      {
+        "year": 2025,
+        "questions": 38,
+        "question_dom_sha256": "d8265d50493e3d0bacf6f208e11d4ab1828f110f958146767f5d9413035de8a2"
+      },
+      {
+        "year": 2026,
+        "questions": 38,
+        "question_dom_sha256": "6999c980340a13bc698dd9d6aa5d4f99e52f47ab3cecb41a1eec97604dc2efa2"
+      }
+    ]
+  },
+  "browser_check": {
+    "engine": "153.0.8010.0",
+    "screen_widths": [
+      1440,
+      390,
+      320
+    ],
+    "html_files_per_width": 18,
+    "screen_checks": 54,
+    "overflow_issues": 0,
+    "page_errors": 0,
+    "answer_space_toggle": "passed",
+    "print_controls_hidden": true
+  },
+  "print_checks": [
+    {
+      "year": 2012,
+      "pages": 9,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2013,
+      "pages": 9,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2014,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2015,
+      "pages": 11,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2016,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2017,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2018,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2019,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2020,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2021,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2022,
+      "pages": 11,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2023,
+      "pages": 11,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2024,
+      "pages": 11,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2025,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    },
+    {
+      "year": 2026,
+      "pages": 10,
+      "text_spans_outside_paper": [],
+      "all_pages_have_text": true
+    }
+  ],
+  "visual_samples": [
+    "2026桌面卷头",
+    "2012手机卷头与分析题材料",
+    "2012及2026打印首面"
+  ],
+  "output_sha256": {
+    "2012.html": "06d85a9da233e94139ea6243db44de914b925eed96a723589d30e2eec381c94f",
+    "2013.html": "372c8bc3cfec6a61b3e380b34e1a137590020ecedb9f3c4a05a9ebcea1229611",
+    "2014.html": "62ca1f10848fb507f1395cf8522e2cfcb54a4a09c70f03a3d8bceb7fb45d89b5",
+    "2015.html": "c9fa1914fdee7657734b8ce0601547972142d00f6df3ff693122f597c6e98ace",
+    "2016.html": "366d994e92c44eb517b88ab6369db8c43d27c877b6301d90b35aa0ac8dd35726",
+    "2017.html": "2444908bf2befbda8c036a83ee42c51832c6282b1986f075cd20fda1ac599fd6",
+    "2018.html": "70f1453e4bcbb3dbc9ddf3ce892bac3e0c07ee8fd513eab1234e8b6f960219c0",
+    "2019.html": "74b52b4caf4b1a7179c09c590cd0be64378524ccc76f9c61e57211e5b880f41a",
+    "2020.html": "9b133102fb300bc060c64f28698daf6853009a2f868b787e2cae6d2843e15a0e",
+    "2021.html": "3c6dc23861978fdf2a86a0283d7a123043dacd62e3a0b9dfc3eb1c69f4e1360a",
+    "2022.html": "ce2e6bfbd70eb8d314823eb24963b578ceba2b9667f9aa68219f4cad212c93b0",
+    "2023.html": "acb3116f35e73c9207223f0d02835c22e2750cf55017874c02e25bd9c33b2c81",
+    "2024.html": "8ac0e515b46881f09e42d137e2051f5420e8177572a0708a4c73dfd306cfe252",
+    "2025.html": "6fc131530777d3832aff944c05516ec97fa46da55adf129d4dc73c4741e24ead",
+    "2026.html": "7473b252ae88182b4622b35f153268651e269c3bf09f4a160a6628b945b40789",
+    "audit.html": "9cb4cd89a4e4f9105f76a1599b1b00baf47b5f645d59b5214b4a89fd46c3799f",
+    "index.html": "ae6ed1dbc929df401c918ac295b0a7bd9cda2c5bf4543d3bb2a2fe89761c4119",
+    "sources.html": "c58d339ef70543c128d2853624b1fbf70ba9ec1137495cff26d0b6327a9de8b3"
+  }
+}

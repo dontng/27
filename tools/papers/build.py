@@ -5,15 +5,24 @@ Requires beautifulsoup4. python tools/papers/build.py --cache /tmp/politics-raw
 Each saved exam is a standalone HTML file; audit/source hashes are in sources.html.
 Default input: tools/papers/source-cache/*.html (question-only source snapshots).
 Original HTTP response hashes are retained in each snapshot comment.
-Visual browser QA was attempted but Chromium download was unavailable; no visual approval claimed.
+Styles and option fitting are in exam.css / exam.js, embedded for standalone use.
 """
 import argparse, hashlib, html, re, urllib.request, json
 from pathlib import Path
 from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[2]; OUT=ROOT/'papers'
-CSS='''*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f2f1ed;color:#181818;font:17px/1.9 "SimSun","Songti SC","Times New Roman",serif}main{max-width:900px;margin:30px auto;padding:46px 64px;background:white;box-shadow:0 2px 16px #0000000c}h1{font-size:27px;line-height:1.5;text-align:center;margin:12px 0 4px}h2{font-size:21px;margin:36px 0 12px;border-bottom:1px solid #333;padding-bottom:8px}h3{font-size:18px;margin:0 0 14px}.subtitle{text-align:center;letter-spacing:.12em;margin:0 0 22px}.meta{display:flex;justify-content:space-between;border-top:2px solid;border-bottom:1px solid;padding:8px 0;margin:20px 0;font-size:15px}.toolbar,nav{font:14px/1.8 system-ui,sans-serif;display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}.toolbar{margin-bottom:25px}.toolbar a,nav a{color:#404040}button{font:inherit;padding:5px 12px;background:white;border:1px solid #aaa;border-radius:3px;cursor:pointer}p{margin:0 0 10px}.instruction{font-size:15px;margin-bottom:22px}.question{margin:0 0 25px;break-inside:avoid}.stem{white-space:pre-wrap}.options{list-style:none;padding:0 0 0 1.6em;margin:9px 0 0}.options li{padding-left:1.6em;text-indent:-1.6em;margin:3px 0;white-space:pre-wrap}.analysis{margin:30px 0 42px;break-inside:auto}.materials p{text-indent:2em;margin-bottom:12px;white-space:pre-wrap}.materials .material-label{text-indent:0;font-weight:bold}.ask{font-weight:600;white-space:pre-wrap;margin:18px 0}.write-space{display:none;height:240px;background:repeating-linear-gradient(white 0,white 34px,#ccc 35px);margin-top:15px}.with-space .write-space{display:block}.note,footer{font-size:14px;color:#666;line-height:1.8}footer{margin-top:35px;border-top:1px solid #aaa;padding-top:18px}.years{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:28px 0}.years a{display:block;border:1px solid #ccc;padding:18px;color:#222;text-decoration:none}.years small{display:block;color:#666}.source-item{overflow-wrap:anywhere;margin:25px 0}.source-item code{font-size:12px}.qnav{border:1px solid #ddd;padding:12px;margin:20px 0}.qnav a{min-width:20px;text-align:center}.figure{margin:12px auto;text-align:center}.figure img{max-width:100%;background:white}.missing{border:1px dashed #aaa;padding:10px;font-size:14px}a{color:#333}section[id],article[id]{scroll-margin-top:20px}@page{size:A4;margin:18mm 17mm} @media print{body{background:white;font-size:12pt;line-height:1.8}main{max-width:none;margin:0;padding:0;box-shadow:none}.toolbar,.qnav,.screen-only,footer{display:none}h1{font-size:18pt}h2{font-size:14pt;break-after:avoid}h3{break-after:avoid}p{orphans:3;widows:3}.question{margin-bottom:16pt}.analysis{margin-top:22pt}a{text-decoration:none;color:inherit}.meta{font-size:11pt}.instruction{font-size:11pt}}@media(max-width:600px){body{font-size:16px}main{margin:0;padding:25px 20px;box-shadow:none}h1{font-size:23px}.years{grid-template-columns:repeat(2,1fr)}.meta{font-size:13px;gap:15px}.options{padding-left:.6em}}'''
+CSS=(Path(__file__).resolve().parent/'exam.css').read_text()
+JS=(Path(__file__).resolve().parent/'exam.js').read_text()
 def E(s):return html.escape(s,quote=True)
-def H(title,body):return '<!doctype html>\n<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+E(title)+'</title><style>'+CSS+'</style></head><body><main>'+body+'</main></body></html>\n'
+def H(title,body):
+ # Move existing controls outside the white paper without changing any text.
+ controls=re.match(r'^(<nav>.*?</nav>)(<div class="toolbar">.*?</div>)?',body,re.S)
+ bar=''
+ if controls:
+  bar='<div class="appbar screen-only">'+controls[0]+'</div>'
+  body=body[len(controls[0]):]
+ return '<!doctype html>\n<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+E(title)+'</title><style>'+CSS+'</style></head><body>'+bar+'<main>'+body+'</main><script>'+JS+'</script></body></html>\n'
+
 def nav(y,years):
  i=years.index(y);return '<nav>'+('' if i==0 else f'<a href="{years[i-1]}.html">← {years[i-1]} 年</a>')+'<a href="index.html">年份目录</a>'+('' if i==len(years)-1 else f'<a href="{years[i+1]}.html">{years[i+1]} 年 →</a>')+'</nav>'
 def normalized(s):return re.sub(r'\s+','',s)
