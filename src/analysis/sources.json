@@ -686,9 +686,89 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 18,
+      "bvid": "BV1JCxF6PE6Y",
+      "url": "https://www.bilibili.com/video/BV1JCxF6PE6Y/",
+      "date": "2026-10-29",
+      "duration_seconds": 1756,
+      "topic": "杨梅复合种养与和谐共生",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-29T19:00:00+08:00",
+      "pubdate": 1793271600,
+      "timestamps": {
+        "material": 1738.0,
+        "answer": 1748.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day18材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day18-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "82b88c7b11d8cd9fbd41b4401c9a0da2438f69a4fc12ac643661bc94ed92fd30",
+          "timestamp_seconds": 1738.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day18-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a91623d4daafdeac2af79e6a22ea3c93f326452d00ad6726f730747ab7ac97fc",
+          "timestamp_seconds": 1748.0
+        }
+      ],
+      "status": "archived"
+    },
+    {
+      "day": 19,
+      "bvid": "BV12Rxv6kEMH",
+      "url": "https://www.bilibili.com/video/BV12Rxv6kEMH/",
+      "date": "2026-10-30",
+      "duration_seconds": 1313,
+      "topic": "心理学与AI融合发展",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-30T19:00:00+08:00",
+      "pubdate": 1793358000,
+      "timestamps": {
+        "material": 1297.0,
+        "answer": 1305.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day19材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day19-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "40e5a7cdb67dc2ad7ae3d944fe6792c05ac85cf1208a98ae49931f78f6df857e",
+          "timestamp_seconds": 1297.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day19-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "6b6973d9a33b450300c2267341ea045f57f9cfe4cf80ff2d0b45cc850e9a0bbc",
+          "timestamp_seconds": 1305.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-29T19:03:49+08:00",
+  "checked_at": "2026-10-30T19:14:22+08:00",
   "archived_days": [
     1,
     2,
@@ -706,12 +786,14 @@
     14,
     15,
     16,
-    17
+    17,
+    18,
+    19
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-29T19:03:28+08:00",
-    "episode_count": 17,
-    "latest_day": 17,
+    "checked_at": "2026-10-30T19:13:49+08:00",
+    "episode_count": 19,
+    "latest_day": 19,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }

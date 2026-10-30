@@ -21,8 +21,10 @@
 - [Day15 · 秸秆综合利用与辩证法](bank/day15.md) · [原视频](https://www.bilibili.com/video/BV1kind6mEm5/)
 - [Day16 · 因地制宜与创新发展](bank/day16.md) · [原视频](https://www.bilibili.com/video/BV1YhxM65EHM/)
 - [Day17 · 情绪消费与社会意识](bank/day17.md) · [原视频](https://www.bilibili.com/video/BV1ktxj6EEyN/)
+- [Day18 · 杨梅复合种养与和谐共生](bank/day18.md) · [原视频](https://www.bilibili.com/video/BV1JCxF6PE6Y/)
+- [Day19 · 心理学与AI融合发展](bank/day19.md) · [原视频](https://www.bilibili.com/video/BV12Rxv6kEMH/)
 
-已归档 17/17 期；当前清单全部完成。
+已归档 19/19 期；当前清单全部完成。
 
 ## 目录约定
 
