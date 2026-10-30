@@ -1,0 +1,56 @@
+{
+  "checks": [
+    {
+      "year": 2012,
+      "pages": 9,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 221,
+      "missing_fragments": 0,
+      "html_unchanged": true
+    },
+    {
+      "year": 2013,
+      "pages": 9,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 225,
+      "missing_fragments": 0,
+      "html_unchanged": true
+    },
+    {
+      "year": 2014,
+      "pages": 10,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 226,
+      "missing_fragments": 0,
+      "html_unchanged": true
+    },
+    {
+      "year": 2015,
+      "pages": 11,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 221,
+      "missing_fragments": 0,
+      "html_unchanged": true
+    },
+    {
+      "year": 2016,
+      "pages": 10,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 232,
+      "missing_fragments": 0,
+      "html_unchanged": true
+    }
+  ],
+  "total_papers": 5,
+  "total_pages": 49
+}
