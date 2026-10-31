@@ -766,9 +766,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 20,
+      "bvid": "BV17PxC6SEad",
+      "url": "https://www.bilibili.com/video/BV17PxC6SEad/",
+      "date": "2026-10-31",
+      "duration_seconds": 1349,
+      "topic": "太空育种与种质资源",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-10-31T19:00:00+08:00",
+      "pubdate": 1793444400,
+      "timestamps": {
+        "material": 1331.0,
+        "answer": 1342.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day20材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day20-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "25564d199a8e1e9b5969df3c463c8d0f27877d30e4cfbf0a373311f64959eb2b",
+          "timestamp_seconds": 1331.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day20-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "315dcb7ffe9c7170d8315d393aa7d2285617bd9474eb78cc5be93ffbaba22ac6",
+          "timestamp_seconds": 1342.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-10-30T19:14:22+08:00",
+  "checked_at": "2026-10-31T19:23:55+08:00",
   "archived_days": [
     1,
     2,
@@ -788,12 +828,13 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "latest_collection_check": {
-    "checked_at": "2026-10-30T19:13:49+08:00",
-    "episode_count": 19,
-    "latest_day": 19,
+    "checked_at": "2026-10-31T19:23:36+08:00",
+    "episode_count": 20,
+    "latest_day": 20,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
