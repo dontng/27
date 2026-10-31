@@ -129,8 +129,28 @@
       "text_fragments_checked": 218,
       "missing_fragments": 0,
       "html_unchanged": true
+    },
+    {
+      "year": 2025,
+      "pages": 10,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 217,
+      "missing_fragments": 0,
+      "html_unchanged": true
+    },
+    {
+      "year": 2026,
+      "pages": 10,
+      "a4": true,
+      "blank_pages": 0,
+      "out_of_bounds_words": 0,
+      "text_fragments_checked": 218,
+      "missing_fragments": 0,
+      "html_unchanged": true
     }
   ],
-  "total_papers": 13,
-  "total_pages": 132
+  "total_papers": 15,
+  "total_pages": 152
 }

@@ -86,7 +86,9 @@
       "html_sha256": "ce2e6bfbd70eb8d314823eb24963b578ceba2b9667f9aa68219f4cad212c93b0",
       "pdf": "papers/pdf/2022.pdf",
       "pdf_sha256": "a1cdf2214271eb40b6fef498fa6c15b1ca29a7110ef068ea79d3a6ea0de36df9",
-      "pdf_bytes": 1440701
+      "pdf_bytes": 1440701,
+      "html_revision": "e7c341b39c1308d16660a4514a163478459c286b",
+      "browser": "150.0.7871.100"
     },
     {
       "year": 2023,
@@ -94,7 +96,9 @@
       "html_sha256": "acb3116f35e73c9207223f0d02835c22e2750cf55017874c02e25bd9c33b2c81",
       "pdf": "papers/pdf/2023.pdf",
       "pdf_sha256": "31d0cf152b56f3a927a134fe3238d92fdd206041fa6679dd08db4407e46b26ab",
-      "pdf_bytes": 1390443
+      "pdf_bytes": 1390443,
+      "html_revision": "e7c341b39c1308d16660a4514a163478459c286b",
+      "browser": "150.0.7871.100"
     },
     {
       "year": 2024,
@@ -102,10 +106,32 @@
       "html_sha256": "8ac0e515b46881f09e42d137e2051f5420e8177572a0708a4c73dfd306cfe252",
       "pdf": "papers/pdf/2024.pdf",
       "pdf_sha256": "c24e6b1f74aef53ebcabb77cf8f08bb06dd26cefe7d30717d3a533c1a87b910d",
-      "pdf_bytes": 1485098
+      "pdf_bytes": 1485098,
+      "html_revision": "e7c341b39c1308d16660a4514a163478459c286b",
+      "browser": "150.0.7871.100"
+    },
+    {
+      "year": 2025,
+      "html": "papers/2025.html",
+      "html_sha256": "6fc131530777d3832aff944c05516ec97fa46da55adf129d4dc73c4741e24ead",
+      "pdf": "papers/pdf/2025.pdf",
+      "pdf_sha256": "8a4562974695587ae8af78fa5780ab6f57bc90af0d91791cd406714a3f18d3f4",
+      "pdf_bytes": 1358068,
+      "html_revision": "6a4fdbb45aadd8950be69a1c0b1f907243265eaf",
+      "browser": "150.0.7871.100"
+    },
+    {
+      "year": 2026,
+      "html": "papers/2026.html",
+      "html_sha256": "7473b252ae88182b4622b35f153268651e269c3bf09f4a160a6628b945b40789",
+      "pdf": "papers/pdf/2026.pdf",
+      "pdf_sha256": "59579cb93825d6b6c27cef105e1f376cd0ad89a22c4e5d4c7394d6ed8231f893",
+      "pdf_bytes": 1376367,
+      "html_revision": "6a4fdbb45aadd8950be69a1c0b1f907243265eaf",
+      "browser": "150.0.7871.100"
     }
   ],
-  "html_revision": "e7c341b39c1308d16660a4514a163478459c286b",
+  "html_revision": "6a4fdbb45aadd8950be69a1c0b1f907243265eaf",
   "settings": {
     "preferCSSPageSize": true,
     "printBackground": true,
