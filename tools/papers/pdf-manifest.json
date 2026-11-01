@@ -2,7 +2,7 @@
   "papers": [
     {
       "year": 2021,
-      "html": "papers/2021.html",
+      "html": "papers/html/2021.html",
       "html_sha256": "22807de7056dacb6219b875027b06420ec11524de869016147b522bfa28277cc",
       "pdf": "papers/pdf/2021.pdf",
       "pdf_sha256": "a59945c38dd105f4de59f85a7b33af2b8531f767e5e8065f6b3e2c302b8748d5",
@@ -10,7 +10,7 @@
     },
     {
       "year": 2022,
-      "html": "papers/2022.html",
+      "html": "papers/html/2022.html",
       "html_sha256": "83884309a67d3557f45cddd7ce4604962bb64eccbfa34c8f8e7083ff27ea3477",
       "pdf": "papers/pdf/2022.pdf",
       "pdf_sha256": "8e66e4c4ac7a59df468de10ba5862918648f8961ffab61037e1bfc3c2b9961ad",
@@ -18,7 +18,7 @@
     },
     {
       "year": 2023,
-      "html": "papers/2023.html",
+      "html": "papers/html/2023.html",
       "html_sha256": "eb59292826d396f0e6b2be3ee677ca79a301267e9b099d35ff8b2b5d147efefa",
       "pdf": "papers/pdf/2023.pdf",
       "pdf_sha256": "aef96e0a23cfbe21dc182b02e7168df926312e2ded6429e85f2fb307a17082c7",
@@ -26,7 +26,7 @@
     },
     {
       "year": 2024,
-      "html": "papers/2024.html",
+      "html": "papers/html/2024.html",
       "html_sha256": "82dac7dba8bbc2b3b638c9a817b59dd2140385e173ff40b6b5166bfc5cd6b297",
       "pdf": "papers/pdf/2024.pdf",
       "pdf_sha256": "2b86a9697b9c59936564b757e6604f8028d5800430058d583719f95730d26ef1",
@@ -34,7 +34,7 @@
     },
     {
       "year": 2025,
-      "html": "papers/2025.html",
+      "html": "papers/html/2025.html",
       "html_sha256": "d19e6f4038de938a7f9414dfa8ddb54201062c53991295550d10a82c55a47ed1",
       "pdf": "papers/pdf/2025.pdf",
       "pdf_sha256": "7d6c9d370ba5a3339a12eb606a5dc70bc688141e30b819ad435e9be49f0d6156",
@@ -42,7 +42,7 @@
     },
     {
       "year": 2026,
-      "html": "papers/2026.html",
+      "html": "papers/html/2026.html",
       "html_sha256": "e5d7e9f3e2bb94e179e431efd7746d9af1593aacea6da0b5341028a72f794b05",
       "pdf": "papers/pdf/2026.pdf",
       "pdf_sha256": "8b13bb7d0a68a83b96ef7a84366d964f36381358337dc54afde9ebaca6729694",

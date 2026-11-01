@@ -48,5 +48,5 @@ for y in range(2021,2027):
   body+='<li>'+ '；'.join(desc)+'</li>'
  body+='</ol></details></section>'
 body+='<footer>技术记录：tools/papers/audit/review.py、round-1.json、round-2.json；参照来源、原始下载摘要及OCR方式见reference-manifest.json。原始采集快照未修改；正文修订通过corrections.json独立应用。</footer>'
-(R/'papers/audit.html').write_text(H('政治真题 · 双轮审核记录',body))
+(R/'papers/html/audit.html').write_text(H('政治真题 · 双轮审核记录',body))
 print('Rendered audit.html')

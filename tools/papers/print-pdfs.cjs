@@ -24,7 +24,7 @@ const hash = file => crypto.createHash('sha256').update(fs.readFileSync(file)).d
   try {
     manifest.browser = await browser.version();
     for (let year=first; year<=last; year++) {
-      const html = path.join(root, `papers/${year}.html`), pdf = path.join(output, `${year}.pdf`);
+      const html = path.join(root, `papers/html/${year}.html`), pdf = path.join(output, `${year}.pdf`);
       const before = hash(html), errors=[];
       const page = await browser.newPage({viewport:{width:1280,height:900}});
       page.on('pageerror', error => errors.push(String(error)));
@@ -35,7 +35,7 @@ const hash = file => crypto.createHash('sha256').update(fs.readFileSync(file)).d
       await page.pdf({path:pdf, preferCSSPageSize:true, printBackground:true, displayHeaderFooter:false, scale:1});
       if (errors.length || before !== hash(html)) throw Error(`${year}: page error or HTML changed`);
       manifest.papers = manifest.papers.filter(item => item.year !== year);
-      manifest.papers.push({year,html:`papers/${year}.html`,html_sha256:before,pdf:`papers/pdf/${year}.pdf`,pdf_sha256:hash(pdf),pdf_bytes:fs.statSync(pdf).size});
+      manifest.papers.push({year,html:`papers/html/${year}.html`,html_sha256:before,pdf:`papers/pdf/${year}.pdf`,pdf_sha256:hash(pdf),pdf_bytes:fs.statSync(pdf).size});
       manifest.papers.sort((a,b)=>a.year-b.year);
       fs.writeFileSync(manifestPath, JSON.stringify(manifest,null,2)+'\n');
       console.log(`${year}: printed, HTML unchanged`);
