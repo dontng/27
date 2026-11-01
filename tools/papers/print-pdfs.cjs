@@ -14,8 +14,8 @@ const output = path.join(root, 'papers/pdf');
 const manifestPath = path.join(__dirname, 'pdf-manifest.json');
 const hash = file => crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');
 (async () => {
-  const first = Number(process.argv[2] || 2012), last = Number(process.argv[3] || 2026);
-  if (!(first >= 2012 && last <= 2026 && first <= last)) throw Error('Years must be within 2012..2026');
+  const first = Number(process.argv[2] || 2021), last = Number(process.argv[3] || 2026);
+  if (!(first >= 2021 && last <= 2026 && first <= last)) throw Error('Years must be within 2021..2026');
   fs.mkdirSync(output, {recursive:true});
   const manifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : {papers:[]};
   manifest.html_revision = execFileSync('git', ['rev-parse', 'HEAD'], {cwd:root, encoding:'utf8'}).trim();

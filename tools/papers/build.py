@@ -99,6 +99,6 @@ def check():
    if anchor:assert BeautifulSoup(t.read_text(),'html.parser').find(id=anchor),h
  print(f'Checked {len(years)} files; all question counts, options and local links passed.')
 if __name__=='__main__':
- a=argparse.ArgumentParser();a.add_argument('--cache',type=Path,default=Path(__file__).resolve().parent/'source-cache');a.add_argument('--end',type=int,default=2026);a.add_argument('--check',action='store_true');args=a.parse_args()
- if not args.check:build(args.cache,list(range(2012,args.end+1)))
+ a=argparse.ArgumentParser();a.add_argument('--cache',type=Path,default=Path(__file__).resolve().parent/'source-cache');a.add_argument('--start',type=int,default=2021);a.add_argument('--end',type=int,default=2026);a.add_argument('--check',action='store_true');args=a.parse_args()
+ if not args.check:build(args.cache,list(range(args.start,args.end+1)))
  check()
