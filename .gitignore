@@ -7,3 +7,6 @@
 # Full compressed copies remain local; publish smaller PDF parts.
 /references/xiaoxiurong/*.pdf
 __pycache__/
+node_modules/
+package.json
+package-lock.json

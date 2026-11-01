@@ -34,14 +34,14 @@ p { margin: 0 0 8px; }
 .qnav { display: grid; grid-template-columns: repeat(19, minmax(0, 1fr)); gap: 4px; margin: 0 0 24px; padding: 10px 8px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 4px; }
 .qnav a { text-align: center; padding: 2px 0; text-decoration: none; border-radius: 3px; }
 .qnav a:hover { background: #0969da; color: white; }
-.question { margin: 0 0 16px; break-inside: avoid; }
-.stem { margin: 0 0 5px; text-align: justify; white-space: normal; line-height: 1.68; }
+.question { margin: 0 0 16px; break-inside: auto; }
+.stem { margin: 0 0 5px; text-align: justify; white-space: normal; line-height: 1.68; break-after: avoid; }
 .options { list-style: none; padding: 0; margin: 6px 0 10px 2em; display: grid; grid-template-columns: minmax(0, 1fr); gap: 5px 24px; }
 .options li { min-width: 0; padding-left: 1.6em; text-indent: -1.6em; margin: 0; white-space: normal; line-height: 1.68; break-inside: avoid; overflow-wrap: anywhere; }
 .analysis { margin: 26px 0 36px; break-inside: auto; }
 .materials p { margin: 0 0 8px; text-indent: 2em; text-align: justify; white-space: normal; line-height: 1.7; }
 .materials .material-label { text-indent: 0; font-weight: bold; margin-top: 12px; break-after: avoid; }
-.ask { margin: 14px 0 0; white-space: pre-line; font-weight: normal; line-height: 1.75; }
+.ask { margin: 14px 0 0; white-space: pre-line; font-weight: normal; line-height: 1.75; break-inside: avoid; }
 .figure { margin: 12px auto; text-align: center; break-inside: avoid; }
 .figure img { display: block; max-width: 100%; height: auto; margin: auto; background: white; }
 .write-space { display: none; height: 240px; margin-top: 16px; background: repeating-linear-gradient(white 0,white 34px,#ccc 35px); }
@@ -83,7 +83,7 @@ section[id], article[id], h2[id] { scroll-margin-top: 96px; }
   @bottom-center { content: "第 " counter(page) " 页"; font-family: serif; font-size: 9pt; color: #111; }
 }
 @media print {
-  html, body { background: white; font-size: 10.5pt; line-height: 1.65; }
+  html, body { background: white; font-size: 10.5pt; line-height: 1.6; }
   main { max-width: none; margin: 0; padding: 0; border: 0; box-shadow: none; }
   .appbar, .qnav, .screen-only, footer { display: none !important; }
   header { margin: 0 0 6mm; }
@@ -93,15 +93,18 @@ section[id], article[id], h2[id] { scroll-margin-top: 96px; }
   h2 { font-size: 10.5pt; margin: 5mm 0 1.5mm; break-after: avoid; }
   h3 { font-size: 10.5pt; break-after: avoid; }
   .instruction { font-size: 10pt; margin-bottom: 3mm; break-after: avoid; }
-  .question { margin-bottom: 3mm; }
+  .question { margin-bottom: 3mm; break-inside: auto; }
+  .stem { break-after: avoid; line-height: 1.6; }
   .options { margin: 1.5mm 0 2mm 2em; gap: 1mm 6mm; }
+  .options li { line-height: 1.6; }
   .analysis { margin: 5mm 0; }
-  .materials p { margin-bottom: 2mm; }
-  .ask { margin-top: 3mm; }
+  .materials p { margin-bottom: 1.8mm; line-height: 1.6; }
+  .materials .material-label { margin-top: 2mm; break-after: avoid; }
+  .ask { margin-top: 2.5mm; line-height: 1.6; break-inside: avoid; }
   p { orphans: 3; widows: 3; }
   a { color: inherit; text-decoration: none; }
 }
-</style></head><body><div class="appbar screen-only"><nav><a href="../index.html">HTML试卷目录</a></nav></div><main><h1>考研政治真题 · PDF</h1><p class="subtitle">2012—2026 · 按年份下载</p><p>直接从已审核、已排版的HTML打印导出；不含答案及额外答题留白。纸张为A4，保留原有自然分页。</p><div class="years"><a href="2012.pdf"><strong>2012 年</strong><small>PDF · 9 页</small></a><a href="2013.pdf"><strong>2013 年</strong><small>PDF · 9 页</small></a><a href="2014.pdf"><strong>2014 年</strong><small>PDF · 10 页</small></a><a href="2015.pdf"><strong>2015 年</strong><small>PDF · 11 页</small></a><a href="2016.pdf"><strong>2016 年</strong><small>PDF · 10 页</small></a><a href="2017.pdf"><strong>2017 年</strong><small>PDF · 10 页</small></a><a href="2018.pdf"><strong>2018 年</strong><small>PDF · 10 页</small></a><a href="2019.pdf"><strong>2019 年</strong><small>PDF · 10 页</small></a><a href="2020.pdf"><strong>2020 年</strong><small>PDF · 10 页</small></a><a href="2021.pdf"><strong>2021 年</strong><small>PDF · 10 页</small></a><a href="2022.pdf"><strong>2022 年</strong><small>PDF · 11 页</small></a><a href="2023.pdf"><strong>2023 年</strong><small>PDF · 11 页</small></a><a href="2024.pdf"><strong>2024 年</strong><small>PDF · 11 页</small></a><a href="2025.pdf"><strong>2025 年</strong><small>PDF · 10 页</small></a><a href="2026.pdf"><strong>2026 年</strong><small>PDF · 10 页</small></a></div><p class="note">已转换15套。导出记录和输入、输出摘要见tools/papers/pdf-manifest.json；文字完整性、A4边界及空白页检查见pdf-validation.json。HTML和题目内容保持原样。</p></main><script>/* Same fit-to-width principle as m2; long political options may wrap in one column. */
+</style></head><body><div class="appbar screen-only"><nav><a href="../index.html">HTML试卷目录</a></nav></div><main><h1>考研政治真题 · PDF</h1><p class="subtitle">2012—2026 · 按年份下载</p><p>直接从已审核、已排版的HTML打印导出；不含答案及额外答题留白。纸张为A4，保留原有自然分页。</p><div class="years"><a href="2012.pdf"><strong>2012 年</strong><small>PDF · 9 页</small></a><a href="2013.pdf"><strong>2013 年</strong><small>PDF · 9 页</small></a><a href="2014.pdf"><strong>2014 年</strong><small>PDF · 9 页</small></a><a href="2015.pdf"><strong>2015 年</strong><small>PDF · 10 页</small></a><a href="2016.pdf"><strong>2016 年</strong><small>PDF · 9 页</small></a><a href="2017.pdf"><strong>2017 年</strong><small>PDF · 9 页</small></a><a href="2018.pdf"><strong>2018 年</strong><small>PDF · 10 页</small></a><a href="2019.pdf"><strong>2019 年</strong><small>PDF · 9 页</small></a><a href="2020.pdf"><strong>2020 年</strong><small>PDF · 9 页</small></a><a href="2021.pdf"><strong>2021 年</strong><small>PDF · 9 页</small></a><a href="2022.pdf"><strong>2022 年</strong><small>PDF · 10 页</small></a><a href="2023.pdf"><strong>2023 年</strong><small>PDF · 10 页</small></a><a href="2024.pdf"><strong>2024 年</strong><small>PDF · 10 页</small></a><a href="2025.pdf"><strong>2025 年</strong><small>PDF · 9 页</small></a><a href="2026.pdf"><strong>2026 年</strong><small>PDF · 10 页</small></a></div><p class="note">已转换15套。导出记录和输入、输出摘要见tools/papers/pdf-manifest.json；文字完整性、A4边界及空白页检查见pdf-validation.json。HTML和题目内容保持原样。</p></main><script>/* Same fit-to-width principle as m2; long political options may wrap in one column. */
 (() => {
   const canvas = document.createElement('canvas');
   const context = canvas.getContext('2d');
