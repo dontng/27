@@ -24,8 +24,9 @@
 - [Day18 · 杨梅复合种养与和谐共生](bank/day18.md) · [原视频](https://www.bilibili.com/video/BV1JCxF6PE6Y/)
 - [Day19 · 心理学与AI融合发展](bank/day19.md) · [原视频](https://www.bilibili.com/video/BV12Rxv6kEMH/)
 - [Day20 · 太空育种与种质资源](bank/day20.md) · [原视频](https://www.bilibili.com/video/BV17PxC6SEad/)
+- [Day21 · 调查研究与认识论](bank/day21.md) · [原视频](https://www.bilibili.com/video/BV1hU4F69EUd/)
 
-已归档 20/20 期；当前清单全部完成。
+已归档 21/21 期；当前清单全部完成。
 
 ## 目录约定
 
