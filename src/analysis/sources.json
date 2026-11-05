@@ -926,9 +926,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 24,
+      "bvid": "BV1XV446aEn5",
+      "url": "https://www.bilibili.com/video/BV1XV446aEn5/",
+      "date": "2026-11-05",
+      "duration_seconds": 1632,
+      "topic": "实践、认识与科学技术",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-11-05T19:00:00+08:00",
+      "pubdate": 1793876400,
+      "timestamps": {
+        "material": 1615.0,
+        "answer": 1626.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day24材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day24-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c409d788e762e0d95a8ccd079f75a00a79325f29483f394d5e0587b51ea9085b",
+          "timestamp_seconds": 1615.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day24-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "40f930fa9ff8a679087f0af81241fc81c413c69630e782809ac44cac8a6e8ead",
+          "timestamp_seconds": 1626.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-11-04T19:29:05+08:00",
+  "checked_at": "2026-11-05T19:06:16+08:00",
   "archived_days": [
     1,
     2,
@@ -952,12 +992,13 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "latest_collection_check": {
-    "checked_at": "2026-11-04T19:25:00+08:00",
-    "episode_count": 23,
-    "latest_day": 23,
+    "checked_at": "2026-11-05T19:01:00+08:00",
+    "episode_count": 24,
+    "latest_day": 24,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }

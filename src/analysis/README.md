@@ -27,8 +27,9 @@
 - [Day21 · 调查研究与认识论](bank/day21.md) · [原视频](https://www.bilibili.com/video/BV1hU4F69EUd/)
 - [Day22 · 发展观点与辩证否定](bank/day22.md) · [原视频](https://www.bilibili.com/video/BV1dj4g6xE9U/)
 - [Day23 · 时空观与系统思维](bank/day23.md) · [原视频](https://www.bilibili.com/video/BV1nLxQ65ETU/)
+- [Day24 · 实践、认识与科学技术](bank/day24.md) · [原视频](https://www.bilibili.com/video/BV1XV446aEn5/)
 
-已归档 23/23 期；当前清单全部完成。
+已归档 24/24 期；当前清单全部完成。
 
 ## 目录约定
 
