@@ -966,9 +966,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 25,
+      "bvid": "BV16Z4q6GEku",
+      "url": "https://www.bilibili.com/video/BV16Z4q6GEku/",
+      "date": "2026-11-06",
+      "duration_seconds": 1695,
+      "topic": "新技术与就业辩证发展",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-11-06T19:00:00+08:00",
+      "pubdate": 1793962800,
+      "timestamps": {
+        "material": 1677.0,
+        "answer": 1688.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day25材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day25-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "87f1778c8c0cd177001e637295c5745759c92fbf752f129fa06fb3b016819177",
+          "timestamp_seconds": 1677.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day25-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "0b5b5320d77ee8a3d51f96dafcc5ab658ff77e5c55c6940c6490e7f3f3a55739",
+          "timestamp_seconds": 1688.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-11-05T19:06:16+08:00",
+  "checked_at": "2026-11-06T19:03:51+08:00",
   "archived_days": [
     1,
     2,
@@ -993,12 +1033,13 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "latest_collection_check": {
-    "checked_at": "2026-11-05T19:01:00+08:00",
-    "episode_count": 24,
-    "latest_day": 24,
+    "checked_at": "2026-11-06T19:01:00+08:00",
+    "episode_count": 25,
+    "latest_day": 25,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
