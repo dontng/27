@@ -1006,9 +1006,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 26,
+      "bvid": "BV14Q4E6eE3o",
+      "url": "https://www.bilibili.com/video/BV14Q4E6eE3o/",
+      "date": "2026-11-07",
+      "duration_seconds": 1417,
+      "topic": "黄曲霉与科学认识",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-11-07T17:00:00+08:00",
+      "pubdate": 1794042000,
+      "timestamps": {
+        "material": 1402.0,
+        "answer": 1414.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day26材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day26-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "9fe831a7a4f9dd552d4831cb7f6cfbc3892a5fb9805ba272cc3d5e3256d708f4",
+          "timestamp_seconds": 1402.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day26-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "9b638b2d49adfa5adda9c852cb9dae6d619595f60c434e12c78ce4990c30ff0a",
+          "timestamp_seconds": 1414.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-11-06T19:03:51+08:00",
+  "checked_at": "2026-11-07T19:34:22+08:00",
   "archived_days": [
     1,
     2,
@@ -1034,12 +1074,13 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "latest_collection_check": {
-    "checked_at": "2026-11-06T19:01:00+08:00",
-    "episode_count": 25,
-    "latest_day": 25,
+    "checked_at": "2026-11-07T19:30:00+08:00",
+    "episode_count": 26,
+    "latest_day": 26,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }
