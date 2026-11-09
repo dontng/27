@@ -1046,9 +1046,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 27,
+      "bvid": "BV1h5Wb6fEe2",
+      "url": "https://www.bilibili.com/video/BV1h5Wb6fEe2/",
+      "date": "2026-11-09",
+      "duration_seconds": 1807,
+      "topic": "第三方测评与价值评价",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-11-09T19:00:00+08:00",
+      "pubdate": 1794222000,
+      "timestamps": {
+        "material": 1793.0,
+        "answer": 1802.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）",
+      "visual_check": "Day27材料与答案各一页，逐秒检查片尾换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day27-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "e624ce63137bba85c3df40dcf43e36e9bb30e097cec8543b344d6630de991c93",
+          "timestamp_seconds": 1793.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day27-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "47014643a83813498443442fc509a25beabcc2226f741225d178585c08edd4d8",
+          "timestamp_seconds": 1802.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-11-07T19:34:22+08:00",
+  "checked_at": "2026-11-09T19:19:34+08:00",
   "archived_days": [
     1,
     2,
@@ -1075,12 +1115,13 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "latest_collection_check": {
-    "checked_at": "2026-11-07T19:30:00+08:00",
-    "episode_count": 26,
-    "latest_day": 26,
+    "checked_at": "2026-11-09T19:16:00+08:00",
+    "episode_count": 27,
+    "latest_day": 27,
     "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
     "complete": false
   }

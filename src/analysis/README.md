@@ -30,8 +30,9 @@
 - [Day24 · 实践、认识与科学技术](bank/day24.md) · [原视频](https://www.bilibili.com/video/BV1XV446aEn5/)
 - [Day25 · 新技术与就业辩证发展](bank/day25.md) · [原视频](https://www.bilibili.com/video/BV16Z4q6GEku/)
 - [Day26 · 黄曲霉与科学认识](bank/day26.md) · [原视频](https://www.bilibili.com/video/BV14Q4E6eE3o/)
+- [Day27 · 第三方测评与价值评价](bank/day27.md) · [原视频](https://www.bilibili.com/video/BV1h5Wb6fEe2/)
 
-已归档 26/26 期；当前清单全部完成。
+已归档 27/27 期；当前清单全部完成。
 
 ## 目录约定
 
