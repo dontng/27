@@ -7,8 +7,11 @@
   "quality_note": "Day01—Day11为1080P播放源的浏览器截图（宽1363像素）；Day12起优先使用1920×1080原始播放流抽帧，各期以自身记录为准",
   "explain_status": "尚未确定，不生成内容",
   "monitoring": {
-    "status": "enabled",
+    "status": "completed_officially",
     "created": true,
+    "is_enabled": false,
+    "completed_at": "2026-11-11T18:43:35+08:00",
+    "completion_reason": "官方合集已标注完结，Day28简介确认其为最后一节；Day01—Day28已全部归档",
     "automation_id": "6ad660e9b09c8191986e0e600d88a55b",
     "timezone": "Asia/Shanghai",
     "schedule": "BEGIN:VEVENT\nDTSTART;TZID=Asia/Shanghai:20261020T190000\nRRULE:FREQ=DAILY;BYHOUR=19;BYMINUTE=0;BYSECOND=0;UNTIL=20261119T155959Z\nEND:VEVENT",
@@ -1086,9 +1089,49 @@
         }
       ],
       "status": "archived"
+    },
+    {
+      "day": 28,
+      "bvid": "BV1W3WT6HEhb",
+      "url": "https://www.bilibili.com/video/BV1W3WT6HEhb/",
+      "date": "2026-11-10",
+      "duration_seconds": 2077,
+      "topic": "荔枝保鲜与哲学原理",
+      "source_resolution": [
+        1920,
+        1080
+      ],
+      "published_at": "2026-11-10T19:00:00+08:00",
+      "pubdate": 1794308400,
+      "timestamps": {
+        "material": 2059.0,
+        "answer": 2072.0
+      },
+      "capture_method": "native_frame_extraction",
+      "max_quality_verified": "1080P原始播放流抽帧（1920×1080）；页面同时提供1080P+选项，但片尾可用原始流最高实际分辨率仍为1920×1080",
+      "visual_check": "Day28材料与答案各一页，逐秒检查片尾全部换页；两页Day编号及正文完整、无弹幕或播放器控件遮挡，未放大或重绘",
+      "images": [
+        {
+          "kind": "material",
+          "path": "bank/images/day28-material.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "33c0bcfe2fab0f6b8a1d95e806fa692f6dcf07ba84f53ded96ccdf1bbf6ea2a5",
+          "timestamp_seconds": 2059.0
+        },
+        {
+          "kind": "answer",
+          "path": "bank/images/day28-answer.jpg",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c10952140ed17622d03f89c7d370f8dc0c7f39dc185494d621863102de0d6e15",
+          "timestamp_seconds": 2072.0
+        }
+      ],
+      "status": "archived"
     }
   ],
-  "checked_at": "2026-11-09T19:19:34+08:00",
+  "checked_at": "2026-11-11T18:44:21+08:00",
   "archived_days": [
     1,
     2,
@@ -1116,13 +1159,15 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "latest_collection_check": {
-    "checked_at": "2026-11-09T19:16:00+08:00",
-    "episode_count": 27,
-    "latest_day": 27,
-    "source": "https://www.bilibili.com/video/BV17xpv6QEFA/",
-    "complete": false
+    "checked_at": "2026-11-11T18:42:40+08:00",
+    "episode_count": 28,
+    "latest_day": 28,
+    "source": "https://space.bilibili.com/3546382501677960/channel/collectiondetail?sid=9292051",
+    "complete": true,
+    "completion_evidence": "官方合集标题标注（已完结），Day28简介明确写明‘今天也是我们带背课程的最后一节’"
   }
 }
