@@ -1,0 +1,95 @@
+{
+  "source_name": "27肖八试题-完整版.pdf",
+  "source_sha256": "d51b56352395e3c33b46ccd57a44b59cee6803a43c2b9cd6f3f26d9c7e7a29f8",
+  "source_pages": 82,
+  "papers": [
+    {
+      "paper": 1,
+      "file": "x8/PDF/xiao8-01.pdf",
+      "source_pages": [
+        1,
+        10
+      ],
+      "pages": 10,
+      "sha256": "86e61c8d2921512af9af0f1e35e8464fac13518506549926191915e298b0f0ad",
+      "render_matches_source": true
+    },
+    {
+      "paper": 2,
+      "file": "x8/PDF/xiao8-02.pdf",
+      "source_pages": [
+        11,
+        20
+      ],
+      "pages": 10,
+      "sha256": "babe86ab787c037594b10ec0ae6f009e044558ae264abcc4cdaeab97c5dd3bb5",
+      "render_matches_source": true
+    },
+    {
+      "paper": 3,
+      "file": "x8/PDF/xiao8-03.pdf",
+      "source_pages": [
+        21,
+        31
+      ],
+      "pages": 11,
+      "sha256": "b0e0c0dd703927bbba84d9ff7a42a2d0e3acb2c03626a1a34daab513d31759ad",
+      "render_matches_source": true
+    },
+    {
+      "paper": 4,
+      "file": "x8/PDF/xiao8-04.pdf",
+      "source_pages": [
+        32,
+        41
+      ],
+      "pages": 10,
+      "sha256": "10d28ac8925ccb255ffb4da51cbc264dfd5afd01dcf2fb1ed24d0e4bd107c5dd",
+      "render_matches_source": true
+    },
+    {
+      "paper": 5,
+      "file": "x8/PDF/xiao8-05.pdf",
+      "source_pages": [
+        42,
+        51
+      ],
+      "pages": 10,
+      "sha256": "d8a6c8515e5db4e412be8eaac6e369e1535f9eccd1618964502c002332f754e6",
+      "render_matches_source": true
+    },
+    {
+      "paper": 6,
+      "file": "x8/PDF/xiao8-06.pdf",
+      "source_pages": [
+        52,
+        62
+      ],
+      "pages": 11,
+      "sha256": "18fae46017f589f75e92c281c77d04a56548747f0035384d4fe7b9fbeb4b6299",
+      "render_matches_source": true
+    },
+    {
+      "paper": 7,
+      "file": "x8/PDF/xiao8-07.pdf",
+      "source_pages": [
+        63,
+        72
+      ],
+      "pages": 10,
+      "sha256": "3999c2f5b63206e6839499f00e2418e980486cb43e0a74a60638c9fda3853504",
+      "render_matches_source": true
+    },
+    {
+      "paper": 8,
+      "file": "x8/PDF/xiao8-08.pdf",
+      "source_pages": [
+        73,
+        82
+      ],
+      "pages": 10,
+      "sha256": "da1d1d46a8299eea8fb3242d82b0cb781c4c65dad68af7b23037a20db81fffaa",
+      "render_matches_source": true
+    }
+  ]
+}
