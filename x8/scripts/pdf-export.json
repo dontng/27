@@ -274,6 +274,307 @@
           "body_characters": 230
         }
       ]
+    },
+    {
+      "paper": 5,
+      "html": "x8/html/xiao8-05.html",
+      "pdf": "x8/html/xiao8-05.pdf",
+      "html_sha256": "db37980c7924241da89c3f0bcb3fea33602ae232f6e95fb2d0701faa17a787f9",
+      "pdf_sha256": "69a08645d8b0dcace9dfdd0423321a7a6b302a45923427992e51d2b8af9b25f6",
+      "pages": 10,
+      "a4": true,
+      "html_unchanged": true,
+      "text_fragments_checked": 216,
+      "missing_fragments": 0,
+      "out_of_bounds_spans": 0,
+      "option_columns": {
+        "1": 14,
+        "2": 12,
+        "4": 7
+      },
+      "page_stats": [
+        {
+          "page": 1,
+          "body_bottom_pt": 789.98,
+          "body_characters": 1002
+        },
+        {
+          "page": 2,
+          "body_bottom_pt": 760.16,
+          "body_characters": 945
+        },
+        {
+          "page": 3,
+          "body_bottom_pt": 655.57,
+          "body_characters": 769
+        },
+        {
+          "page": 4,
+          "body_bottom_pt": 716.96,
+          "body_characters": 978
+        },
+        {
+          "page": 5,
+          "body_bottom_pt": 775.81,
+          "body_characters": 951
+        },
+        {
+          "page": 6,
+          "body_bottom_pt": 733.84,
+          "body_characters": 1005
+        },
+        {
+          "page": 7,
+          "body_bottom_pt": 713.99,
+          "body_characters": 1142
+        },
+        {
+          "page": 8,
+          "body_bottom_pt": 775.12,
+          "body_characters": 1017
+        },
+        {
+          "page": 9,
+          "body_bottom_pt": 770.43,
+          "body_characters": 891
+        },
+        {
+          "page": 10,
+          "body_bottom_pt": 304.87,
+          "body_characters": 410
+        }
+      ]
+    },
+    {
+      "paper": 6,
+      "html": "x8/html/xiao8-06.html",
+      "pdf": "x8/html/xiao8-06.pdf",
+      "html_sha256": "f1eed257b650750ae5246435b798e529b0e6fbcafb46f001c69c88eaeed124ff",
+      "pdf_sha256": "62d0325a3de88bd74efa2fdddaebe2e35f9ea7368408f4cb551d25c73584ab35",
+      "pages": 10,
+      "a4": true,
+      "html_unchanged": true,
+      "text_fragments_checked": 208,
+      "missing_fragments": 0,
+      "out_of_bounds_spans": 0,
+      "option_columns": {
+        "1": 19,
+        "2": 7,
+        "4": 7
+      },
+      "page_stats": [
+        {
+          "page": 1,
+          "body_bottom_pt": 774.67,
+          "body_characters": 971
+        },
+        {
+          "page": 2,
+          "body_bottom_pt": 739.26,
+          "body_characters": 883
+        },
+        {
+          "page": 3,
+          "body_bottom_pt": 676.28,
+          "body_characters": 869
+        },
+        {
+          "page": 4,
+          "body_bottom_pt": 722.63,
+          "body_characters": 902
+        },
+        {
+          "page": 5,
+          "body_bottom_pt": 702.94,
+          "body_characters": 959
+        },
+        {
+          "page": 6,
+          "body_bottom_pt": 771.56,
+          "body_characters": 955
+        },
+        {
+          "page": 7,
+          "body_bottom_pt": 737.68,
+          "body_characters": 1054
+        },
+        {
+          "page": 8,
+          "body_bottom_pt": 675.74,
+          "body_characters": 1121
+        },
+        {
+          "page": 9,
+          "body_bottom_pt": 789.62,
+          "body_characters": 1092
+        },
+        {
+          "page": 10,
+          "body_bottom_pt": 726.46,
+          "body_characters": 1027
+        }
+      ]
+    },
+    {
+      "paper": 7,
+      "html": "x8/html/xiao8-07.html",
+      "pdf": "x8/html/xiao8-07.pdf",
+      "html_sha256": "da7995d5a6d0d71e0ef2aaa68f7a2a148823ffac79eef15c7316cab7b6fb3315",
+      "pdf_sha256": "b5be81be2485646cfe5242afb4c75c3d3da05b3fee6326709f46e55dfa4d2002",
+      "pages": 10,
+      "a4": true,
+      "html_unchanged": true,
+      "text_fragments_checked": 214,
+      "missing_fragments": 0,
+      "out_of_bounds_spans": 0,
+      "option_columns": {
+        "1": 18,
+        "2": 8,
+        "4": 7
+      },
+      "page_stats": [
+        {
+          "page": 1,
+          "body_bottom_pt": 723.05,
+          "body_characters": 800
+        },
+        {
+          "page": 2,
+          "body_bottom_pt": 775.56,
+          "body_characters": 938
+        },
+        {
+          "page": 3,
+          "body_bottom_pt": 725.74,
+          "body_characters": 917
+        },
+        {
+          "page": 4,
+          "body_bottom_pt": 778.65,
+          "body_characters": 960
+        },
+        {
+          "page": 5,
+          "body_bottom_pt": 708.6,
+          "body_characters": 875
+        },
+        {
+          "page": 6,
+          "body_bottom_pt": 760.22,
+          "body_characters": 1015
+        },
+        {
+          "page": 7,
+          "body_bottom_pt": 792.89,
+          "body_characters": 1222
+        },
+        {
+          "page": 8,
+          "body_bottom_pt": 793.77,
+          "body_characters": 1076
+        },
+        {
+          "page": 9,
+          "body_bottom_pt": 771.35,
+          "body_characters": 941
+        },
+        {
+          "page": 10,
+          "body_bottom_pt": 241.1,
+          "body_characters": 298
+        }
+      ]
+    },
+    {
+      "paper": 8,
+      "html": "x8/html/xiao8-08.html",
+      "pdf": "x8/html/xiao8-08.pdf",
+      "html_sha256": "270f3b47c579acfc4a3e6d42a2574a1efab9d8834c468b8c9b15ae85484b0b37",
+      "pdf_sha256": "6a25bec64d4e786392f0fbd05a1636cb613ba40be863c9b6f97fc1fb1ef7a626",
+      "pages": 10,
+      "a4": true,
+      "html_unchanged": true,
+      "text_fragments_checked": 214,
+      "missing_fragments": 0,
+      "out_of_bounds_spans": 0,
+      "option_columns": {
+        "1": 16,
+        "2": 13,
+        "4": 4
+      },
+      "page_stats": [
+        {
+          "page": 1,
+          "body_bottom_pt": 759.35,
+          "body_characters": 917
+        },
+        {
+          "page": 2,
+          "body_bottom_pt": 706.93,
+          "body_characters": 886
+        },
+        {
+          "page": 3,
+          "body_bottom_pt": 660.97,
+          "body_characters": 895
+        },
+        {
+          "page": 4,
+          "body_bottom_pt": 787.0,
+          "body_characters": 1015
+        },
+        {
+          "page": 5,
+          "body_bottom_pt": 691.87,
+          "body_characters": 857
+        },
+        {
+          "page": 6,
+          "body_bottom_pt": 785.18,
+          "body_characters": 1227
+        },
+        {
+          "page": 7,
+          "body_bottom_pt": 760.7,
+          "body_characters": 966
+        },
+        {
+          "page": 8,
+          "body_bottom_pt": 793.29,
+          "body_characters": 1045
+        },
+        {
+          "page": 9,
+          "body_bottom_pt": 763.96,
+          "body_characters": 1066
+        },
+        {
+          "page": 10,
+          "body_bottom_pt": 583.42,
+          "body_characters": 841
+        }
+      ]
     }
-  ]
+  ],
+  "visual_checks": {
+    "all_pages_rendered": 78,
+    "per_paper_contact_sheets_checked": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "full_size_samples": [
+      "first paper first page",
+      "first paper material-analysis page",
+      "second paper first page"
+    ],
+    "blank_pages": 0,
+    "missing_text_fragments": 0,
+    "out_of_bounds_spans": 0
+  }
 }

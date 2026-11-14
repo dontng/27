@@ -17,10 +17,13 @@
 
 ## 真题样式 HTML
 
-[打开八套试卷目录](html/index.html) · [下载八套HTML合包](html/xiao8-html.zip)。八套均从二轮校订后的 Markdown 生成，沿用 `papers` 的宋体正文、黑体标题及试卷布局。正文显示字号由15px调整为16px，设置500字重并重新平衡行距；打印为11pt。字体族保持不变，统一纯黑，未加描边或换用肖八扫描件的字形。每套HTML内嵌样式和脚本，可单独打开阅读、打印，也可切换分析题答题留白。
+[打开八套试卷目录](html/index.html) · [下载八套HTML合包](html/xiao8-html.zip) · [下载八套排版PDF](html/xiao8-typeset-pdfs.zip)。八套均从二轮校订后的 Markdown 生成，沿用 `papers` 的宋体正文、黑体标题及试卷布局。正文显示字号由15px调整为16px，设置500字重并重新平衡行距；打印为11pt。字体族保持不变，统一纯黑，未加描边或换用肖八扫描件的字形。每套HTML内嵌样式和脚本，可单独打开阅读、打印，也可切换分析题答题留白。
+
+八份新排版PDF与HTML同名并排保存在 `html/` 中；[逐套查看](html/README.md#同目录排版pdf)。原扫描PDF仍位于 `PDF/`。
 
 ## 脚本
 
+- `scripts/export_pdf.py`：读取最新HTML和打印CSS，导出同目录同名PDF，核对全部正文并保存哈希。
 - `scripts/build_html.py`：从校订 Markdown 生成八套独立 HTML，逐题核对正文字符及结构；样式来自 `scripts/exam.css`，交互复用 `tools/papers/exam.js`。
 - `scripts/split_pdf.py`：依照已查看的八套卷边界拆分，并逐页比较渲染结果。
 - `scripts/split-manifest.json`：输入SHA256、页码范围、各卷校验值及逐页一致性检查。
