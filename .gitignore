@@ -10,3 +10,7 @@ __pycache__/
 node_modules/
 package.json
 package-lock.json
+
+# x8 per-page OCR caches can be rebuilt from committed raw.md and extraction.json.
+/x8/scripts/_work/*/pages/
+/x8/scripts/_work/*/source.sha256

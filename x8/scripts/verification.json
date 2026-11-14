@@ -1,0 +1,77 @@
+{
+  "source_pages": 82,
+  "paper_count": 8,
+  "questions": 304,
+  "choice_options": 1056,
+  "all_question_numbers_contiguous": true,
+  "all_choice_labels_complete": true,
+  "all_pdf_links_resolve": true,
+  "rebuild_from_raw_markdown_verified": true,
+  "proofreading": "OCR draft; not verified word by word",
+  "papers": [
+    {
+      "paper": 1,
+      "pages": 10,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "4f030fdabaef91c2b32a13ae79e3df12d2ae3f787e477aa03a14f8e76d61336a"
+    },
+    {
+      "paper": 2,
+      "pages": 10,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "487b90ffae4d7f1eda27764a6e1813e509fe0eb2620113e7db9a293affc4db56"
+    },
+    {
+      "paper": 3,
+      "pages": 11,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "f50468ddd8b8d13581e2117d7f7aa63f7ebc5707e1fb8a61b11f8f01eace1d16"
+    },
+    {
+      "paper": 4,
+      "pages": 10,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "3b568be4e84f9d45eada08d77aa26748a8acdcd6026dd5c81605fb9511e9d16f"
+    },
+    {
+      "paper": 5,
+      "pages": 10,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "aaef434d9fb6436632badfbffb7a0687afc4dd46a9603e41d3da9137e2477c5b"
+    },
+    {
+      "paper": 6,
+      "pages": 11,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "33c332ba1fc64beae2306cf36b2d83dbd4bed06565ad48794682b22c93b18fbf"
+    },
+    {
+      "paper": 7,
+      "pages": 10,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "5128944d68c7a74c3864618a398e92ccb9a1e190741cc42d0c5359bb8c27e3cc"
+    },
+    {
+      "paper": 8,
+      "pages": 10,
+      "questions": 38,
+      "choice_options": 132,
+      "pdf_page_references": 38,
+      "markdown_sha256": "002cbd40248654edf804c3c1e4c94e67d1ef3a28210fb1feaa9eb1407df7250c"
+    }
+  ]
+}
