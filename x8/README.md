@@ -21,6 +21,8 @@
 
 八份新排版PDF与HTML同名并排保存在 `html/` 中；[逐套查看](html/README.md#同目录排版pdf)。原扫描PDF仍位于 `PDF/`。
 
+[最新HTML版式复核](scripts/html-layout-review.md)：已修正选项、材料出处与设问的17处打印分页问题，HTML与PDF已同步更新。
+
 ## 脚本
 
 - `scripts/export_pdf.py`：读取最新HTML和打印CSS，导出同目录同名PDF，核对全部正文并保存哈希。

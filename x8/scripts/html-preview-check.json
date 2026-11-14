@@ -19,5 +19,6 @@
     "first page",
     "material-analysis pages",
     "last page"
-  ]
+  ],
+  "status": "historical partial preview; superseded by html-layout-audit.json and html-layout-review.md"
 }

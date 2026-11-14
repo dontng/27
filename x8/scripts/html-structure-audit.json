@@ -1,0 +1,53 @@
+{
+  "browser_interaction_tested": false,
+  "checks": [
+    {
+      "paper": 1,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 2,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 3,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 4,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 5,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 6,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 7,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    },
+    {
+      "paper": 8,
+      "unique_ids": true,
+      "question_navigation_targets": 38,
+      "script_and_handlers_syntax": true
+    }
+  ]
+}

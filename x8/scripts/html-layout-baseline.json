@@ -1,0 +1,319 @@
+{
+  "method": "offline WeasyPrint layout and simulated screen widths; not browser interaction testing",
+  "base_revision": "0174d12c6795caf433ee8e9cef980426406deb57",
+  "print_checks": [
+    {
+      "paper": 1,
+      "pages": 9,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q18",
+          "pages": [
+            [
+              3
+            ],
+            [
+              3
+            ],
+            [
+              4
+            ],
+            [
+              4
+            ]
+          ]
+        },
+        {
+          "type": "options",
+          "question": "q23",
+          "pages": [
+            [
+              4
+            ],
+            [
+              4
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "paper": 2,
+      "pages": 9,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q28",
+          "pages": [
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              6
+            ],
+            [
+              6
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "paper": 3,
+      "pages": 10,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q10",
+          "pages": [
+            [
+              2
+            ],
+            [
+              2
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ]
+          ]
+        },
+        {
+          "type": "options",
+          "question": "q26",
+          "pages": [
+            [
+              5
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              6
+            ]
+          ]
+        },
+        {
+          "type": "options",
+          "question": "q31",
+          "pages": [
+            [
+              6
+            ],
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              7
+            ]
+          ]
+        },
+        {
+          "type": "source-attribution",
+          "question": "q38",
+          "from_page": 9,
+          "to_page": 10,
+          "text": "摘编自《人民日报》（2026年5月1日）"
+        }
+      ]
+    },
+    {
+      "paper": 4,
+      "pages": 10,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q4",
+          "pages": [
+            [
+              1
+            ],
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              2
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "paper": 5,
+      "pages": 10,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q5",
+          "pages": [
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              2
+            ],
+            [
+              2
+            ]
+          ]
+        },
+        {
+          "type": "options",
+          "question": "q26",
+          "pages": [
+            [
+              5
+            ],
+            [
+              5
+            ],
+            [
+              6
+            ],
+            [
+              6
+            ]
+          ]
+        },
+        {
+          "type": "source-attribution",
+          "question": "q36",
+          "from_page": 8,
+          "to_page": 9,
+          "text": "摘自《中共中央关于党的百年奋斗重大成就和历史经验的决议》"
+        }
+      ]
+    },
+    {
+      "paper": 6,
+      "pages": 10,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q5",
+          "pages": [
+            [
+              1
+            ],
+            [
+              1
+            ],
+            [
+              2
+            ],
+            [
+              2
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "paper": 7,
+      "pages": 10,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q11",
+          "pages": [
+            [
+              2
+            ],
+            [
+              2
+            ],
+            [
+              3
+            ],
+            [
+              3
+            ]
+          ]
+        },
+        {
+          "type": "source-attribution",
+          "question": "q35",
+          "from_page": 7,
+          "to_page": 8,
+          "text": "摘编自《人民日报》（2026年2月24日）"
+        }
+      ]
+    },
+    {
+      "paper": 8,
+      "pages": 10,
+      "issues": [
+        {
+          "type": "options",
+          "question": "q21",
+          "pages": [
+            [
+              4
+            ],
+            [
+              4
+            ],
+            [
+              5
+            ],
+            [
+              5
+            ]
+          ]
+        },
+        {
+          "type": "options",
+          "question": "q30",
+          "pages": [
+            [
+              6
+            ],
+            [
+              7
+            ],
+            [
+              7
+            ],
+            [
+              7
+            ]
+          ]
+        },
+        {
+          "type": "ask",
+          "question": "q37",
+          "from_page": 9,
+          "to_page": 10,
+          "text": "（2） “绝不能仅靠道德呼吁，必须将法治思维和法治方式贯穿于管网治网全过程”对我们营造清朗网络空间有何启示？"
+        }
+      ]
+    }
+  ],
+  "screen_checks": [],
+  "print_issue_count": 17,
+  "screen_overflow_text_boxes": 0
+}

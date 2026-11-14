@@ -1,0 +1,306 @@
+{
+  "method": "offline WeasyPrint layout and simulated screen widths; not browser interaction testing",
+  "base_revision": null,
+  "print_checks": [
+    {
+      "paper": 1,
+      "pages": 9,
+      "issues": []
+    },
+    {
+      "paper": 2,
+      "pages": 9,
+      "issues": []
+    },
+    {
+      "paper": 3,
+      "pages": 10,
+      "issues": []
+    },
+    {
+      "paper": 4,
+      "pages": 10,
+      "issues": []
+    },
+    {
+      "paper": 5,
+      "pages": 10,
+      "issues": []
+    },
+    {
+      "paper": 6,
+      "pages": 10,
+      "issues": []
+    },
+    {
+      "paper": 7,
+      "pages": 10,
+      "issues": []
+    },
+    {
+      "paper": 8,
+      "pages": 11,
+      "issues": []
+    }
+  ],
+  "screen_checks": [
+    {
+      "paper": 1,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 1,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 1,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 1,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 2,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 2,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 2,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 2,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 3,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 3,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 3,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 3,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 4,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 4,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 4,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 4,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 5,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 5,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 5,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 5,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 6,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 6,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 6,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 6,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 7,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 7,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 7,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 7,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 8,
+      "viewport_px": 320,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 8,
+      "viewport_px": 390,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 8,
+      "viewport_px": 768,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    },
+    {
+      "paper": 8,
+      "viewport_px": 1120,
+      "offline_simulation": true,
+      "horizontal_overflow_text_boxes": [],
+      "question_count": 38,
+      "option_count": 132
+    }
+  ],
+  "print_issue_count": 0,
+  "screen_overflow_text_boxes": 0
+}

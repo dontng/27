@@ -21,8 +21,12 @@
 - [第7套 PDF](xiao8-07.pdf) · [HTML](xiao8-07.html)
 - [第8套 PDF](xiao8-08.pdf) · [HTML](xiao8-08.html)
 
-[下载八套排版PDF合包](xiao8-typeset-pdfs.zip)。第一、二套各9页，其余各10页，共78页。这里的PDF是重新排版的试卷；原扫描件保留在 `../PDF/`。
+[下载八套排版PDF合包](xiao8-typeset-pdfs.zip)。第一、二套各9页，第三至七套各10页，第八套11页，共79页。这里的PDF是重新排版的试卷；原扫描件保留在 `../PDF/`。
 
 导出命令：`python3 x8/scripts/export_pdf.py`。使用当前HTML内嵌打印样式，A4纵向；离线排版器不执行JavaScript，导出脚本按现有选项分列的4/2/1规则，使用打印字体实测文字宽度后分列。未修改HTML内容或样式。字体由HTML字体栈在导出环境中匹配，与其他设备浏览器可能存在细微字形或分页差异。
 
-已检查全部78页缩略图，并查看首页、材料题样页；逐段文字与HTML匹配，没有空白页或越界文字。导出来源哈希、PDF哈希及逐页统计见[scripts/pdf-export.json](../scripts/pdf-export.json)。
+已检查全部79页缩略图，并查看首页、材料题样页；逐段文字与HTML匹配，没有空白页或越界文字。导出来源哈希、PDF哈希及逐页统计见[scripts/pdf-export.json](../scripts/pdf-export.json)。
+
+## 版式复核更新
+
+已完成[八套版式复核](../scripts/html-layout-review.md)，修正17处打印分页问题。当前HTML、同目录PDF及合包同步更新；四种宽度的离线模拟通过，Safari/Chrome真实浏览器测试仍未完成。
