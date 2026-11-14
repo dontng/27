@@ -1,0 +1,94 @@
+{
+  "template": "tools/papers/exam.css + tools/papers/exam.js",
+  "font_families_unchanged": true,
+  "ink": "#000",
+  "body_weight": 500,
+  "screen_body_px": 16,
+  "print_body_pt": 11,
+  "artificial_stroke": false,
+  "papers": [
+    {
+      "paper": 1,
+      "source_markdown_sha256": "58fd8494d8b862dc319f6e0b6cd76d01590c69fbc1a3c2edbacf41426eb05f3b",
+      "html_sha256": "b5cabcc79c87c7ac5be17d7c4f2debcacfecf4fb885732a9b65038956ea99a42",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 2,
+      "source_markdown_sha256": "3a0956d05944ef112db45f7628c345fe6ac0808320b1d6900af6bad88a632a85",
+      "html_sha256": "cfc3b1e3487497cdeacbca2bc3db9c25ceec61f9fe37098de20fd628f573a896",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 3,
+      "source_markdown_sha256": "713ffb2dd9dc1aeea52f0674073eb816ca5652776dd97619f41ca2e148b85130",
+      "html_sha256": "2e50a0c3da2c30bbb9eb1768523c9eb49d4150e3b420cc4c80f76f4692154677",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 4,
+      "source_markdown_sha256": "69ee8eb3c04677ca21bab3b31dec11649be9e361cfc540c4bbff414cdf4c0925",
+      "html_sha256": "7abd7a355b6e4bbaaec26ff4d33841a38555666f3041c9678ba2fbd074e86b28",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 5,
+      "source_markdown_sha256": "03fe1413a6e2c8be504da6953ebaa2346c7e3f880d3a14d369695436b4784e3b",
+      "html_sha256": "db37980c7924241da89c3f0bcb3fea33602ae232f6e95fb2d0701faa17a787f9",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 6,
+      "source_markdown_sha256": "6d34b1cc8a2dfd82b68ef4c3af80d0109d4bda01ca6656c013c66daa428844fa",
+      "html_sha256": "f1eed257b650750ae5246435b798e529b0e6fbcafb46f001c69c88eaeed124ff",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 7,
+      "source_markdown_sha256": "c9dfae3feec1920c4c3f667d69740f446a5d40e8a5ac2be3fd6a319e34c257c4",
+      "html_sha256": "da7995d5a6d0d71e0ef2aaa68f7a2a148823ffac79eef15c7316cab7b6fb3315",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    },
+    {
+      "paper": 8,
+      "source_markdown_sha256": "f0908294797bcc5e7cfe77c3ea894ebd3e3a4886da976c6eb2e218d57dce74df",
+      "html_sha256": "270f3b47c579acfc4a3e6d42a2574a1efab9d8834c468b8c9b15ae85484b0b37",
+      "questions": 38,
+      "option_labels": 132,
+      "analysis_questions": 5,
+      "text_round_trip_exact": true,
+      "self_contained": true
+    }
+  ],
+  "total_questions": 304,
+  "total_option_labels": 1056,
+  "total_analysis_questions": 40
+}

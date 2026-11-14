@@ -1,0 +1,23 @@
+{
+  "engine": "WeasyPrint offline layout",
+  "browser_local_preview": "blocked by environment; not verified",
+  "mobile_browser": "not verified",
+  "scripts": "reused tools/papers/exam.js; browser interaction not re-tested",
+  "samples": [
+    {
+      "paper": 1,
+      "offline_render_pages": 10,
+      "nonblank_pages": true
+    },
+    {
+      "paper": 8,
+      "offline_render_pages": 11,
+      "nonblank_pages": true
+    }
+  ],
+  "visual_inspected_samples": [
+    "first page",
+    "material-analysis pages",
+    "last page"
+  ]
+}

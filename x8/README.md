@@ -15,8 +15,13 @@
 
 八份 PDF 和八份同名 Markdown 均已完成。每套38题（单选16题、多选17题、材料分析5题），共304题。原题、选项、材料和设问全部保留，不新增答案或解析。八套均已完成第一轮逐页内容校订，以及第二轮全文差异复核与原图重点核对。最新结果见[第二轮复核报告](scripts/audit/round2.md)，首轮过程见[第一轮报告](scripts/audit/README.md)。校订不等于逐字零误差。
 
+## 真题样式 HTML
+
+[打开八套试卷目录](html/index.html)。八套均从二轮校订后的 Markdown 生成，沿用 `papers` 的宋体正文、黑体标题及试卷布局。正文显示字号由15px调整为16px，设置500字重并重新平衡行距；打印为11pt。字体族保持不变，统一纯黑，未加描边或换用肖八扫描件的字形。每套HTML内嵌样式和脚本，可单独打开阅读、打印，也可切换分析题答题留白。
+
 ## 脚本
 
+- `scripts/build_html.py`：从校订 Markdown 生成八套独立 HTML，逐题核对正文字符及结构；样式来自 `scripts/exam.css`，交互复用 `tools/papers/exam.js`。
 - `scripts/split_pdf.py`：依照已查看的八套卷边界拆分，并逐页比较渲染结果。
 - `scripts/split-manifest.json`：输入SHA256、页码范围、各卷校验值及逐页一致性检查。
 - `scripts/extract_pdf.py`：识别扫描页并生成同名 Markdown，复用项目已有习题190的标点规范化方法。
