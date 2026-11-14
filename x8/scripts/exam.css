@@ -119,6 +119,10 @@ body { font-size: 16px; line-height: 1.75; font-weight: 500; -webkit-font-smooth
   html, body { font-size: 11pt; font-weight: 500; line-height: 1.65; }
   .stem, .options li, .materials p, .ask p, .statement { line-height: 1.65; }
   .source-link { display: none; }
-  .ask { break-inside: auto; }
+  .question { margin-bottom: 2.5mm; }
+  .options { break-inside: avoid; row-gap: .75mm; }
+  .analysis { margin-top: 4mm; margin-bottom: 4mm; }
+  .source-line { break-before: avoid; }
+  .ask { break-inside: avoid; }
   .ask p { break-inside: avoid; }
 }

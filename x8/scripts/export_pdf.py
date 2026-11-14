@@ -13,10 +13,11 @@ ROOT=Path(__file__).resolve().parents[2];X8=ROOT/'x8';FOLDER=X8/'html'
 logging.getLogger('weasyprint').setLevel(logging.ERROR)
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def norm(s):return ''.join(c for c in unicodedata.normalize('NFKC',s)if c.isalnum())
-def option_widths(soup):
+def option_widths(soup,font_size='11pt'):
  options=[li.get_text()for li in soup.select('.options li')]
  font_vars='\n'.join(re.findall(r'--font-(?:serif|hei):[^;]+;',soup.style.get_text()))
  css=':root{'+font_vars+'} @page{size:4000px 100000px;margin:0}body{margin:0}p{margin:0;white-space:pre;font:500 11pt/1.65 var(--font-serif)}'
+ css=css.replace('500 11pt/',f'500 {font_size}/')
  source='<html lang="zh-CN"><meta charset="utf-8"><style>'+css+'</style><body>'+''.join(f'<p id="m{i}">'+html.escape(text)+'</p>'for i,text in enumerate(options))+'</body></html>'
  doc=HTML(string=source).render();widths={}
  for page in doc.pages:
