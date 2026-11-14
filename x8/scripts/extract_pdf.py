@@ -116,7 +116,14 @@ def build_markdown(pdf, work, dpi):
               '> 仅提取原题、选项、材料和设问，不新增答案或解析。OCR初稿，尚未逐字精校；请结合原卷核对关键措辞。\n\n'
               '**题号跳转：**[单选1—16](#第-1-题) · [多选17—33](#第-17-题) · [材料分析34—38](#第-34-题)\n\n')
     destination = X8 / f'{pdf.stem}.md'
-    destination.write_text(header + question_text + '\n')
+    review_path = X8 / 'scripts/audit/review.py'
+    final_text = header + question_text + '\n'
+    if review_path.exists():
+        spec = importlib.util.spec_from_file_location('x8_review', review_path)
+        reviewer = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(reviewer)
+        final_text = reviewer.apply_review(final_text, paper)
+    destination.write_text(final_text.rstrip() + '\n')
     # Raw fulltext is Markdown as in references/xiaoxiurong, not a TXT reading entry.
     (work / 'raw.md').write_text(f'# {pdf.stem} 逐页OCR原文\n\n' + '\n\n'.join(all_raw))
     chunks = re.split(r'(?m)^## 第 \d+ 题\n', question_text)[1:]
