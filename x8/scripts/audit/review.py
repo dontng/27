@@ -20,4 +20,6 @@ def apply_review(text, paper):
             return match[1] + body.replace(record['old'], record['new'])
         text, count = re.subn(pattern, replace, text)
         assert count == 1, (paper, record['question'])
-    return text.rstrip() + '\n'
+    text = re.sub(r'(?<=[一-龥])\s*<!-- PDF 第 \d+ 页 -->\s*(?=[一-龥])', '', text)
+    text = re.sub(r'(?m)^一[.、]?单项选择题', '一、单项选择题', text)
+    return text.replace('OCR初稿，尚未逐字精校；请结合原卷核对关键措辞。', '已完成第一轮逐页内容校对；关键措辞仍可结合原卷复核。').rstrip() + '\n'

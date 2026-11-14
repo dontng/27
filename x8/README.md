@@ -13,7 +13,7 @@
 | 第七套 | 63—72 | 10 | [xiao8-07.pdf](PDF/xiao8-07.pdf) | [xiao8-07.md](xiao8-07.md) |
 | 第八套 | 73—82 | 10 | [xiao8-08.pdf](PDF/xiao8-08.pdf) | [xiao8-08.md](xiao8-08.md) |
 
-八份 PDF 和八份同名 Markdown 均已完成。每套38题（单选16题、多选17题、材料分析5题），共304题。原题、选项、材料和设问全部保留，不新增答案或解析。第一套复用此前初步核对的题目转写；其余各套为完整OCR稿，并对题号和圈号组合题做了修正，尚未完成全卷逐字精校。
+八份 PDF 和八份同名 Markdown 均已完成。每套38题（单选16题、多选17题、材料分析5题），共304题。原题、选项、材料和设问全部保留，不新增答案或解析。八套均已对照82页扫描件完成第一轮内容校订；修正记录及验证结果见[内容审查报告](scripts/audit/README.md)。初步校订不等于逐字零误差。
 
 ## 脚本
 
@@ -34,4 +34,5 @@ python3 x8/scripts/extract_pdf.py x8/PDF/xiao8-0*.pdf --tessdata /path/to/tessda
 - 全部82页OCR原文存为逐页Markdown：`scripts/_work/xiao8-NN/raw.md`；正式阅读使用上方同名Markdown。
 - 每套的`extraction.json`保留来源SHA256、页码映射、识别版本和低置信度位置；修正表绑定拆分PDF的SHA256，防止套用到其他版本。
 - OCR漏掉的题号和①②③④组合题已对照原页修正，具体转写保留在各套修正表中。完整性检查不代表逐字正确，否定词、数字、专名等仍须结合原卷核对。
+- `scripts/audit/reviewed-fixes.json`保存本轮逐条校订，重建Markdown时自动回放。
 - 原始页TXT和逐页JSON仅作本地缓存，不作为正式入口；换环境时可由已提交的逐页Markdown与识别记录还原缓存。

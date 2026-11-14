@@ -1,0 +1,90 @@
+{
+  "status": "passed",
+  "scope": "structure and replay output; not a guarantee of zero OCR errors",
+  "total_pages": 82,
+  "total_questions": 304,
+  "total_option_labels": 1056,
+  "correction_records": 1449,
+  "papers": [
+    {
+      "paper": 1,
+      "pages": 10,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 63,
+      "pdf_sha256": "86e61c8d2921512af9af0f1e35e8464fac13518506549926191915e298b0f0ad",
+      "markdown_sha256": "18f93deaf2e9af8fc65bfbd290a3aa01a26a8565d07263e7e5e38f3b33bb3fe3"
+    },
+    {
+      "paper": 2,
+      "pages": 10,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 172,
+      "pdf_sha256": "babe86ab787c037594b10ec0ae6f009e044558ae264abcc4cdaeab97c5dd3bb5",
+      "markdown_sha256": "8c32a48de0556bb65f812e8f2aa53c9008809bb62b684be8206043fc33f732d9"
+    },
+    {
+      "paper": 3,
+      "pages": 11,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 159,
+      "pdf_sha256": "b0e0c0dd703927bbba84d9ff7a42a2d0e3acb2c03626a1a34daab513d31759ad",
+      "markdown_sha256": "97a178084f4a5741c0655279999fb7e56a5c6e12bf66ed51d3577c9dce025dbe"
+    },
+    {
+      "paper": 4,
+      "pages": 10,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 186,
+      "pdf_sha256": "10d28ac8925ccb255ffb4da51cbc264dfd5afd01dcf2fb1ed24d0e4bd107c5dd",
+      "markdown_sha256": "8c011e378b3f3009ca788f61483fb3cbcf9de6fd9a7c8b401edceb6567bdab00"
+    },
+    {
+      "paper": 5,
+      "pages": 10,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 215,
+      "pdf_sha256": "d8a6c8515e5db4e412be8eaac6e369e1535f9eccd1618964502c002332f754e6",
+      "markdown_sha256": "129b587d4d966f907c5c046b8a7e46ef4db711c8d73f2022574b8a3dda9e1f94"
+    },
+    {
+      "paper": 6,
+      "pages": 11,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 234,
+      "pdf_sha256": "18fae46017f589f75e92c281c77d04a56548747f0035384d4fe7b9fbeb4b6299",
+      "markdown_sha256": "cbb293644792ee335faa1ffe335f26c59dc4a8164eb53e648fb54ac188f378fd"
+    },
+    {
+      "paper": 7,
+      "pages": 10,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 204,
+      "pdf_sha256": "3999c2f5b63206e6839499f00e2418e980486cb43e0a74a60638c9fda3853504",
+      "markdown_sha256": "a3a376f26cd7aa07d09a63e75ada0734a81607e647bdc730aa665788aa526f90"
+    },
+    {
+      "paper": 8,
+      "pages": 10,
+      "questions": 38,
+      "option_labels": 132,
+      "question_page_links": 38,
+      "correction_records": 216,
+      "pdf_sha256": "da1d1d46a8299eea8fb3242d82b0cb781c4c65dad68af7b23037a20db81fffaa",
+      "markdown_sha256": "c4072b301e2aeaa4319d0483148f246e6ab83fd5d465720fe477545f6e46045e"
+    }
+  ]
+}
