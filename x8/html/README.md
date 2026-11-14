@@ -8,20 +8,20 @@
 
 本环境的浏览器无法打开本地文件，浏览器交互、手机实机显示及浏览器打印分页尚未验证。已用离线HTML排版器检查第一、八套页面的正文、材料和末页；离线排版器不执行选项分列脚本，不能代替浏览器检查。自适应分列与留白逻辑复用现有真题脚本。
 
-## 同目录排版PDF
+## 排版PDF
 
-八份同名PDF已由当前HTML导出，直接放在HTML旁边：
+八份同名PDF已由当前HTML导出，存放在 [`../pdf/`](../pdf/)：
 
-- [第1套 PDF](xiao8-01.pdf) · [HTML](xiao8-01.html)
-- [第2套 PDF](xiao8-02.pdf) · [HTML](xiao8-02.html)
-- [第3套 PDF](xiao8-03.pdf) · [HTML](xiao8-03.html)
-- [第4套 PDF](xiao8-04.pdf) · [HTML](xiao8-04.html)
-- [第5套 PDF](xiao8-05.pdf) · [HTML](xiao8-05.html)
-- [第6套 PDF](xiao8-06.pdf) · [HTML](xiao8-06.html)
-- [第7套 PDF](xiao8-07.pdf) · [HTML](xiao8-07.html)
-- [第8套 PDF](xiao8-08.pdf) · [HTML](xiao8-08.html)
+- [第1套 PDF](../pdf/x8-01.pdf) · [HTML](x8-01.html)
+- [第2套 PDF](../pdf/x8-02.pdf) · [HTML](x8-02.html)
+- [第3套 PDF](../pdf/x8-03.pdf) · [HTML](x8-03.html)
+- [第4套 PDF](../pdf/x8-04.pdf) · [HTML](x8-04.html)
+- [第5套 PDF](../pdf/x8-05.pdf) · [HTML](x8-05.html)
+- [第6套 PDF](../pdf/x8-06.pdf) · [HTML](x8-06.html)
+- [第7套 PDF](../pdf/x8-07.pdf) · [HTML](x8-07.html)
+- [第8套 PDF](../pdf/x8-08.pdf) · [HTML](x8-08.html)
 
-[下载八套排版PDF合包](xiao8-typeset-pdfs.zip)。第一、二套各9页，第三至七套各10页，第八套11页，共79页。这里的PDF是重新排版的试卷；原扫描件保留在 `../PDF/`。
+这里的PDF是按真实考场版式由当前HTML直接导出的；原扫描件 `PDF/` 已移除并保留在 git 历史中。
 
 导出命令：`python3 x8/scripts/export_pdf.py`。使用当前HTML内嵌打印样式，A4纵向；离线排版器不执行JavaScript，导出脚本按现有选项分列的4/2/1规则，使用打印字体实测文字宽度后分列。未修改HTML内容或样式。字体由HTML字体栈在导出环境中匹配，与其他设备浏览器可能存在细微字形或分页差异。
 

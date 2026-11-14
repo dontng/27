@@ -5,12 +5,12 @@
   --bg-desk: #eaecf0;
   --paper: #fff;
   --ink: #000;
-  --font-serif: "SimSun", "Songti SC", "STSong", "NSimSun", "Source Han Serif CN", "Noto Serif CJK SC", serif;
-  --font-hei: "SimHei", "Heiti SC", "STHeiti", "Source Han Sans CN", "Noto Sans CJK SC", sans-serif;
+  --font-serif: "Noto Serif SC", "Source Han Serif CN", "Times New Roman", "STZhongsong", "Songti SC", "SimSun", serif;
+  --font-hei: "Noto Sans SC", "Source Han Sans CN", "Times New Roman", "SimHei", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 * { box-sizing: border-box; }
 html { background: var(--bg-desk); scroll-behavior: smooth; }
-body { margin: 0; color: var(--ink); background: var(--bg-desk); font: 15px/1.7 var(--font-serif); -webkit-font-smoothing: antialiased; }
+body { margin: 0; color: var(--ink); background: var(--bg-desk); font: 500 16px/1.75 var(--font-serif); -webkit-font-smoothing: auto; text-rendering: optimizeLegibility; }
 main { overflow-wrap: anywhere; max-width: 860px; margin: 20px auto 40px; padding: 46px 64px 38px; background: var(--paper); border: 1px solid #d0d7de; box-shadow: 0 4px 20px #00000014; }
 a { color: #0969da; text-underline-offset: .2em; }
 button, a { -webkit-tap-highlight-color: transparent; }
@@ -104,8 +104,8 @@ section[id], article[id], h2[id] { scroll-margin-top: 96px; }
   a { color: inherit; text-decoration: none; }
 }
 
-/* x8: same serif/heiti families as papers, with clearer typographic hierarchy. */
-body { font-size: 16px; line-height: 1.75; font-weight: 500; -webkit-font-smoothing: auto; color: #000; text-rendering: optimizeLegibility; }
+/* x8: unified serif/heiti families with papers, authentic 400 regular weight. */
+body { font-size: 16px; line-height: 1.75; font-weight: 400; -webkit-font-smoothing: auto; color: #000; text-rendering: optimizeLegibility; }
 .stem, .options li, .materials p, .ask p { color: #000; line-height: 1.75; }
 .question-number { font-weight: 700; }
 .statement { margin-left: 2em; margin-bottom: 2px; line-height: 1.75; }

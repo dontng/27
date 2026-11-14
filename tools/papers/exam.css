@@ -5,12 +5,12 @@
   --bg-desk: #eaecf0;
   --paper: #fff;
   --ink: #000;
-  --font-serif: "SimSun", "Songti SC", "STSong", "NSimSun", "Source Han Serif CN", "Noto Serif CJK SC", serif;
-  --font-hei: "SimHei", "Heiti SC", "STHeiti", "Source Han Sans CN", "Noto Sans CJK SC", sans-serif;
+  --font-serif: "Noto Serif SC", "Source Han Serif CN", "Times New Roman", "STZhongsong", "Songti SC", "SimSun", serif;
+  --font-hei: "Noto Sans SC", "Source Han Sans CN", "Times New Roman", "SimHei", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 * { box-sizing: border-box; }
 html { background: var(--bg-desk); scroll-behavior: smooth; }
-body { margin: 0; color: var(--ink); background: var(--bg-desk); font: 15px/1.7 var(--font-serif); -webkit-font-smoothing: antialiased; }
+body { margin: 0; color: var(--ink); background: var(--bg-desk); font: 500 16px/1.75 var(--font-serif); -webkit-font-smoothing: auto; text-rendering: optimizeLegibility; }
 main { overflow-wrap: anywhere; max-width: 860px; margin: 20px auto 40px; padding: 46px 64px 38px; background: var(--paper); border: 1px solid #d0d7de; box-shadow: 0 4px 20px #00000014; }
 a { color: #0969da; text-underline-offset: .2em; }
 button, a { -webkit-tap-highlight-color: transparent; }
@@ -102,4 +102,26 @@ section[id], article[id], h2[id] { scroll-margin-top: 96px; }
   .ask { margin-top: 2.5mm; line-height: 1.6; break-inside: avoid; }
   p { orphans: 3; widows: 3; }
   a { color: inherit; text-decoration: none; }
+}
+
+/* Unified exam typography & print pagination across papers and x8 */
+.stem, .options li, .materials p, .ask p { color: #000; line-height: 1.75; }
+.question-number { font-weight: 700; }
+.statement { margin-left: 2em; margin-bottom: 2px; line-height: 1.75; }
+.source-line { text-align: right !important; text-indent: 0 !important; font-size: .92em; }
+.source-link { font: 12px/1.5 var(--font-hei); margin-top: 6px; }
+.source-link a { color: #4b5563; }
+.ask { white-space: normal; }
+.ask p { margin: 0 0 7px; text-align: justify; }
+.materials .material-label { font-weight: 700; }
+@media print {
+  html, body { font-size: 11pt; font-weight: 500; line-height: 1.65; }
+  .stem, .options li, .materials p, .ask p, .statement { line-height: 1.65; }
+  .source-link { display: none; }
+  .question { margin-bottom: 2.5mm; }
+  .options { break-inside: avoid; row-gap: .75mm; }
+  .analysis { margin-top: 4mm; margin-bottom: 4mm; }
+  .source-line { break-before: avoid; }
+  .ask { break-inside: avoid; }
+  .ask p { break-inside: avoid; }
 }

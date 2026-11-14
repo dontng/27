@@ -63,7 +63,7 @@ def build(cache,years):
     chunks.append(f'<article class="analysis" id="q{n}">{body}</article>');text_pairs.append((paras,ask))
   assert counts==[16,17,5] and sum(analysis_scores)==50
   toolbar=nav(y,years)+'<div class="toolbar"><button onclick="window.print()">打印试卷</button><button onclick="document.body.classList.toggle(\'with-space\')">显示／隐藏答题留白</button><a href="sources.html#year-'+str(y)+'">来源与校验</a></div>'
-  head=f'<header><h1>{y} 年全国硕士研究生招生考试</h1><p class="subtitle">思想政治理论 · 真题整理版</p><div class="meta"><span>科目代码：101</span><span>满分：100 分</span><span>考试时间：180 分钟</span></div></header>'
+  head=f'<header><h1>{y}年全国硕士研究生招生考试</h1><p class="subtitle">思想政治理论</p><div class="meta"><span>科目代码：101</span><span>满分：100 分</span><span>考试时间：180 分钟</span></div></header>'
   qnav='<nav class="qnav" aria-label="题号导航">'+''.join(f'<a href="#q{n}">{n}</a>' for n in range(1,39))+'</nav>'
   foot=f'<footer><p>题目来源：<a href="{url}">过级鸭 · {y} 年考研政治真题</a>。本页收录题干、选项、分析题材料和设问，未收录网站解析。已进行跨来源全文审核；公开整理版本仍存在异文，参见审核记录。</p>'+'<p><a href="audit.html#year-'+str(y)+'">双轮审核记录与版本差异</a></p>'+nav(y,years)+'</footer>'
   target=OUT/f'{y}.html';target.write_text(H(f'{y} 年考研政治真题',toolbar+head+qnav+''.join(chunks)+foot))

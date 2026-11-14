@@ -16,7 +16,7 @@ def source_html(path):
  if BASE:return subprocess.check_output(['git','show',BASE+':'+path.relative_to(ROOT).as_posix()],cwd=ROOT).decode()
  return path.read_text()
 def print_audit(n):
- path=ROOT/f'x8/html/xiao8-{n:02}.html';s=BeautifulSoup(source_html(path),'html.parser');widths=option_widths(s);w=176*96/25.4-2*11*96/72;gap=6*96/25.4
+ path=ROOT/f'x8/html/x8-{n:02}.html';s=BeautifulSoup(source_html(path),'html.parser');widths=option_widths(s);w=176*96/25.4-2*11*96/72;gap=6*96/25.4
  for i,g in enumerate(s.select('.options')):
   need=max(widths[4*i:4*i+4])+6;cols=next(c for c in[4,2,1]if c==1 or need<=(w-(c-1)*gap)/c);g['style']=f'grid-template-columns:repeat({cols},minmax(0,1fr))'
  meta={};groups=[]
@@ -63,7 +63,7 @@ def screen_css(css,width):
  return rules(tinycss2.parse_stylesheet(css,skip_comments=True,skip_whitespace=True))+f'\n@page{{size:{width}px 100000px;margin:0}}'
 
 def viewport_audit(n):
- path=ROOT/f'x8/html/xiao8-{n:02}.html';source=BeautifulSoup(source_html(path),'html.parser');widths=option_widths(source,'16px');records=[]
+ path=ROOT/f'x8/html/x8-{n:02}.html';source=BeautifulSoup(source_html(path),'html.parser');widths=option_widths(source,'16px');records=[]
  for width in [320,390,768,1120]:
   s=BeautifulSoup(str(source),'html.parser');s.style.string=screen_css(s.style.get_text(),width)
   for i,g in enumerate(s.select('.options')):g['data-audit-group']=str(i)

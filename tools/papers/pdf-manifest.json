@@ -3,53 +3,53 @@
     {
       "year": 2021,
       "html": "papers/html/2021.html",
-      "html_sha256": "22807de7056dacb6219b875027b06420ec11524de869016147b522bfa28277cc",
+      "html_sha256": "2d7ca4079f6d36cbfb78fb84bde7e728b6886fdc38da6840bc6c7b7049dc3f25",
       "pdf": "papers/pdf/2021.pdf",
-      "pdf_sha256": "a59945c38dd105f4de59f85a7b33af2b8531f767e5e8065f6b3e2c302b8748d5",
-      "pdf_bytes": 457333
+      "pdf_sha256": "b5168fae4f7b3355c021559b2b8ca51bef9dc3d1b204e2cbb6d1b5b2fa1d5fa0",
+      "pdf_bytes": 3022018
     },
     {
       "year": 2022,
       "html": "papers/html/2022.html",
-      "html_sha256": "83884309a67d3557f45cddd7ce4604962bb64eccbfa34c8f8e7083ff27ea3477",
+      "html_sha256": "ff7ccde1d69ee8ef546b864b370abb374ed5ae73febcb9f5be34eed003b02a61",
       "pdf": "papers/pdf/2022.pdf",
-      "pdf_sha256": "8e66e4c4ac7a59df468de10ba5862918648f8961ffab61037e1bfc3c2b9961ad",
-      "pdf_bytes": 478510
+      "pdf_sha256": "115d4314eb80ec0b56157feb10855bd5a85dc8b3996fb38efe106a5d52300416",
+      "pdf_bytes": 3164227
     },
     {
       "year": 2023,
       "html": "papers/html/2023.html",
-      "html_sha256": "eb59292826d396f0e6b2be3ee677ca79a301267e9b099d35ff8b2b5d147efefa",
+      "html_sha256": "c44f720998974f8e3a25b2bbcba0eea91573163084802ce8ca2eb7c244d19bff",
       "pdf": "papers/pdf/2023.pdf",
-      "pdf_sha256": "aef96e0a23cfbe21dc182b02e7168df926312e2ded6429e85f2fb307a17082c7",
-      "pdf_bytes": 464248
+      "pdf_sha256": "66345acf1ab2101261044c5a32d403dbfcc7977f8950211847d2e819d9a9f3b2",
+      "pdf_bytes": 3023256
     },
     {
       "year": 2024,
       "html": "papers/html/2024.html",
-      "html_sha256": "82dac7dba8bbc2b3b638c9a817b59dd2140385e173ff40b6b5166bfc5cd6b297",
+      "html_sha256": "94219789758b65cd465e54b96dc57a0511685077f881610af58f399a6efa1abd",
       "pdf": "papers/pdf/2024.pdf",
-      "pdf_sha256": "2b86a9697b9c59936564b757e6604f8028d5800430058d583719f95730d26ef1",
-      "pdf_bytes": 491471
+      "pdf_sha256": "8d1fc41355d6eb480aaa469c3e1fa2f7639266ff2e90690cfafe716bc2ecfd60",
+      "pdf_bytes": 3269362
     },
     {
       "year": 2025,
       "html": "papers/html/2025.html",
-      "html_sha256": "d19e6f4038de938a7f9414dfa8ddb54201062c53991295550d10a82c55a47ed1",
+      "html_sha256": "859b1aef9a8a617f5041ebaf4ffee033d764f488f0cc94c94b8dcbe7422e2e50",
       "pdf": "papers/pdf/2025.pdf",
-      "pdf_sha256": "7d6c9d370ba5a3339a12eb606a5dc70bc688141e30b819ad435e9be49f0d6156",
-      "pdf_bytes": 448889
+      "pdf_sha256": "144188940e5b339feec343f6e2c62ffd9c7c799cd71f81d97ba105b28f2ac1be",
+      "pdf_bytes": 3028998
     },
     {
       "year": 2026,
       "html": "papers/html/2026.html",
-      "html_sha256": "e5d7e9f3e2bb94e179e431efd7746d9af1593aacea6da0b5341028a72f794b05",
+      "html_sha256": "b0b62ff77fd0d9822b7e99953d4ebb98a4636c9972026514ca5fb3707dc8ae0c",
       "pdf": "papers/pdf/2026.pdf",
-      "pdf_sha256": "8b13bb7d0a68a83b96ef7a84366d964f36381358337dc54afde9ebaca6729694",
-      "pdf_bytes": 462622
+      "pdf_sha256": "c36b521a4bf7d7e37666244e692fd48db4b5837d163ac453b5d3fa4bc68b516b",
+      "pdf_bytes": 3061279
     }
   ],
-  "html_revision": "f41f67d008cc0e6582177b80efe72df6ca966acf",
+  "html_revision": "99ba38de76416c261d02f078a10a7d850fdc411d",
   "settings": {
     "preferCSSPageSize": true,
     "printBackground": true,
@@ -57,5 +57,5 @@
     "scale": 1,
     "answerSpace": false
   },
-  "browser": "154.0.8037.57"
+  "browser": "157.0.8103.38"
 }

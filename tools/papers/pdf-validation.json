@@ -2,7 +2,7 @@
   "checks": [
     {
       "year": 2021,
-      "pages": 9,
+      "pages": 10,
       "a4": true,
       "blank_pages": 0,
       "out_of_bounds_words": 0,
@@ -12,7 +12,7 @@
     },
     {
       "year": 2022,
-      "pages": 10,
+      "pages": 11,
       "a4": true,
       "blank_pages": 0,
       "out_of_bounds_words": 0,
@@ -22,7 +22,7 @@
     },
     {
       "year": 2023,
-      "pages": 10,
+      "pages": 11,
       "a4": true,
       "blank_pages": 0,
       "out_of_bounds_words": 0,
@@ -32,7 +32,7 @@
     },
     {
       "year": 2024,
-      "pages": 10,
+      "pages": 11,
       "a4": true,
       "blank_pages": 0,
       "out_of_bounds_words": 0,
@@ -42,7 +42,7 @@
     },
     {
       "year": 2025,
-      "pages": 9,
+      "pages": 10,
       "a4": true,
       "blank_pages": 0,
       "out_of_bounds_words": 0,
@@ -62,5 +62,5 @@
     }
   ],
   "total_papers": 6,
-  "total_pages": 58
+  "total_pages": 63
 }
