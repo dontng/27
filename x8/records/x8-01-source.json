@@ -1,0 +1,21 @@
+{
+  "recorded_on": "2026-11-16",
+  "paper": "x8-01",
+  "source_pdf": "x8/records/x8-01-done.pdf",
+  "sha256": "389d2fe28092ec50d0e1a831fc5bd1503ed1cd73384845670a2adb837a8551b0",
+  "pages": 9,
+  "method": "直接渲染并目视核对x8-01-done.pdf第1~6页手写选项与旁批，结合x8/answers/keys.json正式参考答案校准",
+  "official_answer_key_path": "x8/answers/keys.json",
+  "official_score": {
+    "single_right": 9,
+    "single_total": 16,
+    "multiple_right": 3,
+    "multiple_total": 17,
+    "score": 15,
+    "max_score": 50
+  },
+  "corrections_from_previous_transcript": [
+    "Q11：卷面为写B并划掉C，按选B计0分（官方答案C）。",
+    "Q32：卷面实为ABCD（非AB），对照官方答案ABD为多选C计0分。"
+  ]
+}
