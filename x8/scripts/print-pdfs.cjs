@@ -7,6 +7,7 @@ const { chromium } = require('playwright');
 
 const root = path.resolve(__dirname, '../..');
 const htmlDir = path.join(root, 'x8/html');
+const pdfDir = path.join(root, 'x8/pdf');
 const manifestPath = path.join(__dirname, 'pdf-export.json');
 const hash = file => crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');
 
@@ -22,7 +23,7 @@ const hash = file => crypto.createHash('sha256').update(fs.readFileSync(file)).d
     for (let i = 1; i <= 8; i++) {
       const num = String(i).padStart(2, '0');
       const htmlPath = path.join(htmlDir, `x8-${num}.html`);
-      const pdfPath = path.join(htmlDir, `x8-${num}.pdf`);
+      const pdfPath = path.join(pdfDir, `x8-${num}.pdf`);
       const before = hash(htmlPath);
       const errors = [];
       const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
@@ -47,7 +48,7 @@ const hash = file => crypto.createHash('sha256').update(fs.readFileSync(file)).d
         paper: i,
         html: `x8/html/x8-${num}.html`,
         html_sha256: before,
-        pdf: `x8/html/x8-${num}.pdf`,
+        pdf: `x8/pdf/x8-${num}.pdf`,
         pdf_sha256: hash(pdfPath),
         pdf_bytes: fs.statSync(pdfPath).size,
       });

@@ -22,7 +22,7 @@ def clean_blockquote_material(raw):
   lines.append(s)
  return re.sub(r'\n{3,}','\n\n','\n'.join(lines)).strip()
 def parse(paper):
- text=(X8/f'x8-{paper:02}.md').read_text();questions=[]
+ text=(X8/'md'/f'x8-{paper:02}.md').read_text();questions=[]
  for m in re.finditer(r'(?ms)^### 第 (\d+) 题\s*\n(.*?)(?=^### 第 \d+ 题|\n---\s*\n|\Z)',text):
   number=int(m[1]);raw_body=m[2].strip()
   q={'number':number,'page':None}
@@ -80,7 +80,7 @@ def article(q,paper):
  else:
   body=f'<h3>{n}. <span class="source-copy">'+E(q['intro'])+'</span></h3><div class="materials">'+paragraphs(q['material'])+'</div>'
   body+='<div class="ask">'+''.join('<p class="source-copy">'+E(a)+'</p>'for a in q['asks'])+'</div><div class="write-space" aria-label="答题留白"></div>'
- if q["page"]:body+=f'<p class="source-link screen-only"><a href="../PDF/x8-{paper:02}.pdf#page={q["page"]}">原卷第{q["page"]}页</a></p>'
+ if q["page"]:body+=f'<p class="source-link screen-only"><a href="../pdf/x8-{paper:02}.pdf#page={q["page"]}">排版第{q["page"]}页</a></p>'
  return f'<article class="{"question" if n<=33 else "analysis"}" id="q{n}">'+body+'</article>'
 
 def canonical(q):return norm(re.sub(r'(?m)^###\s*','',q['body']))
@@ -95,7 +95,7 @@ def verify(paper,qs):
   href=a['href'];f,_,anchor=href.partition('#')
   if f:assert (OUT/f).exists(),href
   if not f and anchor:assert s.find(id=anchor),href
- return {'paper':paper,'source_markdown_sha256':hashlib.sha256((X8/f'x8-{paper:02}.md').read_bytes()).hexdigest(),'html_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'questions':38,'option_labels':132,'analysis_questions':5,'text_round_trip_exact':True,'self_contained':True}
+ return {'paper':paper,'source_markdown_sha256':hashlib.sha256((X8/'md'/f'x8-{paper:02}.md').read_bytes()).hexdigest(),'html_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'questions':38,'option_labels':132,'analysis_questions':5,'text_round_trip_exact':True,'self_contained':True}
 
 def build():
  base_css=(ROOT/'tools/papers/exam.css').read_text()
@@ -107,13 +107,13 @@ def build():
  for n,qs in allq.items():
   cn=CN_NUM[n]
   title=f'2027考研政治冲刺8套卷（{cn}）· 思想政治理论'
-  bar='<div class="appbar screen-only">'+nav(n)+'<div class="toolbar"><button type="button" onclick="window.print()">打印试卷</button><button type="button" aria-pressed="false" id="space-toggle" onclick="const on=document.body.classList.toggle(\'with-space\');this.setAttribute(\'aria-pressed\',on)">显示／隐藏答题留白</button><a href="../x8-'+f'{n:02}'+'.md">Markdown</a></div></div>'
+  bar='<div class="appbar screen-only">'+nav(n)+'<div class="toolbar"><button type="button" onclick="window.print()">打印试卷</button><button type="button" aria-pressed="false" id="space-toggle" onclick="const on=document.body.classList.toggle(\'with-space\');this.setAttribute(\'aria-pressed\',on)">显示／隐藏答题留白</button><a href="../md/x8-'+f'{n:02}'+'.md">Markdown</a></div></div>'
   body=f'<header><h1>2027考研政治冲刺8套卷（{cn}）</h1><p class="subtitle">思想政治理论</p><div class="meta"><span>科目代码：101</span><span>满分：100 分</span><span>考试时间：180 分钟</span></div></header>'
   body+='<nav class="qnav screen-only" aria-label="题号导航">'+''.join(f'<a href="#q{i}">{i}</a>'for i in range(1,39))+'</nav>'
   for q in qs:
    if q['number']in [1,17,34]:body+=section(q['number'])
    body+=article(q,n)
-  body+='<footer><p>根据已完成两轮校对的Markdown排版。题干、选项、材料和设问与Markdown逐字核验一致。</p><p><a href="../PDF/x8-'+f'{n:02}'+'.pdf">查看原扫描卷</a> · <a href="../scripts/audit/round2.md">校对记录</a></p>'+nav(n)+'</footer>'
+  body+='<footer><p>根据已完成两轮校对的Markdown排版。题干、选项、材料和设问与Markdown逐字核验一致。</p><p><a href="../pdf/x8-'+f'{n:02}'+'.pdf">排版 PDF</a> · <a href="../scripts/audit/round2.md">校对记录</a></p>'+nav(n)+'</footer>'
   (OUT/f'x8-{n:02}.html').write_text(shell(title,body,bar))
  cards=''.join(f'<a href="x8-{n:02}.html"><strong>第{n}套</strong><small>单选16 · 多选17 · 分析5</small></a>' for n in range(1,9))
  (OUT/'index.html').write_text(shell('2027考研政治冲刺8套卷 · 思想政治理论','<header><h1>2027考研政治冲刺8套卷</h1><p class="subtitle">思想政治理论 · 共 8 套</p></header><p>沿用真题考场版式，保留完整题目与材料。选择一套开始作答，也可直接打印。</p><div class="years">'+cards+'</div><p class="screen-only"><a href="../README.md">返回资料目录</a> · <a href="../../papers/html/index.html">历年真题</a></p>'))

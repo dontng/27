@@ -28,7 +28,7 @@ def option_widths(soup,font_size='11pt'):
  assert len(widths)==132,len(widths)
  return [widths[i]for i in range(132)]
 def export(paper):
- src=FOLDER/f'x8-{paper:02}.html';target=src.with_suffix('.pdf');before=sha(src);soup=BeautifulSoup(src.read_text(),'html.parser');widths=option_widths(soup);counts={1:0,2:0,4:0}
+ src=FOLDER/f'x8-{paper:02}.html';target=X8/'pdf'/f'x8-{paper:02}.pdf';before=sha(src);soup=BeautifulSoup(src.read_text(),'html.parser');widths=option_widths(soup);counts={1:0,2:0,4:0}
  width=176*96/25.4-2*(11*96/72);gap=6*96/25.4
  for i,group in enumerate(soup.select('.options')):
   required=max(widths[4*i:4*i+4])+6
