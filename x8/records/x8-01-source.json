@@ -2,9 +2,10 @@
   "recorded_on": "2026-11-16",
   "paper": "x8-01",
   "source_pdf": "x8/records/x8-01-done.pdf",
-  "sha256": "389d2fe28092ec50d0e1a831fc5bd1503ed1cd73384845670a2adb837a8551b0",
-  "pages": 9,
-  "method": "直接渲染并目视核对x8-01-done.pdf第1~6页手写选项与旁批，结合x8/answers/keys.json正式参考答案校准",
+  "sha256": "de312b2d4b610a7d588c17d20300d00ecaa1d3b58c73eea939d1bc274c27ab3e",
+  "bytes": 10496156,
+  "pages": 6,
+  "method": "保留第1~6页选择题（裁掉第7~9页未作答分析题），目视核对第1~6页手写选项与旁批，结合x8/answers/keys.json正式参考答案校准",
   "official_answer_key_path": "x8/answers/keys.json",
   "official_score": {
     "single_right": 9,
