@@ -10,7 +10,7 @@
 
 ## 排版PDF
 
-八份同名PDF已由当前HTML导出，存放在 [`../pdf/`](../pdf)：
+八份同名PDF已由当前HTML导出，存放在 [`../pdf/`](../pdf/)：
 
 - [第1套 PDF](../pdf/x8-01.pdf) · [HTML](x8-01.html)
 - [第2套 PDF](../pdf/x8-02.pdf) · [HTML](x8-02.html)

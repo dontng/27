@@ -1,0 +1,14 @@
+{
+  "total_topics": 70,
+  "unique_body_pages": 189,
+  "exported_pages_with_repeats": 242,
+  "repeated_page_occurrences": 53,
+  "coverage_gaps": 0,
+  "excluded_section_dividers_pdf_pages": [
+    72,
+    96,
+    150
+  ],
+  "first_four_parts_only": true,
+  "directory_links_prepared": 70
+}

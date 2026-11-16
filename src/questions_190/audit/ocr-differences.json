@@ -1,0 +1,1787 @@
+{
+  "baseline_commit": "6ec2cbc123b4edd2f5eadf1de8f16cf94eecb110",
+  "normalization": "仅比较汉字和数字；标点、空格另行目视核对；OCR题号误读会形成差异。",
+  "differences": [
+    {
+      "key": "S1",
+      "field": "stem",
+      "pdf": 18,
+      "delivered": "",
+      "ocr": "于",
+      "left": "",
+      "right": "2026年7月1日上午庆",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S4",
+      "field": "stem",
+      "pdf": 18,
+      "delivered": "",
+      "ocr": "胡",
+      "left": "加强作风建设加强思想建设",
+      "right": "学习贯彻习近平党建思想要",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S5",
+      "field": "stem",
+      "pdf": 18,
+      "delivered": "",
+      "ocr": "所",
+      "left": "要求党的优势所在力量所在",
+      "right": "学习贯彻习近平党建思想要",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S6",
+      "field": "stem",
+      "pdf": 18,
+      "delivered": "",
+      "ocr": "于",
+      "left": "铸魂坚持制度治党依规治党",
+      "right": "学习贯彻习近平党建思想要",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S7",
+      "field": "stem",
+      "pdf": 19,
+      "delivered": "",
+      "ocr": "喜",
+      "left": "下贯通执行有力的组织体系",
+      "right": "青青柏坡岭潺潺滹沱河西柏",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S7",
+      "field": "stem",
+      "pdf": 19,
+      "delivered": "潺潺滹",
+      "ocr": "涛混淖",
+      "left": "有力的组织体系青青柏坡岭",
+      "right": "沱河西柏坡纪念馆内一块写",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S8",
+      "field": "stem",
+      "pdf": 19,
+      "delivered": "",
+      "ocr": "本",
+      "left": "组织纪律廉洁纪律工作纪律",
+      "right": "习近平总书记指出我们党作",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S9",
+      "field": "stem",
+      "pdf": 19,
+      "delivered": "",
+      "ocr": "下",
+      "left": "群众路线正确理论牺牲精神",
+      "right": "经党中央同意在全党开展树",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S11",
+      "field": "C",
+      "pdf": 20,
+      "delivered": "顶",
+      "ocr": "项",
+      "left": "导向坚持从实际出发把加强",
+      "right": "层设计和坚持问计于民统一",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S14",
+      "field": "stem",
+      "pdf": 20,
+      "delivered": "",
+      "ocr": "琵",
+      "left": "深化改革坚持党的全面领导",
+      "right": "2026年3月12日第十",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S15",
+      "field": "stem",
+      "pdf": 20,
+      "delivered": "",
+      "ocr": "开5",
+      "left": "性增强中华民族共同体意识",
+      "right": "民族团结进步促进法体系完",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S16",
+      "field": "stem",
+      "pdf": 20,
+      "delivered": "",
+      "ocr": "王",
+      "left": "社会条件构筑共有精神家园",
+      "right": "2026年1月20日习近",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S17",
+      "field": "stem",
+      "pdf": 21,
+      "delivered": "",
+      "ocr": "有7",
+      "left": "先进制造业战略性新兴产业",
+      "right": "在习近平法治思想正式提出",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S19",
+      "field": "stem",
+      "pdf": 21,
+      "delivered": "",
+      "ocr": "铝",
+      "left": "依规治党统筹推进一体建设",
+      "right": "习近平法治思想内涵丰富论",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S20",
+      "field": "stem",
+      "pdf": 21,
+      "delivered": "讲",
+      "ocr": "庆",
+      "left": "密系统完备就其主要方面来",
+      "right": "集中体现为十二个坚持这十",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S22",
+      "field": "stem",
+      "pdf": 22,
+      "delivered": "",
+      "ocr": "一",
+      "left": "的第九个五年规划2026",
+      "right": "2030年公开发布法治宣",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S24",
+      "field": "C",
+      "pdf": 22,
+      "delivered": "",
+      "ocr": "人",
+      "left": "营权的关系处理好大稳定和",
+      "right": "小调整的关系处理好农民家",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S25",
+      "field": "A",
+      "pdf": 22,
+      "delivered": "疏",
+      "ocr": "玻",
+      "left": "功能定位是北京非首都功能",
+      "right": "解集中承载地全面深化改革",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S27",
+      "field": "stem",
+      "pdf": 23,
+      "delivered": "金",
+      "ocr": "爹",
+      "left": "发展无中生有的发展点石成",
+      "right": "的发展义乌发展莫名其妙无",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S29",
+      "field": "A",
+      "pdf": 23,
+      "delivered": "",
+      "ocr": "人",
+      "left": "出在科技创新联动上重点要",
+      "right": "完善国家重大科技创新任务",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S36",
+      "field": "stem",
+      "pdf": 25,
+      "delivered": "",
+      "ocr": "一一",
+      "left": "次聚焦国民经济第一大产业",
+      "right": "服务业而举行的全国性大会",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S40",
+      "field": "stem",
+      "pdf": 25,
+      "delivered": "",
+      "ocr": "风0",
+      "left": "美建设性全面战略伙伴关系",
+      "right": "2026年5月20日下午",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S42",
+      "field": "stem",
+      "pdf": 26,
+      "delivered": "酋",
+      "ocr": "英",
+      "left": "大会堂会见来华访问的阿联",
+      "right": "阿布扎比王储哈立德习近平",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S43",
+      "field": "stem",
+      "pdf": 26,
+      "delivered": "",
+      "ocr": "和",
+      "left": "体系中国的理念倡议与行动",
+      "right": "白皮书白皮书强调中国提出",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S45",
+      "field": "stem",
+      "pdf": 26,
+      "delivered": "阐",
+      "ocr": "阑",
+      "left": "7月29日为澄清有关事实",
+      "right": "明中方对所谓产能过剩相关",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "S46",
+      "field": "stem",
+      "pdf": 27,
+      "delivered": "乃",
+      "ocr": "帮",
+      "left": "云变幻的考验成为维护欧亚",
+      "right": "至全球稳定的重要力量为推",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M1",
+      "field": "stem",
+      "pdf": 27,
+      "delivered": "",
+      "ocr": "五",
+      "left": "文化合作治理合作安全合作",
+      "right": "2026年7月1日中共中",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M4",
+      "field": "stem",
+      "pdf": 28,
+      "delivered": "",
+      "ocr": "稚",
+      "left": "理论联系实际密切联系群众",
+      "right": "在庆祝中国共产党成立10",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M7",
+      "field": "stem",
+      "pdf": 28,
+      "delivered": "",
+      "ocr": "区",
+      "left": "站在一起想在一起干在一起",
+      "right": "习近平总书记在庆祝中国共",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M8",
+      "field": "stem",
+      "pdf": 29,
+      "delivered": "",
+      "ocr": "到",
+      "left": "政治品格和强大的政治优势",
+      "right": "习近平总书记在庆祝中国共",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M8",
+      "field": "B",
+      "pdf": 29,
+      "delivered": "荆",
+      "ocr": "草",
+      "left": "民国家民族为了理想信念披",
+      "right": "斩棘砥砺前行无论敌人如何",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M8",
+      "field": "B",
+      "pdf": 29,
+      "delivered": "砥砺",
+      "ocr": "本克",
+      "left": "民族为了理想信念披荆斩棘",
+      "right": "前行无论敌人如何强大道路",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M8",
+      "field": "C",
+      "pdf": 29,
+      "delivered": "畏",
+      "ocr": "且",
+      "left": "艰险挑战如何严峻总是毫不",
+      "right": "惧绝不退缩以任凭风雨来袭",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M8",
+      "field": "D",
+      "pdf": 29,
+      "delivered": "岿",
+      "ocr": "当",
+      "left": "不退缩以任凭风雨来袭我自",
+      "right": "然不动的钢铁意志鼓舞全国",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M10",
+      "field": "stem",
+      "pdf": 29,
+      "delivered": "",
+      "ocr": "和",
+      "left": "己以正确战略策略发展自己",
+      "right": "在庆祝中国共产党成立10",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M10",
+      "field": "B",
+      "pdf": 29,
+      "delivered": "淬",
+      "ocr": "淳",
+      "left": "领导人民进行的伟大实践的",
+      "right": "炼中华优秀传统文化的滋养",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M11",
+      "field": "D",
+      "pdf": 30,
+      "delivered": "",
+      "ocr": "与",
+      "left": "未来的有机统一历史自信和",
+      "right": "历史主动的有机统一在庆祝",
+      "decision": "correct_delivered_text",
+      "confirmed_scan_text": "历史自信与历史主动的有机统一"
+    },
+    {
+      "key": "M14",
+      "field": "stem",
+      "pdf": 30,
+      "delivered": "",
+      "ocr": "了4",
+      "left": "善于斗争自信开放迎难而上",
+      "right": "马克思指出每个原理都有其",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M15",
+      "field": "stem",
+      "pdf": 30,
+      "delivered": "阐",
+      "ocr": "阑",
+      "left": "体系严密这十四个坚持深刻",
+      "right": "明了党的建设的最高原则战",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M18",
+      "field": "stem",
+      "pdf": 31,
+      "delivered": "凝",
+      "ocr": "雍",
+      "left": "坚持在党建领域的最新成果",
+      "right": "结着党和人民的实践经验和",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M26",
+      "field": "stem",
+      "pdf": 33,
+      "delivered": "",
+      "ocr": "现",
+      "left": "思想认同理论认同情感认同",
+      "right": "学习贯彻习近平党建思想要",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M27",
+      "field": "stem",
+      "pdf": 33,
+      "delivered": "",
+      "ocr": "到",
+      "left": "政党经验教训的总结和镜鉴",
+      "right": "全面从严治党是新时代党的",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M28",
+      "field": "stem",
+      "pdf": 33,
+      "delivered": "祀",
+      "ocr": "礼",
+      "left": "国古代执政者在天坛举行祭",
+      "right": "大典祈求国泰民安风调雨顺",
+      "decision": "correct_delivered_text",
+      "confirmed_scan_text": "祭礼大典"
+    },
+    {
+      "key": "M29",
+      "field": "stem",
+      "pdf": 33,
+      "delivered": "毫",
+      "ocr": "这",
+      "left": "注意锻造出一支令行禁止秋",
+      "right": "无犯的人民军队正是靠着这",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M29",
+      "field": "A",
+      "pdf": 33,
+      "delivered": "尺",
+      "ocr": "太",
+      "left": "利党的纪律是管党治党的戒",
+      "right": "党的各级组织和全体党员必",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M30",
+      "field": "stem",
+      "pdf": 34,
+      "delivered": "荡",
+      "ocr": "功",
+      "left": "国复兴立足百年大党风云激",
+      "right": "的历史纵深置身世界百年未",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M31",
+      "field": "C",
+      "pdf": 34,
+      "delivered": "涣",
+      "ocr": "汉",
+      "left": "提供新路径为化解政党组织",
+      "right": "散难题提供新方案为构建新",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M32",
+      "field": "stem",
+      "pdf": 34,
+      "delivered": "砥砺",
+      "ocr": "厂三",
+      "left": "记发表新年贺词深刻指出要",
+      "right": "初心使命持之以恒久久为功",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M32",
+      "field": "stem",
+      "pdf": 34,
+      "delivered": "窑",
+      "ocr": "窖",
+      "left": "恒久久为功继续回答好延安",
+      "right": "洞之问书写无愧于人民的时",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M32",
+      "field": "A",
+      "pdf": 34,
+      "delivered": "衰",
+      "ocr": "训",
+      "left": "深刻回答了如何跳出治乱兴",
+      "right": "历史周期率这一战略性问题",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M32",
+      "field": "C",
+      "pdf": 34,
+      "delivered": "锲",
+      "ocr": "钦",
+      "left": "践自觉彰显了中国共产党人",
+      "right": "而不舍推进党的自身建设永",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M33",
+      "field": "stem",
+      "pdf": 34,
+      "delivered": "",
+      "ocr": "上",
+      "left": "中央同意在全党开展树立和",
+      "right": "践行正确政绩观学习教育以",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M35",
+      "field": "stem",
+      "pdf": 35,
+      "delivered": "践",
+      "ocr": "上成",
+      "left": "史可鉴啊这启示我们树立和",
+      "right": "行正确政绩观要有功成不必",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M35",
+      "field": "D",
+      "pdf": 35,
+      "delivered": "",
+      "ocr": "和",
+      "left": "显功也要做潜功要追求人民",
+      "right": "群众的好口碑历史沉淀之后",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M36",
+      "field": "stem",
+      "pdf": 35,
+      "delivered": "",
+      "ocr": "上",
+      "left": "现党的使命任务出发树立和",
+      "right": "践行正确政绩观看自己的思",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M39",
+      "field": "stem",
+      "pdf": 36,
+      "delivered": "奠",
+      "ocr": "葛",
+      "left": "年基本实现社会主义现代化",
+      "right": "定更加坚实的基础习近平总",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M41",
+      "field": "stem",
+      "pdf": 36,
+      "delivered": "",
+      "ocr": "租",
+      "left": "展推动加快构建新发展格局",
+      "right": "十五五规划指出十五五时期",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M42",
+      "field": "stem",
+      "pdf": 36,
+      "delivered": "",
+      "ocr": "骤",
+      "left": "基础稳优势多韧性强潜能大",
+      "right": "十五五规划指出十五五时期",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M44",
+      "field": "stem",
+      "pdf": 37,
+      "delivered": "",
+      "ocr": "习",
+      "left": "展构建现代化基础设施体系",
+      "right": "十五五规划将建设现代化产",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M45",
+      "field": "stem",
+      "pdf": 37,
+      "delivered": "",
+      "ocr": "东5",
+      "left": "产业实现产业体系整体跃升",
+      "right": "十五五规划将建设现代化产",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M46",
+      "field": "stem",
+      "pdf": 37,
+      "delivered": "",
+      "ocr": "大6",
+      "left": "济的着力点放在数字经济上",
+      "right": "十五五规划将加快高水平科",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M46",
+      "field": "stem",
+      "pdf": 37,
+      "delivered": "殷",
+      "ocr": "急",
+      "left": "技创新的高度重视和寄予的",
+      "right": "切期望十五五时期我们将锚",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M47",
+      "field": "stem",
+      "pdf": 38,
+      "delivered": "",
+      "ocr": "王7",
+      "left": "一体推进教育科技人才发展",
+      "right": "十五五规划将深入推进数字",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M47",
+      "field": "stem",
+      "pdf": 38,
+      "delivered": "殷",
+      "ocr": "谍",
+      "left": "国建设的高度重视和寄予的",
+      "right": "切期望十五五时期我们要把",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M52",
+      "field": "stem",
+      "pdf": 39,
+      "delivered": "",
+      "ocr": "巧2",
+      "left": "康中国积极应对人口老龄化",
+      "right": "十五五规划对加快经济社会",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M53",
+      "field": "stem",
+      "pdf": 39,
+      "delivered": "",
+      "ocr": "隔3",
+      "left": "协同推进降碳减污扩绿增长",
+      "right": "习近平总书记在党的二十届",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M55",
+      "field": "stem",
+      "pdf": 39,
+      "delivered": "宪",
+      "ocr": "完",
+      "left": "族工作的历史方位全面贯彻",
+      "right": "法规定原则和精神对全面推",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M58",
+      "field": "B",
+      "pdf": 40,
+      "delivered": "入",
+      "ocr": "人",
+      "left": "制度内涵通过做制度加法写",
+      "right": "符合新时代新要求的措施机",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M61",
+      "field": "stem",
+      "pdf": 41,
+      "delivered": "",
+      "ocr": "夯1",
+      "left": "聚人心构建人类命运共同体",
+      "right": "全国服务业大会2026年",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M62",
+      "field": "stem",
+      "pdf": 41,
+      "delivered": "阐",
+      "ocr": "阑",
+      "left": "指示习近平的重要指示深刻",
+      "right": "明了发展服务业的重点任务",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M63",
+      "field": "stem",
+      "pdf": 41,
+      "delivered": "",
+      "ocr": "生3",
+      "left": "建设培育更多中国服务品牌",
+      "right": "2026年4月7日至8日",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M63",
+      "field": "stem",
+      "pdf": 41,
+      "delivered": "",
+      "ocr": "一一",
+      "left": "次聚焦国民经济第一大产业",
+      "right": "服务业而举行的全国性大会",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M63",
+      "field": "C",
+      "pdf": 41,
+      "delivered": "蓄",
+      "ocr": "著",
+      "left": "剂制造价值的倍增器就业的",
+      "right": "水池稳定器现代化产业体系",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M64",
+      "field": "stem",
+      "pdf": 41,
+      "delivered": "",
+      "ocr": "醒",
+      "left": "定器现代化产业体系的骨干",
+      "right": "2026年4月7日至8日",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M64",
+      "field": "stem",
+      "pdf": 42,
+      "delivered": "",
+      "ocr": "一一",
+      "left": "次聚焦国民经济第一大产业",
+      "right": "服务业而举行的全国性大会",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M65",
+      "field": "stem",
+      "pdf": 42,
+      "delivered": "礴",
+      "ocr": "磅",
+      "left": "国建设民族复兴伟业汇聚磅",
+      "right": "力量为此要引导广大海外侨",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M67",
+      "field": "stem",
+      "pdf": 42,
+      "delivered": "",
+      "ocr": "一二",
+      "left": "7月10日江海万里不觉远",
+      "right": "给阿娘的情书电影道具及侨",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M67",
+      "field": "A",
+      "pdf": 42,
+      "delivered": "诚",
+      "ocr": "忧",
+      "left": "要力量这是因为他们有着赤",
+      "right": "的爱国情怀雄厚的经济实力",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M68",
+      "field": "stem",
+      "pdf": 42,
+      "delivered": "",
+      "ocr": "有8",
+      "left": "的智力资源广泛的商业人脉",
+      "right": "2026年3月12日第十",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M71",
+      "field": "stem",
+      "pdf": 43,
+      "delivered": "",
+      "ocr": "六1",
+      "left": "向末端治理转变的重大标志",
+      "right": "中华人民共和国生态环境法",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M73",
+      "field": "C",
+      "pdf": 44,
+      "delivered": "瞻",
+      "ocr": "用",
+      "left": "于集中力量办大事有利于前",
+      "right": "性把握战略问题有利于保持",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M75",
+      "field": "stem",
+      "pdf": 44,
+      "delivered": "",
+      "ocr": "区5",
+      "left": "各类规划整体联动形成合力",
+      "right": "2026年1月20日习近",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M76",
+      "field": "stem",
+      "pdf": 44,
+      "delivered": "",
+      "ocr": "区6",
+      "left": "的根基国家强盛的重要支柱",
+      "right": "2026年1月20日习近",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M77",
+      "field": "stem",
+      "pdf": 44,
+      "delivered": "",
+      "ocr": "茎7",
+      "left": "新兴产业大力发展数字经济",
+      "right": "2026年1月20日习近",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M78",
+      "field": "stem",
+      "pdf": 45,
+      "delivered": "",
+      "ocr": "到",
+      "left": "业是现代化产业体系的骨干",
+      "right": "十五五规划纲要设定的20",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M78",
+      "field": "stem",
+      "pdf": 45,
+      "delivered": "覆",
+      "ocr": "柳",
+      "left": "标中民生指标占比超过13",
+      "right": "盖就业收入教育健康养老托",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M79",
+      "field": "stem",
+      "pdf": 45,
+      "delivered": "",
+      "ocr": "铭",
+      "left": "经济发展全面转向民生保障",
+      "right": "2026年7月30日中共",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M80",
+      "field": "stem",
+      "pdf": 45,
+      "delivered": "",
+      "ocr": "有0",
+      "left": "持党同人民群众的血肉联系",
+      "right": "习近平法治思想是一个内涵",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M86",
+      "field": "A",
+      "pdf": 47,
+      "delivered": "",
+      "ocr": "人",
+      "left": "协调推进四个全面战略布局",
+      "right": "迫切需要更好发挥全面依法",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M86",
+      "field": "B",
+      "pdf": 47,
+      "delivered": "",
+      "ocr": "人",
+      "left": "性作用加快推动高质量发展",
+      "right": "迫切需要打造市场化法治化",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M86",
+      "field": "D",
+      "pdf": 47,
+      "delivered": "",
+      "ocr": "人",
+      "left": "技革命和产业变革加速突破",
+      "right": "迫切需要在法治轨道上统筹",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M87",
+      "field": "stem",
+      "pdf": 47,
+      "delivered": "",
+      "ocr": "噩",
+      "left": "法治轨道上统筹发展和安全",
+      "right": "习近平总书记指出法律是成",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M87",
+      "field": "stem",
+      "pdf": 48,
+      "delivered": "下",
+      "ocr": "二",
+      "left": "调整范围上的区别和联系以",
+      "right": "说法正确的是法律作为准绳",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M87",
+      "field": "D",
+      "pdf": 48,
+      "delivered": "以",
+      "ocr": "",
+      "left": "德无力约束的行为法律则可",
+      "right": "予以惩戒中共中央办公厅国",
+      "decision": "correct_delivered_text",
+      "confirmed_scan_text": "法律则可予以惩戒"
+    },
+    {
+      "key": "M89",
+      "field": "stem",
+      "pdf": 48,
+      "delivered": "",
+      "ocr": "有9",
+      "left": "地位坚持维护农村社会稳定",
+      "right": "中共中央办公厅国务院办公",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M91",
+      "field": "stem",
+      "pdf": 49,
+      "delivered": "",
+      "ocr": "借",
+      "left": "并完善常态化帮扶政策体系",
+      "right": "十五五时期是巩固拓展脱贫",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M91",
+      "field": "D",
+      "pdf": 49,
+      "delivered": "欠",
+      "ocr": "从",
+      "left": "就业帮扶实效分层分类帮扶",
+      "right": "发达地区2020年中国脱",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M92",
+      "field": "stem",
+      "pdf": 49,
+      "delivered": "",
+      "ocr": "邓",
+      "left": "效分层分类帮扶欠发达地区",
+      "right": "2020年中国脱贫攻坚取",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M93",
+      "field": "stem",
+      "pdf": 49,
+      "delivered": "",
+      "ocr": "双",
+      "left": "国一道进入了高速发展阶段",
+      "right": "2020年中国脱贫攻坚取",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M94",
+      "field": "stem",
+      "pdf": 49,
+      "delivered": "",
+      "ocr": "戏",
+      "left": "准方略始终坚持开发式方针",
+      "right": "2026年2月3日中共中",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M94",
+      "field": "stem",
+      "pdf": 49,
+      "delivered": "",
+      "ocr": "和",
+      "left": "农业农村优先发展的强烈信",
+      "right": "号为做好今年三农工作提供",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M94",
+      "field": "C",
+      "pdf": 50,
+      "delivered": "亟",
+      "ocr": "囊",
+      "left": "局和成色三农既是夯实基础",
+      "right": "待补上的短板弱项也是全面",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M97",
+      "field": "B",
+      "pdf": 50,
+      "delivered": "",
+      "ocr": "有",
+      "left": "出的重大决策是实现先富帮",
+      "right": "后富最终实现共同富裕目标",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M98",
+      "field": "stem",
+      "pdf": 50,
+      "delivered": "疏",
+      "ocr": "朴",
+      "left": "安新区作为北京非首都功能",
+      "right": "解集中承载地的首要功能定",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M100",
+      "field": "stem",
+      "pdf": 51,
+      "delivered": "闯",
+      "ocr": "竟",
+      "left": "记作出重要指示义乌小商品",
+      "right": "出大市场做成大产业形成义",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M100",
+      "field": "stem",
+      "pdf": 51,
+      "delivered": "入",
+      "ocr": "和",
+      "left": "质量发展之路更好服务和融",
+      "right": "全国发展大局运用好义乌发",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M100",
+      "field": "A",
+      "pdf": 51,
+      "delivered": "禀",
+      "ocr": "谤",
+      "left": "要引导各地区立足自身资源",
+      "right": "赋坚持兴商建市促进产业联",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M101",
+      "field": "stem",
+      "pdf": 51,
+      "delivered": "擘",
+      "ocr": "和",
+      "left": "在现代化建设突出位置系统",
+      "right": "画科技强国建设蓝图深入推",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M103",
+      "field": "stem",
+      "pdf": 52,
+      "delivered": "",
+      "ocr": "开03",
+      "left": "强科技治理体系和能力建设",
+      "right": "2026年7月8日习近平",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M103",
+      "field": "stem",
+      "pdf": 52,
+      "delivered": "迭",
+      "ocr": "欠",
+      "left": "调人工智能等前沿技术加速",
+      "right": "代应用双刃剑效应日益显现",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M104",
+      "field": "stem",
+      "pdf": 52,
+      "delivered": "",
+      "ocr": "有04",
+      "left": "向上向善安全可控造福人民",
+      "right": "中共中央总书记国家主席中",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M105",
+      "field": "D",
+      "pdf": 52,
+      "delivered": "入",
+      "ocr": "和人",
+      "left": "基础研究的支持保障主动融",
+      "right": "全球创新网络深化基础研究",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M106",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "",
+      "ocr": "和",
+      "left": "空其后一场箭与船的海上共",
+      "right": "舞精彩上演随着海上回收平",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M107",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "",
+      "ocr": "下07",
+      "left": "载火箭海上回收技术的国家",
+      "right": "2026年7月10日随着",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M108",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "",
+      "ocr": "可08",
+      "left": "业航天在国际市场的竞争力",
+      "right": "党的十八大以来以习近平同",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M108",
+      "field": "C",
+      "pdf": 53,
+      "delivered": "祉",
+      "ocr": "社",
+      "left": "系建设有力增进社会民生福",
+      "right": "有力维护国家战略利益20",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "",
+      "ocr": "下09",
+      "left": "福祉有力维护国家战略利益",
+      "right": "2026年7月25日备受",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "垄",
+      "ocr": "芍",
+      "left": "7月25日备受关注的携程",
+      "right": "断案处罚结果公布市场监管",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "垄",
+      "ocr": "芍",
+      "left": "公司滥用市场支配地位实施",
+      "right": "断行为作出行政处罚罚没款",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "垄",
+      "ocr": "八",
+      "left": "合计5179亿元关于携程",
+      "right": "断案如何改比罚多少更值得",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "垄",
+      "ocr": "董",
+      "left": "何改比罚多少更值得关注反",
+      "right": "断执法的终极价值不在于罚",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "A",
+      "pdf": 53,
+      "delivered": "疏",
+      "ocr": "朴",
+      "left": "在于罚款金额的大小而在于",
+      "right": "通被垄断行为淤塞的公平竞",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M109",
+      "field": "A",
+      "pdf": 53,
+      "delivered": "垄",
+      "ocr": "芍",
+      "left": "款金额的大小而在于疏通被",
+      "right": "断行为淤塞的公平竞争机制",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M110",
+      "field": "stem",
+      "pdf": 53,
+      "delivered": "",
+      "ocr": "让10",
+      "left": "福利构建有计划的商品经济",
+      "right": "平台经济是数智技术与业务",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M111",
+      "field": "stem",
+      "pdf": 54,
+      "delivered": "",
+      "ocr": "硬1",
+      "left": "态持续恶化低水平竞争循环",
+      "right": "平台经济是数智技术与业务",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M111",
+      "field": "stem",
+      "pdf": 54,
+      "delivered": "垄",
+      "ocr": "芍",
+      "left": "对行业的损害是系统性的反",
+      "right": "断执法正是要打破低水平竞",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M112",
+      "field": "stem",
+      "pdf": 54,
+      "delivered": "",
+      "ocr": "茵12",
+      "left": "关系中更多地发挥政府作用",
+      "right": "习近平总书记多次强调深入",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M112",
+      "field": "stem",
+      "pdf": 54,
+      "delivered": "垄",
+      "ocr": "八",
+      "left": "的政府工作报告提出加强反",
+      "right": "断反不正当竞争强化公平竞",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M113",
+      "field": "stem",
+      "pdf": 54,
+      "delivered": "",
+      "ocr": "了13",
+      "left": "争和合作新优势的战略选择",
+      "right": "文化是一定时代人类精神活",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M114",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "殇",
+      "ocr": "殉",
+      "left": "平衡那就是英语这是产业之",
+      "right": "更是文化之痛如今实打实的",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M114",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "跃",
+      "ocr": "牙",
+      "left": "据让人震撼中国网文海外活",
+      "right": "用户达2亿人覆盖200多",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M114",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "靡",
+      "ocr": "摩",
+      "left": "国家和地区中国网游鸣潮风",
+      "right": "世界登顶超100个国家和",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M114",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "逆",
+      "ocr": "着",
+      "left": "下载量突破47亿次从文化",
+      "right": "差的举步维艰到文化出海的",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M114",
+      "field": "C",
+      "pdf": 55,
+      "delivered": "翼",
+      "ocr": "届",
+      "left": "航向科技赋能舒展了文化羽",
+      "right": "教育普及培育了丰厚人才打",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M115",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "",
+      "ocr": "国15",
+      "left": "翼教育普及培育了丰厚人才",
+      "right": "打太极包饺子学汉语这曾经",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M116",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "",
+      "ocr": "加16",
+      "left": "触达提供了非常好的新路径",
+      "right": "2026年7月25日在联",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M116",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "瓷",
+      "ocr": "盗",
+      "left": "世界遗产大会上景德镇手工",
+      "right": "业遗存列人世界遗产名录我",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M117",
+      "field": "stem",
+      "pdf": 55,
+      "delivered": "",
+      "ocr": "对7",
+      "left": "真实的古代中国和现代中国",
+      "right": "2026年7月23日中共",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M118",
+      "field": "stem",
+      "pdf": 56,
+      "delivered": "",
+      "ocr": "国8",
+      "left": "护社会和谐稳定的必然要求",
+      "right": "平安是老百姓解决温饱后的",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M118",
+      "field": "stem",
+      "pdf": 56,
+      "delivered": "",
+      "ocr": "和",
+      "left": "平安中国建设领导广大人民",
+      "right": "群众成功续写了经济快速发",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M118",
+      "field": "A",
+      "pdf": 56,
+      "delivered": "待",
+      "ocr": "竺",
+      "left": "满足人民群众对平安的新期",
+      "right": "动态中的平安要超越指标安",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M119",
+      "field": "stem",
+      "pdf": 56,
+      "delivered": "",
+      "ocr": "下19",
+      "left": "本稳预期利长远的保障作用",
+      "right": "习近平总书记指出加快建设",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M122",
+      "field": "stem",
+      "pdf": 57,
+      "delivered": "",
+      "ocr": "瑟2",
+      "left": "放强度下降最快的国家之一",
+      "right": "国务院印发的美丽中国建设",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M123",
+      "field": "stem",
+      "pdf": 57,
+      "delivered": "",
+      "ocr": "胎3",
+      "left": "加快形成绿色生产生活方式",
+      "right": "2026年4月10日上午",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M123",
+      "field": "C",
+      "pdf": 57,
+      "delivered": "祉",
+      "ocr": "社",
+      "left": "坚持以交流融合增进民生福",
+      "right": "坚持以团结奋斗实现中华民",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M124",
+      "field": "stem",
+      "pdf": 57,
+      "delivered": "",
+      "ocr": "和4",
+      "left": "奋斗实现中华民族伟大复兴",
+      "right": "2026年2月4日晚在香",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M124",
+      "field": "stem",
+      "pdf": 57,
+      "delivered": "舆",
+      "ocr": "与",
+      "left": "规划香港五年规划迅速成为",
+      "right": "论焦点受到海内外广泛关注",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M124",
+      "field": "D",
+      "pdf": 57,
+      "delivered": "入",
+      "ocr": "和",
+      "left": "更加清晰的未来视野更好融",
+      "right": "国内国际双循环国务院新闻",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M125",
+      "field": "stem",
+      "pdf": 57,
+      "delivered": "",
+      "ocr": "和瑟5",
+      "left": "野更好融入国内国际双循环",
+      "right": "国务院新闻办公室2026",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M125",
+      "field": "C",
+      "pdf": 58,
+      "delivered": "祉",
+      "ocr": "社",
+      "left": "定得到有力促进广大居民福",
+      "right": "得到有力保障香港进入从由",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M126",
+      "field": "stem",
+      "pdf": 58,
+      "delivered": "",
+      "ocr": "和",
+      "left": "下香港维护国家安全的实践",
+      "right": "白皮书白皮书强调经过中央",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M126",
+      "field": "D",
+      "pdf": 58,
+      "delivered": "祉",
+      "ocr": "社",
+      "left": "旺权利自由更有保障市民福",
+      "right": "日益增进国务院新闻办公室",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M130",
+      "field": "stem",
+      "pdf": 59,
+      "delivered": "",
+      "ocr": "有30",
+      "left": "的全面发展和社会全面进步",
+      "right": "2026年1月30日中共",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M131",
+      "field": "stem",
+      "pdf": 59,
+      "delivered": "",
+      "ocr": "下31",
+      "left": "前瞻性战略性颠覆性支撑性",
+      "right": "2026年7月30日中共",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M131",
+      "field": "D",
+      "pdf": 59,
+      "delivered": "",
+      "ocr": "和",
+      "left": "系实际的学风保持党同人民",
+      "right": "群众的血肉联系2026年",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M135",
+      "field": "stem",
+      "pdf": 59,
+      "delivered": "",
+      "ocr": "由35",
+      "left": "保障政策合理增加公共消费",
+      "right": "2026年7月17日上午",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M135",
+      "field": "stem",
+      "pdf": 59,
+      "delivered": "跃",
+      "ocr": "雅",
+      "left": "技术创新进入前所未有的活",
+      "right": "期既蕴含巨大机遇也面临治",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M135",
+      "field": "stem",
+      "pdf": 59,
+      "delivered": "蕴",
+      "ocr": "列",
+      "left": "新进入前所未有的活跃期既",
+      "right": "含巨大机遇也面临治理挑战",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M135",
+      "field": "A",
+      "pdf": 60,
+      "delivered": "享",
+      "ocr": "赢",
+      "left": "平提出的意见是坚持开放共",
+      "right": "驱动创新发展强化风险意识",
+      "decision": "correct_delivered_text",
+      "confirmed_scan_text": "坚持开放共赢，驱动创新发展"
+    },
+    {
+      "key": "M136",
+      "field": "stem",
+      "pdf": 60,
+      "delivered": "",
+      "ocr": "下86",
+      "left": "倡导和衷共济完善全球治理",
+      "right": "2026年7月16日成立",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M137",
+      "field": "stem",
+      "pdf": 60,
+      "delivered": "9",
+      "ocr": "10",
+      "left": "开幕式并发表主旨讲话来自",
+      "right": "0多个国家和国际组织的官",
+      "decision": "correct_delivered_text",
+      "confirmed_scan_text": "来自100多个国家和国际组织"
+    },
+    {
+      "key": "M138",
+      "field": "stem",
+      "pdf": 60,
+      "delivered": "",
+      "ocr": "到8",
+      "left": "于做国际公共产品的提供者",
+      "right": "应国家主席习近平邀请美国",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M138",
+      "field": "stem",
+      "pdf": 60,
+      "delivered": "句",
+      "ocr": "名",
+      "left": "建设性战略稳定关系不是一",
+      "right": "口号而应是双方坚守的目标",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M139",
+      "field": "stem",
+      "pdf": 60,
+      "delivered": "",
+      "ocr": "正39",
+      "left": "态稳定和平可期的持久稳定",
+      "right": "2026年8月5日我国商",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M140",
+      "field": "stem",
+      "pdf": 61,
+      "delivered": "",
+      "ocr": "型0",
+      "left": "落地实施迈入新的发展阶段",
+      "right": "2026年是中俄双方宣布",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M141",
+      "field": "stem",
+      "pdf": 61,
+      "delivered": "",
+      "ocr": "一1",
+      "left": "互利合作共赢主导地区安全",
+      "right": "应国家主席习近平邀请俄罗",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M142",
+      "field": "stem",
+      "pdf": 61,
+      "delivered": "5",
+      "ocr": "3",
+      "left": "累累罪行判处东条英机等2",
+      "right": "名甲级战犯绞刑徒刑驳斥所",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M142",
+      "field": "stem",
+      "pdf": 61,
+      "delivered": "谬",
+      "ocr": "廖",
+      "left": "者审判自卫战争事后立法等",
+      "right": "论东京审判是开罗宣言波茨",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M143",
+      "field": "stem",
+      "pdf": 61,
+      "delivered": "",
+      "ocr": "本3",
+      "left": "争取得完全胜利的重要标志",
+      "right": "东京审判与纽伦堡审判一道",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M143",
+      "field": "stem",
+      "pdf": 61,
+      "delivered": "凶",
+      "ocr": "区",
+      "left": "与纽伦堡审判一道将战争元",
+      "right": "钉在历史耻辱柱上东京审判",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M145",
+      "field": "stem",
+      "pdf": 62,
+      "delivered": "",
+      "ocr": "和",
+      "left": "体系中国的理念倡议与行动",
+      "right": "白皮书全球治理是关乎人类",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M145",
+      "field": "stem",
+      "pdf": 62,
+      "delivered": "祉",
+      "ocr": "社",
+      "left": "皮书全球治理是关乎人类福",
+      "right": "的共同事业构建公正合理的",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M145",
+      "field": "stem",
+      "pdf": 62,
+      "delivered": "",
+      "ocr": "和",
+      "left": "的全球治理体系是各国人民",
+      "right": "孜孜以求的共同愿景全球治",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M145",
+      "field": "A",
+      "pdf": 62,
+      "delivered": "",
+      "ocr": "和",
+      "left": "力量追求公平未来的明确信",
+      "right": "号顺应了国际关系民主化的",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M146",
+      "field": "stem",
+      "pdf": 62,
+      "delivered": "",
+      "ocr": "一6",
+      "left": "球治理清晰可行的路径方案",
+      "right": "中国国务院新闻办公室发布",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M147",
+      "field": "stem",
+      "pdf": 62,
+      "delivered": "平",
+      "ocr": "乎",
+      "left": "则退在这个重要的关头习近",
+      "right": "主席郑重提出全球治理倡议",
+      "decision": "retain_delivered_text_scan_confirms"
+    },
+    {
+      "key": "M147",
+      "field": "C",
+      "pdf": 63,
+      "delivered": "崭",
+      "ocr": "胃",
+      "left": "路径开辟了国际政治文明的",
+      "right": "新境界实现了全球治理体系",
+      "decision": "retain_delivered_text_scan_confirms"
+    }
+  ],
+  "shared_ocr_error_found_visually": {
+    "key": "M116",
+    "before": "列人《世界遗产名录》",
+    "after": "列入《世界遗产名录》",
+    "pdf_page": 55
+  }
+}

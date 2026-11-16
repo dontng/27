@@ -1,0 +1,3345 @@
+[
+  {
+    "year": 2020,
+    "q": 1,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c90e477e53f6aa6b9de81ef6121671cf6fe3a7c66a853999bcfabf18d289cf4a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.347,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "3e21025123ca36edba8c93c8946d8636ebda40d368cadd7a6a10a9dcbb9b7179",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 2,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "e2212936a3d6da510a110f0af6fbab289aee9f79f435865d42ead902b205340a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "ebbda653c503872098b7e64d2b76e6962df203d1002ec462235ce02d3f2033a5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "b800f35144feb39c92639b4ed9a38f4fc607d31be1da2828e8c2d4750753513b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "25ee699d3137aacc70a17c6938afc88352cb07dd09c0a34bc262d10745467e9a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "7be2b49a2597f509bfcbed623ce280970950eef797c68798382aafac5acfb559",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 3,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "22d185505d41128c5c3a5b77d0017b250be3afbcb2b4819f318900b971f96794",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "b585d58dfd5c53efebf2c3c946016742a72a9d8c716803b71b1042e45ba1deae",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "78a23e3a359dfe4150a3b2d765f50f39abb037432d16ddad4fca7da078578df2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "d18156a3dbe174887dbdce7db03fff89f9c8889488574f9213d35cec6435fc44",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "63484f86cb6b9b697b9f3c11b55795b2720e7cbf639d3143d431054001fdf3ab",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 4,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "一",
+            "ref": "个",
+            "context": "获得胜利的结论列宁得出这一结论的理论依据是"
+          }
+        ],
+        "text_sha256": "81574ce5997b2674dd75922b4367fca98cac82b86deae3c8dc4f5fce7e3f503d",
+        "reference_scores": {
+          "pdf": 97.015,
+          "xdf": 98.507,
+          "csg": 98.507
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "f5f68317b993d044395c4b2564d8a2b5d07d3a78b923aa634c4a7b212d0affd7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "dc189bb0aa30c759bdf229ce436c6707eed6a92d309eb64e3d0967edd060788c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "408826518367adf7b5dbba1a7d11d70c6cefcac16781a272fe6654b06be08086",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "35ea6d63c078dad1fd2f34650b9af97783f832982200c6ffaaa5919eb2b89a30",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 5,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "和",
+            "ref": "的",
+            "context": "义是邓小平在领导改革开放和现代化建设这一新的革命过"
+          }
+        ],
+        "text_sha256": "92a3601fde0093a5a293ca3914eb7ad61cd2de10c83bc70b65c073e3c45ec3b0",
+        "reference_scores": {
+          "pdf": 98.592,
+          "xdf": 97.183,
+          "csg": 97.183
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "937a51ba230c36dc32cc150cd230ff18b52ef37f1dc4f3231aded7c750f0744d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "主要",
+            "ref": "",
+            "context": "在正确分析我国社会主义主要矛盾的基础上进一步明确社"
+          },
+          {
+            "old": "",
+            "ref": "C在",
+            "context": "步明确社会主义的根本任务"
+          }
+        ],
+        "text_sha256": "c330a1e77a03854f72d6225fd4d2c9eb62f451d1b8acd43d7d48f59f98920f95",
+        "reference_scores": {
+          "pdf": 93.939,
+          "xdf": 93.939,
+          "csg": 93.939
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "d9bdf1466d26e3b8ea7d5b57ae55ebea6a4a1ba30360761663b8f6e36b8e88b2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.552,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "的",
+            "context": "总结我国社会主义历史经验基础上进一步揭示社会主义"
+          },
+          {
+            "old": "律",
+            "ref": "",
+            "context": "社会主义社会发展的一般规律"
+          }
+        ],
+        "text_sha256": "f9870e5914c99e87dbdb0977073f63d7503792d7e4aa7b0cda201cbd9a5c47af",
+        "reference_scores": {
+          "pdf": 97.059,
+          "xdf": 97.059,
+          "csg": 97.059
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 6,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "柱",
+            "ref": "撑",
+            "context": "富之源是国家强盛的重要支柱党的十九大报告指出建设现"
+          }
+        ],
+        "text_sha256": "0c55f23feec3564f46a4102113629d2703668fd89a1670d18f5d834f5f3eccb2",
+        "reference_scores": {
+          "pdf": 98.795,
+          "xdf": 97.59,
+          "csg": 98.795
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "7c4370bbef7e1194c541f64345fdc55f5ac0bba8f7502f93e13c401bfcbbf91e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "化",
+            "context": "深化要素市场配置改革"
+          },
+          {
+            "old": "革",
+            "ref": "",
+            "context": "深化要素市场配置改革"
+          }
+        ],
+        "text_sha256": "684d03d856089b5e00a0caf9b1bbf41c40c5369f3cbe9edd2e86ce7ebc433bde",
+        "reference_scores": {
+          "pdf": 90.0,
+          "xdf": 90.0,
+          "csg": 90.0
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "3d3d654b1572f25cc7e4ee34bc32f3e5eecfad1e164b483308bd7810a7d9916b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "c2bb4cdddede9125f05e9e5032835a1fc0d2ec060677884c0a2d356b31f42706",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 90.0
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 7,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "人民政协作为统一战线的组织多党合作和政治协商的机构人民民主",
+            "ref": "",
+            "context": "人民政协作为统一战线的组织多党合作和政治协商的机构人民民主的重要实现形式是具有中国"
+          },
+          {
+            "old": "",
+            "ref": "点是A加快发展先进制造业B深化",
+            "context": "治协商的机构人民民主的重要实现形式是具有中国特色"
+          },
+          {
+            "old": "实现形式是具有中国特色的制",
+            "ref": "素市场化配置改革C加大人力资本培育力",
+            "context": "协商的机构人民民主的重要实现形式是具有中国特色的制度安排2019年9月20"
+          },
+          {
+            "old": "安排",
+            "ref": "D持续推进三去一降一补7",
+            "context": "形式是具有中国特色的制度安排2019年9月20日习近"
+          },
+          {
+            "old": "是",
+            "ref": "",
+            "context": "好人民政协工作的中心环节是"
+          }
+        ],
+        "text_sha256": "58fd0a0f1c1d7ac39a8328ad73f9e3ab15e3435f47ecaa4aeb1b7fafea6f2c4e",
+        "reference_scores": {
+          "pdf": 67.883,
+          "xdf": 66.423,
+          "csg": 66.423
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "15eca8bbcd1707c249e82d749e58768aaa7a3ad1c044259b4c6cab25cc1dd67a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "51a85b23ca4fbb8f35b67a419aa0422678f28f41e5dd32d6695837e8395560ac",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "b7b52420b8260c79541592164df935d17fb82dff014d4e988d2a893725608405",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "50a48e592f0e4ea95980dd4be64a682181d117b7da6771175681f11541518f35",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 8,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "日",
+            "ref": "会",
+            "context": "湾同胞书发表40周年纪念日上的讲话中指出在一个中国"
+          }
+        ],
+        "text_sha256": "d9f7623b3a48b40fc4bebed99dc270461cc8c836bf93ec898ef113c8d3036a5e",
+        "reference_scores": {
+          "pdf": 99.422,
+          "xdf": 98.844,
+          "csg": 97.11
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "157c6b7de2de4bcb72dd35620fc49e397b1241e3b11b651dbfa09c1ce2657a1f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "f2a2ff8186ec959615736a41bff72e55d8af91003533c76175fe9c780b44e41f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "40efb970100d6b4d1205835049e12053e8d7626f3bd46ecb035f55782b2fe613",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 9,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "db37f0097d1395a66db70b246fb26e7bb8108c6dd27fe6dca95f14147e1037ec",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.413,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "aa5ef10ec48524acfc6e913342f13c946f87028737cb445ba41e544e54ec98d9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "d1e1c06ee4ff8607b262d8eed30a874e8e8c8f12785debba7123bcff578ef30a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "2dffd76bb32371c4116a94db520b9bac49d230e5df1cc937a8ebd558db0c62fb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.909,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "a6782030511435506279b0daf1f13d29bea39b184c885df296508687adbdabab",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 10,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "与",
+            "ref": "和",
+            "context": "907年间资产阶级革命派与改良派进行了一场大论战双"
+          }
+        ],
+        "text_sha256": "97e56ca47ec375128722167d3f7ca1167f363590169c286e1fa0a96b5127a3ce",
+        "reference_scores": {
+          "pdf": 97.436,
+          "xdf": 94.872,
+          "csg": 97.436
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "295987429786ee9c53b6b5b308667251fb308cd0871c15fe9f84dc98f88e8218",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "4dacc082ec9382f82784a74593cbf4e3c4b84d97bd49665e9bae844435ccec4b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "进行",
+            "ref": "",
+            "context": "要不要进行社会革命"
+          },
+          {
+            "old": "",
+            "ref": "D要",
+            "context": "要不要进行社会革命"
+          }
+        ],
+        "text_sha256": "bbc9e25adf4fd2c3421783b96151ad6694ba363880703613620bcc05ff97a5d8",
+        "reference_scores": {
+          "pdf": 77.778,
+          "xdf": 77.778,
+          "csg": 77.778
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "3dc2fc18d4b762d4d250d0125dec940e6ca8714a2dbdf1bf611b2064c86bccaf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 11,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "不久",
+            "context": "中国革命就展现了新的面貌中国共产党成立之后不久就"
+          },
+          {
+            "old": "成立之后不久",
+            "ref": "",
+            "context": "展现了新的面貌中国共产党成立之后不久就开始采取民族资产阶级小"
+          },
+          {
+            "old": "",
+            "ref": "路线即土地",
+            "context": "没有采取过也不可能采取的革命方法即"
+          },
+          {
+            "old": "",
+            "ref": "的",
+            "context": "采取过也不可能采取的革命方法即"
+          },
+          {
+            "old": "法即",
+            "ref": "",
+            "context": "取过也不可能采取的革命方法即"
+          }
+        ],
+        "text_sha256": "b0eb32f014268c0de9d23178e87f1c83d8e8021fc5fb1809587e8567dbea6a32",
+        "reference_scores": {
+          "pdf": 87.671,
+          "xdf": 84.932,
+          "csg": 89.041
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 12,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "2",
+            "context": "1956年随着社会主义改"
+          },
+          {
+            "old": "随着",
+            "ref": "",
+            "context": "1956年随着社会主义改造的基本完成中"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "956年随着社会主义改造的基本完成中国继建立社会主"
+          },
+          {
+            "old": "",
+            "ref": "随着",
+            "context": "着社会主义改造的基本完成中国继建立社会主义基本政"
+          },
+          {
+            "old": "继",
+            "ref": "",
+            "context": "会主义改造的基本完成中国继建立社会主义基本政治制度"
+          },
+          {
+            "old": "",
+            "ref": "了",
+            "context": "改造的基本完成中国继建立社会主义基本政治制度之后"
+          },
+          {
+            "old": "之后",
+            "ref": "",
+            "context": "建立社会主义基本政治制度之后社会主义基本经济制度也建"
+          },
+          {
+            "old": "了",
+            "ref": "中国",
+            "context": "义基本经济制度也建立起来了社会主义基本制度的全面确"
+          },
+          {
+            "old": "全面确",
+            "ref": "建",
+            "context": "起来了社会主义基本制度的全面确立标志中国"
+          },
+          {
+            "old": "中国",
+            "ref": "着A进入了",
+            "context": "义基本制度的全面确立标志中国"
+          }
+        ],
+        "text_sha256": "ea4f03a7d95099ea8808188b2db1d8ab6a42ee0d17a7ff7bf3833404ae699b02",
+        "reference_scores": {
+          "pdf": 82.353,
+          "xdf": 82.353,
+          "csg": 82.353
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "开始",
+            "ref": "了",
+            "context": "进入开始全面建设社会主义的历史阶"
+          },
+          {
+            "old": "",
+            "ref": "B",
+            "context": "面建设社会主义的历史阶段"
+          }
+        ],
+        "text_sha256": "1508ce94b5b5950fd0c12525e18ffba58da71ebbd4945e30d54625e00ccf119b",
+        "reference_scores": {
+          "pdf": 88.235,
+          "xdf": 88.235,
+          "csg": 88.235
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "B",
+            "context": "半殖民地半封建社会的结束"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "半殖民地半封建社会的结束"
+          }
+        ],
+        "text_sha256": "432ff47349a9e3525c793ed4e591d4044887bfc5734aac857b1a97589ec28e4d",
+        "reference_scores": {
+          "pdf": 91.667,
+          "xdf": 91.667,
+          "csg": 91.667
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "4de7df6f446a23871e8fcb41632b5a5fe7dbbf612322ce3b9c1de3f172f01088",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "现D",
+            "context": "新民主主义革命取得基本胜"
+          },
+          {
+            "old": "取得",
+            "ref": "",
+            "context": "新民主主义革命取得基本胜利"
+          }
+        ],
+        "text_sha256": "e874b6a11d5c61135501fd43a36db76389edd813c975b168eb72430a86c3ac7c",
+        "reference_scores": {
+          "pdf": 84.615,
+          "xdf": 84.615,
+          "csg": 84.615
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 13,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "dedf28428b518198670eb12df876d2165cb41b34579f47755865e7b5b0051d01",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "坚持",
+            "ref": "是A",
+            "context": "坚持依法治国和以德治国相结合"
+          }
+        ],
+        "text_sha256": "12ba2eb8d1f8336b27c14d623fb2d1c91b88416234cb39cba2c73365c597a51d",
+        "reference_scores": {
+          "pdf": 85.714,
+          "xdf": 85.714,
+          "csg": 85.714
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "c4b25d175761235c2e27c8138ee98768c5bad4d1e38dbc3ecead8ed988f891ed",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "83995daf5fb82cd330965c26a6b903cb5598cb44940f8d0ec996f072273efcf7",
+        "reference_scores": {
+          "pdf": 61.111,
+          "xdf": 100,
+          "csg": 66.667
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "19348afabf6311e4859b6aae47438d16dffed2fc5054ea04860cdcf5cc88988a",
+        "reference_scores": {
+          "pdf": 55.556,
+          "xdf": 100,
+          "csg": 55.556
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 14,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "a7a20863c2b1d626b1f127a03112c3ed01af474a75fc5a68703d27faf7ca90fe",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 97.479
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "0a53655abd0b0e8074d3d2e9d3d660f9f7b5aba5895b863dba50c4bcdc231557",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "99f072840114a1137fe8a775b3f169ee623b09496103887b41a30861cb49d0ba",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "eb5b862fd6a6def7f93d1e777f4292ad14f2d90d03b474fb5e98722edc30d1a1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4550b3444cb8566acd59fabe9ea50cdc29cb243588ce0a022c54c1eb619d3e3f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 15,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "6285b95dd513674f067b5fdcdc472b27e75225908060ebf216be6b988f84641c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "18c289da98b019005813b5ca34b8d1929ef0e657238cbe188575c4566d866921",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 16,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "ec094362044e40d860a25cf89b29d8e55886b5ea8f089d599e49f639ddbdc7a4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "7bb17a8095269a4385f079fd29bdf1b7e98f6aa2a1775e0d7642eccad1f7f980",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "单方面",
+            "ref": "",
+            "context": "自我松绑谋求单方面绝对军事优势"
+          },
+          {
+            "old": "",
+            "ref": "D其他",
+            "context": "绑谋求单方面绝对军事优势"
+          }
+        ],
+        "text_sha256": "0319677888668c9133a2334ddc6734467eecf620bb6098fa24a6c7dad27fe495",
+        "reference_scores": {
+          "pdf": 80.0,
+          "xdf": 80.0,
+          "csg": 80.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "7682e7c8357ea800192506a342b1cbea99e0c95aa18c10e90023fe221ba4054a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 17,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "北京时间2019年4月10日21时",
+            "ref": "员合作的",
+            "context": "北京时间2019年4月10日21时事件视界望远镜项目在全世"
+          },
+          {
+            "old": "世界多",
+            "ref": "球六",
+            "context": "时事件视界望远镜项目在全世界多地同时召开新闻发布会公布"
+          },
+          {
+            "old": "时召开",
+            "ref": "步举行",
+            "context": "望远镜项目在全世界多地同时召开新闻发布会公布了人类首次"
+          },
+          {
+            "old": "",
+            "ref": "发布了世界上首张黑洞图像",
+            "context": "界多地同时召开新闻发布会公布了人类首次拍到的黑洞"
+          },
+          {
+            "old": "",
+            "ref": "和",
+            "context": "照片这是继2015年人类通过引力波探测听到两个黑"
+          },
+          {
+            "old": "",
+            "ref": "人",
+            "context": "类首次看到黑洞正面照表明"
+          }
+        ],
+        "text_sha256": "e88a3be104b423dcfd0de8d6885440b4ed030921b80ab14131fe28d38c9a2e97",
+        "reference_scores": {
+          "pdf": 86.441,
+          "xdf": 87.006,
+          "csg": 85.876
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "b7eafaceef2bbd3e02f9ee624467f64a9e2ca9125d922814a99ff53599ae2423",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "0cf6f95677ad004768243023e84bed8a2ba709c707334f2f91188c5a6efda3b6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 88.889
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "e32d8201011101e1a45c67eedeafb0a88c911a207005e7253747a9bce2d44ec8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "7a81c85877b7ce013c12dd9410d825ab12c23f51da53d61fe10110d977d8bd6d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.75,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 18,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "08ca667637009fc18f75f43722502adb87bc7342eaeaa714bec62addce1ca9c6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.099,
+          "csg": 98.649
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "是",
+            "ref": "",
+            "context": "是一种单纯的经济和商业关系"
+          },
+          {
+            "old": "",
+            "ref": "B",
+            "context": "一种单纯的经济和商业关系"
+          }
+        ],
+        "text_sha256": "a06fe34fde4c79995795ce7d2ea85fde9dac3006ff1ee16c9f2997e05fc2a6f6",
+        "reference_scores": {
+          "pdf": 92.308,
+          "xdf": 92.308,
+          "csg": 92.308
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "369a9fabea8839cfb35e616451f446ad9ad9fd61acd59cef021bc2941a2a876e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "dd954364c3cbcb897ad46c3b7f843c00a5641001aa0a372c59a9330297225df6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "是",
+            "ref": "D",
+            "context": "是由信息技术构造的虚拟关系"
+          }
+        ],
+        "text_sha256": "2a291f30852b6cfa6a8aa7ddaf7f328b057cec38ed8ed4b2012981c9d023feca",
+        "reference_scores": {
+          "pdf": 92.308,
+          "xdf": 92.308,
+          "csg": 92.308
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 19,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "71afed015fbf5eddb398eedbaa750dab86278560f59b75685807cf8bc0adc7c5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 97.183
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "62d84376b03abe4fee3ad83b07899abc951b808d3ae6e17d088561d16bd9f17f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "f65afd6053d5ad8aa0f5ba930a254d0040300d9eb066c073828917200e1d6c7a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "3d40568d8fbc566748da21f20ffe83beeea9beffabf8e2986ced7b7020b1ed56",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 85.714
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "9aace2d8b42af165cb27e1ab504985cdafab31a111fc79b8a8a143317af6935c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 20,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "50addec6f076981f7c18bcf279323882462c709784a099f6a9805d2fce2f7e41",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 27.848
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 21,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "与",
+            "ref": "和",
+            "context": "加强对各国垄断资本的协调与制约第二次世界大战后国际"
+          }
+        ],
+        "text_sha256": "63094a4678f7e12cfb876d6209aafc888699286334bbef26c35d7e0884e0d5d7",
+        "reference_scores": {
+          "pdf": 98.936,
+          "xdf": 95.745,
+          "csg": 98.936
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "b7e0ed5c5bd402711b3954952f780b7002f9153c4f42c1b0c3d0ce346e5f8f2e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "6eb713bc656506a299c4160c62ef8feabe90197beeb5300bf4e1cedc6d3b6072",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "46c18b57bf9569bb1010fc208eeb7f7498278c23480050dbbbb1f4ca9852de13",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "7ac8d616c4318660731f87ac5a9b4c210974ed7621e9ebb6897fca7dc65457d3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 22,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "原",
+            "ref": "既",
+            "context": "没有更关注好不好不仅包括原有的物质文化需求更包括在"
+          }
+        ],
+        "text_sha256": "68fb1805e09ee4988b8a4d866c52597ca5ee6ce9e621bd95c07ea2ce5b752e42",
+        "reference_scores": {
+          "pdf": 98.876,
+          "xdf": 95.506,
+          "csg": 97.753
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "67533cd9ea6d952c6c681932e34d9683d81791e1ef62b85571827793b0d2b6bb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "e6d449a45b4887713f3ffa3122d995339d30b106e9f499051592e5e2f9568d91",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.75,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "625a198333f6f5a2de90733db0b6a75365f939ffb696a033987f5374644b73d8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "保",
+            "context": "为制约满足人民需要的主要障碍"
+          },
+          {
+            "old": "碍",
+            "ref": "",
+            "context": "制约满足人民需要的主要障碍"
+          }
+        ],
+        "text_sha256": "a215bc88884d8913ab11edc4eb12b962d669df6784ab7202fa278f0dc4d6736f",
+        "reference_scores": {
+          "pdf": 96.296,
+          "xdf": 92.593,
+          "csg": 96.296
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 23,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "1efd747c3d8feb7a3639c9e8389e5fa562b345feee01c7f31fb4a7d2a3d3e899",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "f608d1a8084f9265f8ba21f33365dcce0774b2fe1312953fe4566c1f36e3a5c7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "e8a4da5d345c011e660b0a09283a2ba6c29b836d1721e707642e7dee7b8c0dd3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 95.0
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "强",
+            "ref": "",
+            "context": "索全面建设社会主义现代化强国新路径"
+          },
+          {
+            "old": "",
+            "ref": "家",
+            "context": "面建设社会主义现代化强国新路径"
+          }
+        ],
+        "text_sha256": "f3a5791589ab57da5e1a7e5bd5ef30f5553f34164cd913b42364aabd650a0ae6",
+        "reference_scores": {
+          "pdf": 95.0,
+          "xdf": 95.0,
+          "csg": 90.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "D",
+            "context": "破解制约建成小康社会的重"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "破解制约建成小康社会的重点难点问题"
+          }
+        ],
+        "text_sha256": "413e40ec83d6cee7f6b789b0436fa5d2fe739ea640a469d90e71b4c613436e3b",
+        "reference_scores": {
+          "pdf": 94.118,
+          "xdf": 94.118,
+          "csg": 94.118
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 24,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "24",
+            "context": "消除贫困改善民生逐步实现"
+          },
+          {
+            "old": "",
+            "ref": "余",
+            "context": "的重要使命新中国成立70年来我国已有7亿多人摆脱"
+          },
+          {
+            "old": "来",
+            "ref": "",
+            "context": "重要使命新中国成立70年来我国已有7亿多人摆脱贫困"
+          },
+          {
+            "old": "性",
+            "ref": "",
+            "context": "生活水平提高同步这一历史性跨越的发展中国家进入新时"
+          },
+          {
+            "old": "采取",
+            "ref": "",
+            "context": "贫困县全部摘帽的目标我国采取的主要措施是"
+          },
+          {
+            "old": "主",
+            "ref": "重",
+            "context": "全部摘帽的目标我国采取的主要措施是"
+          },
+          {
+            "old": "",
+            "ref": "举",
+            "context": "摘帽的目标我国采取的主要措施是"
+          },
+          {
+            "old": "施",
+            "ref": "",
+            "context": "帽的目标我国采取的主要措施是"
+          },
+          {
+            "old": "",
+            "ref": "A",
+            "context": "目标我国采取的主要措施是"
+          }
+        ],
+        "text_sha256": "be04b56e2f240bab3fe96a4031b797dfd27947b10b4da52178a7551849888735",
+        "reference_scores": {
+          "pdf": 96.985,
+          "xdf": 91.96,
+          "csg": 96.985
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "1544ca5f06bc8d97a3dbe75dfb87674581b98385ec1fc3bafd2ed3ecf66cb0fd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "4505b8bf37dd01529609061c6d07eece328fee6ec103cea5ef7b69271927aea7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "1eaf4590a975061c279a540039b2fda4441f13c965113860cb22a6568c4447f4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4d32e24bea23ea0ae807a6ec712170d1ef3849432db9455bdccc13d85cf5617d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.857,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 25,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "D重点攻克深度贫困地区脱贫任务25",
+            "context": "从1956年我国建立第一"
+          },
+          {
+            "old": "山",
+            "ref": "",
+            "context": "建立第一个自然保护区鼎湖山保护区到目前全国已拥有了"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "平方公里约占陆域国土面积的15自党的十八届三中全会"
+          },
+          {
+            "old": "国家公园体制试点快速推进目前全国共有10处国家公园体制试点单位",
+            "ref": "",
+            "context": "决定建立国家公园体制以来国家公园体制试点快速推进目前全国共有10处国家公园体制试点单位涉及12个省总面积约22"
+          },
+          {
+            "old": "",
+            "ref": "为",
+            "context": "单位涉及12个省总面积约2229万平方公里我国建"
+          },
+          {
+            "old": "",
+            "ref": "A推进自然生态保护建立美丽新中",
+            "context": "的自然保护地体系的意义是"
+          }
+        ],
+        "text_sha256": "c121f7511378f91d3b9db737446e8050572d3feae518f1d4c37f6eed9c47d10b",
+        "reference_scores": {
+          "pdf": 79.375,
+          "xdf": 78.125,
+          "csg": 79.375
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "设",
+            "ref": "立",
+            "context": "推进自然生态保护建设美丽新中国"
+          }
+        ],
+        "text_sha256": "07aa6a55121a8f8cb525d5290823a26a803011fd2c14cf90642323fede43e8ac",
+        "reference_scores": {
+          "pdf": 93.333,
+          "xdf": 93.333,
+          "csg": 93.333
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "0e7e43c0a8fc249b9eb5dd6a77719ed17d2d1f6a5d2c841cf5dfac680e78011c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "ebb2dc41dfcb31169fb56b7bcd7fa11a3ab98f08f96addaef0d1f78a2ccd1c37",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "77d87ab89b824bbc56f17994aee11e76a8a21ad20b20d29d4b15523febbe8a3d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 26,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "一",
+            "ref": "公里约占陆域",
+            "context": "一国两制是实现祖国和平统一"
+          },
+          {
+            "old": "两",
+            "ref": "土面积15自党的十八届三中全会决定建立国家公园体",
+            "context": "一国两制是实现祖国和平统一的一"
+          },
+          {
+            "old": "",
+            "ref": "以来涉及12个省总面积约为2229万平方公里我国建立以国家公园为主体的自然保护地体系的意义",
+            "context": "一国两制是实现祖国和平统一的一项"
+          },
+          {
+            "old": "实现祖",
+            "ref": "A推进自然生态保护建立美丽新中",
+            "context": "一国两制是实现祖国和平统一的一项重要制度"
+          },
+          {
+            "old": "和平统一的一项",
+            "ref": "B保护",
+            "context": "一国两制是实现祖国和平统一的一项重要制度是中国特色社会主"
+          },
+          {
+            "old": "制度是中国",
+            "ref": "的自然生态系统和独",
+            "context": "现祖国和平统一的一项重要制度是中国特色社会主义的一个伟大创"
+          },
+          {
+            "old": "色社会主义",
+            "ref": "",
+            "context": "一的一项重要制度是中国特色社会主义的一个伟大创举2019年"
+          },
+          {
+            "old": "一个伟大创举2019年11月",
+            "ref": "自然遗产C促进人与自然和谐共生D维护",
+            "context": "制度是中国特色社会主义的一个伟大创举2019年11月国家主席习近平在巴西利亚"
+          },
+          {
+            "old": "主席习近平在巴西利亚出席金砖国家领导人第十一次会晤时针对香港出现的街头暴力犯罪行为发表重要讲话习近平指出香港持续发",
+            "ref": "",
+            "context": "创举2019年11月国家主席习近平在巴西利亚出席金砖国家领导人第十一次会晤时针对香港出现的街头暴力犯罪行为发表重要讲话习近平指出香港持续发生的激进暴力犯罪行为严重"
+          },
+          {
+            "old": "的激进暴力犯罪行为严重践踏法治和社会秩序严重破坏香港繁荣稳定严重挑战一国两制原则底线",
+            "ref": "态安全26",
+            "context": "话习近平指出香港持续发生的激进暴力犯罪行为严重践踏法治和社会秩序严重破坏香港繁荣稳定严重挑战一国两制原则底线止暴制乱恢复秩序是香港当"
+          },
+          {
+            "old": "",
+            "ref": "A危害国家主权安全B",
+            "context": "不能允许触碰的原则底线是"
+          }
+        ],
+        "text_sha256": "feda9644fd244bd32fedb3d5ef6fe4f7ea006e5d03257f963f7283cd32a990e6",
+        "reference_scores": {
+          "pdf": 31.915,
+          "xdf": 31.915,
+          "csg": 31.915
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "349745fee09b405d3f007cf5067589fa32ce2290eef198eef58604519caf6b7f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "ea6df3d0c300314e8f27bae1929dd9a5d732d23c43828bd433cdbdb89aadce2b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "和",
+            "ref": "与",
+            "context": "挑战中央权力和香港特别行政区基本法权威"
+          }
+        ],
+        "text_sha256": "263c095539aac835a02a81ca6b2d4917b3ac4b2e626064320a691e84d90ba061",
+        "reference_scores": {
+          "pdf": 94.737,
+          "xdf": 94.737,
+          "csg": 94.737
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "f827a7a175a8b3ada22d285e060a5638f82b3ce7552c884e3c4e20f081e1c6a7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 27,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "行政区基本法权威D利用香港对内地进行渗透破坏27",
+            "context": "鸦片战争以后资本帝国主义"
+          },
+          {
+            "old": "以",
+            "ref": "",
+            "context": "鸦片战争以后资本帝国主义列强通过发"
+          },
+          {
+            "old": "帝国主义",
+            "ref": "",
+            "context": "鸦片战争以后资本帝国主义列强通过发动侵略战争强迫"
+          },
+          {
+            "old": "破坏中国的领土主权领海主权关税主权司法主权等中国丧失了完全独立的地位",
+            "ref": "",
+            "context": "中国签订一系列不平等条约破坏中国的领土主权领海主权关税主权司法主权等中国丧失了完全独立的地位但列强也没有能够如英国在"
+          },
+          {
+            "old": "有",
+            "ref": "",
+            "context": "完全独立的地位但列强也没有能够如英国在印度那样对中"
+          },
+          {
+            "old": "够",
+            "ref": "",
+            "context": "独立的地位但列强也没有能够如英国在印度那样对中国实"
+          },
+          {
+            "old": "行直接的",
+            "ref": "施",
+            "context": "如英国在印度那样对中国实行直接的殖民统治这是因为"
+          },
+          {
+            "old": "",
+            "ref": "A中国人民顽强持久的反抗B列强间争夺中国",
+            "context": "行直接的殖民统治这是因为"
+          }
+        ],
+        "text_sha256": "b2b5c8b700bd7d6f753cbe46e499ea6c783b10a22234833f9eb856be8c051faf",
+        "reference_scores": {
+          "pdf": 55.882,
+          "xdf": 54.902,
+          "csg": 54.902
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "f5f23075f46f66c6b3e0142d2b089e2f035f5a8125456a2954797f2c7ab212f6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 72.727
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "e471f8800f2bcd6e3fd1fb562d22ee1f104e0f53bb22553b5f1520a2d23bac1d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.857,
+          "csg": 64.286
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "fc314a625484bde922f7359e409a89c65b3e28107bd7103d925841258c31278e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "02168c30ae893ab1fe1ab9731ec660edd0c8665b18f55c636935e1b4ae9aa513",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 92.857
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 28,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "的",
+            "ref": "和",
+            "context": "在北洋军阀反动统治的艰难环境中以李大钊为代表"
+          },
+          {
+            "old": "思想",
+            "ref": "",
+            "context": "一场研究传播马克思主义的思想运动这场运动一开始就"
+          },
+          {
+            "old": "",
+            "ref": "从",
+            "context": "思主义的思想运动这场运动一开始就"
+          },
+          {
+            "old": "",
+            "ref": "人",
+            "context": "思想运动这场运动一开始就"
+          }
+        ],
+        "text_sha256": "13aa54b1cd877e4b4eb9038c124e3372774c158615588ece45976ac03ef308c4",
+        "reference_scores": {
+          "pdf": 93.103,
+          "xdf": 94.828,
+          "csg": 93.103
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "的",
+            "ref": "",
+            "context": "注意从中国的实际出发学习运用马克思主"
+          },
+          {
+            "old": "",
+            "ref": "B",
+            "context": "发学习运用马克思主义理论"
+          }
+        ],
+        "text_sha256": "90244f1ed93e26df7f839bc04a35d8ecc0f849cd539b08bc74b49f25bf1d040d",
+        "reference_scores": {
+          "pdf": 95.238,
+          "xdf": 95.238,
+          "csg": 95.238
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "aa2f5a1fe598c952e27bc6b29e3ffe07889f38c0cf2511d7c7d71fcfbef077b7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "与",
+            "ref": "同",
+            "context": "提出知识分子应当与劳动群众相结合的思想"
+          }
+        ],
+        "text_sha256": "837e598981d704b98115b0cccf8c7fb9c5ce275e1c34abc9c7da328f0b73cc0f",
+        "reference_scores": {
+          "pdf": 84.211,
+          "xdf": 94.737,
+          "csg": 84.211
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "ccfe421f2433ab72d6309ff573b868ec7e0252e05bc374650c01e4d45d94eebd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 29,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "援助",
+            "ref": "勘探",
+            "context": "朝鲜战争爆发美国宣布武装援助南朝鲜同时命令其海军第七"
+          },
+          {
+            "old": "",
+            "ref": "开",
+            "context": "鲜同时命令其海军第七舰队入台湾海峡阻止对台湾的任"
+          },
+          {
+            "old": "",
+            "ref": "7",
+            "context": "中国政府在美国把战火烧到鸭绿江边的时候毅然做出抗"
+          },
+          {
+            "old": "策",
+            "ref": "定",
+            "context": "时候毅然做出抗美援朝的决策中朝两国人民及其军队经过"
+          },
+          {
+            "old": "在",
+            "ref": "",
+            "context": "停战协定上签字克拉克后来在回忆录中沮丧地写道我是美"
+          },
+          {
+            "old": "道",
+            "ref": "到",
+            "context": "克后来在回忆录中沮丧地写道我是美国历史上第一个在没"
+          },
+          {
+            "old": "利",
+            "ref": "",
+            "context": "的司令官抗美援朝战争的胜利"
+          }
+        ],
+        "text_sha256": "f7c209e0d9a431a7031374574d4ec4b4a87ac49715c8bf367f9a42bc9a055b43",
+        "reference_scores": {
+          "pdf": 96.791,
+          "xdf": 89.305,
+          "csg": 96.791
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "了",
+            "ref": "",
+            "context": "了美国侵略扩张的势头结束了美国在东方的霸权"
+          },
+          {
+            "old": "",
+            "ref": "B",
+            "context": "头结束了美国在东方的霸权"
+          }
+        ],
+        "text_sha256": "8c65d5ae0312fadaa45d898959b152ee43f2333bad6bf50e13af96dbae0909d1",
+        "reference_scores": {
+          "pdf": 95.652,
+          "xdf": 95.652,
+          "csg": 95.652
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "511e19df856dd33e27871eab977fb0b76b8a580225c63097cf2acccf90ffb894",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 96.296
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "ef2d5ecdd722912feb78dfec409c52aa15c8db6ca17ca782f5f8cee816fba775",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "民族",
+            "ref": "的",
+            "context": "战胜的神话增强了中国人民民族信心和自豪感"
+          },
+          {
+            "old": "",
+            "ref": "3",
+            "context": "中国人民民族信心和自豪感"
+          }
+        ],
+        "text_sha256": "2eebb8aa410ab1ae07380db7b641f12a178cd6f69b5d3759b023496d0bdaec0c",
+        "reference_scores": {
+          "pdf": 93.103,
+          "xdf": 93.103,
+          "csg": 93.103
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 30,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "062b1526c9fa3193e9751b7addeca580700e80b85f30439db227bece88f0c0ef",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 99.038
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "629b878930c4cda7ebd689a5d642ee65498edb745b3f1ace675e2e5348f1ee64",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "caa495c4d2f04a81bf55f007134ca45edd217ef29dfff59e6ec0fd3f9e0ccb63",
+        "reference_scores": {
+          "pdf": 92.857,
+          "xdf": 100,
+          "csg": 92.857
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "3243cdec7589a0fcc67e8f840d106d0b7d43c41fd75ab74891f343dc74718632",
+        "reference_scores": {
+          "pdf": 75.0,
+          "xdf": 100,
+          "csg": 75.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "6de5e31d5e9b6581ce0b4ce43c372024adf5572ca11b4d6f1b2aeb27fbf06de5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2020,
+    "q": 31,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "是",
+            "context": "都是直播间这支麦克风并不可以随心所欲使用应以法律"
+          },
+          {
+            "old": "",
+            "ref": "的",
+            "context": "克风并不可以随心所欲使用应以法律的相关规定为界限"
+          },
+          {
+            "old": "权利",
+            "ref": "",
+            "context": "相关规定为界限对行使法律权利界限的正确理解是"
+          }
+        ],
+        "text_sha256": "acef0fda0b7ecd3cb38c0cd0a617e127ffb4d6c8a44fd9a8cf9e04784e7fc1b5",
+        "reference_scores": {
+          "pdf": 93.902,
+          "xdf": 97.561,
+          "csg": 93.902
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "108a59d550a8f39a033917b688588f908d986b52c9f9ff9f03684f41850c5d62",
+        "reference_scores": {
+          "pdf": 91.667,
+          "xdf": 100,
+          "csg": 91.667
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "a0cab8ce56e8a53faedbdd94303599407c26ef48226f6932c3af99ba040add41",
+        "reference_scores": {
+          "pdf": 91.667,
+          "xdf": 100,
+          "csg": 91.667
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "e96d109807d5f3b0d38e9fd66e8584aa80644da60198a4e9b9ac1a16802c53e8",
+        "reference_scores": {
+          "pdf": 84.615,
+          "xdf": 100,
+          "csg": 92.308
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "7de5245ff632318243c83bebc90c3ec6a477450c0e5af6b0c8620f46b75699a2",
+        "reference_scores": {
+          "pdf": 92.857,
+          "xdf": 100,
+          "csg": 92.857
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 32,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "2",
+            "context": "2019年1月3日10时"
+          },
+          {
+            "old": "在",
+            "ref": "",
+            "context": "分嫦娥四号探测器成功着陆在月球背面预选着陆区并通过"
+          }
+        ],
+        "text_sha256": "1099511563c5501c4ebc463829b8092a4cedaf0b6a6aa9afde43ab130eb20818",
+        "reference_scores": {
+          "pdf": 98.571,
+          "xdf": 97.143,
+          "csg": 98.571
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "087fcc3699aca55933fc598e062fe8a186644bd1ce0b2a6e1d797194deafa2fa",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "7cb89b096696b6e900081d7b021a232494650166b183550ccde3cce15c9ffca4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "84f2605b308c3620ab1aa1236960293b64578935adb2ddf0eb25656c359eeaea",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "88f2511c6c5dbcacce90a8f43437bf3f2d2b53dfb358ba87b03bc4def3027f51",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 33,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "的",
+            "ref": "",
+            "context": "70周年应俄罗斯总统普京的邀请6月5日至7日习近平"
+          },
+          {
+            "old": "国",
+            "ref": "军",
+            "context": "日习近平主席对俄罗斯进行国事访问并出席第二十三届圣"
+          },
+          {
+            "old": "",
+            "ref": "纪念",
+            "context": "济论坛在中俄建交70周年大会讲话中习近平对新时代"
+          },
+          {
+            "old": "",
+            "ref": "的",
+            "context": "大会讲话中习近平对新时代中俄关系提出的主张是"
+          },
+          {
+            "old": "张是",
+            "ref": "",
+            "context": "对新时代中俄关系提出的主张是"
+          }
+        ],
+        "text_sha256": "4c02b755165d71d064e4bc3aa8bcc31381f15ac9445ce50ab79f117f64d69851",
+        "reference_scores": {
+          "pdf": 94.792,
+          "xdf": 95.833,
+          "csg": 89.583
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "要",
+            "ref": "",
+            "context": "要始终以互信为基石筑牢彼此"
+          },
+          {
+            "old": "筑牢",
+            "ref": "巩固",
+            "context": "要始终以互信为基石筑牢彼此战略依托"
+          },
+          {
+            "old": "",
+            "ref": "B",
+            "context": "信为基石筑牢彼此战略依托"
+          }
+        ],
+        "text_sha256": "7be52be13433da55f50704ea18eb9d86fd5905332d61b7506ead4c161b19adcf",
+        "reference_scores": {
+          "pdf": 82.353,
+          "xdf": 82.353,
+          "csg": 82.353
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "要",
+            "ref": "B",
+            "context": "要着力深化利益交融拉紧共同"
+          }
+        ],
+        "text_sha256": "d83a81cb962d5d7f35d0e8b28f6a1d29c64de3b479330b61cc46868e63e0617e",
+        "reference_scores": {
+          "pdf": 94.118,
+          "xdf": 94.118,
+          "csg": 94.118
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "要大力",
+            "ref": "纽带C",
+            "context": "要大力促进民心相通夯实世代友好"
+          }
+        ],
+        "text_sha256": "0db6814fb2b9791eb8c8a2c038362b3ba1fdb5b03a299d5f3aba5f35af194b6d",
+        "reference_scores": {
+          "pdf": 85.0,
+          "xdf": 80.0,
+          "csg": 85.0
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "d394ff392da819802548d7673bb94503d1bacb6f78e45f6eacc280106b496357",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 34,
+    "fields": [
+      {
+        "field": "material-1",
+        "exact": true,
+        "text_sha256": "d32625455f4682b258b8ca07bec7583bdc861fb69d75d986ab9490b382f27034",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.93,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "螨",
+            "ref": "蟎",
+            "context": "一种叶螨的天生死对头捕食螨巧妙地化解了这个难题生物"
+          },
+          {
+            "old": "",
+            "ref": "亿至",
+            "context": "防治技术的农作物面积达45亿亩十三五期间还力争将"
+          },
+          {
+            "old": "",
+            "ref": "次",
+            "context": "术的农作物面积达45亿亩十三五期间还力争将有害生"
+          },
+          {
+            "old": "新之举",
+            "ref": "",
+            "context": "农业病虫害治理的又一项创新之举"
+          }
+        ],
+        "text_sha256": "80d618c5ad74eb7a7232f45afa9ee43731b17f88d6570f349915b20587f3008d",
+        "reference_scores": {
+          "pdf": 99.156,
+          "xdf": 98.523,
+          "csg": 98.945
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "ef6880b28bdbd8e0811a2e7462872f992355ed3af55056fc785264714044669a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.875,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "45d049bbeb59157f5d87276a41c60c8482baa921c59120cc54c15639be1c14cd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "1",
+            "ref": "",
+            "context": "1分析自然界中一物降一物平"
+          },
+          {
+            "old": "",
+            "ref": "的",
+            "context": "1分析自然界中一物降一物平衡法则所体现"
+          }
+        ],
+        "text_sha256": "ba41508957ddd8534eceeb8a53f68a6542086a087adac2a775dada5f3f9eb007",
+        "reference_scores": {
+          "pdf": 93.103,
+          "xdf": 89.655,
+          "csg": 96.552
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "da31735777e7136ab57ec36e18dcd4b40b09afddd55e48b5288b3f4db0fa74e3",
+        "reference_scores": {
+          "pdf": 95.833,
+          "xdf": 91.667,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 35,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "建",
+            "ref": "",
+            "context": "建设社会主义现代化国家实现"
+          },
+          {
+            "old": "",
+            "ref": "再",
+            "context": "平同志在南方谈话中说恐怕有再二十年的时间我们才会"
+          },
+          {
+            "old": "再二",
+            "ref": "三",
+            "context": "同志在南方谈话中说恐怕有再二十年的时间我们才会在各方"
+          },
+          {
+            "old": "",
+            "ref": "周",
+            "context": "党的十四大提出到建党一百年的时候我们将在各方面形"
+          }
+        ],
+        "text_sha256": "c5668c6c63a7993b942d2cc06b33ef70129b198b1d3bf510b99d530a4a28eb08",
+        "reference_scores": {
+          "pdf": 98.947,
+          "xdf": 94.035,
+          "csg": 98.596
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "a675342c2303c34c9496dfdd50080b9184c829e7d5c6e625d693f9f9cb46b664",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "68dcafd42546352c60d7003759e7e7264255b09e280e7c3f688688f7381fb039",
+        "reference_scores": {
+          "pdf": 99.342,
+          "xdf": 99.342,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "d97be5f3a463e87f63a6512a5d8fb4e74f144a24c5c4360c94025b1670ade10d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": true,
+        "text_sha256": "461cf0cf5b111a789e8d556587663a9cf6f5fd441e62ef1dd02c4522393945c1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "2e6e6b753121deb37b83b4caee3a18e462629fa0bc732e0987fe3775b4d33308",
+        "reference_scores": {
+          "pdf": 98.148,
+          "xdf": 99.074,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "体系",
+            "ref": "水平",
+            "context": "更加完善基本实现国家治理体系和治理能力现代化使中国特"
+          }
+        ],
+        "text_sha256": "6bd350769baf734887c50963818f4a5c09a6fa0ae3f898d50bc210a0b8c21f0e",
+        "reference_scores": {
+          "pdf": 98.387,
+          "xdf": 86.29,
+          "csg": 98.387
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "3ec01165207da82c3e79b1b19795dc4869e46e9bf86ba03f7f92d09cdb7f07e9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "摘自",
+            "ref": "关于",
+            "context": "摘自中共中央关于坚持和完善中"
+          }
+        ],
+        "text_sha256": "4086743442acfe1b64c9706c8f7697bda65d2d5d725b2da856f3f2533f649300",
+        "reference_scores": {
+          "pdf": 95.833,
+          "xdf": 95.833,
+          "csg": 95.833
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "6",
+            "ref": "5",
+            "context": "探索中形成的科学制度体系6分"
+          }
+        ],
+        "text_sha256": "9569ea66cf00f5b7f69d560b01fbfca1814fe14187dcfd51e06b52a4660cf538",
+        "reference_scores": {
+          "pdf": 94.872,
+          "xdf": 92.308,
+          "csg": 97.436
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "我国",
+            "ref": "五个",
+            "context": "国特色社会主义制度与推进我国国家治理体系与治理能力现"
+          },
+          {
+            "old": "与",
+            "ref": "和",
+            "context": "度与推进我国国家治理体系与治理能力现代化之间的关系"
+          },
+          {
+            "old": "4",
+            "ref": "5",
+            "context": "治理能力现代化之间的关系4分"
+          }
+        ],
+        "text_sha256": "03fff85f2ee56fc520a0e8158d687042acc5cd0ab25571abb6eb0a2c13dc4f76",
+        "reference_scores": {
+          "pdf": 88.636,
+          "xdf": 86.364,
+          "csg": 90.909
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 36,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "4930033fb73448678908f36475eb0d6b510df7779362dbfea1922986c21cae2b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.301,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "参",
+            "ref": "",
+            "context": "参观结束时习近平发表了重要"
+          },
+          {
+            "old": "",
+            "ref": "的",
+            "context": "市的重要标志在中国共产党历史中华人民共和国历史上"
+          },
+          {
+            "old": "",
+            "ref": "上",
+            "context": "重要标志在中国共产党历史中华人民共和国历史上具有"
+          },
+          {
+            "old": "",
+            "ref": "的",
+            "context": "共产党历史中华人民共和国历史上具有非常重要的地位"
+          },
+          {
+            "old": "远航",
+            "ref": "",
+            "context": "这艘巨轮继续破浪前进扬帆远航"
+          }
+        ],
+        "text_sha256": "e48dc58f304f08f94b910f15ed4b98319ff11fe2d032e7929c5d0cc2200c9dcd",
+        "reference_scores": {
+          "pdf": 98.973,
+          "xdf": 97.603,
+          "csg": 98.973
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "359b058250e154542447677c8f97234be949ea21344a7c8850d4a16e42e16564",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "fdc25280e2976ed26357f89043d0fff87d7bff6cef2a2061856d6780d116c030",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.364,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": true,
+        "text_sha256": "298fd1d8a36eee2e8460187a801700f2fa52cd15af168581ab3cc0d3bd62d603",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "242babd82dfbaac2005213bbd7cd9cb206ee9abe9874f2857856113b69a9f086",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.849,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "要",
+            "ref": "需",
+            "context": "美好全党全军全国各族人民要更加紧密地团结起来不忘初"
+          }
+        ],
+        "text_sha256": "a7bd309c1def404456acf1989a0971ba586fa0b12afba04cff35e9117d58fbc9",
+        "reference_scores": {
+          "pdf": 99.16,
+          "xdf": 99.16,
+          "csg": 99.16
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "31534160b12b15a90e288d75a398baf8744979ecbe9c375a6d0916b46f8e371a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "2日",
+            "context": "1如何理解中共中央在香山"
+          },
+          {
+            "old": "5分",
+            "ref": "",
+            "context": "历史上具有非常重要的地位5分"
+          }
+        ],
+        "text_sha256": "aced22dc5d1450ed8356a87dcfd419513ff8c5cc07ca28ec24c1f3b99d0dace4",
+        "reference_scores": {
+          "pdf": 96.0,
+          "xdf": 96.0,
+          "csg": 96.0
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "受",
+            "ref": "任",
+            "context": "后100多年中国积贫积弱受人欺凌的悲惨命运5分"
+          }
+        ],
+        "text_sha256": "d943e66bf8a8dd002aecfad376e4322fec1b08ca5be1a6f77cfb78d80564da42",
+        "reference_scores": {
+          "pdf": 91.304,
+          "xdf": 89.13,
+          "csg": 97.826
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 37,
+    "fields": [
+      {
+        "field": "material-1",
+        "exact": true,
+        "text_sha256": "9ee28036770cb886132a1e9c723490b66db7f029753833f30a96218cea4f68cc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-2",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "士",
+            "ref": "上",
+            "context": "张富清是原西北野战军战士在解放战争的枪林弹雨中九"
+          }
+        ],
+        "text_sha256": "d5881025d88d2ed8623514e3302c5f785d598c14d4c341736bd5d187c715d82f",
+        "reference_scores": {
+          "pdf": 99.167,
+          "xdf": 98.333,
+          "csg": 98.333
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "c210cde63c494fd447517b20d49961416ddf91f7cc09b1dc872f94f975e86369",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "b72454b9d96eea487eda6bd0c46ba0a69c96c15ca2f2ce4307b1ed57e7be499e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "饴",
+            "ref": "色",
+            "context": "位上如此低调奉献却甘之如饴他在回答记者提问时说和我"
+          }
+        ],
+        "text_sha256": "b6939607ffb62b94d67b1dfce0e4910472c212db9b827dbe6acae9a4dcf21044",
+        "reference_scores": {
+          "pdf": 98.473,
+          "xdf": 99.237,
+          "csg": 99.237
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "471eb0bde4f11041540d48842b935e49046d92938e548b1e20457abd853c3d08",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "著",
+            "ref": "着",
+            "context": "们不懈奋斗的精神和忠诚执著朴实的鲜明品格是亿万中华"
+          }
+        ],
+        "text_sha256": "6dccf7a03bf8e33f7e4d559b60624589350686d2dbb33abdc046bb63bbc576e0",
+        "reference_scores": {
+          "pdf": 98.684,
+          "xdf": 93.421,
+          "csg": 98.684
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "3398b597342ea9a83a49938cc3730156b500ea386e337f3bc4094109ea10a079",
+        "reference_scores": {
+          "pdf": 96.154,
+          "xdf": 96.154,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "光明",
+            "ref": "民",
+            "context": "光明日报2019年8月1日"
+          },
+          {
+            "old": "8",
+            "ref": "9",
+            "context": "光明日报2019年8月1日"
+          },
+          {
+            "old": "",
+            "ref": "3",
+            "context": "光明日报2019年8月1日"
+          }
+        ],
+        "text_sha256": "acfb3da9193498e5479c5520bf1991e701c86f1c70d032f1c04c6acd43c45e23",
+        "reference_scores": {
+          "pdf": 76.923,
+          "xdf": 76.923,
+          "csg": 76.923
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "30",
+            "context": "1结合张富清高尚的人生追"
+          },
+          {
+            "old": "6分",
+            "ref": "",
+            "context": "生追求说明理想信念的力量6分"
+          }
+        ],
+        "text_sha256": "9270a09c7322b0c33fb4853bca9f0ca9fc00c7ee63a215d9755f9d9e64bc43bb",
+        "reference_scores": {
+          "pdf": 83.333,
+          "xdf": 91.667,
+          "csg": 87.5
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "分",
+            "context": "2国家颁授国家勋章和国家"
+          },
+          {
+            "old": "授",
+            "ref": "发",
+            "context": "2国家颁授国家勋章和国家荣誉称号对"
+          },
+          {
+            "old": "主义",
+            "ref": "",
+            "context": "号对全社会弘扬和践行社会主义核心价值观有何重要意义4"
+          },
+          {
+            "old": "",
+            "ref": "3",
+            "context": "心价值观有何重要意义4分"
+          }
+        ],
+        "text_sha256": "ea8a2af7a8afdebacb0d4e0c474059274f0b27aaeeb8faf687148f58d8aaa2c7",
+        "reference_scores": {
+          "pdf": 88.095,
+          "xdf": 85.714,
+          "csg": 92.857
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2020,
+    "q": 38,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "7a6dbea6f3c6ec5031601421ad333dfa7428666a74f9f974fbc860e9dbda8de8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.351,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "b1eac7f3bf770c4aca8cdc47133c9ca13e973c805a77b6127fc6331c1bbebc92",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 99.138
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "通",
+            "context": "点提出了各国应该坚持开放融通拓展互利合作空间坚持"
+          },
+          {
+            "old": "通",
+            "ref": "",
+            "context": "提出了各国应该坚持开放融通拓展互利合作空间坚持创新"
+          }
+        ],
+        "text_sha256": "664012b7866bab6e1b169f0e9930ee9870788b84678b5a2716d8f90c4a62a65a",
+        "reference_scores": {
+          "pdf": 99.254,
+          "xdf": 85.821,
+          "csg": 97.015
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "40a8d3cb2a88bfeb1b39376e414b47b9430cd9857181db43abad63fd0723ecd9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "201",
+            "ref": "",
+            "context": "2019年11月5日到10日第"
+          },
+          {
+            "old": "到",
+            "ref": "至",
+            "context": "2019年11月5日到10日第二届中国国际进口"
+          },
+          {
+            "old": "与",
+            "ref": "参",
+            "context": "81个国家地区和国际组织与会3800多家企业参展注"
+          },
+          {
+            "old": "消费食",
+            "ref": "汽车科技化妆",
+            "context": "面积33万平方米涵盖装备消费食品健康服务等五大板块七个"
+          },
+          {
+            "old": "",
+            "ref": "医疗设备及医药保",
+            "context": "万平方米涵盖装备消费食品健康服务等五大板块七个展"
+          },
+          {
+            "old": "康服务",
+            "ref": "",
+            "context": "平方米涵盖装备消费食品健康服务等五大板块七个展区不少世"
+          },
+          {
+            "old": "",
+            "ref": "也",
+            "context": "队参展首发的新产品新技术超过首届值得一提的是美国"
+          },
+          {
+            "old": "",
+            "ref": "高",
+            "context": "一提的是美国企业参展数量达192家参展面积达47"
+          },
+          {
+            "old": "所有参展国之首",
+            "ref": "",
+            "context": "展面积达475万平方米为所有参展国之首"
+          }
+        ],
+        "text_sha256": "1e9dd3e615c5e45b939774b5631e0b5761968dfa147af83977bb53f6cfb1d818",
+        "reference_scores": {
+          "pdf": 88.587,
+          "xdf": 88.587,
+          "csg": 90.217
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "ad08265ea806b17d3368c724e0f9da4343c9e4eab334d52e47bee3bad45a5174",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 96.97
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": false,
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "进",
+            "context": "习近平明确表示站在新的历"
+          },
+          {
+            "old": "共建",
+            "ref": "",
+            "context": "续深化多双边合作继续推进共建一带一路"
+          },
+          {
+            "old": "",
+            "ref": "习",
+            "context": "合作继续推进共建一带一路"
+          }
+        ],
+        "text_sha256": "b72e01c581183ab05d0a2298bc6fc09bbdd2889771ec3e9523d97bc19f0eec05",
+        "reference_scores": {
+          "pdf": 95.946,
+          "xdf": 94.595,
+          "csg": 97.297
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "30867b22566745f40dc6e8e7048be35b73b9f4bb14d2630960919881e9a02477",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": true,
+        "text_sha256": "dda549ec2a4e465dcc6c049a0b6bcfa673e27faa7ca15ad9f17e53bb15f1e860",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "9b75106eae94ab77f96bb9a0d4d70f1397adafef68528a1133c1e0aa894d9c6d",
+        "reference_scores": {
+          "pdf": 90.909,
+          "xdf": 86.364,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": false,
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "2",
+            "ref": "",
+            "context": "2为什么说进博会交易的是商"
+          },
+          {
+            "old": "5分",
+            "ref": "卫",
+            "context": "和服务交流的是文化和理念5分"
+          }
+        ],
+        "text_sha256": "a4472a8d225cc7d079000951af2801962d2b8fb417919a43cdb60ee9a44c102c",
+        "reference_scores": {
+          "pdf": 83.636,
+          "xdf": 92.593,
+          "csg": 90.909
+        }
+      }
+    ],
+    "exact": false
+  }
+]

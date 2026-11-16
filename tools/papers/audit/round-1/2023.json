@@ -1,0 +1,2371 @@
+[
+  {
+    "year": 2023,
+    "q": 1,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "d3bffc8e2a117de5aae083827edbbc6156bd8be93f89b7442ca8e36aa802cb6f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.552,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "1789eaef23aab3efcc7ced015e6474e8266a19b6410b47a0c78ac970cd898d3a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "7bfb5429e97205d68dbf7db2db8566de5b8f0bd14019e44f32c424d0ab7e7147",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "54c160e73fc68bdf5baafc8aae079b05afb21dfd2dc904afdc0a885a1fda7968",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "350a58483d4e7f19b3088754388d58441ab20ef66e9f3b2c5f29dcc688a42606",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 2,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "246cc9d56c9543a6235cecb85592f441586253b71cce4816784865cb1a93d9f5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.107,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "d84af5d6399264400444739fc405c751bab6851f4e1038baf006b8f3e95c3842",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "93846dd5940dc63fe0dd0dc5ae2f4c43709e6c67295633d081378d2901241d9c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "f528f5507a5b3c159116e93ba25e0de5b9b8f0015a74006b5538fae7797372b0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "1509501250e610a3d701ab690f011c8e53c54807d31f50a3b3cb97b4256d5016",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.75,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 3,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "59a938f1f18e5b9b73faa51a6ecb3b7f255ea35ab8489d1c1989931ed7d2829d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "a49827fc0be5a2dcfece8ceda3407d18fecf08328fcc9a7d40c0a6496cf2a5ba",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "db759474435dffe74b408479acd5a3a45309b959d2cc876c3ff280b822c310f4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "b7c216e12f7685c343ad47bc54523257784e7eb0f0ecc12684e26ce378cdaae1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "96ff661e4a83eaf79165339ea3f07b0b8e7845620dcec92d10335f54c2920dd6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.0,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 4,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "6fc3f824315ccaff8ad03c4a9c9533581daa16c14cb62b6645b08848b3297f83",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.286,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 5,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "df9e01b1868bf46db58cef9326d800f32f6ae7db457119720123fce113e0c5a3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.571,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "3ee58f37b09926fabcfd565239ce392ba558d51621766546e6a9118195308893",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "2f4b79569d8f46c09146579fbe83390cfe31d090bc0dc47559c6f3fc8dd4ae7c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "fe7bdce41cc8c5ab2de02213706921f54c1c4bba235da93fe108742a4ece14e2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "24c6c9db144b69d8c8fcda2d1dcdcbaea19187a3b2ab1413e40ea161aaf5e74f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 6,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "e9793a90dc5a9be15b808ef51b74d6a61e9e6e9a00b4a77a8024073461f77734",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.379,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "b7838adfd9b42997b3b5a075762012b6357af478bcafb238520ed362d73803ad",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "afca9f77b45c1ea05e2c14fb77b37a88a8ed2aa0e0291c6a7bf973ccc81050d2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "e37c3ab35f6b83fc08fd5f5454fbe7085194bfc24a87197a38998e0d6d77d7e1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.667,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "9a5a3024f19896d8286e161d1b07637578f29deb568e3b8688ff3ac504285160",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 7,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "3411e64cf937a24f565e839aafa8080bd8dec7fe772e27df387cf0c8f4976a8c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.992,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "bc112e27186fc0aa2e8d66057354c6e071cd67b0b6da75f0d85eb4007b8c53f3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "69d07e83e8bd97038a0d7823d0834323d7b4ae5be214811880b21f864426973d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "e5fe232f06236962ff148bfab8ef4d871b3a512bf12739da9aaefe515a838d2c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4022582762fe777e115183b52287630b2c45f9c979e11812d06fc90b89e0a60b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 8,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "cad06b957f12f9812366e6f5bb4dd742763d86a3e24efdb419e53c5932a970e6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.726,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "15a07f56fcc3b5b7692f32f6d024f32d04b99151936a422c663341dd8e69a3b4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 9,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "b49d10a7a34f73512a95804be19890a71b57385a2c2afca18a8d57b19fa44b14",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.727,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "fe070fefb345f9e1f9c98e7c4834ff6cc65838d4450a9efa84f4a4a4541e4097",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "f5af097aef690be78c7b615c760f5a2e7e883c6e089eb9531e5e98643b4916ca",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "197e55774588f068db5f957071b4ae0dfb29633b7e714836034598467b019e33",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "6d6e845e40fb2fd9af937ffdb8a3095ad4166ef264d98b7ce2536b2647a1332b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 10,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "3a20bc0c375f4fdf0f113239fbb1643b037668e4a2debfd754ea4f86494816a7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 81.818,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "05857ce4033f4e6d8146e40db59c163469f4eb5efca61bd364216a7fe1c8b9e1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "37856b0fef51f95063a06b6b1d2ada2a556c240e82b391cc2e854c7b6fa11bc7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.238,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "b3ec93008bcb13599959cbf49118f7575ec8a4f6a41cf0f9a507eac95e549949",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 70.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "6300bd247d00d2198408cc4b24f298fa3c01e4a0dee96d5b40945e18b54bad88",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 66.667,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 11,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "5c67c953c5d61534df6793c55e34b27f5703873ef2d67e4241a0621a5652773f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.256,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9fcff060e65ed6199cb548f82bf48937769156ad14f29ae063472f8444b2b002",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "e0d1fdb246fedf27666872857a387174075ca734324f28849a0fcee78603bf33",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "12ed02a901b45af261cfa84518d5dcd801c75f5ca26629c54acba3236ba90ca5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "ced34f6f5337a6329f2cfdbb1ff9fba5c60dcf8f1b88d527b2f9dae883bc4798",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 12,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "0f3329b2e4df8b56fe25374f3413a52c52094c5a260d87799c1b9d6f9da5c5df",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.925,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "c80fde4e64ff8062de62e31382d45d898fcfb56cf5f1924e21a7aa270b567f20",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "afdc74da548aa2e03876dfddb3fa46fa1a5d6d5b599226c31af2c39ead5dcd4a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "0da230063a34018403730749d626feef9c5a457de8d6f54f3eebf7bf2a05aaed",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "b40217ace89022643aa89488a9147b4ad2a97dbc20e78089cd31aad865692ffc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 13,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "94d9094fee3bdab1362701e8bd53b133db56a3b28d6a56df7c13987a365934c2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.122,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "6de5e31d5e9b6581ce0b4ce43c372024adf5572ca11b4d6f1b2aeb27fbf06de5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "2d3c078fe689917e5b2cbfa1279d4bbd14524b26f1b64ed071e1f219aba9a6b6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "d83d50833fe1c23abca236092d23e4cf1f4e724749727f372aa2aede9ed3f6eb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "41f62aaa398ef72e5b250e081d01f001586e2ff10ff3d07325602d4cf25a3c88",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 89.474,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 14,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "9d4d4a8c5eda20214991c4fb1ec6f787c42e37942438664e7f675912ce44eb1f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.804,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 15,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "6e20b67a211bf4890dc1e1a268106b9502b325f1887b67236e15653d2548f68a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.034,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "2d04c857caaba9031284c2b10bddf3f575c223d87d33814f70c7998e79607244",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "986ed973851e727799a1f620c2836ccc152d76498d9c4c7061a22bb961e31ddb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "c30059dec1a52fa6bbc32717f82795c68615c58a504beef37d7f475f42bc7dae",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 16,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "一",
+            "context": "1月11日第二十五次中国东盟101领导人会议在柬"
+          },
+          {
+            "old": "是",
+            "ref": "",
+            "context": "的又一份重要文件这份文件是"
+          }
+        ],
+        "text_sha256": "34acad033c15a38704c7dd80257fe25f3c5a1ccdf147641fc3b5ac4b225321bc",
+        "reference_scores": {
+          "pdf": 98.529,
+          "xdf": 94.118,
+          "csg": 98.529
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "4c6dc243a25a66e9c69fc549f56d241f4725f9f4884abbc9ef5ac728d0efa018",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "5583c0aaed7a9a3682a6879f4af83c91983ec73ef75561b472a9c388c4597dc4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "8956bcae2f38129f999f910e090e2ae4b33bd09520c70edbb60f783fd4e16a5d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "890cb7a6afc44486177ea83026f659b1c68a86790b05e9a63819a2c79aac3db6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2023,
+    "q": 17,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "517cf77bc9530c4d2fbd6a027b35788e395516058df8f6b588e2aae85a7be5d3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.449,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "9c4de0f0c2e4bf2eab58d82db110d577979072bbb88dad6bb9e4f948f57825ba",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "21c17e23e62e9ff52adcde73d5a6cc812078e4ead59b4d581efd0341dc371217",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "bc262681377e8768e1a9bf9604559760913a981c3339e852e47d33ed76ee2d21",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.889,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "f0495d79840b1bb9965206295540cebb9eff8b0caf9e69c7ed4baaf6905462dc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 18,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "39fed9a597d10571bab9d05e2670a1f447b1a1fe77ec1220f5081204d941b891",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.97,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "dff3bce7b56c5a1bd8ffd4bac3bb8e5a55dbd68405b6dba39ef1174b0c2aa2a5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "f8396489083b1caddc5fe8d5e31d4db03ec6489085570e32aeb6e8a715f1fb77",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "53c383f2b61040f36cb752f867986c09801e5408afe8c974ac9776f2441cc5c5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "dc8cdceab6a020e25d4b7d05fac59d146a99998dca27f8ccf4fd01a68d654305",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 19,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "93c45811ac0ffcaf1e7fef2433f5ca30c7104286dc217e6a51321b6cbc32377f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 75.362,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 20,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "7460263b9fac657d7d2e25738c85055712b0ab1fa281d986aa31119478af0fdc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.97,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "e679852c518f6e753da1ce995c77938b1bd543d1c17120d531f63ac55657ffc9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "01a77d88350df74f83c69091924870dcdbe5f73f49021e0fa458ad514402c168",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 21,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "6316808e6359d6ef579604b947bbfd4578e2dfa1720a93b49ef0f01fdad2069e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 86.239,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "a08975791164df1107a0453327f7fd9f0f06560aebf76012e4d505ee9804c672",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "a53b66c11a0cfe654922c3855584414d14cd5f52b4cd275a59c0d83e3623066a",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 22,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c62a8d44c5a3d1e64eec6010a6b8381a43a4e9dc92c6668f06f94192fac78d77",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.667,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "c8addc2be5c249831e493938a5bf38be3a76ee8e97b1e6b8c1fbbc946f016c9c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.154,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "72d67428e65359a448bf1088406f0e35c93ac6990bfbb32dfdd86c25644b188c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.304,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "169ee3505003f4fb13210056e85aae86959f905bbec7d498f7ed6808a66185ce",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.889,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "710d8138287749d0df2fc7d31dee3445eb128c3663c952a2b5d874aa1e21713c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 23,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "826b5c7b16b4572acceaa8f1fcc7d632d6289c21d7882674a41345afdd7068ad",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "ba26a0032757e63720c5e1cfd0375d185efcc25d1871ce80992915060d9aa7b4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 91.429,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "48e3ee7c308432b22f9f85fde2fb622ea26a3854e1303604d5f6f8a34f43aae5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.667,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "6e65364732bb5e85ac712307435a86249c870cde214d3edc01b1ace9ddee5876",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.154,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "3a35e2e8bcaa1f6ea72bf6ec6283b8c910e59a990e1058b23bb0ad773f64d149",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 79.412,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 24,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "ae9b4a38f1772509612aa334c997d9377f57766bc68205caef0564fa85dfe00d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 83.516,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "3c2b6c3d67fa9c6983f75d514441ae1dfb31aa43b3d0bcda353dabd749503a7d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "c91e0df35fa25287d59a9c14c0666dd9e4627a4db13174b89f34277c2ede4168",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "52420b12ba611d461a580f19eef8212d84461414941f57f68b7637b9deeb11e6",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 75.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "7a1e0cd8e7cb862b82c93f1d7d8ca974ab6aa41d2e2ce55ddc24ea4b93b7f0cc",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 25,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "c968ace5652a49b6dd03c6f3f35c62dba0620591ec37cc6c6f7fe4f59936fe63",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.816,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "ebb2dc41dfcb31169fb56b7bcd7fa11a3ab98f08f96addaef0d1f78a2ccd1c37",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "b3894ddf33aef4bd5f7ac1d09967822d3561678569e9178c366d705bc4565409",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "08abee9d2b06ef7756e8669f798a369a069033ba9808cf5c9c0786088c4afe15",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "99e436c461ae7a9918fb2a94848124f0e55ba50974ee843d7affd56fcd6c587c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 26,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "626a00c75e984214162f0a2d62f01625776af6b163e02a916c951c485c8ce67d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.462,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "95c2494a9f7eb2621100385bb4b5c089974cadc86a12da085b83314854425fc0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "9e0d202fda379f9a2ce9c8f68fd3b9e48695e97adfa1e2f201a2bec2c6a55afe",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.737,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "1a398d3ec6b60d3bbf823f9a1babc3f8f06c1a07ee6f4ad18f813de5eea0b80d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "ade73bad1c3c83015b9d650b3144c13a5c50778c67129bbf58522870afcaba13",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 27,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "fb07d0fe853a440c555f76ac8cce7ade51a3cdc1a9267fcec0d5a57a0cb3f1bd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.525,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "afc3ea7933458251c9fb5f7b391ef119f7e741e952d408b7f9a76a2c3fb31c08",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "8936de54cdd16d9267693057f2b1f2d2cf3b42482b3b6c6ad85b5fa638ae2af1",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "337ad042eb7d7bc0cba574a01e7362d7b573dac3ff282ddb4fd7d99e41840542",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 84.211,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "9e914643d8c32e0980f62519f7dc2d2402b1229e3d331a7121b816ea1fc4f062",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 28,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "04b4ca5a377dd5d28c3393903799f4af6db65ecab0cc516637c992d75e63d07b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.276,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "1a737ab88ee004272769da4e93d42ac91e860394536969374ef2a44891a9f30f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "dcb08424ce22ff692eae4df2976e86806736494d789908c972ded837ac41d445",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "4247207ef7bb285c2d8fdb36fc0e5b0d18c5e8875591cab1e76cc9dd8ced5ccb",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "1f5231f018537926e9e8a1c9ead9b88834e3e2223cb38e0fed843fc8c9eb5418",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 29,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "78cd78c0bef0e5e7b99d2c1ee7242185c7f41891f69678cfa9f312424bce57bd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.575,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "760e834f2845f46327f99387f00e54a6566ba04b476b455965033c1c4522be95",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "0d3e7a7db2f0fcce79e992fcaafe374fbd8430dcd678a1445006e8a17c25bda7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "61e362538955a5154ffb33ac67c01bcdee4cf0320f057fe42c6daf4ed53ef1ff",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "f0c575ba618867e52cfe7effe9fb783266e5e5cf3387b90e82e6d40419872d34",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 30,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "4a87d71f708f656b063a6a6be7ddd2241bd68a7c2c4e4a46b0219b9e100a2b63",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.246,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "de631a1fd4e85e1ee71c8c9b2e525ca872cc669de61e77787e540e890b320ecd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.238,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "2a2ed5aad0d84c4aaf0fae03f5799da1268a2dd9fa4681e7530dd24ea3f3549e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 95.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "0b135f7bf94e23829f6b28e59ada7bcf2575f51449fab2320b31527776e10965",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 93.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "4ca3d9a66e07bb5747641ca717ec2ebb19159121c8b94fbb50d331b7bfc79d1d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 31,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "7dd438ff68441f0e6120f9bf1fecd1a0026633896a7a1181dbfcacd7c09ca627",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "75e9736c0f7871748ef87bc0bb3ff77cf0019b63cb90636673292d079f2e17d5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "b1a48da9dc52b78cb96171354583eea74526f203961e14fbede7b6ed6310d859",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "c5eaed1be63176613d26fd0ba77cde9ef05b871c721e17e9ea70f12f967bbc40",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "2b186c9e5a68f66d83b6b03341672bea2d70ca9bc44256ab28a906c18c9074c8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 32,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "67a1426a3eb2aca39c4fdaaf42a9255f6e0ccc2d5dc352081e27907ffcc5b5b5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.491,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "6394d08ec0b7edbc8c8409f660123d49939d2496865968d58f1f9364d5ed397f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.778,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "c935a8e99b9acbb3d4f8a3c231853ba6f77886ca82c3ca350fc67b65972abca7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "114a2bb7af4d3782ac455fea8815211b84122413eefa123f0ba648ed71af52bf",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "15f773519331ad06996d9595b4f795298d859d84491613aa4b3f1078636d3e8b",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 33,
+    "fields": [
+      {
+        "field": "stem",
+        "exact": true,
+        "text_sha256": "65841587ba8e5f206b1d2760cac61db09e338b651035923aba144e8decc26c52",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.183,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "exact": true,
+        "text_sha256": "91dda9d1dafd6fbb446f708efc08da32a8bad3037fd27a33f151e71a63f3bf85",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "exact": true,
+        "text_sha256": "a38dc8a92c02f464774c5a511f6c4c94eedb5bf4a011ef7c256246715fb8f752",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "exact": true,
+        "text_sha256": "a589a9e984b86b0fdf33127201ab47582c638bdfa4361696a21345ae834904e3",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "exact": true,
+        "text_sha256": "eee4aa0ef959e965895e98a8dfe3d160d284337ee7fd611d56b0ffaa43dd73e4",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2023,
+    "q": 34,
+    "fields": [
+      {
+        "field": "material-1",
+        "exact": true,
+        "text_sha256": "7105d15dcaccc3345f71ae5e3633a5a068f3c18ad67b4ce3a4b9a0f52d53f6a7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.099,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "9bcdc832e9f61cc8c75ad4c23479ea40ae560d917ceebdc7b2674f3227fb039e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "盐",
+            "ref": "",
+            "context": "盐碱土壤颗粒细无正常土壤的"
+          },
+          {
+            "old": "",
+            "ref": "一",
+            "context": "生长条件还会不断重复脱盐返盐的问题改良周期长为了"
+          }
+        ],
+        "text_sha256": "33728a00d2b99c62c8c992456bcff2b933f6e1ec1e2b973b4cfe9cc8a4938cab",
+        "reference_scores": {
+          "pdf": 99.783,
+          "xdf": 31.739,
+          "csg": 99.783
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "系",
+            "context": "摘编自人民日报2022年"
+          },
+          {
+            "old": "日",
+            "ref": "",
+            "context": "22年7月4日10月26日"
+          }
+        ],
+        "text_sha256": "59e498b2469c520f6a4932dc378de31956010da96b7089fb3203163fca8eb939",
+        "reference_scores": {
+          "pdf": 95.455,
+          "xdf": 72.727,
+          "csg": 95.455
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "0f9a97faa58f1817996668a96b82740007d73d538647083598fe0557a8cd5c37",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 92.857,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "60f68a5316c00d8962537ed54bb1a709aa5486c317a22a00eeda4c57672a3f0f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.737,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2023,
+    "q": 35,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "f536da0ec0e61e3e3b925e282781756008ac03f7ff04fdee7067cd1162f8771e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 48.855,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "十",
+            "ref": "",
+            "context": "十年来我们全面建成小康社会"
+          },
+          {
+            "old": "",
+            "ref": "o",
+            "context": "116个百分点达到647制造业规模外汇储备稳居世"
+          }
+        ],
+        "text_sha256": "a37edea7fb4407304544a3c271c34c59e420db213f54802863617af094375b73",
+        "reference_scores": {
+          "pdf": 99.836,
+          "xdf": 15.876,
+          "csg": 99.836
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "5c1a154f0c99d69f6b45dc6456ce7e840088597af8bf9ca68636dde070d1a062",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 83.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "bf5241965b37a95d0d59d90f25ca75928d7cdaaefffe39f1d414e4ccd0fd72ea",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": true,
+        "text_sha256": "6934784a1e7864ac62ede73370779dbbc31c7665739f5e53ef515dd4b318b82d",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 33.333,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "态",
+            "context": "全面建成社会主义现代化强"
+          },
+          {
+            "old": "〇",
+            "ref": "",
+            "context": "的战略安排是分两步走从二〇二〇年到二〇三五年基本实"
+          },
+          {
+            "old": "〇",
+            "ref": "O",
+            "context": "略安排是分两步走从二〇二〇年到二〇三五年基本实现社"
+          },
+          {
+            "old": "〇",
+            "ref": "O",
+            "context": "分两步走从二〇二〇年到二〇三五年基本实现社会主义现"
+          },
+          {
+            "old": "〇",
+            "ref": "O",
+            "context": "本实现社会主义现代化从二〇三五年到本世纪中叶把我国"
+          }
+        ],
+        "text_sha256": "9a67cf1c8cf3d31c7f860f65cdee88b431f2ccff558253bbd50d9435b99c62c0",
+        "reference_scores": {
+          "pdf": 95.238,
+          "xdf": 28.571,
+          "csg": 95.238
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "409126f5bb07a385899e1d1fed7769f474a8c305bcb302702fb9457a3058a3c0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 56.25,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "6e6e9c5d3447b69f60451a4b9514bd38be677861599fbd7b22838fe52e7f9063",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 97.778,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "8505c1e5409fbd01302ca15fee67491eae735aee4c1a73b994b4be606ad345c7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.296,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2023,
+    "q": 36,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "087bd4303d1ceed2e4329a77b658a5cc274438c47193040aff9452b252148fee",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.324,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "d62270dfb7f3febba61dff8f4fd33613cc9db37130e94443794efa1c7eae2961",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": true,
+        "text_sha256": "511b4aebc94b02a83cb91a7e376f110463f0035980112b49ad200aa0c6b25909",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 77.027,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "b0dd39c73a926dbd51e92b2b848b40b2180b53782194d0e2ee644adebba36c89",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "e8e5a17da9dff0146002c69024729531576ed03192a802aa9feb933a1c07a591",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "aa46bc62c726a97cfbeaaad2053ad6e5eda1c178ddb5070d3677f3bfbef9a5dd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "7138c7edfcc5001a0944f2eff26c97572cbad8c37ca71b6da72c51d971bc7bb8",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "只",
+            "ref": "",
+            "context": "只要我们大家团结一致同心同"
+          },
+          {
+            "old": "",
+            "ref": "设",
+            "context": "变我国的落后面貌把我国建成现代化的社会主义强国而"
+          }
+        ],
+        "text_sha256": "83f7833c274a0755b60d73fd46305668652f3a789feb8f4f6fb5d6e94be60fa7",
+        "reference_scores": {
+          "pdf": 98.901,
+          "xdf": 97.802,
+          "csg": 98.901
+        }
+      },
+      {
+        "field": "material-11",
+        "exact": true,
+        "text_sha256": "dff243b563a1156d59d0300e49e48c16e9a0eada6e914e0c081546dddbc43504",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-13",
+        "exact": true,
+        "text_sha256": "0d91acbe6f4a21a9062b19d10327494d79be20c7c9f57d1bddf61e06423deb54",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 99.435,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-14",
+        "exact": true,
+        "text_sha256": "0f7d94a73e15bb68803afabb2e638fccbd0127e0e342cd2c1952b09f790f636d",
+        "reference_scores": {
+          "pdf": 98.246,
+          "xdf": 100,
+          "csg": 98.246
+        }
+      },
+      {
+        "field": "material-15",
+        "exact": true,
+        "text_sha256": "8a348e4ca1ab93f29a73f0d5627f105b0af3ef55479f42f1cdc28351544408a2",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-16",
+        "exact": true,
+        "text_sha256": "ce497c8a938888b6bc2baec5dba909e5e0a3e8cb0127d60e5dfee0f19f182a7f",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.148,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-17",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "摘",
+            "ref": "",
+            "context": "摘自习近平谈治国理政第四卷"
+          },
+          {
+            "old": "",
+            "ref": "一一",
+            "context": "主义现代化国家而团结奋斗在中国共产党第二十次全国"
+          },
+          {
+            "old": "告",
+            "ref": "",
+            "context": "二十次全国代表大会上的报告"
+          }
+        ],
+        "text_sha256": "46facfe9fa4695ad864144394ce8e50582f33b198822445d805650d60b66f290",
+        "reference_scores": {
+          "pdf": 97.101,
+          "xdf": 97.101,
+          "csg": 97.101
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "4b919b9a1581863e8a830c7b79d7ad9f5699a9b10c736c7df8ec48f989725c7e",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 88.235,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "d5b38754aa419155a3b044263fd0ae5d0c4f71056e822a14f107465d1cff87c0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2023,
+    "q": 37,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "ce029edc06b917d015602b0a3e6b6dcb5834b8d84cfb481951f19bdd2cc82951",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 94.969,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "神",
+            "context": "摘编自光明日报2020年"
+          },
+          {
+            "old": "日",
+            "ref": "",
+            "context": "民网2022年11月16日"
+          }
+        ],
+        "text_sha256": "9729eaabdb4fcea077869bb58b265d14e2a11b439726c1659244b9a22e43dc9e",
+        "reference_scores": {
+          "pdf": 96.774,
+          "xdf": 74.194,
+          "csg": 96.774
+        }
+      },
+      {
+        "field": "material-5",
+        "exact": true,
+        "text_sha256": "fbc0e2898cd2f533a60f16ef491835b6e31f02b3e5e5980dafa55dd1f6bff07c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 20.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "党",
+            "ref": "院",
+            "context": "业60多年来钱七虎坚守爱党爱国的赤子情怀战斗在大山"
+          }
+        ],
+        "text_sha256": "4f397581596c633be436532556facd3e91a03231d2a5a6f0b147a31a4b35e15a",
+        "reference_scores": {
+          "pdf": 99.441,
+          "xdf": 12.849,
+          "csg": 99.441
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": true,
+        "text_sha256": "f67ab561e40f30318ed0309f9a05a77cfc5e57f804a0377fac9641de5b37aae0",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 19.626,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "9927ea5ccc2eee3b104094bf84f70560ab731827b58489e5098113aeaaef5136",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 65.487,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "359da58e34a157ac26589428936e7df34c57fc80182d2c14e23d5bc580a5e9f9",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 70.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "b8c2b394451411a706b95b150c49628ba770c138a14f792c3218dcb7874d4bbd",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "d89585f173fe13ba2585e59f10db455ddeccc23b92e0c269e032895a06f93771",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 63.333,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2023,
+    "q": 38,
+    "fields": [
+      {
+        "field": "material-2",
+        "exact": true,
+        "text_sha256": "5892fb77dd81f1f573e084bc8ddd45941f254d2de6ccc2df46ee177fe611dfdc",
+        "reference_scores": {
+          "pdf": 99.51,
+          "xdf": 100,
+          "csg": 99.51
+        }
+      },
+      {
+        "field": "material-3",
+        "exact": true,
+        "text_sha256": "c1fcc3b8c0c3bb2ee911e16bfa1a8a7a046c63491de3f8a3d96d356602b387d7",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 98.795,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-4",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "日",
+            "ref": "H",
+            "context": "华网2022年11月16日"
+          }
+        ],
+        "text_sha256": "18b5dd01dd07211e59406e76c0dd358bd3750af643a12ff240e1b70ba69bb192",
+        "reference_scores": {
+          "pdf": 96.875,
+          "xdf": 96.875,
+          "csg": 96.875
+        }
+      },
+      {
+        "field": "material-6",
+        "exact": true,
+        "text_sha256": "d4972198bc0d1f64c4bea98098006e52264d5133c41216f1c68bc6d5b56c7275",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-7",
+        "exact": false,
+        "best_source": "pdf",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "展",
+            "context": "作为在全球范围内以发展促"
+          },
+          {
+            "old": "贸",
+            "ref": "",
+            "context": "沿线国家建设79家境外经贸合作区累计投资430亿美"
+          }
+        ],
+        "text_sha256": "78fcaaafc5dbd1af41243d3badca6b64d531c6aa0a714d227cb021a2c98fabda",
+        "reference_scores": {
+          "pdf": 99.383,
+          "xdf": 98.148,
+          "csg": 99.383
+        }
+      },
+      {
+        "field": "material-8",
+        "exact": true,
+        "text_sha256": "34d400fc83f44863c1d9ae69b9746398d68daf842f8ac3ad17d1e3fbbfb949ae",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-9",
+        "exact": true,
+        "text_sha256": "f72327c469d1b6a266c0885b789d878ed5fb18dabb8423bd4134aceee7d7353c",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 96.97,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-10",
+        "exact": true,
+        "text_sha256": "b79cf990f93f2d1a80d262726286bcf05495575eb0097e55c1db47ec784c7081",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "exact": true,
+        "text_sha256": "1d76a1cf6445abce9417314c6d8f957ef8cc00cf66e7d168bf0836d465db6de5",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "exact": true,
+        "text_sha256": "7ac6a09c1a0b2b3cdf4bc7c95a0335016af7df0251f40f321da13d58c8a4cb33",
+        "reference_scores": {
+          "pdf": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  }
+]

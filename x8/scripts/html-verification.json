@@ -1,5 +1,5 @@
 {
-  "template": "x8/scripts/reference-exam.css + x8/scripts/exam.js",
+  "template": "tools/papers/exam.css + tools/papers/exam.js",
   "font_families_unchanged": true,
   "ink": "#000",
   "body_weight": 500,

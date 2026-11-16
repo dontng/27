@@ -6,6 +6,7 @@ import argparse
 import concurrent.futures
 import csv
 import hashlib
+import importlib.util
 import json
 import os
 from pathlib import Path
@@ -46,13 +47,11 @@ def ocr_page(pdf, number, dpi, tessdata):
 
 
 def normalize(text):
-    text = text.replace('(', '（').replace(')', '）').replace('〈', '（')
-    text = text.replace(':', '：').replace(',', '，').replace(';', '；').replace('?', '？').replace('!', '！')
-    text = text.replace('"十五五', '“十五五').replace('《"一国', '《“一国')
-    text = text.replace('"', '”')
-    for old, new in {'福社': '福祉', '阑明': '阐明', '一一服务业': '——服务业', '不觉远一一': '不觉远——'}.items():
-        text = text.replace(old, new)
-    return text
+    # Use the existing question bank's established punctuation normalization.
+    spec = importlib.util.spec_from_file_location('questions_190_builder', ROOT / 'src/questions_190/tools/build.py')
+    builder = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(builder)
+    return builder.normalize(text)
 
 
 def build_markdown(pdf, work, dpi):

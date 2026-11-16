@@ -1,0 +1,27 @@
+{
+  "repository": "dontng/27",
+  "source_ref": "31b380d1397637337577bcc6c5b7982d88e937d4",
+  "parts": [
+    {
+      "path": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页001-060.pdf",
+      "sha256": "2263062d90eb5c38a7f84fa52a549aed96e8c8f7056791dbcd8099b124d8f486",
+      "url": "https://raw.githubusercontent.com/dontng/27/31b380d1397637337577bcc6c5b7982d88e937d4/references/xiaoxiurong/pdf/27%E8%82%96%E7%A7%80%E8%8D%A3-%E8%83%8C%E8%AF%B5%E6%89%8B%E5%86%8C%E3%80%90%E4%B8%8A%E5%86%8C%E3%80%91-PDF%E9%A1%B5001-060.pdf"
+    },
+    {
+      "path": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页061-120.pdf",
+      "sha256": "be0892f9db6080798fafb002795ce1f3fb699d9dea0d8620b2848c3cf6278391",
+      "url": "https://raw.githubusercontent.com/dontng/27/31b380d1397637337577bcc6c5b7982d88e937d4/references/xiaoxiurong/pdf/27%E8%82%96%E7%A7%80%E8%8D%A3-%E8%83%8C%E8%AF%B5%E6%89%8B%E5%86%8C%E3%80%90%E4%B8%8A%E5%86%8C%E3%80%91-PDF%E9%A1%B5061-120.pdf"
+    },
+    {
+      "path": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页121-180.pdf",
+      "sha256": "ecf4a9c70a35239d5541495994863d6cd4dd1ce654766e5fbf3c79d30a6d8c1e",
+      "url": "https://raw.githubusercontent.com/dontng/27/31b380d1397637337577bcc6c5b7982d88e937d4/references/xiaoxiurong/pdf/27%E8%82%96%E7%A7%80%E8%8D%A3-%E8%83%8C%E8%AF%B5%E6%89%8B%E5%86%8C%E3%80%90%E4%B8%8A%E5%86%8C%E3%80%91-PDF%E9%A1%B5121-180.pdf"
+    },
+    {
+      "path": "references/xiaoxiurong/pdf/27肖秀荣-背诵手册【上册】-PDF页181-238.pdf",
+      "sha256": "b0b8b4a704549bdf272ae463fe82c5929231dcae788fdde2808c55e22f1e2f8e",
+      "url": "https://raw.githubusercontent.com/dontng/27/31b380d1397637337577bcc6c5b7982d88e937d4/references/xiaoxiurong/pdf/27%E8%82%96%E7%A7%80%E8%8D%A3-%E8%83%8C%E8%AF%B5%E6%89%8B%E5%86%8C%E3%80%90%E4%B8%8A%E5%86%8C%E3%80%91-PDF%E9%A1%B5181-238.pdf"
+    }
+  ],
+  "notes": "仓库已有高质量压缩扫描件；复制页面时不再次压缩图片。原始上传副本结构不完整，不能直接用于可靠导出。"
+}

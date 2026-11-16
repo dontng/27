@@ -1,0 +1,4591 @@
+{
+  "round": 2,
+  "workflow": "逐年逐题补充核对少于8字的短选项、标题、出处及作答提示；相同输入独立执行两次",
+  "fields": [
+    {
+      "year": 2012,
+      "q": "q2",
+      "text": "肯定中包含否定",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q2",
+      "text": "量变引起质变",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q6",
+      "text": "占有形式",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q6",
+      "text": "分配形式",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q6",
+      "text": "所有权归属",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q12",
+      "text": "知识产权法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q12",
+      "text": "商法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q12",
+      "text": "公司法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q12",
+      "text": "民法商法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q13",
+      "text": "人为什么活着",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q13",
+      "text": "人如何对待生活",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q14",
+      "text": "爱国主义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q14",
+      "text": "集体主义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q14",
+      "text": "为人民服务",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q14",
+      "text": "社会主义荣辱观",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q21",
+      "text": "工人阶级",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q21",
+      "text": "农民阶级",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q21",
+      "text": "民族资产阶级",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q21",
+      "text": "城市小资产阶级",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q26",
+      "text": "《虎门条约》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q26",
+      "text": "《望厦条约》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q26",
+      "text": "《黄埔条约》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q26",
+      "text": "《天津条约》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q27",
+      "text": "翻译学堂",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q27",
+      "text": "工艺学堂",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q27",
+      "text": "军事学堂",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q27",
+      "text": "法政学堂",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q30",
+      "text": "公平正义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q30",
+      "text": "自由平等",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q30",
+      "text": "服务大局",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q30",
+      "text": "党的领导",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q36",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q38",
+      "text": "阅读下列材料",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q38",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2012,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2012,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2012,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2012,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2012,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2013,
+      "q": "q1",
+      "text": "运动的衡量尺度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q1",
+      "text": "运动的内在原因",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q1",
+      "text": "运动的普遍状态",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q1",
+      "text": "运动的存在方式",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q2",
+      "text": "主观联系",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q2",
+      "text": "必然联系",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q2",
+      "text": "因果联系",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q2",
+      "text": "本质联系",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q4",
+      "text": "50%",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q4",
+      "text": "75%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q4",
+      "text": "100%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q4",
+      "text": "125%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q6",
+      "text": "社会效益",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q6",
+      "text": "经济效益",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q6",
+      "text": "繁荣文化市场",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q6",
+      "text": "创新文化体制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q8",
+      "text": "国民收入",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q8",
+      "text": "财政收入",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q9",
+      "text": "要不要社会革命",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q11",
+      "text": "爱岗敬业",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q11",
+      "text": "诚实守信",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q11",
+      "text": "助人为乐",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q11",
+      "text": "勤俭持家",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q12",
+      "text": "国际主义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q12",
+      "text": "集体主义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q12",
+      "text": "改革创新",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q12",
+      "text": "开拓进取",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q13",
+      "text": "社会影响",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q13",
+      "text": "社会价值",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q13",
+      "text": "社会地位",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q13",
+      "text": "社会理想",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q14",
+      "text": "人民调解",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q14",
+      "text": "行政调解",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q14",
+      "text": "司法调解",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q14",
+      "text": "仲裁调解",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q20",
+      "text": "职工持股制度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q34",
+      "text": "摘编自《人民日报》",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q36",
+      "text": "、《方志敏文集》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q38",
+      "text": "阅读下列材料：",
+      "reference_matches": [
+        "pdf"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q38",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2013,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2013,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2013,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2013,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2013,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2014,
+      "q": "q3",
+      "text": "实物补偿",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q3",
+      "text": "价值补偿",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q3",
+      "text": "增殖补偿",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q3",
+      "text": "劳动补偿",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q5",
+      "text": "决定性作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q5",
+      "text": "基础性作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q5",
+      "text": "辅助性作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q5",
+      "text": "补充性作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q6",
+      "text": "按党派分配名额",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q6",
+      "text": "按单位分配名额",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q6",
+      "text": "实行差额选举",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q6",
+      "text": "实行等额选举",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q15",
+      "text": "为民务实清廉",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q19",
+      "text": "流通手段",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q19",
+      "text": "价值尺度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q19",
+      "text": "支付手段",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q19",
+      "text": "贮藏手段",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q28",
+      "text": "《波茨坦公告》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q28",
+      "text": "《开罗宣言》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q28",
+      "text": "《日本投降书》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q28",
+      "text": "《德黑兰宣言》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q30",
+      "text": "预测作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q30",
+      "text": "保障作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q30",
+      "text": "强制作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q30",
+      "text": "教育作用",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q34",
+      "text": "一、秸秆种蘑菇",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q34",
+      "text": "二、延长产业链",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q34",
+      "text": "三、“链接”到山林",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2014,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2014,
+      "q": "q35",
+      "text": "结合材料回答问题",
+      "boilerplate": true
+    },
+    {
+      "year": 2014,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2014,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2014,
+      "q": "q38",
+      "text": "阅读下列材料",
+      "boilerplate": true
+    },
+    {
+      "year": 2015,
+      "q": "q10",
+      "text": "没有推翻帝制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q15",
+      "text": "共同安全观",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q15",
+      "text": "亚洲安全观",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q15",
+      "text": "总体国家安全观",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q15",
+      "text": "地区集体安全观",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q21",
+      "text": "公众生活规制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q21",
+      "text": "公共事业规制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q21",
+      "text": "社会经济规制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q21",
+      "text": "反托拉斯法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q27",
+      "text": "台湾被日本侵占",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q31",
+      "text": "权力优先于权利",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q31",
+      "text": "权力决定权利",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q37",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q37",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2015,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2015,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2015,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2015,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2015,
+      "q": "q38",
+      "text": "阅读下列材料",
+      "boilerplate": true
+    },
+    {
+      "year": 2016,
+      "q": "q3",
+      "text": "20%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q3",
+      "text": "50%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q3",
+      "text": "200%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q3",
+      "text": "100%",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q5",
+      "text": "群众路线",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q5",
+      "text": "独立自主",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q5",
+      "text": "改革创新",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q5",
+      "text": "实事求是",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q9",
+      "text": "中日甲午战争",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q9",
+      "text": "中法战争",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q10",
+      "text": "宗教和思想文化",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q10",
+      "text": "教育和人才培养",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q10",
+      "text": "军事和科学技术",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q10",
+      "text": "民主和政治制度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q11",
+      "text": "台儿庄战役",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q11",
+      "text": "长城战役",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q11",
+      "text": "平津会战",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q11",
+      "text": "忻口会战",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q24",
+      "text": "产业扶持",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q24",
+      "text": "转移就业",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q24",
+      "text": "社保政策兜底",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q24",
+      "text": "易地搬迁",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q34",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q36",
+      "text": "材料3:",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q37",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q37",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2016,
+      "q": "q34",
+      "text": "结合材料回答问题",
+      "boilerplate": true
+    },
+    {
+      "year": 2016,
+      "q": "q35",
+      "text": "结合材料回答问题",
+      "boilerplate": true
+    },
+    {
+      "year": 2016,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2016,
+      "q": "q37",
+      "text": "结合材料回答问题",
+      "boilerplate": true
+    },
+    {
+      "year": 2016,
+      "q": "q38",
+      "text": "阅读下列材料",
+      "boilerplate": true
+    },
+    {
+      "year": 2017,
+      "q": "q3",
+      "text": "20.5万元",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q3",
+      "text": "20万元",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q3",
+      "text": "21.5万元",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q3",
+      "text": "22万元",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q4",
+      "text": "法人资本所有制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q4",
+      "text": "私人资本所有制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q5",
+      "text": "国营经济",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q5",
+      "text": "合作社经济",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q7",
+      "text": "全面深化改革",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q7",
+      "text": "全面依法治国",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q7",
+      "text": "全面从严治党",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q14",
+      "text": "历史标准",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q14",
+      "text": "经济标准",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q14",
+      "text": "政治标准",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q14",
+      "text": "文化标准",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q16",
+      "text": "伊朗核问题",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q16",
+      "text": "教派冲突问题",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q16",
+      "text": "恐怖主义问题",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q16",
+      "text": "巴勒斯坦问题",
+      "reference_matches": [
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q22",
+      "text": "思想路线的核心",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q27",
+      "text": "在中国设立银行",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q28",
+      "text": "领导了辛亥革命",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2017,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2017,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2017,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2017,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2017,
+      "q": "q38",
+      "text": "请结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2018,
+      "q": "q4",
+      "text": "价值规律理论",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q4",
+      "text": "商品二因素理论",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q4",
+      "text": "劳动二重性理论",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q4",
+      "text": "剩余价值理论",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q6",
+      "text": "谈判民主",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q6",
+      "text": "协商民主",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q6",
+      "text": "票决民主",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q6",
+      "text": "竞争性民主",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q10",
+      "text": "发展资本主义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q10",
+      "text": "维护封建统治",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q10",
+      "text": "对抗顽固派",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q10",
+      "text": "迎合帝国主义",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q13",
+      "text": "文明礼貌",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q13",
+      "text": "助人为乐",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q13",
+      "text": "爱护公物",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q13",
+      "text": "遵纪守法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q22",
+      "text": "污染防治",
+      "reference_matches": [
+        "pdf"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q22",
+      "text": "精准脱贫",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q22",
+      "text": "产业结构调整",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q27",
+      "text": "加强政治工作",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q34",
+      "text": "……",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q34",
+      "text": "……",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q34",
+      "text": "……",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q36",
+      "text": "材料一",
+      "reference_matches": [
+        "pdf"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q37",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q37",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2018,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2018,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2018,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2018,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2018,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2019,
+      "q": "q1",
+      "text": "国际工人协会",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q1",
+      "text": "正义者同盟",
+      "reference_matches": [
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q1",
+      "text": "共产主义者同盟",
+      "reference_matches": [
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q6",
+      "text": "政治安全",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q6",
+      "text": "经济安全",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q6",
+      "text": "人民安全",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q10",
+      "text": "香港海员罢工",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q12",
+      "text": "结束国共内战",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q12",
+      "text": "商讨联合抗日",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q12",
+      "text": "寻求外国援助",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q12",
+      "text": "争取和平民主",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q16",
+      "text": "《北南共同宣言》",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q31",
+      "text": "实现途径不同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q31",
+      "text": "所处地位不同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q31",
+      "text": "调整范围不同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2019,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2019,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2019,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2019,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2019,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2020,
+      "q": "q1",
+      "text": "《共产党宣言》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q1",
+      "text": "《反杜林论》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q1",
+      "text": "《自然辩证法》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q8",
+      "text": "外部势力的干涉",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q11",
+      "text": "土地革命的方法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q11",
+      "text": "群众路线的方法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q11",
+      "text": "统一战线的方法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q11",
+      "text": "武装斗争的方法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q15",
+      "text": "手机和互联网",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q15",
+      "text": "精品读物",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q15",
+      "text": "思想政治理论课",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q16",
+      "text": "俄罗斯首先违约",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q20",
+      "text": "生产资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q20",
+      "text": "借贷资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q20",
+      "text": "货币资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q20",
+      "text": "商品资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2020,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2020,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2020,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2020,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2020,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2021,
+      "q": "q1",
+      "text": "《神圣家族》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q1",
+      "text": "《德意志意识形态》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q1",
+      "text": "《哲学的贫困》",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q1",
+      "text": "《共产党宣言》",
+      "reference_matches": [
+        "pdf",
+        "xdf"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q5",
+      "text": "中国命运和前途",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q5",
+      "text": "中国革命和建设",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q5",
+      "text": "中国改革和发展",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q9",
+      "text": "行会性质的企业",
+      "reference_matches": [
+        "pdf"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q12",
+      "text": "和平赎买的政策",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q12",
+      "text": "调整巩固的政策",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q12",
+      "text": "互助合作的政策",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q12",
+      "text": "剥夺没收的政策",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q20",
+      "text": "资本技术构成",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q20",
+      "text": "资本积累构成",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q20",
+      "text": "资本有机构成",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q20",
+      "text": "资本价值构成",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q38",
+      "text": "材料3",
+      "reference_matches": [
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2021,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2021,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2021,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2021,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2021,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2022,
+      "q": "q3",
+      "text": "价值尺度",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q3",
+      "text": "流通手段",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q3",
+      "text": "贮藏手段",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q3",
+      "text": "支付手段",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q4",
+      "text": "高级职业经理",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q4",
+      "text": "股东大会",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q4",
+      "text": "监事会",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q4",
+      "text": "董事长",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q6",
+      "text": "市场主体的活力",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q14",
+      "text": "地理环境",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q14",
+      "text": "人口素质",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q14",
+      "text": "统治阶级的意志",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q28",
+      "text": "群众路线",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q28",
+      "text": "实事求是",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q28",
+      "text": "武装斗争",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q28",
+      "text": "独立自主",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q33",
+      "text": "相互尊重",
+      "reference_matches": [
+        "preview",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q33",
+      "text": "和平共处",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q33",
+      "text": "合作共赢",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q33",
+      "text": "结伴不结盟",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q37",
+      "text": "材料1",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q37",
+      "text": "材料2",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "preview",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2022,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2022,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2022,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2022,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2022,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2023,
+      "q": "q4",
+      "text": "成本价格",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q4",
+      "text": "生产价格",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q4",
+      "text": "垄断低价",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q4",
+      "text": "垄断高价",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q8",
+      "text": "坚定理想",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q8",
+      "text": "自我革命",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q8",
+      "text": "增强忧患意识",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q14",
+      "text": "坚持依宪治国",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q14",
+      "text": "坚持依法行政",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q14",
+      "text": "坚持依法执政",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q14",
+      "text": "坚持公正司法",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q15",
+      "text": "一起向未来",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q19",
+      "text": "产业资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q19",
+      "text": "农业资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q19",
+      "text": "商业资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q19",
+      "text": "借贷资本",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q20",
+      "text": "金融创新",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q20",
+      "text": "金融自由化",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q21",
+      "text": "余粮收集制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q21",
+      "text": "发展多种所有制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q36",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q37",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q37",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2023,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2023,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2023,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2023,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2023,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2024,
+      "q": "q3",
+      "text": "科学研究的规范",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q3",
+      "text": "实践主体的意志",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q3",
+      "text": "认识主体的兴趣",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q3",
+      "text": "社会实践的需要",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q11",
+      "text": "“振兴中华”的口号",
+      "reference_matches": [
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q11",
+      "text": "“建立民国”的口号",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q11",
+      "text": "“反帝反封”的口号",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q11",
+      "text": "“民主自由”的口号",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q13",
+      "text": "精兵简政制度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q13",
+      "text": "请示报告制度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q13",
+      "text": "民主协商制度",
+      "reference_matches": [
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q13",
+      "text": "党外通报制度",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q15",
+      "text": "体制机制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q15",
+      "text": "国际合作平台",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q15",
+      "text": "学科建设布局",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q15",
+      "text": "高水平人才",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q20",
+      "text": "生产资料公有制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q20",
+      "text": "个体劳动",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q20",
+      "text": "生产资料私有制",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q20",
+      "text": "雇佣劳动",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q32",
+      "text": "政治认同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q32",
+      "text": "思想认同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q32",
+      "text": "理论认同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q32",
+      "text": "情感认同",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q36",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q37",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q37",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q37",
+      "text": "材料3",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2024,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2024,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2024,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2024,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2024,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2025,
+      "q": "q1",
+      "text": "极限思维",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q1",
+      "text": "历史思维",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q1",
+      "text": "系统思维",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q1",
+      "text": "逆向思维",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q2",
+      "text": "我思故我在",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q8",
+      "text": "全局性开放",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q8",
+      "text": "要素型开放",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q8",
+      "text": "政策性开放",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q8",
+      "text": "制度型开放",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q13",
+      "text": "优先发展重工业",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q14",
+      "text": "生命健康权",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q14",
+      "text": "民主管理权",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q14",
+      "text": "人格尊严权",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q14",
+      "text": "通信自由权",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q15",
+      "text": "教育、科技、人才",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q34",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q34",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q35",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q35",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q36",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q36",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q38",
+      "text": "材料1",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q38",
+      "text": "材料2",
+      "reference_matches": [
+        "pdf",
+        "xdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2025,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2025,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2025,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2025,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2025,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2026,
+      "q": "q1",
+      "text": "①②③",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q1",
+      "text": "①②④",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q1",
+      "text": "①③④",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q1",
+      "text": "②③④",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q7",
+      "text": "党的领导制度",
+      "reference_matches": [
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q13",
+      "text": "价格体制改革",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q13",
+      "text": "财政制度改革",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q13",
+      "text": "国有企业改革",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q13",
+      "text": "流通体制改革",
+      "reference_matches": [
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q23",
+      "text": "弥补市场不足",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q26",
+      "text": "求同存异的原则",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q34",
+      "text": "材料1：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q34",
+      "text": "材料2：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q35",
+      "text": "材料：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q36",
+      "text": "材料1：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q36",
+      "text": "材料2：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q36",
+      "text": "材料3：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q37",
+      "text": "材料：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q38",
+      "text": "材料1：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q38",
+      "text": "材料2：",
+      "reference_matches": [
+        "pdf",
+        "csg"
+      ]
+    },
+    {
+      "year": 2026,
+      "q": "q34",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2026,
+      "q": "q35",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2026,
+      "q": "q36",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2026,
+      "q": "q37",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    },
+    {
+      "year": 2026,
+      "q": "q38",
+      "text": "结合材料回答问题：",
+      "boilerplate": true
+    }
+  ]
+}

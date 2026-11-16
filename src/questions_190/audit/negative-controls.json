@@ -1,0 +1,31 @@
+{
+  "method": "在临时副本中单独改变一个字段；每次恢复后再测下一项；仓库交付正文未作测试性改动。",
+  "baseline_passed": true,
+  "controls": [
+    {
+      "mutation": "wrong_answer",
+      "rejected": true,
+      "exit_code": 1,
+      "reason": "AssertionError: ('S1', 'answer mismatch')"
+    },
+    {
+      "mutation": "missing_option",
+      "rejected": true,
+      "exit_code": 1,
+      "reason": "AssertionError: ('S', 1, 'option order')"
+    },
+    {
+      "mutation": "changed_stem",
+      "rejected": true,
+      "exit_code": 1,
+      "reason": "AssertionError: ('S1', 'text changed since visual review')"
+    },
+    {
+      "mutation": "wrong_pdf_anchor",
+      "rejected": true,
+      "exit_code": 1,
+      "reason": "AssertionError: ../../references/xiaoxiurong/pdf/27肖秀荣-背诵手册【下册】-PDF页001-060.pdf#page=19"
+    }
+  ],
+  "restored_copy_passed": true
+}

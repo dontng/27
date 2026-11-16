@@ -29,14 +29,14 @@
 
 [打开八套试卷目录](html/index.html)。八套均从校订后的 Markdown 生成，沿用 `papers` 的 Times New Roman + 宋体正文、黑体标题及试卷布局。正文显示字号为16px，常规400字重；打印为11pt。每套HTML内嵌样式和脚本，可单独打开阅读、打印，也可切换分析题答题留白。
 
-八份新排版PDF保存在 [`pdf/`](pdf) 中；[逐套查看](html/README.md#排版pdf)。
+八份新排版PDF保存在 [`pdf/`](pdf/) 中；[逐套查看](html/README.md#排版pdf)。
 
 [最新HTML版式复核](scripts/html-layout-review.md)：已修正选项、材料出处与设问的17处打印分页问题，HTML与PDF已同步更新。
 
 ## 脚本
 
 - `scripts/export_pdf.py`：读取最新HTML和打印CSS，导出同目录同名PDF，核对全部正文并保存哈希。
-- `scripts/build_html.py`：从校订 Markdown 生成八套独立 HTML，逐题核对正文字符及结构；样式来自 `scripts/exam.css`，交互复用 `x8/scripts/exam.js`。
+- `scripts/build_html.py`：从校订 Markdown 生成八套独立 HTML，逐题核对正文字符及结构；样式来自 `scripts/exam.css`，交互复用 `tools/papers/exam.js`。
 - `scripts/split_pdf.py`：依照已查看的八套卷边界拆分，并逐页比较渲染结果。
 - `scripts/split-manifest.json`：输入SHA256、页码范围、各卷校验值及逐页一致性检查。
 - `scripts/extract_pdf.py`：识别扫描页并生成同名 Markdown，复用项目已有习题190的标点规范化方法。

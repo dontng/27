@@ -1,0 +1,2357 @@
+[
+  {
+    "year": 2022,
+    "q": 1,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "85a88de286350610142484d991e88503ffaae13be02d80b1c221f71012fd3a12",
+        "exact": false,
+        "reference_scores": {
+          "preview": 98.519,
+          "xdf": 99.259,
+          "csg": 95.489
+        },
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "平",
+            "ref": "乎",
+            "context": "不断推进伟大社会革命习近平总书记指出中国共产党为什"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "8424d939a799c73be1a18967e8e2d3e4677c98572eeae994a4ad739b6b0ff010",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "e7159213f63ec5faa57eb5fdd82a74dd48e7a07f6cdc366e9eb265c459b5b3bd",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "73dbe80d5ceb4bed0ae112dce20e6fcb45260fa5a1e5f311c8b1e1dedde8d52d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "d77ddc7bcd6fe1ba28f738f9de1d434d374a5949759bff1a1cb8bc3a0ca264b7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 2,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "0b07a8f622de8df91e4ca7e89b268d5366a32b96edc04f226992c1eb43d9c11d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "0f00cf3d845ced7f38b439f98cbb05ac7f8d68d38d6405e48e5f9b39f5ce6ab6",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "6fa1daef53bc3d1d7fb7b85ee0aca6fc584984f5ea6f72e943a34f9263058e56",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "cbb61be30895d0a599c11bbc2dd1b1748e8f063c6f9e671db662ed82a9f7dc67",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "edeb5089ee04e694213d9208d776742e3c7556172db5b0675eaa548a7e62c2cd",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 88.235
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 3,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "3613e828210c91e6ba1f4903d6bf090769ac7d7b610c0856c52b8f8390dc00bc",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 99.231,
+          "csg": 98.462
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 4,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "bd2f7407683a809759001d6eb96a17b54087b58fbcc08801220a201178808e14",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.387,
+          "csg": 98.387
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 5,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "423342fce843a0cf46679a942459dc533f396508543aa2d6cecd3b8c19e7ba07",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.436,
+          "csg": 97.436
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "52958604b83cf172012a6aa1fac6b49b74e09a210b2c4970843665456316a569",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "791080c2aadfb654d69caced66ec39f1fada534df4f1865073afff3c78a006bb",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "1e75b308a96019bfebfbfc4c5a00474c69065de6f1d15e83f8112875d1ed353f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "01e9c8ea1958ef5397532d4809521db2ee27f20459aab348b8b69a1848ddd7e0",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 6,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "6b3c498d0a209322332f32bedb6e636515782466bd04b79743deb11ec8f327cc",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 96.591
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "5286e4187bdf54d07a8107e82968c10f81f2cd3a5ab45fa5d936324512595ecb",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "e445404f46c42824a3d917dbe8670ad8119543fdd5817b22616c00ddd59895fa",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "0324e5057ec52d6e2065a95b2590f68e68434cf000d04d602bed459c57bbdd1e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 7,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "7136fcdb91c5afb4fcf5d6a160d62c89d0672ba9162b4b22df41bee6e507f7b3",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "42a1807c8c0286b8108b782e4b1421419ec4cbd3374c10578cf4f4babc8884bd",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "00c494b56229ce7fec239c9b991bcf63b7f6bb92c6b13fe4942e733eb97ae2f7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "2b25bfa3e34f33e670312900a52d57aa744348c72ff79dded85aea3bec065124",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "e1010416d697f1d981817487cc1b140b30738403a5c844b88cf58dac1a62f3ed",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 8,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "26ed0fa75de5aa7d6f758f7177fa5426f349ca5445c3836aac5083b528ff357d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "13bc5d2206e70292254f328e3384eaa2b67f9f92aaf42cf39f1b00ad85813ef4",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "2a3a6f36519ae7fea894d2c3088f22490a07b47bc037c4c507c1c771e13bb8f7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "1f9addd54a21a1cf0d2fb2b1ce68ad3c60cc3345f31dd6403061480b94488286",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "00cd1f7c700d42c244f35e032c628c37900ca22b50bd2abceaa1f7f4efe180fc",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 95.833,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 9,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "bc6a0cd893a8e39a840bb486d12d4107791834362032b409fae251b5b60e9fa9",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.015,
+          "csg": 92.537
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "ae272d15e8fe10c0dae5b7fe1a43731583c49519e8695a999d064f63872c6d64",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 71.429
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "ae9d16ed514ffd1984d74dca2f28dbc4c46f0137bdba37f514e0ca8cab57cca7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 93.333,
+          "csg": 66.667
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "bfbd2814e3815c5f2aa7a1e4379f069e50b6352214cdc6b385bebe295850a23b",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 92.308,
+          "csg": 84.615
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "ecaf73ce44f74c95148ac6026df6389549492f2ba2d56da49b95c57ae4b143e4",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 92.308,
+          "csg": 84.615
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 10,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "adff6a96b1cb608066ee844b8f282155fbcd1c2948ee5a503f106a5528d266a8",
+        "exact": false,
+        "reference_scores": {
+          "preview": 97.872,
+          "xdf": 89.362,
+          "csg": 84.397
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "带",
+            "ref": "",
+            "context": "摆在中国共产党面前的两个带根本性的问题党从残酷的现"
+          },
+          {
+            "old": "",
+            "ref": "让",
+            "context": "的问题党从残酷的现实中认识到没有革命的武装就无法"
+          },
+          {
+            "old": "战",
+            "ref": "比",
+            "context": "识到没有革命的武装就无法战胜武装的反革命就无法夺取"
+          },
+          {
+            "old": "命",
+            "ref": "金",
+            "context": "武装就无法战胜武装的反革命就无法夺取中国革命胜利就"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "dc6d27a18b5dca0408c8a75e680a5352d6957b82a3ce39689a302c85665d7676",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "cb0454ec19c3afd6b4196e4fca864cd07884c4644229e0265d671b927012495e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 83.333
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "dcff83aae636790b1867b45553bde2af80c28e992d43dbc8fe90081edfb2b422",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "68bd9000dd3c800a115d0f20e2eb1e93cc60c15c3614522d7c8cf44d47d5fc33",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 11,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "2eb57008bb3ef56a7955ae865cef2ad3d9197dd985ddf5dcc4122a05f7ade902",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.959,
+          "csg": 68.367
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "91971023732488eaecf0fd7ffa789668854ee049cabf9bc4998d4ce4f430aad5",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 94.118,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "175defa1d0d75f02a8e2bbb4e9456e77a887dee599cf02d876a927910af48aee",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 88.889,
+          "csg": 88.889
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "cebe4640c858257a17ff0d923a79e2488392655b12d6bd405787cdb85e9cca51",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "89f77abe8570db8eee4d666d9e95a3e223cb99eeab8cdff00034680f9269aa15",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 12,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "25a543b0158cab3943ff7a4c28a2b88daf45d633f34d7ce5ca250d7f65876d65",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 97.619
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "c29f42fa30e339aec3f2fcecedab38016597d8a4a2aed4da13e0392ee6b3e38d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "8f1ff697297698001d8c5733ebc7dddd3d7568da2421b193370cf0457e9fc504",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "d8de104b33d7eb3dac059f1f883767aa8bfb3e5295eefe5e30f0afba177b3d73",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 93.75
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "4a93b2f784d852fe6f54a5dd30d8cc75d40403c2dea4cf38a2a42e9cd3590730",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 13,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "6ccdbc7b41e9a79e70d3fd917cd21fc93217dac1aa795431c9b6f3aa443229f7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 96.8,
+          "csg": 98.4
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "060eedd9d2b4b55562aeded1eac5da2a68ffec46547b0d596504145b94fe9d92",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "880d1f3cccbc1eeea872027d95e39190a7c62e161cbfb267c6986163e1782863",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "1cf62ee71d33fa5b49cd6a77d93d625728b1c8f134839b4d7ded5ff169e76862",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "d352dc04976222c18a8628546af72132c0b7e5908bd6081064174b901fab0fe5",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 14,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "e15d5cb8f461962f31dcff8b5431f8cb7e9c5dd465a5dd62794eecd8a512fe5e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.485,
+          "csg": 95.455
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "2a607f7220c4f37306d232ad240037ea65183d2c14785e11f836a656dae3d539",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 15,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "fb742efcf22e15e40fdee3397bf1543b3b2725356e9e70176f8ddd86b76bac60",
+        "exact": true,
+        "reference_scores": {
+          "preview": 93.75,
+          "xdf": 98.438,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "6320118552927b6df22ddf2f14f9bc4c18c2a3130d2ea3c4fe7f1e26099a1b31",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 92.308,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "e856f6c8f77e3f8b44c1b702a251f677f803dd3a1144b7edce5fa32319530337",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 94.118,
+          "csg": 94.118
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "ad9ae7c7cd8150f3e8872aee7fd1b57c02aca7b16222a72ec01a9b1dd3c86d66",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "425f379ff0b0ccebb00feba506b9af203d916f513b485d93b822ecad6beb8ef3",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 16,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "33b9c9a12d3d1c8e06c266a4e40655a8e81d8823f4957433f992b96508a3606c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 74.576,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "f1cf6523b88f6229a4a66d365813da007596b3dc31839e4b9ec4d2605bdc54af",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "7aba4f213124eb3a8c21ecf7f7aa82acba15e073bb07e445d864ed7edab1964f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "1cb5abe7abbbd29ae4847c7dbec073154e44172ec52beb5aabeec30cea7b39d4",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "d30ba8f78901e1f068ffd0746b79149c22c8693d8970c5c4ffce202618bdb176",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 17,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "b250f211e9636c247d21e5805532c9e16190f6989418236a63f60caa5657eddf",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 96.923,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "24f34f6bd08d6ee9e03643b40e5895256ebda25d65eb28ce30d6e1657bb055f5",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "92c88147cdfd34e6bc4e75dfa2ef9e3f01cc2aae9d09092c187a22e175bba80f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "5476efb4e38d018a74d32363e5cde0361f5ee4633bb9cc2e467093528bcc2548",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "6b9e608da847c9f7f32776230dcd15b670454f53bea0bb86ab9d35a7adbf9d9c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 18,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "a076a437a94a0afff13fa78c215ff3b4d3e58f43b5124ddcba6a53364ab27929",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.371,
+          "xdf": 98.113,
+          "csg": 99.371
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "可",
+            "ref": "口",
+            "context": "制却是颇为不易的人工智能可以借助数据共享对先进材料"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "37a9fbb94e5b92b79712bd05273ee1ba859731ddc5bfa48a1cd1ed7dbbff4b4d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "c86a7ef765a8174f458d6b1e53ba06fbf70b10eb81473f8f59c8eb11064046a7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "a36c1f26499696bdddd09321270fd0663626b49f1d93d24860e06239a7e9450b",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "a75b752bfd3ac408fbfe8bb299669c43f3f7c2143f8431b46381ab6388678200",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 19,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "c72b5d055b4ac90c9092b3a794532686636ee3c2f3cacb19a179df304314957f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.826,
+          "csg": 97.826
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "92aadc5e7c04c07bf779caf127659d5eb3c3b68f72fdb2490a847a5882b12d30",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "aea912b6d15a31049f3b05c2807f7d9966d12e5aafa703859b55a5c0729c81b4",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "fd37d2c6fb8de3964168388173c7ee7a18037288dcfebe509e800468ec8816cc",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "544ec694e1c4fca65a7dfffcbd70309e37beb9d81abddb83e37ff44fe9fbe285",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 90.0,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 20,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "79358c7af6c6a153474e9ffe8f0ec249440cbd16e95538529998c038dafca840",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 83.81,
+          "csg": 98.095
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "87329e0c98d377e168c982fd4e7e8b63ac49ab7b0c00dc3c780ae98b135c160c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 93.333
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "4f199327911c3ed8fa28c8104bb78fec221210a1c2828416c8970e6840fe37f0",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "f77890322520407f9b93c43b8591dbde78f29a5817c06786c5c5a0f9aedcff6a",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "25850588b2c69f90355f56eb0f3637ace8decb6f196ed0e342be39d8c9598547",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 94.444
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 21,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "d63dae7f2e9d7e8095ed9ea81b4d7366dc45e49f99dbade3b6c6a3af3ecaf782",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.429,
+          "xdf": 96.571,
+          "csg": 99.429
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "1",
+            "context": "马克思恩格斯在共产党宣言"
+          },
+          {
+            "old": "川",
+            "ref": "",
+            "context": "使用整个整个大陆的开垦河川的通航仿佛用法术从地下呼"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "61d3cfb1e82b6a0a73b4614f119b0aa3cc89def693b3d8ef7e94d21d4f01aa4c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "68898eca1ad1906a7eb4b36cd59ce6df0e658c82d78e8ae0e0f258a0eeecadf7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "cfa58463e0494b787cdfa74ee4b7248bcf0d9e9a13f0a55d64e4930d1144a549",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "627fef0f73308076fea7386e7fc2929601f1a2714514bbd202a964bac593fc2c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 22,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "e899a77a59e4a57b6807d6b8d81024308de5b510b58703c704295e8ab57d1880",
+        "exact": true,
+        "reference_scores": {
+          "preview": 84.615,
+          "xdf": 99.145,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "f5025f971984a0db419bd6e1eda2b166e5cdab1f38fea4dbf5f0135e944fcb11",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "4cff251826d9a79c272346596d20a897abc5a0e8d1d89fb128212a345ed2e64f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "a28a09d19cc61600538e9465d3a4f2c5fc162079bd6b86d0c375ae0332cd5c81",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "8fbddbf76c8777e735544f8ddc91dd28e93360267b39eece3dab873c874e13ba",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 23,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "dcac58e337d2ec962863bc65a9d1c44eb796dd4b7fcee44aca607130aa2dfb3b",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "44dd7e324637651c9838e2bd404cae49260f6b1305eb2c72725f56a81ae8d0fb",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "9a0c216f8bc4ffde306d225ea4b05e1b352467d65ab6fb4e50666d259dd6a7c2",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "b9efe83b86ba79f80b05c20f3fc5a9ec4e7dc788c97c925ed4d56a1e777cfa13",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "519e6a22fe09bd8e16e8e5e8f8540da557d5ebe596101264754ddd319bd6cbb3",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 96.154,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 24,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "ac365c018355e1c8f8b8c65ca51844d16aa6bba339c62fd3c195dcffc0ef55b0",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 99.029,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "60aded1de38f0bdd16734e53a1e3faf9ac32f65159596873b8e9d6b55f4dbf1a",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "8a4afa40af436764ca38bbb5b2e0dbc0e68b215fe87a294982c64ee31eb31eba",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "43e0647965823a4b41fd049b9e7e7139aa1b7d68677899fa5f655d591c61e912",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "f7a58faca59d2bf90fee636681c7c7fd96e200b25583202bff6875598e7abaf3",
+        "exact": true,
+        "reference_scores": {
+          "preview": 97.619,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 25,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "cfee58263232c3de17963f174d4f2f6d3c0df98207d1785ccffcae40ae25a4b2",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.563,
+          "xdf": 99.563,
+          "csg": 99.563
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "自",
+            "ref": "白",
+            "context": "栖息在云南西双版纳国家级自然保护区的野生亚洲象一路"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "a5ec0f69991031a641047a7dd894ab6f91cc1ce64db0f2713743493d0ed4393b",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "5bd28c7b5f4a27d93c0875ab48a0975cab3be8dd7401b600755302281151a540",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "6fc29d668bb39c60fb65f676cf88a8bd99e82ebece03f3dd8286318a103454f8",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "981e2a6d75f8a0aaa51e0804694832e33e1efd9b764c2f4ed08edc4bb910aa57",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 26,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "3cb1da7058754e6020e3519bb80a38be4ca1240ed0393ba38415c3bdac16b04b",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.432,
+          "xdf": 96.591,
+          "csg": 98.864
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "喜",
+            "ref": "惠",
+            "context": "大文明连接起来正如中国人喜欢茶而比利时人喜爱啤酒一"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "8afdd9e2cec6ebd2e5aff27b59f5c2b1d5e5fc080a723b34bd6d900d6d59a88f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "13bda55f92b3485973cc8cca993c8dd9ba11d28840bd1b5e18842bf789580e72",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "48040a72bf9beb8804c7a897d63def5b4a49e16a1dd4acf6a53efc4b46deeff5",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "8ea261ec6563e1f031dd4b9acc82e6d663d6a3a7e786730288779a9b283ed59e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 27,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "f7c9e5e3f5f92ba6ce919d39bcff0e1fa56a4fa82110d30ee45c0cba03418d9e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.826,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "d586a8a9ef24060cfdaf516886d9cbae3665d1d95f2c8f82946552a4af0d74d1",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "dd1fa0f8d596c567ccf81205f1b77e6cf7731738fed4315a111a7914298c7d7d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "fd767d9284634349197e0b472cee514202f3b24034621ba01dabd0b6dfa68542",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "c68feebb093feb06550a5c010b42a98e0b1185e0adebcd2458ba1b141e98f159",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 28,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "6165125a88e29226575ea16f6c6831f4d313156ecc7bf571a2d9c09d37ba7f35",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.529,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 29,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "5d12b7d36a91a16ebf19933e00b5de87f8e666d859e922fc30e29cff02936534",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.324,
+          "xdf": 98.649,
+          "csg": 99.324
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "于",
+            "ref": "干",
+            "context": "设计和总体规划中共中央关于党的百年奋斗重大成就和历"
+          }
+        ]
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "09bad0e6e6975df320e59433b2c1152abde2ce9cf3ee039a0a9dacd76d738875",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "073e357abf77ba017183de005c2bce2dc07b42cf64fb54eb344e7279e185d60d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "186a94b937db617a70aeb2d45aebc699ed2fd07a6c79d6147a5482be03f821d3",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "a7ff99204de7ebe6e2c4c7c80f0b60f72ee0eba5edec3dab6f236a52b4f7a1d7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 92.857
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 30,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "578b585a8f711fb5db9df054f13e453d111cb012b5e1f7492b0dee24544fd37f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "23e0d58bd2bf5a07c9a7bb8f466d9259a627693fb8924a604fca41a8640f1bc4",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "ab8a25f8f4064150f7b67c6a0adbbda988d49454e68cd92c60bbfcf1a0b251dd",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "ca936fc9ccc3840f401ab58823961c57f6939ebc031860e6a1f09da25f984233",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "8b1a69cf0df793e4a2127cd2757a336233b6cb882cf364882310e875c00b0e44",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 31,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "0a854ae190f471799c5fa12cf6b0d2d16a08545a39ada97fa1e42f77b2fb5219",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "c391b33bf57438b38a8687e5542ff5627edb7dfec8be4b456907227816808b51",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "6ccfba69cc5d94572fbd916172c39f32694af6c63a7a56d07747744fe87655de",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "49b9d75dc67f4d7372465f711af811c62e37649b2c5de96c523a5ab895340984",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "f28d07bf1655e322ad34002288b539835b9c75dc64875bc595ef6cdbf96cbf65",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 32,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "1541b0b10a40dc50a8fd6ed9d51ad308ae16c902289c6c2e7528aab912cbed8c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionA",
+        "text_sha256": "5295d1c65fa97c90907e87e4f2786305cfae1e097480eb438ba5ef7e1ae736a5",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionB",
+        "text_sha256": "49dce34776a2f7fe6f5c30dce7fa886dfdbd4565fe20083046f225160990c863",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 93.333
+        }
+      },
+      {
+        "field": "optionC",
+        "text_sha256": "e85c137049cb781d2cc36426d7611d8f62f35ca250ce4ed7c5890b1aa29399b1",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "optionD",
+        "text_sha256": "0a20d3b9d4b7e30328781eda3ee80841d607992b342cc4769422a3016355e4a6",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 33,
+    "fields": [
+      {
+        "field": "stem",
+        "text_sha256": "5d799d42dd43d97f002978118e2068eb1ddedc0c298b881bf0cdf8584c9dc0a4",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 99.02,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  },
+  {
+    "year": 2022,
+    "q": 34,
+    "fields": [
+      {
+        "field": "material-2",
+        "text_sha256": "a6e3aa9566fd528ef9fe26234db08047665564861ca3596769e9f444aafc77a7",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.819,
+          "csg": 99.606
+        }
+      },
+      {
+        "field": "material-3",
+        "text_sha256": "d0cd7819a58ec9215d3fe29a253032f07f2b9ff713a0e950626871e3266b0df8",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-5",
+        "text_sha256": "6b6f25316e0a3e38816087660c6832652d8ae972fa16e6ce2f1cfc65af30c610",
+        "exact": false,
+        "reference_scores": {
+          "preview": 98.864,
+          "xdf": 99.432,
+          "csg": 99.432
+        },
+        "best_source": "xdf",
+        "diffs": [
+          {
+            "old": "鹅",
+            "ref": "茫",
+            "context": "黑天鹅事件通常指现实生活中出现"
+          }
+        ]
+      },
+      {
+        "field": "material-6",
+        "text_sha256": "78d15d9d445ff1fa8985693d1e68788a1be83013d78560fd0d116ec825631651",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 94.585,
+          "csg": 96.751
+        }
+      },
+      {
+        "field": "material-7",
+        "text_sha256": "0cd2b9d9348602652d59c15ea72ba4d1e2b5715ce5fb7a6567d9e7be11273638",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "text_sha256": "cda32649c974d5266fcd76940ccb1b252e5358f80c6e3a240c7c513fa03a6c1f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 93.548,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "text_sha256": "069f965038c9bceb864f0ddc7fd5ee4802873747bbf2e66ae8f6f9c35195556b",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 89.474,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 35,
+    "fields": [
+      {
+        "field": "material-1",
+        "text_sha256": "b677f556bb1e332faa3214532e2d9f926788dfc1074b8127da8bd3277caafd95",
+        "exact": true,
+        "reference_scores": {
+          "preview": 97.447,
+          "xdf": 100,
+          "csg": 97.872
+        }
+      },
+      {
+        "field": "material-2",
+        "text_sha256": "3f9167dce749bba341c2d0c0ef3552400ac59ce637ccc71e306b3e1f985ad9b2",
+        "exact": true,
+        "reference_scores": {
+          "preview": 98.993,
+          "xdf": 100,
+          "csg": 98.993
+        }
+      },
+      {
+        "field": "material-3",
+        "text_sha256": "f4d77b20b1e2c78d14e5d293824a724d13cd7a7f1d6e2d06f10dc5fdefff3184",
+        "exact": false,
+        "reference_scores": {
+          "preview": 95.631,
+          "xdf": 95.874,
+          "csg": 98.301
+        },
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "践",
+            "context": "中国特色社会主义进入新时"
+          },
+          {
+            "old": "目",
+            "ref": "日",
+            "context": "标开启实现第二个百年奋斗目标新征程朝着实现中华民族"
+          },
+          {
+            "old": "目",
+            "ref": "日",
+            "context": "现中华民族伟大复兴的宏伟目标继续前进在这个风云激荡"
+          },
+          {
+            "old": "大",
+            "ref": "人",
+            "context": "新时代这个重点在党的十九大报告八个明确的基础上用十"
+          },
+          {
+            "old": "大",
+            "ref": "人",
+            "context": "新时代党领导人民取得的巨大成就并重点概括了其中的原"
+          },
+          {
+            "old": "的",
+            "ref": "",
+            "context": "并重点概括了其中的原创性的理念和思想这些战略思想和"
+          },
+          {
+            "old": "中",
+            "ref": "巾",
+            "context": "战略思想和创新理念是党对中国特色社会主义建设规律认"
+          },
+          {
+            "old": "出",
+            "ref": "山",
+            "context": "理论创新的重大成果决议指出习近平新时代中国特色社会"
+          }
+        ]
+      },
+      {
+        "field": "material-4",
+        "text_sha256": "940a63fbbe5388d281702a78fa30b9a91f6223df903bf04473cef000e8cec7b2",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "text_sha256": "bc0d02ffb173d615fd6323ba82cd8daba415bf511f9ba33aa678bd361923f24f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.059,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "text_sha256": "3469b63c276c760e00368feb2da254fb10b99ecfdd9d6241728d94df5791fb8e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 98.462
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 36,
+    "fields": [
+      {
+        "field": "material-2",
+        "text_sha256": "cf635a7cc23696de6839abfe2a6f73c2a57f43e389ba99a3342d0c643cb2a50d",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.32,
+          "xdf": 98.639,
+          "csg": 98.639
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "电",
+            "ref": "申",
+            "context": "峡大坝发展内河交通和水利电力事业在中国北部中部南部"
+          },
+          {
+            "old": "擘",
+            "ref": "等",
+            "context": "制造业矿业等等孙中山先生擘画的这个蓝图显示了他对中"
+          }
+        ]
+      },
+      {
+        "field": "material-3",
+        "text_sha256": "0b30df5c2c61118e1bfce1a8ede0427d1be19daf806498b2518c9b458a7f40a7",
+        "exact": false,
+        "reference_scores": {
+          "preview": 99.429,
+          "xdf": 98.857,
+          "csg": 97.714
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "屹",
+            "ref": "吃",
+            "context": "立民主富强的国家早已巍然屹立在世界东方"
+          }
+        ]
+      },
+      {
+        "field": "material-4",
+        "text_sha256": "4cfdc1fd5f63c6a1b633c6860a5830a6044419b3c4d47b51587907a52a584537",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 96.154,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-6",
+        "text_sha256": "80f21a36294bc788ab13735fe08fc31f2cbeb188c2baf9288f637e6c1ab7efb1",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 97.297
+        }
+      },
+      {
+        "field": "material-7",
+        "text_sha256": "68b49348fab89bc075b88d858e9bb3fbeef0481d4081fd8df8042ce1d58049c9",
+        "exact": false,
+        "reference_scores": {
+          "preview": 96.854,
+          "xdf": 98.51,
+          "csg": 99.007
+        },
+        "best_source": "csg",
+        "diffs": [
+          {
+            "old": "大",
+            "ref": "人",
+            "context": "习近平总书记在庆祝大会上发表重要讲话深情回顾"
+          },
+          {
+            "old": "大",
+            "ref": "人",
+            "context": "斗争对党忠诚不负人民的伟大建党精神这是中国共产党的"
+          },
+          {
+            "old": "党",
+            "ref": "觉",
+            "context": "伟大建党精神这是中国共产党的精神之源回望百年奋斗历"
+          },
+          {
+            "old": "来",
+            "ref": "米",
+            "context": "世界庄严宣告中国人民站起来了中华民族任人宰割饱受欺"
+          },
+          {
+            "old": "愤",
+            "ref": "奋",
+            "context": "去不复返了我们自力更生发愤图强创造了社会主义革命和"
+          },
+          {
+            "old": "大",
+            "ref": "人",
+            "context": "和社会主义现代化建设的伟大成就以英勇顽强的奋斗向世"
+          }
+        ]
+      },
+      {
+        "field": "material-8",
+        "text_sha256": "9689aa3b80a1f2436f30b53b66abea98d8180a0a4e41a7b23968d03e1a407d5c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 93.75
+        }
+      },
+      {
+        "field": "ask-2",
+        "text_sha256": "2e338ff5d28582f9fdc62a410e29b2cf719f6432d4f9e5fd69b9b6014a3fccac",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 97.222
+        }
+      },
+      {
+        "field": "ask-3",
+        "text_sha256": "0a5e5147e52df21167d26474cad34d319878087cc6415b15edf959a1a5f72858",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 37,
+    "fields": [
+      {
+        "field": "material-2",
+        "text_sha256": "dbfb306f3422a0fae81459c3cf307ec25b4a0a98fc6a6916dc5256dec8635f0c",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.438,
+          "csg": 98.438
+        }
+      },
+      {
+        "field": "material-3",
+        "text_sha256": "3c9072d8e0a08bbc7cded5618c4a6ac8331d4e0efeeaa954ebe3f3c9d5bc865f",
+        "exact": false,
+        "reference_scores": {
+          "preview": 97.872,
+          "xdf": 95.745,
+          "csg": 95.745
+        },
+        "best_source": "preview",
+        "diffs": [
+          {
+            "old": "",
+            "ref": "称号",
+            "context": "黄文秀生在百色长在百色学"
+          },
+          {
+            "old": "屯",
+            "ref": "电",
+            "context": "学经验找路子筹资金硬化通屯路安装路灯修建蓄水池发展"
+          },
+          {
+            "old": "8降",
+            "ref": "",
+            "context": "百坭村贫困发生率从2288降至2712019年百坭村"
+          }
+        ]
+      },
+      {
+        "field": "material-4",
+        "text_sha256": "a874a5d58d6b711b493bac0cbcb043c95cd65ec4fe307469fdbba5f0cf53c270",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 95.833,
+          "csg": 97.917
+        }
+      },
+      {
+        "field": "material-5",
+        "text_sha256": "ace03a670bdb1e69978d43c7432cf443f0cca9616a62bad914ffb3b6eec98b8b",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 99.2,
+          "csg": 97.6
+        }
+      },
+      {
+        "field": "material-6",
+        "text_sha256": "afcb8606a5ee9eb0cc85b2b356d63385d01f32945b77e6af0e9769832c9a7c8e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.842,
+          "csg": 99.281
+        }
+      },
+      {
+        "field": "material-7",
+        "text_sha256": "c22a51c9adc6ebcab4ff1fb4c77c3a854fe560425cfe49c031af518b89af6c21",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.571,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "text_sha256": "92d01e23f884886a4b5340c8763e73b3ef3d5a658a749052c68a7c20313f854e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-10",
+        "text_sha256": "d260a5df9b7fe347ad3af8362f71da18d1dba8ee9414026194dd45bbd8c477c6",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 96.296,
+          "csg": 98.519
+        }
+      },
+      {
+        "field": "material-11",
+        "text_sha256": "2d6b66d77808843e5f09eeeb2c8062e6fc1647b35dc10cc2a9f7bc582a253fdd",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.701,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-12",
+        "text_sha256": "fd3d9b2a21f4f38d1ef763ec0623964001934a8fb1092eb564059805db43bfd0",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "text_sha256": "b24cef04e1178df181825ce09065631a75f67caa8b06b470137f4bf695d7dcb8",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-3",
+        "text_sha256": "a35c7a80c033f28532ed372a4c0c98572d2ca394bb9e4e8647b4a54aaadd138f",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 96.875
+        }
+      }
+    ],
+    "exact": false
+  },
+  {
+    "year": 2022,
+    "q": 38,
+    "fields": [
+      {
+        "field": "material-2",
+        "text_sha256": "7ad02dd40788d3bfdaa2cdd9c31eae2aa02844bce4427972c0fa6bf5d2f75b82",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 88.608,
+          "csg": 97.468
+        }
+      },
+      {
+        "field": "material-3",
+        "text_sha256": "18d06bb9d4cb67ede21f58477c19bbc89ce471f9fa0978037006e1538a5aa22e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.969,
+          "csg": 97.938
+        }
+      },
+      {
+        "field": "material-4",
+        "text_sha256": "cac5a24973b229f5a98fb8344eb9996af736c786f915b0dbdb643a005b6ea772",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.936,
+          "csg": 97.872
+        }
+      },
+      {
+        "field": "material-5",
+        "text_sha256": "475cabfa39a09a1b892a7984ee7818ef40a8793f0232e9fcf27834f1a34de54d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.662,
+          "csg": 97.993
+        }
+      },
+      {
+        "field": "material-6",
+        "text_sha256": "63a913ccdaf3010dea89540eab88775d614719fd377aeccf2df4d2511ce7f74e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "material-8",
+        "text_sha256": "cc8899273d13fea6ce0522ed2d51cabb0fcec58d477e18f298932f30041e5d9e",
+        "exact": true,
+        "reference_scores": {
+          "preview": 89.222,
+          "xdf": 100,
+          "csg": 99.401
+        }
+      },
+      {
+        "field": "material-9",
+        "text_sha256": "52e443c92b8ce018aa34f8264c71f45d395f35304095addc303d001607b58b46",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 98.795,
+          "csg": 97.59
+        }
+      },
+      {
+        "field": "material-10",
+        "text_sha256": "1020d20f769bd88b27fa18a7ec82375afb95afe0f0128ece3f182adc6aae7115",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 93.548,
+          "csg": 99.078
+        }
+      },
+      {
+        "field": "material-11",
+        "text_sha256": "f04d408531bcb8d645b025dcce282996734d51a1f2733333a634445c1a4d558d",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 100
+        }
+      },
+      {
+        "field": "ask-2",
+        "text_sha256": "d20fbf76ccfd5fbafc9cdd8c01843a8c99ca9bd73be3fe1713127f4f4575e6df",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 100,
+          "csg": 97.727
+        }
+      },
+      {
+        "field": "ask-3",
+        "text_sha256": "98e6dd5e1212a1b4a6bc8a3833172a8a1c7ea5595bb3af7cb05dc0dfd9910d29",
+        "exact": true,
+        "reference_scores": {
+          "preview": 100,
+          "xdf": 97.872,
+          "csg": 100
+        }
+      }
+    ],
+    "exact": true
+  }
+]
