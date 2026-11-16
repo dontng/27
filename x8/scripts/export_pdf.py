@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Export the current standalone HTML beside itself, without altering source text.
 WeasyPrint renders the existing print CSS. Since it does not execute JS, option
-columns use the same 4/2/1 fit rule as tools/papers/exam.js, with widths measured
+columns use the same 4/2/1 fit rule as x8/scripts/exam.js, with widths measured
 by the renderer using the selected print font, rather than character counts.
 """
 from pathlib import Path
