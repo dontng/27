@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[2]
 X8=ROOT/'x8';OUT=X8/'html'
 CSS=(X8/'scripts/exam.css').read_text()
-JS=(ROOT/'tools/papers/exam.js').read_text()
+JS=(X8/'scripts/exam.js').read_text()
 def E(s):return html.escape(s,quote=True)
 def norm(s):return re.sub(r'\s+','',s)
 def digest(s):return hashlib.sha256(s.encode()).hexdigest()
@@ -98,7 +98,7 @@ def verify(paper,qs):
  return {'paper':paper,'source_markdown_sha256':hashlib.sha256((X8/'md'/f'x8-{paper:02}.md').read_bytes()).hexdigest(),'html_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'questions':38,'option_labels':132,'analysis_questions':5,'text_round_trip_exact':True,'self_contained':True}
 
 def build():
- base_css=(ROOT/'tools/papers/exam.css').read_text()
+ base_css=(X8/'scripts/reference-exam.css').read_text()
  for token in ['--font-serif', '--font-hei']:
   assert re.search(token+r':[^;]+;',CSS)[0]==re.search(token+r':[^;]+;',base_css)[0]
  assert '-webkit-text-stroke' not in CSS
@@ -116,9 +116,9 @@ def build():
   body+='<footer><p>根据已完成两轮校对的Markdown排版。题干、选项、材料和设问与Markdown逐字核验一致。</p><p><a href="../pdf/x8-'+f'{n:02}'+'.pdf">排版 PDF</a> · <a href="../scripts/audit/round2.md">校对记录</a></p>'+nav(n)+'</footer>'
   (OUT/f'x8-{n:02}.html').write_text(shell(title,body,bar))
  cards=''.join(f'<a href="x8-{n:02}.html"><strong>第{n}套</strong><small>单选16 · 多选17 · 分析5</small></a>' for n in range(1,9))
- (OUT/'index.html').write_text(shell('2027考研政治冲刺8套卷 · 思想政治理论','<header><h1>2027考研政治冲刺8套卷</h1><p class="subtitle">思想政治理论 · 共 8 套</p></header><p>沿用真题考场版式，保留完整题目与材料。选择一套开始作答，也可直接打印。</p><div class="years">'+cards+'</div><p class="screen-only"><a href="../README.md">返回资料目录</a> · <a href="../../papers/html/index.html">历年真题</a></p>'))
+ (OUT/'index.html').write_text(shell('2027考研政治冲刺8套卷 · 思想政治理论','<header><h1>2027考研政治冲刺8套卷</h1><p class="subtitle">思想政治理论 · 共 8 套</p></header><p>沿用真题考场版式，保留完整题目与材料。选择一套开始作答，也可直接打印。</p><div class="years">'+cards+'</div><p class="screen-only"><a href="../README.md">返回资料目录</a></p>'))
  rows=[verify(n,allq[n]) for n in range(1,9)]
- report={'template':'tools/papers/exam.css + tools/papers/exam.js','font_families_unchanged':True,'ink':'#000','body_weight':500,'screen_body_px':16,'print_body_pt':11,'artificial_stroke':False,'papers':rows,'total_questions':304,'total_option_labels':1056,'total_analysis_questions':40}
+ report={'template':'x8/scripts/reference-exam.css + x8/scripts/exam.js','font_families_unchanged':True,'ink':'#000','body_weight':500,'screen_body_px':16,'print_body_pt':11,'artificial_stroke':False,'papers':rows,'total_questions':304,'total_option_labels':1056,'total_analysis_questions':40}
  (X8/'scripts/html-verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
  print('Built 8 standalone HTML papers: 304 questions, 1056 options; exact text round-trip passed.')
 if __name__=='__main__':build()
