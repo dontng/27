@@ -2,12 +2,10 @@
   "recorded_on": "2026-11-17",
   "paper": "x8-02",
   "source_pdf": "x8/records/x8-02-done.pdf",
-  "source_commit": "fd12d32a968b3e3311abf40349c8e8f78365540b",
-  "git_blob_sha": "335d7c80a90ac5a8521137dfcb6fd89270504bd4",
-  "sha256": "402c77659b86bd816fba641330f393f85490cb50e65ed601bec8584d695cbbb5",
-  "bytes": 13398005,
-  "pages": 9,
-  "method": "逐页目视核对第1至6页手写选择题，放大核对第2、18、30题；第7至9页分析题未作答，不计入选择题评分；保留原PDF不裁剪。答案同时对照keys.json与x8-02-key.png。",
+  "sha256": "7966f0ce1fab95173f53a9b26153432128844e21855f31d48743aa6805b1931f",
+  "bytes": 9066334,
+  "pages": 6,
+  "method": "保留第1~6页选择题（裁掉第7~9页未作答分析题），目视核对第1~6页手写选项与旁批，结合x8/answers/keys.json正式参考答案校准",
   "official_answer_key_path": "x8/answers/keys.json",
   "official_score": {
     "single_right": 6,
@@ -17,15 +15,7 @@
     "score": 18,
     "max_score": 50
   },
-  "transcription_notes": [
-    "Q2：D划掉，最终C；即使读为D也不改变得分，正式答案A。",
-    "Q18：AB。",
-    "Q27：ACD，漏B。",
-    "Q30：ABCD，D紧贴题号。",
-    "Q31：ACD，非ABCD。"
-  ],
-  "limits": [
-    "不能从卷面直接认定疲劳、粗心、蒙对或具体心理过程。",
-    "本次按所提供试卷与正式答案评分，不将卷中时政表述视为已独立核验的现实事实。"
+  "corrections_from_previous_transcript": [
+    "Q31：卷面左侧手写实为ABCD（非ACD），对照官方答案ABC为多选D（向末端治理转变）计0分。"
   ]
 }
