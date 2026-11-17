@@ -2,16 +2,16 @@
 
 八套试卷从《27肖八试题-完整版.pdf》（82页）按整页拆分，未裁正文、未重绘。正式识别结果使用 Markdown；逐页 OCR 和校验数据在 `scripts/_work/` 内保留。
 
-| 套卷 | 原完整版页码 | 页数 | 排版 PDF | 题目 Markdown |
-| --- | --- | --- | --- | --- |
-| 第一套 | 1—10 | 10 | [x8-01.pdf](pdf/x8-01.pdf) | [x8-01.md](md/x8-01.md) |
-| 第二套 | 11—20 | 10 | [x8-02.pdf](pdf/x8-02.pdf) | [x8-02.md](md/x8-02.md) |
-| 第三套 | 21—31 | 11 | [x8-03.pdf](pdf/x8-03.pdf) | [x8-03.md](md/x8-03.md) |
-| 第四套 | 32—41 | 10 | [x8-04.pdf](pdf/x8-04.pdf) | [x8-04.md](md/x8-04.md) |
-| 第五套 | 42—51 | 10 | [x8-05.pdf](pdf/x8-05.pdf) | [x8-05.md](md/x8-05.md) |
-| 第六套 | 52—62 | 11 | [x8-06.pdf](pdf/x8-06.pdf) | [x8-06.md](md/x8-06.md) |
-| 第七套 | 63—72 | 10 | [x8-07.pdf](pdf/x8-07.pdf) | [x8-07.md](md/x8-07.md) |
-| 第八套 | 73—82 | 10 | [x8-08.pdf](pdf/x8-08.pdf) | [x8-08.md](md/x8-08.md) |
+| 套卷 | 原完整版页码 | 页数 | 排版 PDF | 题目 Markdown | 选择题解析 |
+| --- | --- | --- | --- | --- | --- |
+| 第一套 | 1—10 | 10 | [x8-01.pdf](pdf/x8-01.pdf) | [x8-01.md](md/x8-01.md) | [x8-01-answer.md](md/x8-01-answer.md) |
+| 第二套 | 11—20 | 10 | [x8-02.pdf](pdf/x8-02.pdf) | [x8-02.md](md/x8-02.md) | [x8-02-answer.md](md/x8-02-answer.md) |
+| 第三套 | 21—31 | 11 | [x8-03.pdf](pdf/x8-03.pdf) | [x8-03.md](md/x8-03.md) | [x8-03-answer.md](md/x8-03-answer.md) |
+| 第四套 | 32—41 | 10 | [x8-04.pdf](pdf/x8-04.pdf) | [x8-04.md](md/x8-04.md) | [x8-04-answer.md](md/x8-04-answer.md) |
+| 第五套 | 42—51 | 10 | [x8-05.pdf](pdf/x8-05.pdf) | [x8-05.md](md/x8-05.md) | [x8-05-answer.md](md/x8-05-answer.md) |
+| 第六套 | 52—62 | 11 | [x8-06.pdf](pdf/x8-06.pdf) | [x8-06.md](md/x8-06.md) | [x8-06-answer.md](md/x8-06-answer.md) |
+| 第七套 | 63—72 | 10 | [x8-07.pdf](pdf/x8-07.pdf) | [x8-07.md](md/x8-07.md) | [x8-07-answer.md](md/x8-07-answer.md) |
+| 第八套 | 73—82 | 10 | [x8-08.pdf](pdf/x8-08.pdf) | [x8-08.md](md/x8-08.md) | [x8-08-answer.md](md/x8-08-answer.md) |
 
 八份排版 PDF 和八份同名 Markdown 均已完成（原扫描件 `PDF/` 已移除，保留在 git 历史中）。每套38题（单选16题、多选17题、材料分析5题），共304题。原题、选项、材料和设问全部保留，不新增答案或解析。八套均已完成第一轮逐页内容校订，以及第二轮全文差异复核与原图重点核对。最新结果见[第二轮复核报告](scripts/audit/round2.md)，首轮过程见[第一轮报告](scripts/audit/README.md)。校订不等于逐字零误差。
 
