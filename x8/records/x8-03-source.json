@@ -1,0 +1,34 @@
+{
+  "recorded_on": "2026-11-19",
+  "paper": "x8-03",
+  "source_pdf": "x8/records/x8-03-done.pdf",
+  "source_commit": "2885641b99e7318000c373e76ee52ee43d438a18",
+  "sha256": "fec5e50d96b89bb7a1b3fb0b8a552d9430491e051caa58b23d4e7be1e372827a",
+  "bytes": 14836251,
+  "pages": 10,
+  "reviewed_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "method": "目视核对第1～7页手写选项；第7页第33题后进入分析题。对照答案速查表截图与keys.json校准。",
+  "official_answer_key_path": "x8/answers/keys.json",
+  "official_answer_source_pdf_page": 23,
+  "official_score": {
+    "single_right": 5,
+    "single_total": 16,
+    "multiple_right": 7,
+    "multiple_total": 17,
+    "score": 19,
+    "max_score": 50
+  },
+  "transcription_notes": [
+    "Q1：题号左侧为B，题内A、C有划除记号，以B计。",
+    "Q17：题号左侧放大辨认为CD。",
+    "Q32：题号左侧为ABCD，D下方短笔迹未划过字母，按ABCD计。"
+  ]
+}

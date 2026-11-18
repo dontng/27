@@ -10,4 +10,6 @@
 
 - **第 2 套（18 / 50：单选 6/16 · 多选 6/17）**：[手写卷 PDF（前 6 页）](x8-02-done.pdf) · [复盘报告](x8-02-review.md) · [逐题核对 CSV](x8-02-answers.csv) · [来源校验](x8-02-source.json)
 
+- **第 3 套（19 / 50：单选 5/16 · 多选 7/17）**：[手写卷 PDF（选择题第 1～7 页）](x8-03-done.pdf) · [复盘报告](x8-03-review.md) · [逐题核对 CSV](x8-03-answers.csv) · [来源校验](x8-03-source.json)
+
 > 约定：以后刷完一套，直接将带手写痕迹的 `x8-NN-done.pdf` 放入本目录，即按正式答案生成对应的 `x8-NN-review.md` 与 `x8-NN-answers.csv`，不再嵌套 `round-01` 子目录。
