@@ -1,0 +1,36 @@
+{
+  "recorded_on": "2026-11-21",
+  "paper": "x8-04",
+  "source_pdf": "x8/records/x8-04-done.pdf",
+  "source_upload_name": "x8-04.pdf",
+  "sha256": "15cafdf231a667e122db2ff1b61bb193bd5b42dfda04ea342128b591a7b9f067",
+  "bytes": 13899258,
+  "pages": 10,
+  "reviewed_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "method": "目视核对第1～7页题号左侧手写选项，放大复核重叠笔迹；按答案速查表截图与 keys.json 校准。计分范围为第1～33题。",
+  "official_answer_key_path": "x8/answers/keys.json",
+  "official_answer_source_pdf_page": 35,
+  "official_score": {
+    "single_right": 10,
+    "single_total": 16,
+    "multiple_right": 7,
+    "multiple_total": 17,
+    "score": 24,
+    "max_score": 50
+  },
+  "transcription_notes": [
+    "Q1：以题号旁D计分，选项正文中的B、C划线按阅读标记处理。",
+    "Q12：题号左侧为闭合笔迹，放大读作D。",
+    "Q18、Q23：题号左侧放大均读作AB。",
+    "Q30：C跨进题号区域，读作ABC。Q31、Q32的D均与题号部分重叠，读作ABCD。"
+  ],
+  "source_commit": "cc117860ed7753682472ed762872bf1bce7caddc"
+}
