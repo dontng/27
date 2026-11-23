@@ -21,7 +21,7 @@
 
 ## 材料分析题
 
-[查看分卷作答与参考解析](analysis-writing/README.md)。按第 34—38 题保留初答、参考要点与考场写法。
+[**马原 34 题一页通关表**](analysis-writing/q34-mayuan-sprint.md) · [**35～38 题考场保底骨架卡**](analysis-writing/q35-38-playbook.md) · [分析题总入口与 8 套对照稿](analysis-writing/README.md)。每天 5 分钟练 34 题秒认原理，35～38 题只抓保底骨架与采分词（背诵主战场留给 12 月肖四）。
 
 ## 本人刷题记录
 
