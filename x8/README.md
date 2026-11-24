@@ -21,7 +21,7 @@
 
 ## 材料分析题
 
-[**马原 34 题一页通关表**](analysis-writing/q34-mayuan-sprint.md) · [**35～38 题考场保底骨架卡**](analysis-writing/q35-38-playbook.md) · [分析题总入口与 8 套对照稿](analysis-writing/README.md)。每天 5 分钟练 34 题秒认原理，35～38 题只抓保底骨架与采分词（背诵主战场留给 12 月肖四）。
+[分析题总入口与 4 行框模具](analysis-writing/README.md) · 按题位 5 份完整通关手册：[**34 马原**](analysis-writing/q34.md) · [**35 新思想**](analysis-writing/q35.md) · [**36 史纲**](analysis-writing/q36.md) · [**37 思法**](analysis-writing/q37.md) · [**38 当代**](analysis-writing/q38.md)（每份均含本题位 8 套总表、保底骨架与折叠盲练）。
 
 ## 本人刷题记录
 

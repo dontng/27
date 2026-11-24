@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Build the five cross-paper views of the Xiao 8 analysis questions."""
+"""Build the five cross-paper views of the Xiao 8 analysis questions.
+
+Each q34.md..q38.md file keeps its hand-crafted subject playbook above
+`<!-- AUTO-GENERATED-SETS-START -->`, while the 8-paper collapsible practice
+sections below the marker are generated from `x8/md/x8-01..08.md` and
+`x8/analysis-writing/x8-01..08.md`.
+"""
 
 import argparse
 import re
@@ -8,6 +14,7 @@ from pathlib import Path
 
 X8 = Path(__file__).resolve().parents[1]
 WRITING = X8 / "analysis-writing"
+MARKER = "<!-- AUTO-GENERATED-SETS-START -->"
 SUBJECTS = {
     34: "马原",
     35: "新思想",
@@ -35,14 +42,27 @@ def read_sections(path, heading_pattern):
     return sections
 
 
+def read_playbook_header(path, number, subject):
+    if path.is_file():
+        text = path.read_text(encoding="utf-8")
+        if MARKER in text:
+            return text.split(MARKER, 1)[0].rstrip()
+    return (
+        f"# 肖八第 {number} 题 · {subject}（八套通关与对照）\n\n"
+        "[返回分析题目录](README.md)\n\n"
+        "展开原卷材料，读完两问并列出要点，再展开分卷作答核对。"
+    )
+
+
 def build_views():
     views = {
         number: [
-            f"# 肖八第 {number} 题 · {subject}（八套对照）\n\n"
-            "<!-- 由 x8/scripts/build_analysis_by_question.py 生成，请修改对应的原卷或分卷作答。 -->\n\n"
-            "[返回分析题目录](README.md)\n\n"
-            "展开原卷材料，读完两问并列出要点，再展开分卷作答核对。\n\n"
-            + " · ".join(f"[第 {paper} 套](#第-{paper}-套)" for paper in range(1, 9))
+            read_playbook_header(WRITING / f"q{number}.md", number, subject),
+            f"{MARKER}\n\n"
+            "<!-- 以下八套对照区由 x8/scripts/build_analysis_by_question.py 自动生成，请修改对应的原卷或分卷作答。 -->\n\n"
+            "## 八套逐卷盲练与 4 行框核对\n\n"
+            "先读设问 → 展开原卷材料 → 按 4 行框列要点 → 再展开核对。\n\n"
+            + " · ".join(f"[第 {paper} 套](#第-{paper}-套)" for paper in range(1, 9)),
         ]
         for number, subject in SUBJECTS.items()
     }
@@ -66,14 +86,14 @@ def build_views():
             title = heading.split(" · ", 1)[1].split("｜", 1)[0]
             prompts = re.sub(r"[ \t]*\n(?=\*\*（2）\*\*)", "\n\n", prompts.strip())
             views[number].append(
-                f"## 第 {paper} 套\n\n"
+                f"### 第 {paper} 套\n\n"
                 f"**{title}** · "
                 f"[原卷第 {number} 题](../md/{filename}#第-{number}-题) · "
                 f"[分卷作答]({filename}) · 参考答案 {page[1]}\n\n"
                 "<details>\n<summary>展开原卷材料</summary>\n\n"
                 f"{material.strip()}\n\n</details>\n\n"
                 f"**设问：**\n\n{prompts}\n\n"
-                "<details>\n<summary>展开两问作答与防丢分提醒</summary>\n\n"
+                "<details>\n<summary>展开两问 4 行框作答与防丢分提醒</summary>\n\n"
                 f"{answer}\n\n</details>"
             )
 
